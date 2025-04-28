@@ -1,0 +1,857 @@
+{
+  "recipes": [
+    {
+      "id": "fkslg94pcrkeon",
+      "name": "Besan Ki Barfi (Gram Flour Fudge)",
+      "url": "https://www.vegrecipesofindia.com/besan-barfi-recipe/",
+      "ingredients": [
+        "200 grams sugar",
+        "1 teaspoon cardamom powder",
+        "200-210 grams besan (gram flour)",
+        "125 grams desi ghee (clarified butter)",
+        "6 green cardamoms, powdered (or 1 teaspoon pre-ground cardamom powder)",
+        "5 almonds, sliced or chopped",
+        "5 cashews, sliced or chopped",
+        "1 tablespoon melon seeds (magaz, optional)",
+        "Ghee for greasing the pan"
+      ],
+      "directions": [
+        "Step 1: Prepare the pan. Grease a pan or tray generously with ghee. Alternatively, line the pan with parchment paper or aluminum foil and grease the lining.",
+        "Step 2: Roast the besan. In a heavy-bottomed pan or kadai, melt 125g desi ghee over low heat. Add the besan in two batches, stirring continuously to prevent burning.",
+        "Step 3: Continue roasting. Stir constantly until the besan absorbs the ghee, thickens, and forms a lump. Continue stirring and scraping the bottom of the pan to ensure even roasting.",
+        "Step 4: Check for doneness. The besan is ready when it releases ghee, turns golden brown, and has a nutty aroma. This may take 15-20 minutes. Remove from heat and stir in the cardamom powder.",
+        "Step 5: Make the sugar syrup. In a separate saucepan, combine the sugar and \u00bd cup water. Cook over medium heat, stirring until the sugar dissolves.",
+        "Step 6: Check syrup consistency. Continue boiling the syrup until it reaches a two-thread consistency. To test, drop a few drops of syrup onto a plate; let it cool slightly, then touch it with your finger. If it forms two thin threads, it's ready.",
+        "Step 7: Combine syrup and besan. Quickly pour the hot sugar syrup into the roasted besan mixture and stir vigorously until well combined. The mixture will thicken rapidly.",
+        "Step 8: Set the barfi. Pour the mixture into the prepared pan and spread evenly with a spatula. Sprinkle the chopped almonds, cashews, and melon seeds over the top and press gently.",
+        "Step 9: Cool and cut. Let the barfi cool and set until warm. Cut into squares or diamonds while still slightly warm.",
+        "Step 10: Store. Store the besan barfi in an airtight container at room temperature for up to a week."
+      ],
+      "duration": "30 m",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-m.webp",
+      "nutrition": {
+        "calories": "253 per serving",
+        "protein": "6 grams per serving",
+        "carbs": "31 grams per serving",
+        "fat": "13 grams per serving",
+        "fiber": "Not specified",
+        "sugar": "Not specified",
+        "sodium": "Not specified"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a styled shot of Besan Ki Barfi slices arranged artfully on a rustic wooden board, dusted with powdered cardamom. Use warm, directional light to highlight the fudge's golden texture and the glistening ghee.  A shallow depth of field focuses on a foreground slice, garnished with almond and cashew slivers. Incorporate a dark, moody background with a subtle vignette, emphasizing the rich, earthy tones.  A sprinkle of melon seeds adds visual interest. Compose from a slightly overhead angle to showcase both the top and textured sides of the barfi.",
+      "image_filepath": "recipe_fkslg94pcrkeon/main_image",
+      "video_script": {
+        "title": "Besan Ki Barfi: A Sweet Treat from India",
+        "description": "Learn to make delicious Besan Ki Barfi, a classic Indian fudge made with gram flour, ghee, and sugar. This easy-to-follow recipe will guide you through each step, from roasting the besan to achieving the perfect two-thread sugar syrup. Get ready to impress your friends and family with this delightful dessert!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a diamond-shaped Besan Ki Barfi piece on a plate, garnished with sliced almonds and cashews. The barfi has a golden brown color and a slightly crumbly texture. In the background, a full plate of barfi is visible.",
+            "text": "Besan Ki Barfi",
+            "voice_over": "Welcome! Today, we're making Besan Ki Barfi, a melt-in-your-mouth Indian sweet treat. It's incredibly delicious and easier to make than you think.",
+            "scene_image_filename": "recipe_fkslg94pcrkeon/scene_1",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients arranged neatly on a wooden table: a bowl of besan, a jar of ghee, a bowl of sugar, a bowl of cardamom powder, and a small bowl with chopped nuts and melon seeds.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: besan (gram flour), ghee, sugar, cardamom powder, and some nuts for garnish \u2013 almonds, cashews, and optional melon seeds.",
+            "scene_image_filename": "recipe_fkslg94pcrkeon/scene_2",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A heavy-bottomed pan with ghee and two batches of besan is shown. One batch is being stirred in after another, while a wooden spatula is used to prevent burning and clumping on the bottom of the pan.",
+            "text": "Roast the Besan",
+            "voice_over": "In a pan, melt the ghee over low heat. Add the besan in two batches, stirring continuously.  This prevents burning and ensures even roasting.",
+            "scene_image_filename": "recipe_fkslg94pcrkeon/scene_3",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 7,
+            "image_prompt": "Close-up of besan being roasted in ghee. The besan is turning golden brown and a nutty aroma is rising from the pan. The mixture is starting to thicken and form a lump.",
+            "text": "Golden Brown & Nutty",
+            "voice_over": "Keep stirring for about 15-20 minutes until the besan turns golden brown, releases ghee, and has a delicious nutty aroma.  Stir in the cardamom powder and remove from heat.",
+            "scene_image_filename": "recipe_fkslg94pcrkeon/scene_4",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A saucepan on medium heat with sugar and water, being stirred until the sugar dissolves. ",
+            "text": "Sugar Syrup",
+            "voice_over": "In another pan, combine sugar and water. Cook over medium heat, stirring until the sugar dissolves completely.",
+            "scene_image_filename": "recipe_fkslg94pcrkeon/scene_5",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Close-up of sugar syrup dropping from a spoon back into the pan. The syrup forms two thin threads, indicating it has reached the two-thread consistency.",
+            "text": "Two-Thread Consistency",
+            "voice_over": "Boil the syrup until it reaches a two-thread consistency.  To test, drop a few drops onto a plate.  If it forms two thin threads when touched with your finger, it's ready.",
+            "scene_image_filename": "recipe_fkslg94pcrkeon/scene_6",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The hot sugar syrup being poured into the roasted besan mixture. A spatula is vigorously mixing the two together, forming a thick, smooth mixture.",
+            "text": "Combine & Mix",
+            "voice_over": "Quickly pour the hot syrup into the besan mixture and stir vigorously until well combined. It will thicken quickly.",
+            "scene_image_filename": "recipe_fkslg94pcrkeon/scene_7",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The barfi mixture being poured into a greased pan and spread evenly with a spatula. Chopped almonds, cashews, and melon seeds are sprinkled on top.",
+            "text": "Set & Garnish",
+            "voice_over": "Pour the mixture into the greased pan and spread evenly. Garnish with almonds, cashews, and melon seeds.",
+            "scene_image_filename": "recipe_fkslg94pcrkeon/scene_8",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The besan barfi, cut into diamond shapes, arranged on a serving plate. Some pieces are garnished with nuts.",
+            "text": "Cool, Cut & Serve",
+            "voice_over": "Let it cool until warm, then cut into desired shapes. Store in an airtight container at room temperature.",
+            "scene_image_filename": "recipe_fkslg94pcrkeon/scene_9",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A plate of Besan Ki Barfi served with a cup of chai (Indian tea). The background shows a warm, inviting setting.",
+            "text": "Enjoy!",
+            "voice_over": "Your delicious Besan Ki Barfi is ready! Enjoy it with a cup of chai or as a delightful after-dinner dessert.",
+            "scene_image_filename": "recipe_fkslg94pcrkeon/scene_10",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkslg94pcrkeon-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Gram flour",
+        "Ghee",
+        "Sugar",
+        "Cardamom",
+        "Almonds",
+        "Cashews",
+        "Melon seeds"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Holiday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Use a heavy-bottomed pan to prevent scorching.",
+        "Roast the besan thoroughly for the best flavor.",
+        "Stir the sugar syrup constantly to prevent crystallization.",
+        "Cut the barfi while still warm for clean edges."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/barfi/recipe_fkslg94pcrkeon/fkslg94pcrkeon_main_image.jpg"
+    },
+    {
+      "id": "fkstojnd3ct3qn",
+      "name": "Khoya Barfi (Indian Milk Fudge)",
+      "url": "https://www.vegrecipesofindia.com/barfi-recipe-quick-khoya-barfi/",
+      "ingredients": [
+        "250 grams khoya (mawa or dried evaporated milk solids), crumbled",
+        "5 tablespoons sugar",
+        "3-4 green cardamoms, powdered",
+        "12-15 pistachios, finely chopped",
+        "12-15 almonds, finely chopped",
+        "12-15 strands saffron (optional)",
+        "1-1.5 teaspoons milk (optional)",
+        "\u00bd-\u00be teaspoon ghee, for greasing"
+      ],
+      "directions": [
+        "Step 1: Crumble the khoya into a fine texture.",
+        "Step 2: If using saffron, dissolve the strands in 1 to 1.5 teaspoons of milk in a small bowl.",
+        "Step 3: Grease a tray or small baking pan with ghee. Line with parchment paper for easier removal.",
+        "Step 4: Place the crumbled khoya in a thick-bottomed pan.",
+        "Step 5: Cook over low heat for 2-3 minutes, stirring frequently.",
+        "Step 6: Remove from heat and add the sugar. Stir until combined.",
+        "Step 7: Return the pan to low heat. The mixture will become smooth and slightly thin as the sugar melts.",
+        "Step 8: Continue cooking and stirring frequently for about 8-9 minutes, or until the mixture thickens and starts to leave the sides of the pan.",
+        "Step 9: Add the chopped almonds, pistachios, and cardamom powder. Stir to combine.",
+        "Step 10: Remove from heat and pour the mixture into the prepared pan.",
+        "Step 11: Spread evenly to a thickness of about 1 inch.",
+        "Step 12: If using saffron, drizzle the saffron-infused milk over the barfi.",
+        "Step 13: Let the barfi cool completely before cutting into squares or diamonds.",
+        "Step 14: Serve immediately or store in an airtight container in the refrigerator for up to 4-5 days."
+      ],
+      "duration": "20 m",
+      "serves": "14",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-m.webp",
+      "nutrition": {
+        "calories": "100 per serving",
+        "protein": "4 grams per serving",
+        "carbs": "10 grams per serving",
+        "fat": "5 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "5 grams per serving",
+        "sodium": "0 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a styled image of diamond-shaped Khoya Barfi on a rustic wooden board, garnished with chopped pistachios and almonds. Use a slightly overhead angle, focusing on the front pieces with a shallow depth of field. Soft, diffused natural light should highlight the fudge's creamy texture and golden hue. Incorporate a few saffron strands and a small brass bowl of pistachios as props. The mood should be warm, inviting, and subtly luxurious.  Include negative space for text placement.",
+      "image_filepath": "recipe_fkstojnd3ct3qn/main_image",
+      "video_script": {
+        "title": "Khoya Barfi: Melt-in-Your-Mouth Indian Milk Fudge",
+        "description": "Learn how to make delicious Khoya Barfi, a classic Indian sweet, with this easy-to-follow recipe. This creamy and flavorful fudge is perfect for celebrations and everyday enjoyment.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a plate of beautifully arranged diamond-shaped Khoya Barfi garnished with chopped pistachios and almonds. The barfi has a rich, creamy texture and a light golden color.",
+            "text": "Khoya Barfi",
+            "voice_over": "Welcome! Today, we're making Khoya Barfi, a rich and decadent Indian milk fudge that's incredibly easy to make.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_1",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: crumbled khoya, sugar, cardamom pods, chopped pistachios, chopped almonds, saffron strands (optional), and a small bowl of milk.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: 250 grams of crumbled khoya, 5 tablespoons of sugar, 3-4 green cardamoms, 12-15 chopped pistachios, 12-15 chopped almonds, a pinch of saffron (optional), and a teaspoon or two of milk if using saffron.  A little ghee for greasing the pan too.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_2",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of hands crumbling the khoya into a fine texture in a bowl.",
+            "text": "Crumble the Khoya",
+            "voice_over": "First, crumble the khoya into a fine texture. This will ensure even cooking and a smooth barfi.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_3",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Saffron strands being dissolved in a small bowl of warm milk.",
+            "text": "Infuse Saffron (Optional)",
+            "voice_over": "If using saffron, dissolve the strands in about a teaspoon of warm milk.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_4",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A thick-bottomed pan being greased with ghee and lined with parchment paper.",
+            "text": "Grease & Prep",
+            "voice_over": "Grease a tray or pan with ghee and line it with parchment paper. This will make it easier to remove the barfi later.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_5",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "Crumbled khoya being cooked in a pan over low heat, with a spatula stirring constantly.",
+            "text": "Cook the Khoya",
+            "voice_over": "Place the crumbled khoya in a thick-bottomed pan and cook over low heat for 2-3 minutes, stirring frequently to prevent burning.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_6",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "Sugar being added to the cooked khoya and stirred until combined.",
+            "text": "Add Sugar",
+            "voice_over": "Remove the pan from heat and add the sugar. Stir until well combined.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_7",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 7,
+            "image_prompt": "The khoya and sugar mixture being cooked over low heat, stirring continuously, until it thickens and leaves the sides of the pan.",
+            "text": "Cook & Thicken",
+            "voice_over": "Return the pan to low heat and continue cooking for 8-9 minutes, stirring constantly.  The mixture will thicken and begin to leave the sides of the pan.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_8",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Chopped almonds, pistachios, and cardamom powder being added to the thickened khoya mixture.",
+            "text": "Add Nuts & Spice",
+            "voice_over": "Add the chopped almonds, pistachios, and cardamom powder. Stir well to distribute evenly.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_9",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "The barfi mixture being poured into the prepared pan and spread evenly.",
+            "text": "Set & Cool",
+            "voice_over": "Pour the mixture into the prepared pan and spread it evenly to about 1 inch thick. Drizzle with the saffron milk, if using.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_10",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "The set and cooled barfi being cut into diamond shapes.",
+            "text": "Cut & Serve",
+            "voice_over": "Let the barfi cool completely before cutting into squares or diamonds. Store in an airtight container in the refrigerator for up to 5 days.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_11",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          },
+          {
+            "scene_number": 12,
+            "duration": 5,
+            "image_prompt": "Close-up of a plate of Khoya Barfi, garnished and ready to serve, with a cup of tea or coffee in the background.",
+            "text": "Enjoy!",
+            "voice_over": "Enjoy your homemade Khoya Barfi! It's a perfect treat with a cup of chai or coffee.  Each serving has approximately 100 calories, 4g of protein, 10g of carbs and 5g of fat.",
+            "scene_image_filename": "recipe_fkstojnd3ct3qn/scene_12",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fkstojnd3ct3qn-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 30,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Khoya",
+        "Sugar",
+        "Cardamom",
+        "Pistachios",
+        "Almonds",
+        "Saffron",
+        "Milk",
+        "Ghee"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Holiday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Use good quality khoya for best results.",
+        "Adjust the amount of sugar according to your preference.",
+        "Do not overcook the barfi, as it can become chewy.",
+        "Allow the barfi to cool completely before cutting to prevent it from crumbling."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/barfi/recipe_fkstojnd3ct3qn/fkstojnd3ct3qn_main_image.jpg"
+    },
+    {
+      "id": "fks1qs69i1slfd",
+      "name": "Cashew Fudge (Kaju Barfi)",
+      "url": "https://www.vegrecipesofindia.com/kaju-katli-recipe-kaju-katli/",
+      "ingredients": [
+        "1 cup (160 grams) whole cashews, at room temperature",
+        "\u00bd cup (100 grams) granulated sugar",
+        "5 tablespoons water",
+        "1 tablespoon ghee, coconut oil, or neutral-tasting oil (optional)",
+        "1 teaspoon chopped rose petals, 1 teaspoon rose water, or 8-9 strands saffron (optional)"
+      ],
+      "directions": [
+        "Step 1: Finely grind the cashews in a coffee grinder, blender, or dry grinder to a powder. Ensure the cashews do not become pasty or oily.",
+        "Step 2: In a thick-bottomed or non-stick pan or kadai, combine the sugar and water. Heat over low flame until the sugar dissolves completely.",
+        "Step 3: While the sugar dissolves, grease a plate or tray. Alternatively, prepare parchment paper.",
+        "Step 4: Once the sugar has dissolved, add the powdered cashews to the pan.",
+        "Step 5: Stir the cashew mixture continuously over low flame for 7-9 minutes, or until the mixture thickens and comes together as a dough.",
+        "Step 6: Remove the cashew dough from the pan and place it on a clean work surface, bowl, or plate. Add the ghee/oil and rose petals/rose water/saffron (if using).",
+        "Step 7: When the dough is cool enough to handle, knead it lightly.",
+        "Step 8: Place the dough on a piece of parchment paper or greased surface. Cover with another piece of parchment paper and roll it out to a thickness of 3-5 mm.",
+        "Step 9: Remove the top parchment paper and let the rolled dough cool completely.",
+        "Step 10: Once cooled, cut the cashew dough into square or diamond shapes using a sharp knife.",
+        "Step 11: Carefully remove the kaju barfi pieces using a butter knife or spatula.",
+        "Step 12: Serve immediately or store in an airtight container."
+      ],
+      "duration": "20 m ",
+      "serves": "14",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-m.webp",
+      "nutrition": {
+        "calories": "87 per serving",
+        "protein": "2 grams per serving",
+        "carbs": "10 grams per serving",
+        "fat": "5 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "8 grams per serving",
+        "sodium": "10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stack of diamond-shaped cashew fudge (kaju barfi) pieces on a rustic wooden board, garnished with a sprinkle of chopped rose petals and a few whole cashews. Use a shallow depth of field to focus on the front piece, highlighting its smooth texture and creamy off-white color. Soft, diffused natural light from the side should create gentle shadows and emphasize the glistening ghee. Incorporate a subtly patterned, dark background to create contrast and a luxurious mood. Shoot from a slightly elevated angle to showcase the layered structure and delicate garnish.",
+      "image_filepath": "recipe_fks1qs69i1slfd/main_image",
+      "video_script": {
+        "title": "Easy Cashew Fudge (Kaju Barfi)",
+        "description": "Learn how to make delicious and melt-in-your-mouth Cashew Fudge (Kaju Barfi) with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a plate of beautifully cut Kaju Barfi, some dusted with chopped pistachios, others garnished with a silver leaf. The background is slightly blurred, emphasizing the barfi.",
+            "text": "Cashew Fudge (Kaju Barfi)",
+            "voice_over": "Welcome! Today, we're making Kaju Barfi, a classic Indian sweet that's incredibly rich and flavorful.  It's easier than you think, so let's get started!",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_1",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients arranged neatly on a wooden surface: whole cashews, granulated sugar, a small bowl of water, a small bowl of ghee/coconut oil, a small bowl of chopped rose petals/rose water/saffron.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one cup of whole cashews, half a cup of sugar, five tablespoons of water, one tablespoon of ghee or coconut oil, and optionally, rose petals, rose water, or saffron for flavor and garnish.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_2",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Cashews being ground in a coffee grinder, blender, or dry grinder to a fine powder. Zoom in to show the texture of the powder.",
+            "text": "Grind Cashews",
+            "voice_over": "First, grind the cashews into a fine powder. Be careful not to over-grind, as this can release their oils and make the barfi sticky.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_3",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Sugar and water in a pan on the stove, sugar dissolving, stirring motion. The pan is on a low flame.",
+            "text": "Sugar Syrup",
+            "voice_over": "In a pan, combine sugar and water over low heat. Stir until the sugar dissolves completely to create a smooth syrup.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_4",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 7,
+            "image_prompt": "Cashew powder being added to the sugar syrup and stirred constantly. The mixture starts to thicken and come together.",
+            "text": "Combine & Cook",
+            "voice_over": "Add the cashew powder to the sugar syrup. Keep stirring continuously over low flame for about 7-9 minutes until it forms a dough-like consistency.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_5",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The cashew dough being kneaded lightly on a clean surface after the addition of ghee and rose petals/rose water/saffron. The dough is cooling but still pliable.",
+            "text": "Knead Dough",
+            "voice_over": "Remove from heat and transfer the dough to a clean surface. Add the ghee and rose petals/rose water/saffron, if using.  Knead lightly when it's cool enough to handle.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_6",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Rolling out the cashew dough between two pieces of parchment paper to a thickness of 3-5 mm.",
+            "text": "Roll & Shape",
+            "voice_over": "Place the dough between parchment paper and roll it out evenly to a thickness of about 3-5 millimeters.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_7",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Cutting the cooled cashew dough into diamond or square shapes using a sharp knife.",
+            "text": "Cut & Serve",
+            "voice_over": "Once cooled, cut into desired shapes, squares or diamonds, and carefully remove the pieces.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_8",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The finished Kaju Barfi arranged on a serving plate, garnished with chopped pistachios and silver leaf, alongside a small bowl of chopped cashews and a cup of chai.",
+            "text": "Enjoy!",
+            "voice_over": "Your delicious Kaju Barfi is ready! Store in an airtight container or enjoy immediately, perfect with a cup of tea.  Each serving has approximately 87 calories.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_9",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 35,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Cashews",
+        "Sugar",
+        "Ghee",
+        "Rose"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Holiday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the cashews are at room temperature for optimal grinding.",
+        "Do not overgrind the cashews, as they might release oil and become pasty.",
+        "Stir the cashew mixture constantly to prevent burning.",
+        "Adjust the sweetness by increasing or decreasing the sugar quantity.",
+        "Use a sharp knife to cut the barfi into neat shapes."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/barfi/recipe_fks1qs69i1slfd/fks1qs69i1slfd_main_image.jpg"
+    },
+    {
+      "id": "71lgpkaatc61m",
+      "name": "Coconut Jaggery Barfi",
+      "url": "http://www.food.com/recipe/coconut-jaggery-barfi-153140",
+      "ingredients": [
+        "3 tablespoons cashew nuts, chopped",
+        "2 cups jaggery, crumbled",
+        "2 cups unsweetened desiccated coconut",
+        "1/4 cup milk",
+        "1/2 cup ghee",
+        "1 teaspoon ground cardamom",
+        "1/2 teaspoon salt"
+      ],
+      "directions": [
+        "Step 1: In a small pan, toast the chopped cashew nuts in 1 teaspoon of ghee until lightly golden. Set aside.",
+        "Step 2: In a medium saucepan over low heat, combine the crumbled jaggery and desiccated coconut. Cook, stirring constantly, until the jaggery melts and blends with the coconut, ensuring the coconut does not burn.",
+        "Step 3: Add the milk to the jaggery-coconut mixture and stir until well combined.",
+        "Step 4: Add the remaining ghee, ground cardamom, salt, and toasted cashews to the saucepan. Cook, stirring frequently, until the mixture thickens slightly, becomes pliable, and begins to pull away from the sides of the pan.",
+        "Step 5: Grease a shallow pan or dish. Pour the mixture into the prepared pan and spread it evenly.",
+        "Step 6: Refrigerate the barfi for at least 4 hours, or preferably overnight, until firm.",
+        "Step 7: Once firm, remove the barfi from the pan. To ease removal, you can place the bottom of the pan in hot water for a minute. Cut the barfi into diamond or rectangular shapes.",
+        "Step 8: Wrap the individual pieces in waxed paper or parchment paper, if desired."
+      ],
+      "duration": "25 mins",
+      "serves": "40",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/71lgpkaatc61m-m.webp",
+      "nutrition": {
+        "calories": "200 per serving",
+        "protein": "2 grams per serving",
+        "carbs": "25 grams per serving",
+        "fat": "12 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "20 grams per serving",
+        "sodium": "10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a styled overhead shot of Coconut Jaggery Barfi sliced into diamond shapes on a dark slate board.  Use soft, diffused natural light to highlight the golden brown hue and crumbly texture.  Garnish with a sprinkle of chopped cashews and a dusting of cardamom.  Shallow depth of field focusing on the foreground pieces, with a blurred background featuring a small brass bowl of jaggery and a linen napkin.  Convey a warm, inviting mood, emphasizing the rustic and homemade nature of the barfi.",
+      "image_filepath": "recipe_71lgpkaatc61m/main_image",
+      "video_script": {
+        "title": "Coconut Jaggery Barfi - Easy & Delicious Indian Sweet Treat",
+        "description": "Learn how to make this simple yet delightful Coconut Jaggery Barfi at home. This recipe uses just a few ingredients and is perfect for any occasion.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a plate of diamond-shaped Coconut Jaggery Barfi, garnished with a few cashew halves. The barfi has a rich golden brown color and a slightly chewy texture.",
+            "text": "Coconut Jaggery Barfi",
+            "voice_over": "Welcome! Today we're making Coconut Jaggery Barfi, a melt-in-your-mouth Indian sweet treat. It's easy to make and incredibly delicious.",
+            "scene_image_filename": "recipe_71lgpkaatc61m/scene_1",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/71lgpkaatc61m-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients arranged neatly on a wooden table: crumbled jaggery, desiccated coconut, chopped cashews, milk, ghee, ground cardamom, and salt.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: jaggery, desiccated coconut, cashew nuts, milk, ghee, cardamom, and a pinch of salt.",
+            "scene_image_filename": "recipe_71lgpkaatc61m/scene_2",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/71lgpkaatc61m-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of cashews being toasted in ghee in a small pan on a stovetop. The cashews are turning light golden brown.",
+            "text": "Toast Cashews",
+            "voice_over": "First, toast the chopped cashews in a teaspoon of ghee over medium heat until lightly golden. This should take about 2-3 minutes. Set them aside.",
+            "scene_image_filename": "recipe_71lgpkaatc61m/scene_3",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/71lgpkaatc61m-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Medium saucepan on a stovetop with jaggery and coconut, being stirred continuously. The jaggery is melting and mixing with the coconut.",
+            "text": "Combine Jaggery & Coconut",
+            "voice_over": "In a saucepan over low heat, combine the jaggery and desiccated coconut. Stir constantly until the jaggery melts completely and blends well with the coconut. Be careful not to burn the coconut.",
+            "scene_image_filename": "recipe_71lgpkaatc61m/scene_4",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/71lgpkaatc61m-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Milk being added to the jaggery-coconut mixture in the saucepan, stirring continuously.",
+            "text": "Add Milk",
+            "voice_over": "Once the jaggery is melted, add the milk and stir until everything is well combined.",
+            "scene_image_filename": "recipe_71lgpkaatc61m/scene_5",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/71lgpkaatc61m-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "The remaining ghee, cardamom powder, salt, and toasted cashews being added to the saucepan. The mixture is being stirred constantly.",
+            "text": "Combine & Cook",
+            "voice_over": "Now, add the remaining ghee, cardamom powder, salt, and the toasted cashews to the pan. Continue stirring until the mixture thickens slightly and starts to pull away from the sides of the pan, about 5-7 minutes.",
+            "scene_image_filename": "recipe_71lgpkaatc61m/scene_6",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/71lgpkaatc61m-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The barfi mixture being poured into a greased shallow pan and spread evenly with a spatula.",
+            "text": "Set & Refrigerate",
+            "voice_over": "Grease a shallow pan and pour the mixture into it. Spread it evenly and refrigerate for at least 4 hours, or preferably overnight, to set.",
+            "scene_image_filename": "recipe_71lgpkaatc61m/scene_7",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/71lgpkaatc61m-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The set barfi being cut into diamond shapes using a sharp knife.",
+            "text": "Cut & Serve",
+            "voice_over": "Once the barfi is firm, remove it from the pan. You can dip the bottom of the pan in hot water for easier removal. Cut the barfi into desired shapes.",
+            "scene_image_filename": "recipe_71lgpkaatc61m/scene_8",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/71lgpkaatc61m-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up of the finished Coconut Jaggery Barfi pieces, some wrapped in parchment paper, arranged on a serving plate and garnished with a few cashew halves. A cup of tea is placed beside the plate.",
+            "text": "Enjoy!",
+            "voice_over": "Your delicious Coconut Jaggery Barfi is ready! You can wrap individual pieces in parchment paper for storage. Enjoy with a cup of tea! Each serving has approximately 200 calories, 2g protein, 25g carbs, and 12g fat.",
+            "scene_image_filename": "recipe_71lgpkaatc61m/scene_9",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/71lgpkaatc61m-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Coconut",
+        "Jaggery",
+        "Cashews",
+        "Cardamom"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Holiday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Use fresh, good quality jaggery for the best flavor.",
+        "Be careful not to burn the coconut while cooking it with the jaggery.",
+        "If the mixture is too sticky, add a little more ghee to make it pliable.",
+        "For a richer flavor, roast the cashews before adding them to the mixture.",
+        "Allow the barfi to cool completely before cutting to prevent it from crumbling."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/barfi/recipe_71lgpkaatc61m/71lgpkaatc61m_main_image.jpg"
+    },
+    {
+      "id": "49cocltfstb4c",
+      "name": "Cheesy Kalakand (Milk Fudge) Squares",
+      "url": "http://www.food.com/recipe/cheesy-kalakand-barfi-squares-79173",
+      "ingredients": [
+        "4 ounces unsalted butter",
+        "14-15 ounces ricotta cheese",
+        "8 ounces white sugar",
+        "3 pods cardamom, ground",
+        "25 almonds, ground",
+        "3 cups powdered milk"
+      ],
+      "directions": [
+        "Step 1: In a small pot over medium heat, melt the unsalted butter.",
+        "Step 2: Add the ricotta cheese, sugar, ground cardamom, and ground almonds to the melted butter. Mix well with a spatula or wooden spoon.",
+        "Step 3: Gradually sprinkle the powdered milk into the mixture, stirring constantly, until it begins to solidify. The amount of powdered milk may vary depending on desired consistency (approximately 3 cups).",
+        "Step 4: Continue to cook and stir for 5 minutes, ensuring the mixture doesn't burn.",
+        "Step 5: Transfer the mixture to a well-greased square dish and refrigerate for several hours, or until firm.",
+        "Step 6: Once firm, cut into 2x2 inch squares or diamonds. Carefully remove from the dish with a spatula.",
+        "Step 7: Serve on a platter. Optionally, garnish with additional ground almonds."
+      ],
+      "duration": "15 mins",
+      "serves": "20",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-m.webp",
+      "nutrition": {
+        "calories": "250 per serving",
+        "protein": "5 grams per serving",
+        "carbs": "25 grams per serving",
+        "fat": "15 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "20 grams per serving",
+        "sodium": "10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture cheesy kalakand squares in a softly lit, rustic setting.  Arrange the golden-brown fudge on a dark wooden board, garnished with slivered almonds and a dusting of cardamom.  Use a shallow depth of field to focus on the creamy texture of a cut piece, revealing its moist interior. Shoot from a slightly elevated angle, highlighting the square shapes and showcasing a few whole cardamom pods in the background. Aim for a warm, inviting mood with gentle highlights and shadows.",
+      "image_filepath": "recipe_49cocltfstb4c/main_image",
+      "video_script": {
+        "title": "Cheesy Kalakand Squares: A Melt-in-Your-Mouth Treat",
+        "description": "Learn to make delicious and easy Cheesy Kalakand (Milk Fudge) Squares with this step-by-step video tutorial.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a plate of beautifully arranged Cheesy Kalakand squares, garnished with ground almonds. The squares should look golden and slightly soft, highlighting their melt-in-your-mouth texture.",
+            "text": "Cheesy Kalakand",
+            "voice_over": "Welcome! Today, we're making Cheesy Kalakand, a rich and creamy Indian sweet treat. It's surprisingly easy to make with just a few ingredients.",
+            "scene_image_filename": "recipe_49cocltfstb4c/scene_1",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Show all ingredients neatly arranged on a table: unsalted butter, ricotta cheese, white sugar, cardamom pods, almonds, and powdered milk.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: unsalted butter, ricotta cheese, sugar, cardamom, almonds, and powdered milk.",
+            "scene_image_filename": "recipe_49cocltfstb4c/scene_2",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A small pot on a stovetop with melted butter. Medium heat flame visible under the pot.",
+            "text": "Melt Butter",
+            "voice_over": "First, melt 4 ounces of unsalted butter in a small pot over medium heat.",
+            "scene_image_filename": "recipe_49cocltfstb4c/scene_3",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "The melted butter in the pot, ricotta cheese, sugar, ground cardamom, and ground almonds being added to it.",
+            "text": "Combine Ingredients",
+            "voice_over": "Add 14-15 ounces of ricotta cheese, 8 ounces of sugar, 3 ground cardamom pods, and 25 ground almonds to the melted butter. Mix everything well.",
+            "scene_image_filename": "recipe_49cocltfstb4c/scene_4",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 7,
+            "image_prompt": "Powdered milk being gradually added to the pot with the other ingredients, while stirring constantly.",
+            "text": "Add Powdered Milk",
+            "voice_over": "Gradually add 3 cups of powdered milk, stirring continuously to prevent lumps. The mixture will thicken as you add the milk.",
+            "scene_image_filename": "recipe_49cocltfstb4c/scene_5",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The mixture cooking in the pot, thickening visibly.  A spatula or wooden spoon stirring the mixture.",
+            "text": "Cook & Stir",
+            "voice_over": "Continue cooking and stirring for about 5 minutes, making sure it doesn't stick to the bottom or burn.",
+            "scene_image_filename": "recipe_49cocltfstb4c/scene_6",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The thickened Kalakand mixture being transferred to a greased square dish.",
+            "text": "Transfer & Set",
+            "voice_over": "Transfer the mixture to a greased square dish and spread it evenly. Refrigerate for several hours, or until firm.",
+            "scene_image_filename": "recipe_49cocltfstb4c/scene_7",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The set Kalakand being cut into squares or diamonds in the dish.",
+            "text": "Cut into Squares",
+            "voice_over": "Once the Kalakand is set, cut it into 2x2 inch squares or diamonds.",
+            "scene_image_filename": "recipe_49cocltfstb4c/scene_8",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A spatula carefully lifting a Kalakand square from the dish.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Carefully remove the Kalakand pieces from the dish. Serve on a platter and garnish with extra ground almonds, if you like.",
+            "scene_image_filename": "recipe_49cocltfstb4c/scene_9",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A final shot of the Cheesy Kalakand squares arranged on a serving platter, garnished with ground almonds. A cup of tea or coffee beside the platter suggests a serving idea.",
+            "text": "Cheesy Kalakand",
+            "voice_over": "Enjoy your delicious, homemade Cheesy Kalakand! Each serving has approximately 250 calories, 5 grams of protein, 25 grams of carbs, and 15 grams of fat.",
+            "scene_image_filename": "recipe_49cocltfstb4c/scene_10",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/49cocltfstb4c-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 25,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Ricotta Cheese",
+        "Almonds",
+        "Cardamom",
+        "Sugar",
+        "Butter",
+        "Milk"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Holiday",
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use full-fat ricotta cheese.",
+        "Adjust the amount of sugar to your preference.",
+        "If the mixture is too soft after refrigeration, add more powdered milk and cook for a few more minutes.",
+        "For a smoother texture, use finely ground almonds."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/barfi/recipe_49cocltfstb4c/49cocltfstb4c_main_image.jpg"
+    }
+  ]
+}
