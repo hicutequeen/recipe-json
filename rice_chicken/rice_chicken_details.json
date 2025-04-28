@@ -1,0 +1,2660 @@
+{
+  "recipes": [
+    {
+      "id": "4qfv0btu3pkbf",
+      "name": "Thai Chicken and Yellow Rice with Crispy Shallots (Kao Moke Gai)",
+      "url": "http://www.food.com/recipe/thai-chicken-with-crispy-shallots-in-yellow-rice-kao-moke-gai-178500",
+      "ingredients": [
+        "1 teaspoon ground cayenne pepper",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground coriander",
+        "1/2 teaspoon ground turmeric",
+        "1/2 teaspoon ground white pepper",
+        "2 1/2 teaspoons salt",
+        "6 chicken thighs (about 1 1/2 lbs total)",
+        "2 tablespoons vegetable oil",
+        "Additional vegetable oil for frying shallots",
+        "5 slices gingerroot (about the size of a US quarter)",
+        "1 tablespoon coarsely chopped garlic",
+        "1/2 cup coarsely chopped onion",
+        "2 cups jasmine rice (or long-grain white rice, not instant or parboiled)",
+        "2 3/4 cups water",
+        "1/2 cup thinly sliced shallots",
+        "1/2 cup distilled white vinegar",
+        "1/4 cup sugar",
+        "3 fresh green serrano chilies, thinly sliced",
+        "4 small cucumbers, thinly sliced",
+        "Fresh cilantro leaves, stems removed, rinsed, and dried"
+      ],
+      "directions": [
+        "1. Combine cayenne pepper, cumin, coriander, turmeric, white pepper, and 1/2 teaspoon of salt in a small bowl.",
+        "2. Rub half of the spice mixture onto the chicken thighs.",
+        "3. Heat 2 tablespoons of vegetable oil in a Dutch oven over medium-high heat.",
+        "4. Brown the chicken, skin-side down, for 8-10 minutes, turning occasionally.",
+        "5. Remove the chicken and set aside.",
+        "6. Leave about 2 tablespoons of oil in the Dutch oven, then saut\u00e9 the ginger slices for 30 seconds.",
+        "7. Add garlic and saut\u00e9 until golden brown (30-45 seconds). Deglaze with water if needed.",
+        "8. Add onion and the remaining spice mixture. Saut\u00e9 for 1 minute.",
+        "9. Add rice and toss until coated with oil. Add water and 1 1/2 teaspoons of salt. Bring to a boil, then reduce heat and simmer for 5-7 minutes.",
+        "10. Return the chicken to the pot, burying it under the rice. Add any accumulated chicken juices.",
+        "11. Cover and cook over low heat for 30 minutes.",
+        "12. While the chicken and rice cook, heat 2 inches of vegetable oil in a wok or skillet.",
+        "13. Fry the sliced shallots until golden brown. Remove and drain on paper towels.",
+        "14. Combine vinegar, sugar, and 1/2 teaspoon of salt in a bowl to make the sauce. Add chili slices.",
+        "15. Once the rice is cooked, let it rest for 15 minutes.",
+        "16. Remove the chicken from the rice, fluff the rice, and discard the ginger slices.",
+        "17. Arrange the chicken and rice on a serving platter. Garnish with cucumber slices, cilantro, and crispy shallots. Serve with the sauce."
+      ],
+      "duration": "1 hrs 15 mins",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/4qfv0btu3pkbf-m.webp",
+      "nutrition": {
+        "calories": "500 per serving",
+        "protein": "30 grams per serving",
+        "carbs": "60 grams per serving",
+        "fat": "20 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "10 grams per serving",
+        "sodium": "800 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Thai Chicken and Yellow Rice with Crispy Shallots (Kao Moke Gai) on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_4qfv0btu3pkbf/main_image",
+      "video_script": {
+        "title": "Recipe Tutorial: Thai Chicken and Yellow Rice with Crispy Shallots (Kao Moke Gai)",
+        "description": "A tutorial for making Thai Chicken and Yellow Rice with Crispy Shallots (Kao Moke Gai)",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Professional food photography of Thai Chicken and Yellow Rice with Crispy Shallots (Kao Moke Gai)",
+            "text": "Error generating full script",
+            "voice_over": "This recipe tutorial will show you how to make this delicious dish.",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4qfv0btu3pkbf-s.webp"
+          }
+        ],
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 14\n}\n]"
+      },
+      "preparation_time_minutes": 25,
+      "cooking_time_minutes": 45,
+      "total_time_minutes": 70,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Thai",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Shallots",
+        "Ginger",
+        "Garlic",
+        "Cucumber",
+        "Cilantro",
+        "Chili Peppers"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight Dinner"
+      ],
+      "cooking_tips": [
+        "Be careful when handling turmeric, as it can stain.",
+        "Deglaze the pot with water if the garlic starts to brown too quickly.",
+        "Use jasmine rice for a more authentic flavor, or substitute with long-grain white rice.",
+        "Adjust the amount of chili peppers to your preferred level of spiciness."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_4qfv0btu3pkbf/4qfv0btu3pkbf_main_image.jpg"
+    },
+    {
+      "id": "fks1e3i9qpl9nde",
+      "name": "Chicken Rice Balls (Onigiri)",
+      "url": "https://www.thespruceeats.com/chicken-rice-balls-2216611",
+      "ingredients": [
+        "1 cup sushi rice",
+        "1 1/2 cups water",
+        "1/2 teaspoon fine sea salt",
+        "1/2 pound chicken thigh meat, finely chopped (or ground dark chicken meat)",
+        "3 tablespoons soy sauce (or tamari)",
+        "2 tablespoons sake",
+        "2 tablespoons mirin",
+        "2 sheets roasted seasoned seaweed (optional)"
+      ],
+      "directions": [
+        "Step 1: Rinse the sushi rice in cool water until the water runs clear. Place the rice in a rice cooker or pot with 1 1/2 cups of water and salt. Bring to a boil, then cover and simmer for 15 minutes. Remove from heat and let it sit, covered, for 5 minutes. Uncover, stir, and let cool. To speed up cooling, spread the rice on a baking sheet or tray.",
+        "Step 2: While the rice cooks, finely chop the chicken thighs (if using instead of ground chicken).",
+        "Step 3: In a medium saucepan, combine the chicken, soy sauce, sake, and mirin. Bring to a boil, then reduce heat and simmer for about 5 minutes, stirring occasionally, until the chicken is cooked through and the liquid is almost completely absorbed.",
+        "Step 4: Let the chicken mixture cool to room temperature.  To speed up cooling, spread it in a thin layer on a baking sheet or tray.",
+        "Step 5: Combine the cooled rice and chicken mixture thoroughly.",
+        "Step 6: If using seaweed, crumble it into the rice and chicken mixture and mix well.",
+        "Step 7: With damp hands, take a small handful of the chicken-rice mixture and shape it into a ball or patty.",
+        "Step 8: Place the formed rice ball on a plate and repeat with the remaining mixture.  Re-wet your hands between each ball to prevent sticking. Cover the chicken rice balls and let them sit for a bit before eating, or chill them for later."
+      ],
+      "duration": "30 m",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1e3i9qpl9nde-m.webp",
+      "nutrition": {
+        "calories": "125 per serving",
+        "protein": "11 grams per serving",
+        "carbs": "11 grams per serving",
+        "fat": "3 grams per serving",
+        "fiber": "N/A",
+        "sugar": "N/A",
+        "sodium": "N/A"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Chicken Rice Balls (Onigiri) on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_fks1e3i9qpl9nde/main_image",
+      "video_script": {
+        "title": "Recipe Tutorial: Chicken Rice Balls (Onigiri)",
+        "description": "A tutorial for making Chicken Rice Balls (Onigiri)",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Professional food photography of Chicken Rice Balls (Onigiri)",
+            "text": "Error generating full script",
+            "voice_over": "This recipe tutorial will show you how to make this delicious dish.",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1e3i9qpl9nde-s.webp"
+          }
+        ],
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]"
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 45,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snack"
+      ],
+      "cuisine_type": "Japanese",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Seaweed",
+        "Soy Sauce",
+        "Sake",
+        "Mirin"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Lunchbox",
+        "Picnic"
+      ],
+      "cooking_tips": [
+        "For a vegetarian version, substitute the chicken with finely chopped shiitake mushrooms or firm tofu.",
+        "Adjust the amount of soy sauce to taste.",
+        "Serve with a side of pickled ginger or Japanese mayonnaise."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_fks1e3i9qpl9nde/fks1e3i9qpl9nde_main_image.jpg"
+    },
+    {
+      "id": "fks13pq5ilv6n35",
+      "name": "Spicy Yogurt-Marinated Turkish Grilled Chicken with Orzo Pilaf",
+      "url": "http://track.foodgawker.com/2451874/http://www.makeitmediterranean.com/spicy-yogurt-marinated-turkish-grilled-chicken/",
+      "ingredients": [
+        "1 lb boneless, skinless chicken thighs",
+        "1 cup plain Greek yogurt",
+        "2 jalape\u00f1o peppers, grated",
+        "3 cloves garlic, minced",
+        "Zest of 1 lemon",
+        "Juice of \u00bd lemon",
+        "1 tsp ground cumin",
+        "2 cups chicken broth",
+        "1 cup medium-grain rice",
+        "\u00bc cup orzo pasta",
+        "2 tbsp olive oil",
+        "Salt and freshly ground black pepper, to taste"
+      ],
+      "directions": [
+        "1. In a bowl, combine the yogurt, grated jalape\u00f1os, minced garlic, lemon zest, lemon juice, and cumin. Mix well.",
+        "2. Add the chicken thighs to the yogurt mixture, ensuring they are fully coated. Cover and marinate in the refrigerator for at least 20 minutes, or preferably overnight.",
+        "3. While the chicken marinates, prepare the orzo pilaf. Rinse the rice in a fine-mesh sieve under cold water until the water runs clear.",
+        "4. Heat 1 tablespoon of olive oil in a saucepan over medium-high heat. Add the orzo and toast, stirring frequently, until golden brown, about 3 minutes.",
+        "5. Add the rinsed rice to the saucepan and stir to combine with the toasted orzo.",
+        "6. Pour in the chicken broth, ensuring the liquid covers the rice by about 1 inch. Add 1 teaspoon of salt and the remaining 1 tablespoon of olive oil. Stir well.",
+        "7. Bring the mixture to a boil, then reduce heat to low, cover, and simmer for 15 minutes, or until the liquid is absorbed and the rice is cooked through.",
+        "8. Remove the saucepan from the heat and let the rice rest, covered, for 10 minutes.",
+        "9. Heat a grill pan or outdoor grill over medium heat.",
+        "10. Season the marinated chicken thighs with salt and pepper.",
+        "11. Grill the chicken for 3-5 minutes per side, or until cooked through and slightly charred.",
+        "12. Serve the grilled chicken over the orzo pilaf."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks13pq5ilv6n35-m.webp",
+      "nutrition": {
+        "calories": "500-600 per serving",
+        "protein": "35-40 grams per serving",
+        "carbs": "50-60 grams per serving",
+        "fat": "20-25 grams per serving",
+        "fiber": "5-7 grams per serving",
+        "sugar": "5-7 grams per serving",
+        "sodium": "600-800 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Spicy Yogurt-Marinated Turkish Grilled Chicken with Orzo Pilaf on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_fks13pq5ilv6n35/main_image",
+      "video_script": {
+        "title": "Spicy Yogurt-Marinated Turkish Grilled Chicken with Orzo Pilaf",
+        "description": "Learn to make this flavorful and healthy Turkish-inspired dish featuring juicy grilled chicken marinated in spicy yogurt and a fluffy orzo pilaf.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished dish: Spicy Yogurt-Marinated Turkish Grilled Chicken served over a bed of Orzo Pilaf. The chicken should look juicy and slightly charred, with visible grill marks. The orzo pilaf should be fluffy and golden brown. Garnish with a sprinkle of fresh herbs, like parsley or cilantro.",
+            "text": "Spicy Yogurt-Marinated Turkish Grilled Chicken with Orzo Pilaf",
+            "voice_over": "Welcome! Today, we're making a delicious and healthy Turkish-inspired dish: Spicy Yogurt-Marinated Grilled Chicken with Orzo Pilaf. It's packed with flavor and easy to make.",
+            "scene_image_filename": "recipe_fks13pq5ilv6n35/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks13pq5ilv6n35-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Show all the ingredients for the marinade grouped together: Greek yogurt, jalape\u00f1o peppers, garlic, lemon, cumin.",
+            "text": "Marinade Ingredients",
+            "voice_over": "For the marinade, we'll need Greek yogurt, jalape\u00f1o peppers, garlic, lemon zest and juice, and ground cumin.",
+            "scene_image_filename": "recipe_fks13pq5ilv6n35/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks13pq5ilv6n35-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show all the ingredients for the orzo pilaf: Orzo pasta, medium-grain rice, chicken broth, and olive oil.",
+            "text": "Orzo Pilaf Ingredients",
+            "voice_over": "For the orzo pilaf, gather chicken broth, medium-grain rice, orzo pasta, and olive oil.  We'll also need salt and pepper for seasoning the chicken and pilaf.",
+            "scene_image_filename": "recipe_fks13pq5ilv6n35/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks13pq5ilv6n35-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Show the process of combining the yogurt, jalape\u00f1os, garlic, lemon zest, lemon juice, and cumin in a bowl. Focus on mixing the ingredients well.",
+            "text": "Prepare the Marinade",
+            "voice_over": "Combine the yogurt, grated jalape\u00f1os, minced garlic, lemon zest, lemon juice, and cumin in a bowl. Mix thoroughly.",
+            "scene_image_filename": "recipe_fks13pq5ilv6n35/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks13pq5ilv6n35-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "Show the chicken thighs being added to the marinade, ensuring they are fully coated. Then, show the bowl being covered and placed in the refrigerator.",
+            "text": "Marinate the Chicken",
+            "voice_over": "Add the chicken thighs to the marinade, ensuring they are fully coated. Cover and refrigerate for at least 20 minutes, or preferably overnight.",
+            "scene_image_filename": "recipe_fks13pq5ilv6n35/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks13pq5ilv6n35-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Show the orzo being toasted in a saucepan with olive oil. The orzo should be golden brown.",
+            "text": "Toast the Orzo",
+            "voice_over": "While the chicken marinates, prepare the orzo pilaf. Heat olive oil in a saucepan, add the orzo, and toast until golden brown, about 3 minutes.",
+            "scene_image_filename": "recipe_fks13pq5ilv6n35/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks13pq5ilv6n35-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show the rice and chicken broth being added to the toasted orzo in the saucepan.  Steam should be slightly visible.",
+            "text": "Simmer the Pilaf",
+            "voice_over": "Add the rinsed rice and chicken broth. Season with salt and olive oil. Bring to a boil, then reduce heat and simmer covered for 15 minutes, or until the liquid is absorbed.",
+            "scene_image_filename": "recipe_fks13pq5ilv6n35/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks13pq5ilv6n35-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Show the chicken thighs being grilled on a grill pan or outdoor grill, with visible grill marks and slight charring. Display some of the orzo pilaf in the background",
+            "text": "Grill the Chicken",
+            "voice_over": "Season the marinated chicken with salt and pepper. Grill for 3-5 minutes per side, until cooked through and slightly charred.",
+            "scene_image_filename": "recipe_fks13pq5ilv6n35/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks13pq5ilv6n35-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Show the finished dish: Grilled chicken served over orzo pilaf, garnished with fresh herbs. A serving spoon is placing a portion onto a plate. Display a pitcher of fresh lemonade or iced tea next to plate",
+            "text": "Serve and Enjoy!",
+            "voice_over": "Serve the grilled chicken over the orzo pilaf. Garnish with fresh herbs. A refreshing glass of lemonade or iced tea complements this dish perfectly! Enjoy!",
+            "scene_image_filename": "recipe_fks13pq5ilv6n35/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks13pq5ilv6n35-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 60,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Turkish",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Yogurt",
+        "Jalape\u00f1o",
+        "Garlic",
+        "Lemon",
+        "Cumin",
+        "Rice",
+        "Orzo",
+        "Olive Oil"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight",
+        "Casual Party"
+      ],
+      "cooking_tips": [
+        "For extra flavor, add a pinch of smoked paprika or red pepper flakes to the marinade.",
+        "If you don't have a grill pan, you can cook the chicken in a regular skillet over medium-high heat.",
+        "To make the dish spicier, leave the seeds in the jalape\u00f1os when grating them.",
+        "Leftover chicken and rice can be stored separately in airtight containers in the refrigerator for up to 3 days."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_fks13pq5ilv6n35/fks13pq5ilv6n35_main_image.jpg"
+    },
+    {
+      "id": "8gscv2a2c6m00",
+      "name": "Hibachi Chicken with Fried Rice and Sesame-Soy Bean Sprouts",
+      "url": "http://www.food.com/recipe/hibachi-chicken-and-fried-rice-408318",
+      "ingredients": [
+        {
+          "quantity": "1 - 1 1/2",
+          "unit": "lb",
+          "item": "chicken breast, cut into bite-sized pieces"
+        },
+        {
+          "quantity": "1",
+          "unit": "tablespoon",
+          "item": "vegetable oil"
+        },
+        {
+          "quantity": "1/2",
+          "unit": "teaspoon",
+          "item": "sesame seed oil"
+        },
+        {
+          "quantity": "1",
+          "unit": "tablespoon",
+          "item": "butter"
+        },
+        {
+          "quantity": "3",
+          "unit": "tablespoons",
+          "item": "soy sauce"
+        },
+        {
+          "quantity": "2",
+          "unit": "teaspoons",
+          "item": "fresh lemon juice"
+        },
+        {
+          "quantity": "1/4",
+          "unit": "teaspoon",
+          "item": "salt"
+        },
+        {
+          "quantity": "1/4",
+          "unit": "teaspoon",
+          "item": "pepper"
+        },
+        {
+          "quantity": "1",
+          "unit": "large",
+          "item": "white onion, thinly sliced"
+        },
+        {
+          "quantity": "1",
+          "unit": "large",
+          "item": "zucchini, quartered"
+        },
+        {
+          "quantity": "4",
+          "unit": "cups",
+          "item": "cooked rice, cooled"
+        },
+        {
+          "quantity": "1/2",
+          "unit": "cup",
+          "item": "white onion, chopped"
+        },
+        {
+          "quantity": "4",
+          "unit": "cups",
+          "item": "bean sprouts"
+        },
+        {
+          "quantity": "2",
+          "unit": "large",
+          "item": "eggs"
+        },
+        {
+          "quantity": "4",
+          "unit": "tablespoons",
+          "item": "butter"
+        }
+      ],
+      "directions": [
+        "1. Prepare the ingredients: Cut the chicken into bite-sized pieces, thinly slice one white onion, quarter the zucchini, chop the other half of the white onion. Have the cooled rice ready.",
+        "2. Cook the chicken: Heat vegetable oil and sesame oil in a large skillet or wok over medium-high heat. Add chicken, soy sauce, butter, lemon juice, salt, and pepper. Saut\u00e9 for 6-8 minutes, or until cooked through.",
+        "3. Cook the vegetables: In a separate skillet or wok, heat vegetable oil and sesame oil over medium-high heat. Add sliced white onion, zucchini, butter, soy sauce, salt, and pepper. Saut\u00e9 for 6-8 minutes, or until tender-crisp.",
+        "4. Make the fried rice: Use the skillet or wok you cooked the chicken in. Heat vegetable oil over medium heat. Add chopped onion and saut\u00e9 for 3-4 minutes, until softened. Add 1 cup bean sprouts and saut\u00e9 for 1-2 minutes. Push vegetables to the side, add eggs, and scramble lightly. Add rice and butter, cook for 5 minutes, stirring frequently. Add soy sauce and cook for 1 more minute.",
+        "5. Cook the bean sprouts: In the skillet or wok used for vegetables, melt butter. Add soy sauce and 3 cups bean sprouts. Saut\u00e9 for 1-2 minutes.",
+        "6. Serve immediately: Combine chicken, vegetables, fried rice, and bean sprouts and serve hot."
+      ],
+      "duration": "35 mins",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-m.webp",
+      "nutrition": {
+        "calories": "500-600 per serving",
+        "protein": "30-40 grams per serving",
+        "carbs": "50-60 grams per serving",
+        "fat": "20-30 grams per serving",
+        "fiber": "5-7 grams per serving",
+        "sugar": "5-7 grams per serving",
+        "sodium": "800-1200 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Hibachi Chicken with Fried Rice and Sesame-Soy Bean Sprouts on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_8gscv2a2c6m00/main_image",
+      "video_script": {
+        "title": "Hibachi Chicken with Fried Rice and Sesame-Soy Bean Sprouts",
+        "description": "Learn to make this delicious and easy Hibachi Chicken with Fried Rice and Sesame-Soy Bean Sprouts at home! This recipe is packed with flavor and perfect for a quick weeknight meal or a weekend treat.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished Hibachi Chicken, Fried Rice, and Sesame-Soy Bean Sprouts, plated beautifully. Steam rising, highlighting the vibrant colors and textures of the dish.",
+            "text": "Hibachi Chicken with Fried Rice and Sesame-Soy Bean Sprouts",
+            "voice_over": "Craving hibachi? Skip the restaurant and make this easy and flavorful dish at home! We'll show you how to make tender chicken, flavorful fried rice, and perfectly cooked sesame-soy bean sprouts, all in one pan.",
+            "scene_image_filename": "recipe_8gscv2a2c6m00/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients laid out on a clean surface, grouped: chicken breast cut into bite-sized pieces next to soy sauce, lemon juice, salt and pepper.  Separate grouping of sliced white onion, quartered zucchini, with vegetable oil, sesame oil, and butter.  Final group showing cooked rice, chopped onion, bean sprouts, and eggs.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need for the chicken and veggies: Chicken breast, soy sauce, lemon juice, salt, pepper, vegetable oil, sesame oil, butter, white onion, zucchini.  For the fried rice and sprouts: More butter, vegetable oil, chopped white onion, bean sprouts, eggs, and cooked, cooled rice.",
+            "scene_image_filename": "recipe_8gscv2a2c6m00/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Chicken cooking in a skillet or wok over medium-high heat. The chicken is browning and the sauce is bubbling.",
+            "text": "Cooking the Chicken",
+            "voice_over": "First, heat the vegetable and sesame oil in a skillet over medium-high heat. Add the chicken, soy sauce, butter, lemon juice, salt, and pepper. Saut\u00e9 for 6-8 minutes, until cooked through.",
+            "scene_image_filename": "recipe_8gscv2a2c6m00/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Zucchini and onions cooking in a skillet or wok over medium-high heat. The vegetables are becoming tender-crisp and slightly browned.",
+            "text": "Saut\u00e9ing the Vegetables",
+            "voice_over": "In a separate skillet, heat vegetable oil, sesame oil, and butter. Add the sliced onion, zucchini, soy sauce, salt, and pepper. Saut\u00e9 for 6-8 minutes until they're tender-crisp.",
+            "scene_image_filename": "recipe_8gscv2a2c6m00/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Chopped onion being saut\u00e9ed in a skillet or wok. ",
+            "text": "Fried Rice Prep",
+            "voice_over": "Now for the fried rice: In the same skillet you cooked the chicken, heat vegetable oil. Add the chopped onion and saut\u00e9 for 3-4 minutes, until softened. Add some bean sprouts and saut\u00e9 for another minute.",
+            "scene_image_filename": "recipe_8gscv2a2c6m00/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Eggs being scrambled in the skillet with the onions and bean sprouts pushed to the side.",
+            "text": "Scramble the Eggs",
+            "voice_over": "Push the veggies to the side, add the eggs, and scramble them lightly.",
+            "scene_image_filename": "recipe_8gscv2a2c6m00/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Rice being added to the skillet with the vegetables and eggs. The rice is being stirred and coated in the sauce and butter.",
+            "text": "Adding the Rice",
+            "voice_over": "Add the rice, butter, and soy sauce to the skillet. Cook for about 5 minutes, stirring frequently, until heated through.",
+            "scene_image_filename": "recipe_8gscv2a2c6m00/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Bean sprouts cooking in a skillet with melted butter and soy sauce.",
+            "text": "Saut\u00e9 the Bean Sprouts",
+            "voice_over": "Finally, saut\u00e9 the remaining bean sprouts in butter and soy sauce for 1-2 minutes until tender-crisp.",
+            "scene_image_filename": "recipe_8gscv2a2c6m00/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up of all finished components being combined: hibachi chicken, saut\u00e9ed vegetables, fried rice, and sesame-soy bean sprouts, being gently mixed together in a large bowl or platter.",
+            "text": "Combine and Serve",
+            "voice_over": "Now, combine everything \u2013 the hibachi chicken, vegetables, fried rice, and bean sprouts. Serve immediately and enjoy!",
+            "scene_image_filename": "recipe_8gscv2a2c6m00/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Final shot of the plated dish, garnished with sesame seeds and chopped green onions. Serve with a side of Yum Yum sauce.",
+            "text": "Enjoy!",
+            "voice_over": "This Hibachi Chicken with Fried Rice and Sesame-Soy Bean Sprouts is a complete and satisfying meal.  You can garnish with sesame seeds and green onions, and serve with your favorite hibachi sauce. Enjoy!",
+            "scene_image_filename": "recipe_8gscv2a2c6m00/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/8gscv2a2c6m00-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Japanese",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Zucchini",
+        "Onion",
+        "Bean Sprouts"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight Dinner"
+      ],
+      "cooking_tips": [
+        "For best results, use day-old rice for fried rice.",
+        "Don't overcrowd the pan when cooking the chicken and vegetables; cook in batches if needed.",
+        "Adjust the amount of soy sauce to your liking."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_8gscv2a2c6m00/8gscv2a2c6m00_main_image.jpg"
+    },
+    {
+      "id": "fks1cdgvo1clkko",
+      "name": "Cajun Chicken Cauliflower Rice Bowls with Mangoes and Avocado",
+      "url": "http://diethood.com/cajun-chicken-cauliflower-rice-bowls/",
+      "ingredients": [
+        "6(1.5 pounds, total)  boneless, skinless chicken thighs",
+        "1  tablespoon  cajun seasoning,  add more if you like it spicier or just adjust to taste",
+        "1  tablespoon  vegetable oil",
+        "1/2  tablespoon  vegetable oil",
+        "4  cups  cauliflower rice",
+        "Salt and fresh ground pepper,  to taste",
+        "1  avocado,  peeled and sliced",
+        "1  red bell pepper,  seeded, thinly sliced",
+        "1  mango,  peeled, chopped",
+        "1/2  red onion,  diced",
+        "1/4  cup  plain yogurt",
+        "1  tablespoon  extra virgin olive oil  (add more if you want/need to thin out the dressing)",
+        "2  tablespoons  lime juice",
+        "1/2  teaspoon  lime zest",
+        "1  tablespoon  chopped fresh cilantro,  optional",
+        "1  teaspoon  white wine vinegar",
+        "1  teaspoon  honey",
+        "1  garlic cloves,  minced",
+        "Sliced green onions,  for garnish",
+        "Chopped fresh cilantro or parsley,  for garnish",
+        "FOR THE CHICKEN 6(1.5 pounds, total)  boneless, skinless chicken thighs  1  tablespoon  cajun seasoning,  add more if you like it spicier or just adjust to taste  1  tablespoon  vegetable oil",
+        "FOR THE CHICKEN",
+        "FOR THE CAULIFLOWER RICE 1/2  tablespoon  vegetable oil  4  cups  cauliflower rice  salt and fresh ground pepper,  to taste",
+        "FOR THE CAULIFLOWER RICE",
+        "FOR THE TOPPINGS 1  avocado,  peeled and sliced  1  red bell pepper,  seeded, thinly sliced  1  mango,  peeled, chopped  1/2  red onion,  diced",
+        "FOR THE TOPPINGS",
+        "FOR THE LIME DRESSING 1/4  cup  plain yogurt  1  tablespoon  extra virgin olive oil  (add more if you want/need to thin out the dressing)  2  tablespoons  lime juice  1/2  teaspoon  lime zest  1  tablespoon  chopped fresh cilantro,  optional  1  teaspoon  white wine vinegar  1  teaspoon  honey  1  garlic cloves,  minced  salt and fresh ground pepper,  to taste  sliced green onions,  for garnish  chopped fresh cilantro or parsley,  for garnish",
+        "FOR THE LIME DRESSING",
+        "{\"cal\":\"491\",\"fat\":\"27\",\"carb\":\"25\",\"prot\":\"38\"}"
+      ],
+      "directions": [
+        "Heat vegetable oil in a large skillet over medium-high heat.",
+        "Season chicken thighs with cajun seasoning and add to the skillet. DO NOT crowd the pan - for best results, cook in 2 batches.",
+        "Cook chicken thighs for 5 minutes; flip and continue to cook 7 more minutes, or until no longer pink.",
+        "Remove from skillet and set aside for 5 minutes before serving.",
+        "*You can also follow my recipe for ROASTED Cajun Chicken Thighs.",
+        "Add 1/2 tablespoon vegetable oil and heat over medium-high heat.",
+        "Stir in cauliflower rice, season with a bit of salt and pepper, and cook for 3 to 4 minutes, or until tender, stirring frequently.",
+        "Remove from heat and set aside to cool for few minutes.",
+        "In a mixing bowl combine yogurt, olive oil, lime juice, lime zest, cilantro, vinegar, honey, garlic, salt and pepper; whisk until well combined. Taste for seasonings and adjust accordingly.",
+        "Divide a layer of the Cauliflower Rice among 4 pasta bowls.",
+        "Top with sliced chicken, avocado slices, pepper slices, chopped mango, and diced onions.",
+        "Drizzle the prepared Dressing over the chicken, fruits, and vegetables.",
+        "Garnish with sliced green onions and cilantro/parsley.",
+        "Serve.",
+        ""
+      ],
+      "duration": null,
+      "serves": "20190517055743000020190542019054500500201905450037520190544802704153045615111241111214121211112575123441491253827816121881351",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1cdgvo1clkko-m.webp",
+      "nutrition": null
+    },
+    {
+      "id": "fks1h6valqnigsv",
+      "name": "Slow Cooker Southwest Chicken and Rice",
+      "url": "http://slowcookergourmet.net/slow-cooker-southwest-chicken-and-rice/",
+      "ingredients": [
+        "4 bone-in skin-on chicken thighs",
+        "1 tablespoon southwest seasoning",
+        "2 tablespooons butter",
+        "1 tablespoon olive oil",
+        "1\u00bd cups brown rice",
+        "\u00bd teaspoon onion powder",
+        "\u00bd teaspoon garlic powder",
+        "1 teaspoon southwest seasoning",
+        "8oz can roasted garlic tomato sauce",
+        "2\u00bd cups chicken broth",
+        "{\"cal\":\"\",\"fat\":\"\",\"carb\":\"\",\"prot\":\"\"}"
+      ],
+      "directions": [
+        "Sprinkle skin side of chicken well with 1 tablespoon of southwest seasoning",
+        "Melt butter and oil in skillet (or multi cooker) over medium to high heat",
+        "Add chicken skin side down and let sizzle for 5-6 minutes or until chicken is nicely browned. Don't move while it's cooking to keep the chicken in good contact with the pan for a nice brown crust.",
+        "Remove chicken from pan and add rice to remaining oil/butter in pan",
+        "Saute while stirring for 2-3 minutes until rice is just lightly toasted",
+        "Add rice to slow cooker along with onion powder, garlic powder and 1 teaspoon of southwest seasoning",
+        "Stir in tomato sauce and chicken broth",
+        "Add chicken on top skin side up",
+        "Cover and cook on high for 3-4 hours or low for 6-8 or until chicken is fully cooked through",
+        "Remove chicken and stir rice well",
+        "If rice is not fully cooked you may add another \u00bd cup water or broth and let continue to cook on high for another 15-30 minutes"
+      ],
+      "duration": null,
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1h6valqnigsv-m.webp",
+      "nutrition": null
+    },
+    {
+      "id": "fks2hkc1uq0gg7r",
+      "name": "Slow Cooker Southwest Chicken and Rice",
+      "url": "http://track.foodgawker.com/2420758/http://crockpotgourmet.net/2015/10/05/crockpot-southwest-chicken-and-rice/",
+      "ingredients": [
+        "4 bone-in skin-on chicken thighs",
+        "1 tablespoon southwest seasoning",
+        "2 tablespooons butter",
+        "1 tablespoon olive oil",
+        "1\u00bd cups brown rice",
+        "\u00bd teaspoon onion powder",
+        "\u00bd teaspoon garlic powder",
+        "1 teaspoon southwest seasoning",
+        "8oz can roasted garlic tomato sauce",
+        "2\u00bd cups chicken broth",
+        "{\"cal\":\"\",\"fat\":\"\",\"carb\":\"\",\"prot\":\"\"}"
+      ],
+      "directions": [
+        "Sprinkle skin side of chicken well with 1 tablespoon of southwest seasoning",
+        "Melt butter and oil in skillet (or multi cooker) over medium to high heat",
+        "Add chicken skin side down and let sizzle for 5-6 minutes or until chicken is nicely browned. Don't move while it's cooking to keep the chicken in good contact with the pan for a nice brown crust.",
+        "Remove chicken from pan and add rice to remaining oil/butter in pan",
+        "Saute while stirring for 2-3 minutes until rice is just lightly toasted",
+        "Add rice to slow cooker along with onion powder, garlic powder and 1 teaspoon of southwest seasoning",
+        "Stir in tomato sauce and chicken broth",
+        "Add chicken on top skin side up",
+        "Cover and cook on high for 3-4 hours or low for 6-8 or until chicken is fully cooked through",
+        "Remove chicken and stir rice well",
+        "If rice is not fully cooked you may add another \u00bd cup water or broth and let continue to cook on high for another 15-30 minutes"
+      ],
+      "duration": null,
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2hkc1uq0gg7r-m.webp",
+      "nutrition": null
+    },
+    {
+      "id": "fks1gj41vf17pdi",
+      "name": "Chicken with Rice",
+      "url": "https://forking.riafy.in/parser_console/parser.php?u=https://www.cookbookrecipes.in/chicken with rice",
+      "ingredients": [
+        "2 g Fresh Ginger",
+        "Soy Sauce ",
+        "15 ml White Wine ",
+        "900 g Chicken Thighs",
+        "1 Onion ",
+        "1 Lemon, organic",
+        "27 ml Olive Oil ",
+        "120 g Rice ",
+        "5 g Fresh Parsley ",
+        "{\"cal\":\"577\",\"fat\":\"35\",\"carb\":\"25\",\"prot\":\"45\"}"
+      ],
+      "directions": [
+        "Start by peeling and finely chopping the ginger.",
+        "For the marinade, combine the soy sauce with the white wine and ginger.",
+        "Remove the excess fat from the thighs and place the chicken in a bowl.",
+        "Pour the marinade over the chicken and massage it into the chicken with your fingers. Let the chicken marinate in the fridge for up to 2 hours.",
+        "Shortly before the end of the marinating time, preheat the oven to 175\u00b0C / 350\u00b0F.",
+        "Cut the onion into rings and the lemon into slices.",
+        "Heat the olive oil in an oven-safe pan or a large pot and cook the chicken thighs on each side for approx. 5 minutes. Save the remaining marinade for later.",
+        "Set the chicken thighs to the side and fry the onion rings and lemon slices for approx. 5 minutes until they turn a light brown.",
+        "Lay the chicken on top of the onions and lemons, drizzle with the remaining marinade and cook in the oven for approx. 40 minutes.",
+        " Prepare the rice according to the package instructions and finely chop the parsley.",
+        " Split the rice onto two plates, top with the chicken and garnish with parsley.",
+        ""
+      ],
+      "duration": "25 m",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1gj41vf17pdi-m.webp",
+      "nutrition": null
+    },
+    {
+      "id": "fks18umdj4ivser",
+      "name": "Chicken and Sweet Rice in a Pressure Cooker",
+      "url": "https://www.koreanbapsang.com/pressure-cooker-nurungji-baeksuk-boiled-chicken-rice/",
+      "ingredients": [
+        "1 (3-4 lb) whole chicken, excess fat trimmed (optional: skin removed)",
+        "1 \u00bd cups sweet rice (glutinous rice), rinsed and drained",
+        "1 large scallion (daepa)",
+        "5 cloves garlic",
+        "2 thin slices ginger (about 1 inch round)",
+        "Salt and pepper to taste",
+        "4 cups water or (2 cups chicken stock and 2 cups water)"
+      ],
+      "directions": [
+        "Step 1: Add the rinsed and drained sweet rice to the pressure cooker/Instant Pot.",
+        "Step 2: Place the whole chicken on top of the rice.",
+        "Step 3: Add the scallion, garlic, and ginger to the pot.",
+        "Step 4: Pour in 4 cups of water or 2 cups of chicken stock and 2 cups of water.",
+        "Step 5: Close the lid tightly and select the \"Poultry\" function.",
+        "Step 6: Using the \"-\" button, reduce the cooking time to 25 minutes (for a 4-pound chicken). Adjust cooking time accordingly for different chicken sizes.  Add 5 minutes for every pound over 4 pounds.",
+        "Step 7: Allow the Instant Pot to naturally release pressure for 10-15 minutes after cooking is complete. The Instant Pot will automatically switch to the \"Keep Warm\" mode.",
+        "Step 8: Carefully open the lid and remove the chicken.",
+        "Step 9: (Optional) For a crispier nurungji (scorched rice), turn the Instant Pot back on for an additional 5 minutes. Let it sit for about 10 minutes before scraping off the nurungji.",
+        "Step 10: Remove and discard the ginger and scallion. Remove the garlic cloves if desired. Season with salt and pepper to taste."
+      ],
+      "duration": "",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-m.webp",
+      "nutrition": {
+        "calories": "500 per serving",
+        "protein": "40 grams per serving",
+        "carbs": "50 grams per serving",
+        "fat": "20 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "2 grams per serving",
+        "sodium": "500 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Chicken and Sweet Rice in a Pressure Cooker on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_fks18umdj4ivser/main_image",
+      "video_script": {
+        "title": "One-Pot Wonder: Chicken and Sweet Rice in Your Pressure Cooker",
+        "description": "Learn how to make delicious and comforting Chicken and Sweet Rice in a pressure cooker. This easy one-pot meal is perfect for a weeknight dinner and requires minimal cleanup.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a perfectly cooked whole chicken resting on a bed of glistening sweet rice in a pressure cooker. Steam is gently rising from the pot, and a few grains of rice are clinging to the chicken. The background is slightly blurred, emphasizing the dish.",
+            "text": "Chicken and Sweet Rice",
+            "voice_over": "Craving a comforting, flavorful meal that's ready in minutes? Let's make Chicken and Sweet Rice in a pressure cooker!",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a clean kitchen counter. The whole chicken is prominently displayed in the center, surrounded by bowls of sweet rice, chopped scallions, garlic cloves, and ginger slices. A measuring cup filled with water is placed beside the ingredients.  The background is a clean, uncluttered kitchen countertop.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: a whole chicken, sweet rice, scallions, garlic, ginger, water or chicken stock, salt, and pepper.",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of sweet rice being rinsed in a fine-mesh sieve under running water. The water is clear, and the rice looks clean and ready to be used.",
+            "text": "Rinse the Rice",
+            "voice_over": "First, rinse the sweet rice thoroughly under cold water until the water runs clear. This removes excess starch.",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The pressure cooker pot with the rinsed sweet rice spread evenly at the bottom.",
+            "text": "Add Rice to Pot",
+            "voice_over": "Add the rinsed and drained sweet rice to the pressure cooker pot.",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The whole chicken placed on top of the sweet rice in the pressure cooker pot. The scallion, garlic, and ginger are arranged around the chicken.",
+            "text": "Chicken & Aromatics",
+            "voice_over": "Place the whole chicken on top of the rice. Add the scallion, garlic, and ginger around the chicken.",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Water or chicken stock being poured into the pressure cooker pot, covering the chicken and rice.",
+            "text": "Add Water/Stock",
+            "voice_over": "Pour in 4 cups of water, or for richer flavor, use 2 cups of chicken stock and 2 cups of water.",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Close-up of the pressure cooker lid being closed and locked securely.",
+            "text": "Seal and Cook",
+            "voice_over": "Close the lid tightly and select the \"Poultry\" function. Reduce the cooking time to 25 minutes for a 4-pound chicken. Adjust cooking time accordingly for different chicken sizes - add 5 minutes per pound over 4 pounds.  Let the pressure release naturally for 10-15 minutes after cooking.",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The cooked chicken being carefully removed from the pressure cooker pot using tongs and a fork.",
+            "text": "Remove Chicken",
+            "voice_over": "Carefully remove the chicken from the pot.",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up of the perfectly cooked sweet rice in the pressure cooker, with a layer of golden nurungji (scorched rice) at the bottom. A spoon is gently scraping the nurungji off the bottom of the pot.",
+            "text": "(Optional) Nurungji",
+            "voice_over": "For crispy nurungji, turn the Instant Pot back on for 5 minutes. Let it sit for 10 minutes before scraping.",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "The shredded chicken being mixed with the sweet rice in a large bowl. The rice is glistening and the chicken looks tender and juicy.",
+            "text": "Season & Serve",
+            "voice_over": "Remove and discard the ginger and scallion. Remove the garlic if you prefer. Season with salt and pepper to taste.",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "A serving of chicken and sweet rice in a bowl, garnished with chopped scallions. A whole cooked chicken is in the background, along with the pressure cooker. The background is a cozy dining table setting.",
+            "text": "Enjoy!",
+            "voice_over": "Serve and enjoy your flavorful Chicken and Sweet Rice! This dish is delicious on its own or with a side of your favorite vegetables.  Each serving has approximately 500 calories, 40 grams of protein, 50 grams of carbs, and 20 grams of fat.",
+            "scene_image_filename": "recipe_fks18umdj4ivser/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18umdj4ivser-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Korean",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Scallion",
+        "Garlic",
+        "Ginger"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight Meal"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use chicken stock instead of water.",
+        "Adjust cooking time based on the size of your chicken - approximately 5 minutes per pound",
+        "If you prefer less fat, remove the chicken skin before cooking."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_fks18umdj4ivser/fks18umdj4ivser_main_image.jpg"
+    },
+    {
+      "id": "fks2kcg6obf6vne",
+      "name": "Chicken Gyro Bowl with Rice",
+      "url": "http://www.seasonalcravings.com/chicken-gyro-bowl/",
+      "ingredients": [
+        "1/2  cup  Greek yogurt",
+        "1  tbsp  apple cider vinegar",
+        "4  tbsp  fresh lemon juice",
+        "1  tspkosher salt",
+        "1  tbsp  oregano",
+        "1/2  tsp  dried dill",
+        "2  tbsp  olive oil",
+        "2  cloves  garlic",
+        "1/4  cup  English cucumber, chopped",
+        "1/2  tsp  dill",
+        "Salt and pepper to taste",
+        "2  8.5 oz  packages of Seeds of Change Quinoa & Brown Rice with Garlic",
+        "4  chicken breasts, pounded thin",
+        "1/2  cup  sliced grape tomatoes",
+        "1/2  cup  cucumbers, sliced",
+        "1/4  cup  crumbled feta cheese",
+        "Fresh chopped dill",
+        "Marinade1/2  cup  Greek yogurt 1  tbsp  apple cider vinegar 4  tbsp  fresh lemon juice 1  tspkosher salt 1  tbsp  oregano 1/2  tsp  dried dill 2  tbsp  olive oil",
+        "For Tzatziki Sauce1/2  cup  Greek yogurt 2  cloves  garlic 1  tbsp  apple cider vinegar 1/4  cup  English cucumber, chopped 1/2  tsp  dill salt and pepper to taste",
+        "For Chicken Bowls2  8.5 oz  packages of Seeds of Change Quinoa & Brown Rice with Garlic 4  chicken breasts, pounded thin 1/2  cup  sliced grape tomatoes 1/2  cup  cucumbers, sliced 1/4  cup  crumbled feta cheese fresh chopped dill",
+        "{\"cal\":\"\",\"fat\":\"\",\"carb\":\"\",\"prot\":\"\"}"
+      ],
+      "directions": [
+        "Whisk together all marinade ingredients. Place chicken in a container or a plastic bag and top with all of marinade. Make sure all chicken pieces are covered. Marinate overnight or for a few hours.",
+        "Preheat grill to medium high and oil the grates. Shake excess marinade off chicken and place on the grill. Cook until the internal temperature registers 165 degrees, about 8-10 minutes per side. This will depend on how thick your chicken is.",
+        "While chicken is grilling toss together all tzatziki sauce ingredients. Add salt and pepper to taste.",
+        "When chicken is done assemble bowls. Fill bottom of bowl with Seeds of Change Quinoa & Brown Rice with Garlic. Top with warm chicken, tomatoes, cucumbers, feta and top with sauce.\u00a0",
+        "Whisk together all marinade ingredients. Place chicken in a container or a plastic bag and top with all of marinade. Make sure all chicken pieces are covered. Marinate overnight or for a few hours. Preheat grill to medium high and oil the grates. Shake excess marinade off chicken and place on the grill. Cook until the internal temperature registers 165 degrees, about 8-10 minutes per side. This will depend on how thick your chicken is. While chicken is grilling toss together all tzatziki sauce ingredients. Add salt and pepper to taste. When chicken is done assemble bowls. Fill bottom of bowl with Seeds of Change Quinoa & Brown Rice with Garlic. Top with warm chicken, tomatoes, cucumbers, feta and top with sauce.\u00a0"
+      ],
+      "duration": "20  minutes",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2kcg6obf6vne-m.webp",
+      "nutrition": null
+    },
+    {
+      "id": "166u8a7i8nacb",
+      "name": "Southwestern Chicken with Beans and Rice",
+      "url": "http://www.food.com/recipe/southwestern-style-beans-and-rice-with-chicken-319245",
+      "ingredients": [
+        "1 (3 1/2 lb) whole chicken, deboned and cut into pieces",
+        "2 cups cooked texmati brown rice",
+        "2 (15 ounce) cans black beans or pinto beans, drained and rinsed",
+        "1/4 cup virgin olive oil",
+        "1 large onion, finely chopped",
+        "1 medium red bell pepper, seeded and finely chopped",
+        "1 medium jalape\u00f1o pepper, seeded and finely chopped",
+        "2 cloves garlic, minced",
+        "1 (14 ounce) can diced tomatoes, undrained",
+        "1 teaspoon ground cumin",
+        "1 lemon, juiced",
+        "Sea salt, to taste",
+        "Freshly ground black pepper, to taste",
+        "1 cup chicken broth"
+      ],
+      "directions": [
+        "Step 1: Preheat oven to 325\u00b0F (165\u00b0C). Season chicken pieces with salt, pepper, and garlic powder. Bake for 30 minutes, or until cooked through. Alternatively, cook chicken in a large skillet over medium-high heat with olive oil until golden brown and cooked through.",
+        "Step 2: While chicken cooks, prepare the beans and rice. In the same skillet (if pan-frying chicken), add onion, bell pepper, jalape\u00f1o, and garlic. Saut\u00e9 for 5 minutes, or until softened.",
+        "Step 3: Stir in cumin, diced tomatoes, lemon juice, and beans. Add cooked chicken to the skillet.",
+        "Step 4: Pour in chicken broth and stir well. Bring to a simmer, cover, and cook for 20 minutes.",
+        "Step 5: Uncover and cook for another 10 minutes, or until the chicken is tender and the sauce has thickened slightly.",
+        "Step 6: Serve chicken and bean mixture over cooked rice. Garnish with a green salad and tortilla chips, if desired."
+      ],
+      "duration": "40 mins",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/166u8a7i8nacb-m.webp",
+      "nutrition": {
+        "calories": "500 per serving",
+        "protein": "40 grams per serving",
+        "carbs": "50 grams per serving",
+        "fat": "20 grams per serving",
+        "fiber": "10 grams per serving",
+        "sugar": "10 grams per serving",
+        "sodium": "800 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Southwestern Chicken with Beans and Rice on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_166u8a7i8nacb/main_image",
+      "video_script": {
+        "title": "Southwestern Chicken with Beans and Rice",
+        "description": "A flavorful and healthy Southwestern-inspired dish featuring tender chicken, hearty beans, and fluffy rice.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished Southwestern Chicken with Beans and Rice dish, garnished with fresh cilantro and served with a side of tortilla chips. The chicken should look juicy and tender, the beans and rice colorful, and the overall presentation appetizing.",
+            "text": "Southwestern Chicken with Beans and Rice",
+            "voice_over": "Welcome to today's recipe! We're making a vibrant and satisfying Southwestern Chicken with Beans and Rice. This dish is packed with flavor and protein, perfect for a weeknight dinner or a weekend fiesta.",
+            "scene_image_filename": "recipe_166u8a7i8nacb/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/166u8a7i8nacb-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Show all ingredients neatly arranged: whole chicken, rice, beans, olive oil, onion, bell pepper, jalapeno, garlic, diced tomatoes, cumin, lemon, salt and pepper.  Highlight the fresh ingredients.",
+            "text": "Ingredients",
+            "voice_over": "Let's gather our ingredients. We'll need a whole chicken, some cooked Texmati brown rice, black or pinto beans, olive oil, onion, bell pepper, jalapeno, garlic, diced tomatoes, ground cumin, lemon juice, salt, pepper and chicken broth",
+            "scene_image_filename": "recipe_166u8a7i8nacb/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/166u8a7i8nacb-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show chicken being seasoned with salt, pepper, and garlic powder, then being placed in a preheated oven.",
+            "text": "Prepare & Bake Chicken",
+            "voice_over": "Preheat your oven to 325 degrees Fahrenheit. Season the chicken pieces generously with salt, pepper, and garlic powder. Bake for 30 minutes, or until cooked through. Alternatively, you can pan-fry the chicken in olive oil until golden brown.",
+            "scene_image_filename": "recipe_166u8a7i8nacb/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/166u8a7i8nacb-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Show the chopped onion, bell pepper, jalapeno, and garlic being sauteed in a skillet.",
+            "text": "Saut\u00e9 Vegetables",
+            "voice_over": "While the chicken cooks, let's prepare the base. In a skillet, saut\u00e9 the chopped onion, bell pepper, jalapeno, and garlic in olive oil for about 5 minutes, until softened.",
+            "scene_image_filename": "recipe_166u8a7i8nacb/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/166u8a7i8nacb-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Show cumin, diced tomatoes, lemon juice, and beans being added to the skillet with the sauteed vegetables.",
+            "text": "Add Flavor & Beans",
+            "voice_over": "Now, add the ground cumin, diced tomatoes, lemon juice, and drained beans to the skillet. Stir everything together.",
+            "scene_image_filename": "recipe_166u8a7i8nacb/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/166u8a7i8nacb-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Show the cooked chicken being added to the skillet with the bean mixture.",
+            "text": "Combine Chicken & Beans",
+            "voice_over": "Once the chicken is cooked, add it to the skillet with the bean mixture.",
+            "scene_image_filename": "recipe_166u8a7i8nacb/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/166u8a7i8nacb-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show chicken broth being poured into the skillet, the mixture being brought to a simmer, and then covered and cooked.",
+            "text": "Simmer & Thicken",
+            "voice_over": "Pour in the chicken broth and give it a good stir. Bring the mixture to a simmer, then cover and cook for 20 minutes. After 20 minutes, uncover and cook for another 10 minutes to let the sauce thicken slightly.",
+            "scene_image_filename": "recipe_166u8a7i8nacb/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/166u8a7i8nacb-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Show the finished dish plated, with the chicken and bean mixture served over a bed of rice. Garnish with fresh cilantro and tortilla chips.",
+            "text": "Serve & Enjoy",
+            "voice_over": "Serve the delicious Southwestern Chicken and bean mixture over a bed of fluffy cooked rice. Garnish with fresh cilantro and tortilla chips for added crunch and flavor. Enjoy!",
+            "scene_image_filename": "recipe_166u8a7i8nacb/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/166u8a7i8nacb-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 40,
+      "total_time_minutes": 60,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Southwestern",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Beans",
+        "Onion",
+        "Bell Pepper",
+        "Jalape\u00f1o",
+        "Garlic",
+        "Tomatoes",
+        "Cumin",
+        "Lemon"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight"
+      ],
+      "cooking_tips": [
+        "For a spicier dish, leave the seeds in the jalape\u00f1o pepper.",
+        "If using canned beans, rinse them thoroughly to remove excess sodium.",
+        "Adjust the amount of chicken broth to achieve desired consistency."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_166u8a7i8nacb/166u8a7i8nacb_main_image.jpg"
+    },
+    {
+      "id": "fksv8suoold0m9",
+      "name": "Easy Crock-Pot Chicken and Rice with Green Beans",
+      "url": "https://www.thespruceeats.com/easy-crock-pot-chicken-with-rice-and-green-beans-3054722",
+      "ingredients": [
+        "2-3 boneless, skinless chicken breasts, halved",
+        "1 (10.75-ounce) can condensed cream of mushroom soup or cream of chicken soup",
+        "1/2 cup water",
+        "3/4 cup uncooked converted rice",
+        "1 1/2 cups chicken broth (omit if cooking rice separately)",
+        "1-2 cups frozen green beans, thawed",
+        "Freshly ground black pepper"
+      ],
+      "directions": [
+        "Step 1: Place the halved chicken breasts in the slow cooker.",
+        "Step 2: In a bowl, whisk together the condensed soup (cream of mushroom or chicken) and water until smooth. Pour this mixture over the chicken in the slow cooker.",
+        "Step 3: Sprinkle the uncooked converted rice over the chicken and soup mixture.  Pour the chicken broth over the rice (omit broth if pre-cooking rice).",
+        "Step 4: Add the thawed green beans on top of the rice and season with freshly ground black pepper.",
+        "Step 5: Cover the slow cooker and cook on LOW for 5-6 hours, or until the chicken is cooked through and the rice is tender."
+      ],
+      "duration": "6 hrs",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksv8suoold0m9-m.webp",
+      "nutrition": {
+        "calories": "410 per serving",
+        "protein": "28 grams per serving",
+        "carbs": "36 grams per serving",
+        "fat": "17 grams per serving",
+        "fiber": "N/A",
+        "sugar": "N/A",
+        "sodium": "N/A"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Easy Crock-Pot Chicken and Rice with Green Beans on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_fksv8suoold0m9/main_image",
+      "video_script": {
+        "title": "Recipe Tutorial: Easy Crock-Pot Chicken and Rice with Green Beans",
+        "description": "A tutorial for making Easy Crock-Pot Chicken and Rice with Green Beans",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Professional food photography of Easy Crock-Pot Chicken and Rice with Green Beans",
+            "text": "Error generating full script",
+            "voice_over": "This recipe tutorial will show you how to make this delicious dish.",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksv8suoold0m9-s.webp"
+          }
+        ],
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]"
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 300,
+      "total_time_minutes": 315,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Green Beans",
+        "Cream of Mushroom Soup"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight"
+      ],
+      "cooking_tips": [
+        "For creamier rice, use cream of chicken soup.",
+        "If using regular long-grain rice, you may need to adjust the amount of liquid and cooking time.",
+        "Pre-cooking the rice separately can help prevent it from becoming mushy.",
+        "Add other vegetables like diced carrots or celery for extra flavor and nutrients."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_fksv8suoold0m9/fksv8suoold0m9_main_image.jpg"
+    },
+    {
+      "id": "6ju7dhob0vi9b",
+      "name": "Greek Chicken and Rice Casserole",
+      "url": "http://greek.food.com/recipe/greek-chicken-rice-167757",
+      "ingredients": [
+        "1 (3-4 lb) whole broiler-fryer chicken, cut into pieces",
+        "3 large onions, 1 whole, 2 coarsely chopped",
+        "1/2 cup long-grain rice",
+        "500g feta cheese, crumbled",
+        "1 cup fresh parsley, chopped",
+        "2 tablespoons butter",
+        "2 1/2 cups chicken broth, divided",
+        "3 large eggs"
+      ],
+      "directions": [
+        "Step 1: In a large pot, place the whole chicken and 1 whole onion. Cover with water and bring to a boil. Reduce heat and simmer until chicken is cooked through, about 30-40 minutes.",
+        "Step 2: Remove the chicken and onion from the pot. Reserve 2 1/2 cups of the cooking broth. Set the chicken aside to cool slightly. Discard the whole onion.",
+        "Step 3: Preheat oven to 200\u00b0C (350\u00b0F).",
+        "Step 4: Shred the cooked chicken from the bones and discard the skin and bones.",
+        "Step 5: In a large casserole dish, spread the coarsely chopped onions evenly across the bottom.",
+        "Step 6: Sprinkle the crumbled feta cheese, chopped parsley, and rice over the onions.",
+        "Step 7: Top with the shredded chicken and pour 1 1/2 cups of the reserved chicken broth over the mixture.",
+        "Step 8: Dot the top with butter.",
+        "Step 9: Bake for 45 minutes.",
+        "Step 10: In a bowl, whisk together the eggs and the remaining 1 cup of reserved chicken broth.",
+        "Step 11: Pour the egg mixture over the casserole and bake for an additional 30 minutes, or until the top is golden brown and the casserole is set."
+      ],
+      "duration": "2 hrs 40 mins",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/6ju7dhob0vi9b-m.webp",
+      "nutrition": {
+        "calories": "500 per serving",
+        "protein": "40 grams per serving",
+        "carbs": "30 grams per serving",
+        "fat": "25 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "5 grams per serving",
+        "sodium": "800 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Greek Chicken and Rice Casserole on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_6ju7dhob0vi9b/main_image",
+      "video_script": {
+        "title": "Greek Chicken and Rice Casserole",
+        "description": "A comforting and flavorful Greek-inspired casserole featuring tender chicken, fluffy rice, feta cheese, and fresh herbs.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished Greek Chicken and Rice Casserole, golden brown on top, with melted feta cheese visible and garnished with fresh parsley. Steam gently rising.",
+            "text": "Greek Chicken & Rice Casserole",
+            "voice_over": "Craving a hearty and delicious meal?  Today, we're making Greek Chicken and Rice Casserole! It's packed with flavor and perfect for a family dinner.",
+            "scene_image_filename": "recipe_6ju7dhob0vi9b/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6ju7dhob0vi9b-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients arranged on a wooden table: a whole raw chicken, three large onions, long-grain rice in a bowl, crumbled feta cheese in a bowl, fresh parsley, butter, chicken broth, and eggs.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: a whole chicken, onions, long-grain rice, feta cheese, fresh parsley, butter, chicken broth, and eggs.",
+            "scene_image_filename": "recipe_6ju7dhob0vi9b/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6ju7dhob0vi9b-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A large pot on a stovetop with a whole chicken and a whole onion submerged in boiling water.",
+            "text": "Simmer the Chicken",
+            "voice_over": "Place the whole chicken and one whole onion in a large pot, cover with water, and bring to a boil. Reduce heat and simmer for 30-40 minutes, or until cooked through.",
+            "scene_image_filename": "recipe_6ju7dhob0vi9b/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6ju7dhob0vi9b-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Shredded cooked chicken in a bowl.",
+            "text": "Shred Chicken",
+            "voice_over": "Remove the chicken and onion from the pot, reserving 2 1/2 cups of the broth. Let the chicken cool, then shred it, discarding the skin and bones. Discard the whole onion.",
+            "scene_image_filename": "recipe_6ju7dhob0vi9b/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6ju7dhob0vi9b-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A casserole dish with layers of chopped onions, crumbled feta cheese, chopped parsley, and rice.",
+            "text": "Layer Ingredients",
+            "voice_over": "Preheat oven to 350\u00b0F (200\u00b0C). In a casserole dish, layer chopped onions, feta, parsley, and rice.",
+            "scene_image_filename": "recipe_6ju7dhob0vi9b/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6ju7dhob0vi9b-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Casserole dish with shredded chicken on top of the rice mixture, chicken broth being poured over it, and dots of butter on top.",
+            "text": "Combine & Bake",
+            "voice_over": "Top with shredded chicken and pour 1 1/2 cups of reserved broth over it. Dot with butter and bake for 45 minutes.",
+            "scene_image_filename": "recipe_6ju7dhob0vi9b/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6ju7dhob0vi9b-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "A bowl with whisked eggs and chicken broth.",
+            "text": "Egg Mixture",
+            "voice_over": "Whisk together the eggs and remaining chicken broth.",
+            "scene_image_filename": "recipe_6ju7dhob0vi9b/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6ju7dhob0vi9b-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Casserole dish with the egg mixture poured over it, baking in the oven.",
+            "text": "Final Bake",
+            "voice_over": "Pour the egg mixture over the casserole and bake for another 30 minutes, until golden brown and set.",
+            "scene_image_filename": "recipe_6ju7dhob0vi9b/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6ju7dhob0vi9b-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The finished Greek Chicken and Rice Casserole, golden brown, garnished with fresh parsley, being served onto a plate with a serving spoon.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Serve hot and enjoy! This casserole is about 500 calories per serving with 40 grams of protein, 30 grams of carbs, and 25 grams of fat.  It's great as a weeknight dinner or for a special occasion.",
+            "scene_image_filename": "recipe_6ju7dhob0vi9b/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6ju7dhob0vi9b-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 115,
+      "total_time_minutes": 135,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dinner"
+      ],
+      "cuisine_type": "Greek",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Feta",
+        "Parsley",
+        "Onion"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Family Meal"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use bone-in, skin-on chicken thighs instead of a whole chicken.",
+        "If you don't have fresh parsley, you can substitute with 1 tablespoon of dried parsley.",
+        "Add a pinch of dried oregano or thyme to the casserole for extra depth of flavor.",
+        "Serve the casserole with a side of Greek salad or roasted vegetables."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_6ju7dhob0vi9b/6ju7dhob0vi9b_main_image.jpg"
+    },
+    {
+      "id": "47hp67kob5gno",
+      "name": "Sweet Chili Chicken With Asian Vegetable Rice",
+      "url": "http://www.food.com/recipe/sweet-chili-chicken-with-asian-vegetable-rice-450681",
+      "ingredients": [
+        "1/3 cup soy sauce",
+        "2 tablespoons seasoned rice vinegar",
+        "1/4 cup chopped fresh cilantro",
+        "2 tablespoons minced ginger",
+        "2 tablespoons minced garlic",
+        "6 boneless skinless chicken breasts",
+        "3/4 cup Thai sweet chili sauce (Mae Ploy or Sriracha with a little honey or brown sugar added)",
+        "1 1/2 cups jasmine rice",
+        "3 tablespoons seasoned rice vinegar",
+        "2/3 cup grated carrot",
+        "2/3 cup diagonally sliced sugar snap pea (optional)",
+        "1/3 cup diced red bell pepper",
+        "2 tablespoons black sesame seeds",
+        "1/2 teaspoon salt (to taste)",
+        "2 green onions, thinly sliced diagonal",
+        "{\"cal\":\"\",\"fat\":\"\",\"carb\":\"\",\"prot\":\"\"}"
+      ],
+      "directions": [
+        "In a large sealable plastic bag, combine the soy sauce, vinegar, cilantro, ginger and garlic",
+        "Add chicken and refrigerate 1 to 4 hours.Preheat oven to 450 degrees",
+        "Line a baking sheet with foil",
+        "Spray foil with nonstick spray",
+        "Remove chicken from marinade and drain; discard marinade",
+        "Place sweet chili sauce in a large bowl add chicken and toss to coat",
+        "Place chicken on baking sheet and bake 20 minutes or until chicken is cooked through.Meanwhile, cook rice according to package directions, omitting butter or margarine",
+        "While rice is cooking, combine rice vinegar with carrot, snap peas (if using), bell pepper, sesame seeds, and salt",
+        "Stir mixture into freshly cooked rice and adjust seasonings to taste.Slice chicken diagonally and serve over rice",
+        "Sprinkle green onions over top."
+      ],
+      "duration": "1 hrs 20 mins",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/47hp67kob5gno-m.webp",
+      "nutrition": null
+    },
+    {
+      "id": "fks1jfgmk4lnjh",
+      "name": "Sesame chicken and veggie fried rice",
+      "url": "http://gringalicious.com/sesame-pomegranate-chicken-and-veggie-fried-rice/",
+      "ingredients": [
+        "1 1/2 pounds boneless, skinless chicken breast chicken",
+        "3 eggs",
+        "3/4 cup cornstarch",
+        "1/4 cup cold water",
+        "3 tablespoons cornstarch",
+        "1 tablespoon freshly grated ginger",
+        "4 cloves garlic, minced",
+        "2 tablespoons sesame seeds (plus more for topping)",
+        "2 tablespoon toasted sesame oil",
+        "1 1/2 cups chicken stock",
+        "1/2 cup soy sauce (gluten free if necessary)",
+        "1 cup pomegranate juice",
+        "1/4 cup rice wine vinegar",
+        "1 1/4 cups brown sugar",
+        "1/4 cup pomegranate molasses",
+        "1 tablespoon chili garlic paste (or more to heat preference)",
+        "About 2 quarts peanut or sunflower oil for frying",
+        "Pomegranate arils for serving (optional)",
+        "4 cups cooked brown rice (or white)",
+        "3 cups stir-fry vegetables of choice",
+        "1/4 cup peanut or sunflower oil, divided",
+        "1 1/2 cups chicken or vegetable broth",
+        "2 eggs",
+        "3 tablespoons soy sauce",
+        "2 tablespoons toasted sesame oil",
+        "Sea salt to taste",
+        "{\"cal\":\"\",\"fat\":\"\",\"carb\":\"\",\"prot\":\"\"}"
+      ],
+      "directions": [
+        "Combine cornstarch and eggs in a medium bowl and whisk until smooth. Add chicken and stir to coat. Place in refrigerator for up to 24 hours or just while you make the sauce.",
+        "Whisk cornstarch and 1/4 cup water in a small bowl and set aside. Saute garlic, ginger, and sesame seeds with sesame oil in a saucepan or wok over medium heat for 3 to 4 minutes until browned. Add remaining ingredients from stock to chili garlic paste and bring to a boil over medium high heat, stirring often. Continue boiling until the sauce is just starting to thicken a little, about 10 minutes. Pour in water/cornstarch while stirring and stir until thick. Remove from heat and cover to keep warm.",
+        "Heat a deep fryer filled with recommended amount of oil (alternatively you can use at least 2 inches of oil in a dutch oven or wok instead) to 350 degrees F (180 C). Remove chicken slurry from fridge and drop a few pieces at a time into hot oil. Fry on each side for about 2 minutes until golden and crispy. Remove to a plate lined with paper towels to drain. Continue until all chicken is cooked.",
+        "Toss chicken in warm sauce and serve immediately topped with pomegranate arils and extra sesame seeds along with the rice.",
+        "Veggie Fried Rice : Add 3 tablespoons oil, garlic, and vegetables to large skillet or wok and cook until veggies are starting to soften, about 3 minutes. Add broth and continue stirring until most of the liquid is evaporated. Make a space in the center of the pan and pour in 1 tablespoon more oil and crack in eggs. Quickly scramble and break into small pieces as it cooks then stir into veggies. Now add soy sauce, sesame oil, and rice and toss to coat. Cook for about 5 minutes until it starts to darken and gets hot. Remove from heat and season to taste with salt then serve with chicken."
+      ],
+      "duration": "1 hour 10 minutes ",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1jfgmk4lnjh-m.webp",
+      "nutrition": null
+    },
+    {
+      "id": "fks8k3f1f7fck1",
+      "name": "One-Pot Teriyaki Chicken and Rice",
+      "url": "http://www.pressurecookrecipes.com/one-pot-pressure-cooker-teriyaki-chicken-rice",
+      "ingredients": [
+        "6 bone-in, skin-on chicken thighs",
+        "4 cloves garlic, crushed",
+        "1 very thin slice ginger",
+        "1 1/2 tablespoons cornstarch",
+        "2 tablespoons water",
+        "4 tablespoons Japanese soy sauce",
+        "4 tablespoons mirin",
+        "4 tablespoons Japanese cooking sake",
+        "1/2 teaspoon sesame oil",
+        "2 tablespoons sugar",
+        "1 cup (250ml) water",
+        "1 cup (230g) medium-grain Calrose rice"
+      ],
+      "directions": [
+        "Step 1: Marinate the Chicken: In a bowl, combine 4 tablespoons soy sauce, 4 tablespoons mirin, 4 tablespoons sake, 1/2 teaspoon sesame oil, and 2 tablespoons sugar. Mix well and taste, adjusting seasoning as needed. Marinate the chicken thighs in the mixture for 20 minutes.",
+        "Step 2: Saut\u00e9 Aromatics: Pour the marinade (without the chicken) into the pressure cooker. Add the crushed garlic and ginger slice. Select the \"Saut\u00e9\" function and bring the mixture to a boil. Boil for 30 seconds to allow the alcohol in the sake to evaporate.",
+        "Step 3: Pressure Cook Chicken and Rice: Place the chicken thighs skin-side up in the pressure cooker. Insert a steamer rack and place a heat-proof bowl containing the rice on top. Pour 1 cup of water over the rice, ensuring it's fully submerged. Close the lid and cook on high pressure for 6 minutes. Allow for a full natural pressure release (about 10 minutes). Carefully open the lid.",
+        "Step 4: Thicken Sauce: Remove the chicken thighs and set aside. Fluff the rice and set aside. Discard the ginger and garlic. Select the \"Saut\u00e9\" function again. Taste the sauce and adjust seasoning if needed. In a small bowl, whisk together the cornstarch and water. Gradually add the cornstarch mixture to the sauce, stirring constantly, until desired thickness is achieved.",
+        "Step 5 (Optional): Broil Chicken: Preheat oven to 450\u00b0F. Brush the chicken thighs with the thickened teriyaki sauce. Place the chicken on a wire rack set over a baking sheet and broil for 5-8 minutes, or until slightly caramelized.",
+        "Step 6: Serve: Serve the chicken thighs immediately over rice."
+      ],
+      "duration": "55 minutes ",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks8k3f1f7fck1-m.webp",
+      "nutrition": {
+        "calories": "500-600 per serving",
+        "protein": "40-50 grams per serving",
+        "carbs": "50-60 grams per serving",
+        "fat": "20-30 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "20-25 grams per serving",
+        "sodium": "1000-1500 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a one-pot teriyaki chicken and rice dish with glistening, crispy-skinned chicken thighs nestled amongst fluffy white rice. Use a dark, rustic wooden background and matte black chopsticks. Garnish with thinly sliced green onions and toasted sesame seeds. Shoot from a slightly overhead angle, with a shallow depth of field focusing on a chicken thigh in the foreground. Emphasize warm, inviting lighting that highlights the glossy teriyaki glaze and steam rising from the dish, creating a cozy, comforting mood.",
+      "image_filepath": "recipe_fks8k3f1f7fck1/main_image",
+      "video_script": {
+        "title": "Recipe Tutorial: One-Pot Teriyaki Chicken and Rice",
+        "description": "A tutorial for making One-Pot Teriyaki Chicken and Rice",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Professional food photography of One-Pot Teriyaki Chicken and Rice",
+            "text": "Error generating full script",
+            "voice_over": "This recipe tutorial will show you how to make this delicious dish.",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks8k3f1f7fck1-s.webp"
+          }
+        ],
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]"
+      },
+      "preparation_time_minutes": 25,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Japanese",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Garlic",
+        "Ginger",
+        "Soy Sauce",
+        "Mirin",
+        "Sake",
+        "Sesame Oil",
+        "Sugar"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight Dinner"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use bone-in, skin-on chicken thighs.",
+        "Adjust the amount of sugar in the teriyaki sauce to your preference.",
+        "If you don't have a pressure cooker, you can adapt this recipe for the stovetop or slow cooker."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_fks8k3f1f7fck1/fks8k3f1f7fck1_main_image.jpg"
+    },
+    {
+      "id": "2v8ahqjjm3tap",
+      "name": "Shredded chicken rice cups",
+      "url": "http://www.taste.com.au/recipes/236/shredded+chicken+rice+cups",
+      "ingredients": [
+        "1 1/2 cups jasmine rice, rinsed",
+        "1 chicken stock cube",
+        "400g chicken breast fillets, trimmed",
+        "1 tablespoon red wine vinegar",
+        "1 tablespoon Maille Dijon Mustard",
+        "4 green onions, sliced",
+        "2 stalks celery, sliced",
+        "125g roasted capsicum (in brine), chopped",
+        "2 tablespoons flat-leaf parsley leaves, finely chopped",
+        "8 iceberg lettuce leaves",
+        "1/4 cup dry roasted cashews, chopped",
+        "{\"cal\":\"\",\"fat\":\"\",\"carb\":\"\",\"prot\":\"\"}"
+      ],
+      "directions": [
+        "Bring 3 cups cold water to the boil in a saucepan over high heat",
+        "Add rice and crumble over stock",
+        "Return to the boil, stirring",
+        "Reduce heat to low",
+        "Add chicken",
+        "Cover",
+        "Simmer for 10 minutes",
+        "Remove pan from heat",
+        "Stand, covered, for 10 minutes.Remove chicken",
+        "Set aside to cool",
+        "Transfer rice to a large bowl",
+        "Shred chicken.Combine vinegar and mustard",
+        "Pour over rice",
+        "Stir with a fork to combine",
+        "Add onions, celery, capsicum, parsley and chicken",
+        "Toss to combine.Spoon warm rice mixture into lettuce cups",
+        "Top with cashews and serve."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/2v8ahqjjm3tap-m.webp",
+      "nutrition": null
+    },
+    {
+      "id": "6bl3hce3023lm",
+      "name": "Quick & Easy Chicken Curry with Rice",
+      "url": "http://www.food.com/recipe/super-simple-super-quick-chicken-curry-and-rice-370684",
+      "ingredients": [
+        "1 boneless, skinless chicken breast, cubed",
+        "1/2 cup uncooked long-grain rice",
+        "1 cup chicken broth or 1 tablespoon chicken base dissolved in 1 cup hot water",
+        "1-1 1/2 tablespoons curry powder",
+        "1/2 tablespoon chili powder",
+        "1/2 tablespoon dried minced onion or 3 tablespoons diced fresh onion",
+        "2 tablespoons minced garlic",
+        "1/2 tablespoon crushed red pepper flakes"
+      ],
+      "directions": [
+        "Step 1: In a 2-inch deep pan, combine chicken broth (or water and chicken base) and cubed chicken. Place pan on medium-high heat.",
+        "Step 2: Add curry powder, chili powder, minced onion (dried or fresh), minced garlic, and crushed red pepper flakes to the pan. Stir well to coat the chicken with the spices.",
+        "Step 3: Cook chicken uncovered, stirring frequently, until cooked through. Remove chicken from heat and cover to keep warm.",
+        "Step 4: In a separate pan, cook rice according to package directions. Substitute the cooking water with the drippings/liquid from the chicken pan (approximately 1/2 cup). Supplement with additional water as needed to reach the required amount for cooking the rice (approximately 1 1/3 cups total).",
+        "Step 5: Once the rice is cooked, add it to the pan with the chicken. Stir well to combine and heat through for about 3 minutes over medium-high heat."
+      ],
+      "duration": "30 mins",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/6bl3hce3023lm-m.webp",
+      "nutrition": {
+        "calories": "350-400 per serving",
+        "protein": "30-35 grams per serving",
+        "carbs": "40-45 grams per serving",
+        "fat": "10-15 grams per serving",
+        "fiber": "3-4 grams per serving",
+        "sugar": "2-3 grams per serving",
+        "sodium": "600-800 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Quick & Easy Chicken Curry with Rice on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_6bl3hce3023lm/main_image",
+      "video_script": {
+        "title": "Quick & Easy Chicken Curry with Rice",
+        "description": "A flavorful and satisfying chicken curry recipe that's ready in under 30 minutes!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a steaming plate of chicken curry with rice, garnished with fresh cilantro. The background is slightly blurred, emphasizing the vibrant colors and textures of the dish.",
+            "text": "Quick & Easy Chicken Curry",
+            "voice_over": "Craving a delicious and healthy weeknight meal? Look no further! This quick and easy chicken curry with rice is packed with flavor and ready in under 30 minutes.",
+            "scene_image_filename": "recipe_6bl3hce3023lm/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6bl3hce3023lm-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients laid out on a clean countertop: Cubed chicken breast, a bag of long-grain rice, a can of chicken broth, curry powder, chili powder, dried minced onion, minced garlic, and crushed red pepper flakes.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one boneless, skinless chicken breast, cubed; half a cup of uncooked long-grain rice; one cup of chicken broth; curry powder; chili powder; dried minced onion; minced garlic; and crushed red pepper flakes.",
+            "scene_image_filename": "recipe_6bl3hce3023lm/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6bl3hce3023lm-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Chicken and broth simmering in a pan on the stovetop. Spices are being added to the pan.",
+            "text": "Combine & Simmer",
+            "voice_over": "In a pan, combine the chicken broth and cubed chicken. Place the pan on medium-high heat. Add the curry powder, chili powder, minced onion, minced garlic, and red pepper flakes. Stir well to coat the chicken.",
+            "scene_image_filename": "recipe_6bl3hce3023lm/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6bl3hce3023lm-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Close-up shot of the chicken cooking in the pan, spices bubbling around it. Steam is rising from the pan.",
+            "text": "Cook Chicken",
+            "voice_over": "Cook the chicken uncovered, stirring frequently, until cooked through. This should take about 8-10 minutes. Remove the chicken from the heat and cover to keep it warm.",
+            "scene_image_filename": "recipe_6bl3hce3023lm/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6bl3hce3023lm-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Rice cooking in a separate pan on the stovetop. The chicken drippings are being added to the rice.",
+            "text": "Cook Rice",
+            "voice_over": "In a separate pan, cook the rice according to package directions, substituting the cooking water with the drippings from the chicken pan. Supplement with additional water as needed.",
+            "scene_image_filename": "recipe_6bl3hce3023lm/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6bl3hce3023lm-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Cooked rice being added to the pan with the chicken. The mixture is being stirred together.",
+            "text": "Combine & Serve",
+            "voice_over": "Once the rice is cooked, add it to the pan with the chicken. Stir well to combine and heat through for about 3 minutes over medium-high heat.",
+            "scene_image_filename": "recipe_6bl3hce3023lm/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6bl3hce3023lm-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished dish, chicken curry with rice, served on a plate and garnished with fresh cilantro.",
+            "text": "Enjoy!",
+            "voice_over": "Serve hot and enjoy! This chicken curry with rice is a complete and satisfying meal on its own. It also pairs well with a side of naan bread or a fresh salad.",
+            "scene_image_filename": "recipe_6bl3hce3023lm/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6bl3hce3023lm-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Text overlay on a close-up of the finished dish. Text reads \"Nutritional info:\" with details listed below",
+            "text": "Nutritional Info (per serving)",
+            "voice_over": "Each serving contains approximately 350 to 400 calories, 30 to 35 grams of protein, 40 to 45 grams of carbs, and 10 to 15 grams of fat.",
+            "scene_image_filename": "recipe_6bl3hce3023lm/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6bl3hce3023lm-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 35,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Curry Powder",
+        "Garlic",
+        "Onion"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight"
+      ],
+      "cooking_tips": [
+        "Adjust the amount of curry powder and red pepper flakes to control the spiciness level.",
+        "For a richer flavor, use bone-in, skin-on chicken thighs instead of chicken breast.",
+        "Add other vegetables like diced bell peppers, carrots, or peas to the curry for a more complete meal.",
+        "Serve with a side of naan bread or raita (yogurt dip) for a more authentic experience."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_6bl3hce3023lm/6bl3hce3023lm_main_image.jpg"
+    },
+    {
+      "id": "3qc2i4v0dm1ok",
+      "name": "Portuguese chicken with rice",
+      "url": "http://www.taste.com.au/recipes/33157/portuguese+chicken+with+rice",
+      "ingredients": [
+        "1 large red capsicum",
+        "2 tablespoons lemon juice",
+        "2 teaspoons sweet paprika",
+        "2 teaspoons ground coriander",
+        "3 garlic cloves",
+        "2 tablespoons olive oil",
+        "500g chicken breast fillets",
+        "1 cup medium grain brown rice",
+        "1 carrot, diced",
+        "1/2 cup frozen corn kernels",
+        "100g green beans, trimmed, cut into 2cm lengths",
+        "Fresh coriander leaves and lemon wedges, to serve",
+        "{\"cal\":\"\",\"fat\":\"\",\"carb\":\"\",\"prot\":\"\"}"
+      ],
+      "directions": [
+        "Preheat grill on high",
+        "Halve capsicum",
+        "Remove and discard seeds and membrane",
+        "Cut each piece in half",
+        "Place capsicum, skin-side up, on a tray lined with foil",
+        "Grill for 5 to 7 minutes or until charred and tender",
+        "Place in a snap-lock bag",
+        "Seal",
+        "Set aside for 10 minutes",
+        "Peel and discard skin from capsicum",
+        "Set aside to cool for 5 minutes.Place capsicum, lemon juice, paprika, coriander, garlic and 1 tablespoon oil in a food processor",
+        "Process until smooth",
+        "Transfer mixture to a shallow glass or ceramic dish",
+        "Add chicken",
+        "Toss to coat",
+        "Refrigerate overnight, if time permits.Preheat oven to 200\u00b0C/180\u00b0C fan-forced",
+        "Line a baking tray with baking paper",
+        "Drizzle chicken with remaining oil",
+        "Season lightly with pepper",
+        "Toss to coat",
+        "Heat a frying pan over medium-high heat",
+        "Add chicken",
+        "Cook for 2 to 3 minutes each side or until golden",
+        "Transfer to prepared baking tray",
+        "Bake for 12 to 15 minutes or until just cooked through",
+        "Remove from oven",
+        "Stand, covered, for 5 minutes to rest.Meanwhile, cook rice in a large saucepan of boiling water, following packet directions, adding carrot for the last 5 minutes and corn and beans in the last 2 minutes, or until just tender",
+        "Drain.Thickly slice chicken",
+        "Spoon rice mixture onto plates",
+        "Top with chicken",
+        "Serve with coriander and lemon wedges."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/3qc2i4v0dm1ok-m.webp",
+      "nutrition": null
+    },
+    {
+      "id": "fks2frh4vf39csd",
+      "name": "Hearty Chicken and Rice Soup",
+      "url": "http://photosandfood.ca/2015/09/23/hearty-chicken-and-rice-soup/",
+      "ingredients": [
+        "1 (3-3.5 lb) whole chicken, cut into 8 pieces",
+        "3 tablespoons olive oil",
+        "1/2 medium cooking onion, finely diced",
+        "4 cloves garlic, minced",
+        "10 cups water",
+        "3 teaspoons salt",
+        "1/2 teaspoon white pepper",
+        "1 1/2 cups carrots, chopped",
+        "1 1/4 cups short-grain rice (Italian style)",
+        "1/2 cup fresh parsley, chopped",
+        "1 lemon, juiced"
+      ],
+      "directions": [
+        "Step 1: Heat olive oil in a large pot over medium-high heat.",
+        "Step 2: Add diced onions and saut\u00e9 until translucent.",
+        "Step 3: Add minced garlic and saut\u00e9 for about 2 minutes, being careful not to burn.",
+        "Step 4: Place chicken pieces in the pot and season with salt and pepper.",
+        "Step 5: Add water and chopped carrots to the pot.",
+        "Step 6: Bring the mixture to a gentle boil, then reduce heat to medium, cover, and simmer for 25 minutes.",
+        "Step 7: Remove the cooked chicken from the pot and set aside on a plate. Turn off the heat.",
+        "Step 8: Let the chicken cool for about 10 minutes, or until it's easy to handle.",
+        "Step 9: Remove and discard the skin and bones from the chicken.",
+        "Step 10: Chop the chicken into bite-sized pieces.",
+        "Step 11: Add the chopped chicken and rice to the pot.",
+        "Step 12: Return the pot to medium-high heat and bring to a slow boil.",
+        "Step 13: Reduce heat to medium, cover, and simmer for 13 minutes.",
+        "Step 14: Check the rice for doneness. Simmer for a few more minutes if needed, until cooked through.",
+        "Step 15: Adjust salt to taste.",
+        "Step 16: Remove the pot from the heat and stir in the chopped parsley.",
+        "Step 17: Ladle the soup into bowls and drizzle each serving with fresh lemon juice."
+      ],
+      "duration": "50 minutes ",
+      "serves": "812",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2frh4vf39csd-m.webp",
+      "nutrition": {
+        "calories": "400 per serving",
+        "protein": "30 grams per serving",
+        "carbs": "35 grams per serving",
+        "fat": "15 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "5 grams per serving",
+        "sodium": "800 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Hearty Chicken and Rice Soup on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_fks2frh4vf39csd/main_image",
+      "video_script": {
+        "title": "Hearty Chicken and Rice Soup",
+        "description": "A comforting and flavorful chicken and rice soup recipe, perfect for a chilly evening.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a steaming bowl of hearty chicken and rice soup, garnished with fresh parsley and a lemon wedge. Focus on the texture and vibrant colors of the soup.",
+            "text": "Hearty Chicken & Rice Soup",
+            "voice_over": "Warm up with a bowl of our hearty chicken and rice soup! This recipe is packed with flavor and easy to make.",
+            "scene_image_filename": "recipe_fks2frh4vf39csd/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2frh4vf39csd-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a wooden table. Group related ingredients: whole chicken, olive oil; onion, garlic; carrots, parsley, lemon; rice, salt, pepper.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: a whole chicken cut into pieces, olive oil, onion, garlic, water, salt, white pepper, carrots, short-grain rice, fresh parsley, and a lemon.",
+            "scene_image_filename": "recipe_fks2frh4vf39csd/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2frh4vf39csd-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of a pot on the stove with olive oil heating up.  Saut\u00e9ed onions and garlic in the pot.",
+            "text": "Saut\u00e9 Aromatics",
+            "voice_over": "Heat olive oil in a large pot over medium-high heat. Add diced onions and saut\u00e9 until translucent. Then, add minced garlic and saut\u00e9 for about 2 minutes, being careful not to burn it.",
+            "scene_image_filename": "recipe_fks2frh4vf39csd/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2frh4vf39csd-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Chicken pieces browning in the pot with the onions and garlic.  Steam rising from the pot.",
+            "text": "Sear Chicken",
+            "voice_over": "Place the chicken pieces in the pot and season generously with salt and pepper. Sear the chicken for a few minutes on each side until lightly browned.",
+            "scene_image_filename": "recipe_fks2frh4vf39csd/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2frh4vf39csd-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Pot filled with chicken, carrots, and water, simmering gently. Steam rising from the pot. Show carrots next to the pot",
+            "text": "Simmer",
+            "voice_over": "Add water and chopped carrots to the pot. Bring the mixture to a gentle boil, then reduce heat to medium, cover, and simmer for 25 minutes.",
+            "scene_image_filename": "recipe_fks2frh4vf39csd/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2frh4vf39csd-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Cooked chicken being removed from the pot and placed on a plate to cool. ",
+            "text": "Shred Chicken",
+            "voice_over": "Remove the cooked chicken from the pot and set it aside to cool. Once cool enough to handle, remove and discard the skin and bones. Shred the chicken into bite-sized pieces.",
+            "scene_image_filename": "recipe_fks2frh4vf39csd/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2frh4vf39csd-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Shredded chicken and rice being added back to the pot. Close up of the pot with all the ingredients.",
+            "text": "Add Rice & Chicken",
+            "voice_over": "Return the pot to medium-high heat. Add the shredded chicken and rice. Bring to a slow boil, then reduce heat to medium, cover, and simmer for 13 minutes, or until the rice is cooked through.",
+            "scene_image_filename": "recipe_fks2frh4vf39csd/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2frh4vf39csd-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "A hand stirring the soup with parsley in the background. ",
+            "text": "Final Touches",
+            "voice_over": "Adjust salt to taste. Stir in the chopped fresh parsley. Remove from heat.",
+            "scene_image_filename": "recipe_fks2frh4vf39csd/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2frh4vf39csd-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a bowl of finished soup, garnished with fresh parsley and a lemon wedge being drizzled over it.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Ladle the soup into bowls and drizzle each serving with fresh lemon juice. Enjoy!",
+            "scene_image_filename": "recipe_fks2frh4vf39csd/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2frh4vf39csd-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 45,
+      "total_time_minutes": 65,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Onion",
+        "Garlic",
+        "Carrots",
+        "Parsley",
+        "Lemon"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use bone-in chicken thighs instead of a whole chicken.",
+        "Add other vegetables like celery or diced potatoes for a heartier soup.",
+        "If you prefer a thicker soup, you can mash some of the cooked rice against the side of the pot to release its starch."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_fks2frh4vf39csd/fks2frh4vf39csd_main_image.jpg"
+    },
+    {
+      "id": "4464ffcmo10bm",
+      "name": "Sticky Coconut Chicken with Chili Glaze and Coconut Rice",
+      "url": "http://www.food.com/recipe/sticky-coconut-chicken-with-chili-glaze-and-coconut-rice-192940",
+      "ingredients": [
+        "6 boneless, skinless chicken breasts",
+        "1/4 cup canned coconut milk (stir before measuring)",
+        "1 tablespoon minced fresh ginger",
+        "1 teaspoon freshly ground black pepper",
+        "1 teaspoon hot chili flakes",
+        "4-5 thinly sliced green onions",
+        "3/4 cup rice vinegar",
+        "1/2 cup sugar",
+        "3 tablespoons soy sauce",
+        "1 teaspoon crushed red pepper flakes",
+        "3/4 cup light coconut milk",
+        "2 tablespoons light coconut milk (reserved)",
+        "1 1/2 cups water",
+        "2 cloves minced garlic",
+        "1/2 teaspoon salt",
+        "1 cup basmati rice",
+        "1/2 cup chopped pineapple",
+        "2 tablespoons fresh Thai basil chiffonade"
+      ],
+      "directions": [
+        "1. Prepare the Chicken: Rinse the chicken breasts and pat them dry.",
+        "2. Marinate the Chicken: In a large bowl, combine the coconut milk, ginger, black pepper, and hot chili flakes. Add the chicken breasts, ensuring they are fully coated. Cover the bowl tightly and refrigerate for at least 1 hour, or up to 24 hours.",
+        "3. Prepare the Glaze: In a 2- to 3-quart saucepan, combine the rice vinegar, sugar, soy sauce, and crushed red pepper flakes. Bring the mixture to a boil over high heat, stirring occasionally. Reduce the heat to medium and continue to cook, stirring often, until the glaze has thickened and reduced to about 1/2 cup, approximately 8-10 minutes. Set aside.",
+        "4. Start the Rice: While the glaze is reducing, bring the 3/4 cup coconut milk, water, garlic, and salt to a boil in a medium saucepan. Add the rice, reduce heat to low, cover, and simmer for 20 minutes, or until all the liquid is absorbed and the rice is cooked through.",
+        "5. Cook the Chicken: Preheat grill or broiler to high heat. Remove the chicken from the marinade, discarding the marinade. Grill or broil the chicken for 5-7 minutes per side, or until cooked through and no longer pink inside.",
+        "6. Glaze and Serve: Transfer the cooked chicken to a serving platter. Pour the chili glaze evenly over the chicken. Garnish with sliced green onions. Fluff the cooked rice with a fork and stir in the reserved 2 tablespoons of coconut milk, chopped pineapple, and Thai basil. Serve the chicken with the coconut rice."
+      ],
+      "duration": "1 hrs 25 mins",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/4464ffcmo10bm-m.webp",
+      "nutrition": {
+        "calories": "500 per serving",
+        "protein": "35 grams per serving",
+        "carbs": "60 grams per serving",
+        "fat": "20 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "30 grams per serving",
+        "sodium": "800 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Sticky Coconut Chicken with Chili Glaze and Coconut Rice on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_4464ffcmo10bm/main_image",
+      "video_script": {
+        "title": "Sticky Coconut Chicken with Chili Glaze & Coconut Rice",
+        "description": "Learn to make this flavorful and easy Sticky Coconut Chicken with a spicy chili glaze and a side of fragrant coconut rice. Perfect for a weeknight dinner or a weekend feast!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished dish: Sticky Coconut Chicken glistening with chili glaze, served over a bed of fluffy coconut rice with pineapple chunks and Thai basil, garnished with green onions. Focus on the vibrant colors and textures.",
+            "text": "Sticky Coconut Chicken",
+            "voice_over": "Welcome! Today, we're making Sticky Coconut Chicken with a vibrant chili glaze and fragrant coconut rice. This dish is bursting with flavor and surprisingly easy to make.",
+            "scene_image_filename": "recipe_4464ffcmo10bm/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4464ffcmo10bm-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Show all ingredients neatly arranged on a table: Chicken breasts, coconut milk, ginger, chili flakes, green onions, rice vinegar, sugar, soy sauce, light coconut milk, water, garlic, salt, basmati rice, pineapple, and Thai basil.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need. For the chicken, we have chicken breasts, coconut milk, ginger, black pepper, and chili flakes. For the glaze: rice vinegar, sugar, soy sauce, and red pepper flakes. For the rice: coconut milk, water, garlic, salt, basmati rice, pineapple, and Thai basil.",
+            "scene_image_filename": "recipe_4464ffcmo10bm/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4464ffcmo10bm-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show chicken breasts being coated in the marinade (coconut milk, ginger, pepper, and chili flakes) in a bowl.",
+            "text": "Marinate Chicken",
+            "voice_over": "First, combine coconut milk, ginger, pepper, and chili flakes in a bowl. Add the chicken breasts, ensuring they're fully coated. Cover and refrigerate for at least an hour, or up to 24.",
+            "scene_image_filename": "recipe_4464ffcmo10bm/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4464ffcmo10bm-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Show the glaze ingredients (rice vinegar, sugar, soy sauce, and red pepper flakes) simmering in a saucepan, thickening as they reduce.",
+            "text": "Make Chili Glaze",
+            "voice_over": "While the chicken marinates, make the glaze. Combine rice vinegar, sugar, soy sauce, and red pepper flakes in a saucepan. Bring to a boil, then simmer until thickened, about 8-10 minutes. Set aside.",
+            "scene_image_filename": "recipe_4464ffcmo10bm/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4464ffcmo10bm-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Show coconut milk, water, garlic, salt and rice being added to the saucepan, then the rice simmering, covered, on low heat.",
+            "text": "Cook Coconut Rice",
+            "voice_over": "In another saucepan, combine coconut milk, water, garlic, and salt. Bring to a boil, add the rice, reduce heat, cover, and simmer for 20 minutes.",
+            "scene_image_filename": "recipe_4464ffcmo10bm/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4464ffcmo10bm-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up of chicken grilling on a hot grill, with flames visible in the background.",
+            "text": "Grill Chicken",
+            "voice_over": "Preheat your grill or broiler to high heat. Grill or broil the chicken for 5-7 minutes per side, until cooked through.",
+            "scene_image_filename": "recipe_4464ffcmo10bm/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4464ffcmo10bm-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show the cooked chicken being brushed with the chili glaze, ensuring it's evenly coated.",
+            "text": "Glaze Chicken",
+            "voice_over": "Transfer the cooked chicken to a platter. Pour the chili glaze over the chicken, ensuring it's evenly coated.",
+            "scene_image_filename": "recipe_4464ffcmo10bm/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4464ffcmo10bm-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Show the cooked rice being fluffed with a fork, then pineapple, coconut milk and Thai basil being stirred in.",
+            "text": "Finish Rice",
+            "voice_over": "Fluff the cooked rice with a fork. Stir in the reserved coconut milk, chopped pineapple, and Thai basil.",
+            "scene_image_filename": "recipe_4464ffcmo10bm/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4464ffcmo10bm-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Show the final dish plated beautifully, with the Sticky Coconut Chicken served over the coconut rice, garnished with green onions. Suggest serving with a side of steamed vegetables.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Serve the Sticky Coconut Chicken over the coconut rice. Garnish with green onions.  Enjoy! This dish pairs well with steamed vegetables for a complete meal. Each serving has approximately 500 calories, 35g protein, 60g carbs, and 20g fat.",
+            "scene_image_filename": "recipe_4464ffcmo10bm/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4464ffcmo10bm-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 25,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Thai",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Coconut Milk",
+        "Ginger",
+        "Chili",
+        "Rice",
+        "Pineapple",
+        "Basil"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight Dinner"
+      ],
+      "cooking_tips": [
+        "For a spicier glaze, add more chili flakes.",
+        "If grilling, soak wooden skewers in water for 30 minutes before using to prevent them from burning.",
+        "Leftover chicken and rice can be stored separately in airtight containers in the refrigerator for up to 3 days."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_4464ffcmo10bm/4464ffcmo10bm_main_image.jpg"
+    },
+    {
+      "id": "fks1hqtqrii2uul",
+      "name": "Lemon Herb Chicken and Rice",
+      "url": "https://www.lecremedelacrumb.com/instant-pot-chicken-breast-and-rice/",
+      "ingredients": [
+        "4 medium boneless, skinless chicken breasts",
+        "2 tablespoons olive oil",
+        "1 teaspoon dried Italian herb blend",
+        "1 teaspoon garlic powder",
+        "\u00bd teaspoon paprika",
+        "\u00bd teaspoon onion powder",
+        "Salt and pepper to taste",
+        "1 cup long-grain white rice, rinsed",
+        "2 tablespoons butter",
+        "1 teaspoon minced garlic",
+        "\u00bd teaspoon dried Italian herb blend",
+        "1 \u00be cups chicken broth",
+        "Juice of 1 lemon"
+      ],
+      "directions": [
+        "Step 1: Combine the dried Italian herbs, garlic powder, onion powder, and paprika in a small bowl.",
+        "Step 2: Drizzle 1 tablespoon of olive oil over the chicken breasts. Season generously with salt, pepper, and the prepared herb blend.",
+        "Step 3: Set the Instant Pot to the \"Saut\u00e9\" function and add the remaining 1 tablespoon of olive oil. Brown the chicken breasts for 1-2 minutes per side. Remove the chicken from the pot and set aside.",
+        "Step 4: Add the butter to the Instant Pot. Once melted, add the minced garlic and saut\u00e9 for about 30 seconds until fragrant.",
+        "Step 5: Add the rinsed rice, \u00bd teaspoon of Italian herb blend, salt, and pepper to the pot. Stir to combine.",
+        "Step 6: Pour in the chicken broth and stir well.",
+        "Step 7: Place a steam rack inside the Instant Pot. Arrange the browned chicken breasts on the rack.",
+        "Step 8: Close the lid and set the Instant Pot to \"Pressure Cook\" or \"Manual\" for 5 minutes. Allow for a natural pressure release for 5 minutes, then manually release any remaining pressure.",
+        "Step 9: Remove the chicken from the pot and set aside. Fluff the rice with a fork.",
+        "Step 10: Squeeze fresh lemon juice over the chicken and rice. Serve immediately."
+      ],
+      "duration": "30 m",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-m.webp",
+      "nutrition": {
+        "calories": "502 per serving",
+        "protein": "52 grams per serving",
+        "carbs": "39 grams per serving",
+        "fat": "14 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "2 grams per serving",
+        "sodium": "600 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Lemon Herb Chicken and Rice on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_fks1hqtqrii2uul/main_image",
+      "video_script": {
+        "title": "Lemon Herb Chicken and Rice",
+        "description": "A quick and easy Instant Pot recipe for flavorful and healthy Lemon Herb Chicken and Rice.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished plate of Lemon Herb Chicken and Rice, garnished with fresh lemon slices and herbs. Steam is gently rising from the dish. The rice looks fluffy and moist, and the chicken appears tender and juicy.",
+            "text": "Lemon Herb Chicken and Rice",
+            "voice_over": "Welcome! Today, we're making a delicious and healthy one-pot meal: Lemon Herb Chicken and Rice in the Instant Pot. It's quick, easy, and packed with flavor.",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a countertop. Chicken breasts are in the center, surrounded by bowls of spices, herbs, rice, lemon, butter, garlic, and olive oil.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: four boneless, skinless chicken breasts, olive oil, Italian herbs, garlic powder, paprika, onion powder, salt, pepper, long-grain white rice, butter, minced garlic, chicken broth, and a fresh lemon.",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of a small bowl with the combined dry spices: Italian herbs, garlic powder, paprika, and onion powder.",
+            "text": "Spice Blend",
+            "voice_over": "First, combine the Italian herbs, garlic powder, paprika, and onion powder in a small bowl. This aromatic blend will season both the chicken and the rice.",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Chicken breasts being drizzled with olive oil and seasoned with the spice blend, salt, and pepper.",
+            "text": "Season Chicken",
+            "voice_over": "Drizzle olive oil over the chicken breasts. Season generously with salt, pepper, and the prepared herb blend. Make sure to coat each chicken breast evenly.",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Chicken breasts browning in the Instant Pot on the \"Saut\u00e9\" function.",
+            "text": "Sear Chicken",
+            "voice_over": "Set your Instant Pot to the \"Saut\u00e9\" function. Add olive oil and brown the chicken for 1-2 minutes per side. This adds a nice depth of flavor.",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Rice and herbs being saut\u00e9ed in melted butter and minced garlic in the Instant Pot.",
+            "text": "Saut\u00e9 Rice & Herbs",
+            "voice_over": "Add butter to the pot, followed by minced garlic. Saut\u00e9 for about 30 seconds until fragrant. Add the rinsed rice and some more Italian herbs, salt, and pepper. Stir well.",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Chicken broth being poured into the Instant Pot with the rice.",
+            "text": "Add Broth",
+            "voice_over": "Pour in the chicken broth and give everything a good stir. Ensure the rice is evenly distributed in the pot.",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Seared chicken breasts arranged on a steam rack inside the Instant Pot, above the rice and broth mixture.",
+            "text": "Pressure Cook",
+            "voice_over": "Place a steam rack inside the pot. Arrange the browned chicken breasts on the rack. Close the lid and set the Instant Pot to \"Pressure Cook\" or \"Manual\" for 5 minutes.  After cooking, allow a natural pressure release for 5 minutes, then manually release any remaining pressure.",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up of fluffy rice being fluffed with a fork after pressure cooking.",
+            "text": "Fluff Rice",
+            "voice_over": "Carefully remove the chicken from the pot and set aside. Fluff the rice with a fork.",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Fresh lemon juice being squeezed over the cooked chicken and rice.",
+            "text": "Lemon Zest",
+            "voice_over": "Squeeze fresh lemon juice over the chicken and rice. This brightens the flavors and adds a refreshing touch.",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "Final plated dish of Lemon Herb Chicken and Rice, garnished with fresh parsley and lemon wedges. A serving spoon is placed beside the dish.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Serve immediately. This dish pairs perfectly with a side salad or steamed vegetables. Enjoy!",
+            "scene_image_filename": "recipe_fks1hqtqrii2uul/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hqtqrii2uul-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 30,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Lemon",
+        "Garlic",
+        "Herbs"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use bone-in, skin-on chicken breasts. Adjust the cooking time accordingly.",
+        "If you don't have an Instant Pot, you can cook this recipe on the stovetop. Saut\u00e9 the chicken and rice as directed, then add the broth, bring to a boil, reduce heat, cover, and simmer for 15-20 minutes, or until the rice is cooked through and the chicken is cooked to an internal temperature of 165\u00b0F (74\u00b0C).",
+        "Add other vegetables like chopped carrots, celery, or bell peppers to the rice for added flavor and nutrition."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_fks1hqtqrii2uul/fks1hqtqrii2uul_main_image.jpg"
+    },
+    {
+      "id": "fks1ptgkhe448s9",
+      "name": "Chicken Biryani",
+      "url": "http://www.ruchiskitchen.com/recipe/chicken-biryani/",
+      "ingredients": [
+        "3 medium Onions, thinly sliced",
+        "2 tablespoons Cornstarch",
+        "Oil for deep frying",
+        "1 lb Chicken, cut into serving pieces",
+        "1 teaspoon Shahi Jeera (caraway seeds)",
+        "2 teaspoons Degi Mirch (Kashmiri chili powder)",
+        "3 teaspoons Coriander powder",
+        "1/2-3/4 teaspoon Cinnamon powder",
+        "2 teaspoons Garam Masala",
+        "1/4 teaspoon Turmeric powder",
+        "4 cloves Garlic, crushed",
+        "3 teaspoons Ginger, crushed",
+        "1/4 teaspoon Cardamom powder",
+        "4-5 blades Mace",
+        "1 1/2 cups thick Curd (yogurt)",
+        "2 tablespoons Cilantro, chopped",
+        "2 tablespoons Mint leaves, chopped",
+        "1 1/2 cups Basmati Rice",
+        "2 teaspoons Cumin seeds",
+        "2 Black Cardamom pods",
+        "5-6 Cloves",
+        "3-4 Bay leaves",
+        "1 tablespoon Oil",
+        "Salt to taste",
+        "1/4 cup Milk",
+        "1 teaspoon Saffron strands",
+        "1 tablespoon Ghee"
+      ],
+      "directions": [
+        "Step 1: Prepare the Fried Onions: Slice the onions and toss them with cornstarch. Deep fry in hot oil until light brown and crispy. Set aside.",
+        "Step 2: Marinate the Chicken: In a large bowl, combine the yogurt, Degi Mirch, coriander powder, cinnamon powder, garam masala, turmeric powder, crushed garlic, crushed ginger, cardamom powder, mace, chopped cilantro, and chopped mint. Mix well.",
+        "Step 3: Add Chicken and Onions to Marinade: Add the chicken pieces and a handful of the fried onions to the marinade. Mix thoroughly, cover, and refrigerate for at least 1 hour, or preferably 2-3 hours.",
+        "Step 4: Parboil the Rice: Rinse the rice under cold water. In a large pot, heat oil and add cumin seeds, black cardamom, cloves, and bay leaves. Once they sputter, add water and salt. Bring to a boil, then add the rice. Cook until the rice is half-cooked (grains should offer slight resistance when pressed). Drain and set aside.",
+        "Step 5: Cook the Chicken: Heat oil in a large pot or Dutch oven. Add the marinated chicken and cook until the chicken is cooked through and the oil separates from the masala. Add 1/4 cup of water to create a light gravy.",
+        "Step 6: Infuse Saffron Milk: Warm the milk and add saffron strands. Let it sit until the milk turns a rich yellow color.",
+        "Step 7: Layer and Steam (Dum): Spread the parboiled rice over the cooked chicken. Pour the saffron milk evenly over the rice. Sprinkle the remaining fried onions, chopped cilantro, and mint leaves over the rice. Drizzle with ghee.",
+        "Step 8: Finish Cooking: Cover the pot tightly and cook over low heat for 10-12 minutes, or until the rice is cooked through and fluffy. Alternatively, cover the pot with a cloth and lid to create a tighter seal for steaming.",
+        "Step 9: Serve: Serve hot with vinegar onions and yogurt."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-m.webp",
+      "nutrition": {
+        "calories": "600 per serving",
+        "protein": "40 grams per serving",
+        "carbs": "60 grams per serving",
+        "fat": "25 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "5 grams per serving",
+        "sodium": "800 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Chicken Biryani on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_fks1ptgkhe448s9/main_image",
+      "video_script": {
+        "title": "Chicken Biryani Recipe",
+        "description": "Learn how to make delicious Chicken Biryani with this easy-to-follow video tutorial.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a beautifully plated Chicken Biryani, garnished with fresh cilantro and fried onions. Steam gently rising from the dish.",
+            "text": "Chicken Biryani",
+            "voice_over": "Welcome! Today, we're making a flavorful and aromatic Chicken Biryani. This recipe is perfect for a special occasion or a weekend treat.",
+            "scene_image_filename": "recipe_fks1ptgkhe448s9/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients arranged on a table: chicken pieces, sliced onions, basmati rice, yogurt, and an array of spices (turmeric, coriander, cumin, garam masala, cinnamon, cardamom, chili powder).",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: Chicken, basmati rice, onions, yogurt, and a blend of aromatic spices.",
+            "scene_image_filename": "recipe_fks1ptgkhe448s9/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Sliced onions being tossed in cornstarch, then deep-fried in hot oil until golden brown and crispy.",
+            "text": "Fried Onions",
+            "voice_over": "First, we'll fry our thinly sliced onions until golden and crispy. These add a wonderful crunch to the biryani.",
+            "scene_image_filename": "recipe_fks1ptgkhe448s9/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Chicken pieces marinating in a mixture of yogurt and spices in a bowl.",
+            "text": "Marinate Chicken",
+            "voice_over": "Marinate the chicken in yogurt and spices for at least 2 hours. This tenderizes the chicken and infuses it with flavor.",
+            "scene_image_filename": "recipe_fks1ptgkhe448s9/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Rice being parboiled in a pot with boiling water, whole spices (cumin, cardamom, cloves, bay leaves).",
+            "text": "Parboil Rice",
+            "voice_over": "Parboil the basmati rice until it's about half cooked. This ensures the rice cooks evenly in the biryani.",
+            "scene_image_filename": "recipe_fks1ptgkhe448s9/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Marinated chicken being cooked in a pot on the stovetop.",
+            "text": "Cook Chicken",
+            "voice_over": "Cook the marinated chicken until it's done and the oil separates from the masala.",
+            "scene_image_filename": "recipe_fks1ptgkhe448s9/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 4,
+            "image_prompt": "Saffron strands being steeped in warm milk in a small bowl.",
+            "text": "Saffron Milk",
+            "voice_over": "Infuse saffron strands in warm milk for a rich color and aroma.",
+            "scene_image_filename": "recipe_fks1ptgkhe448s9/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 7,
+            "image_prompt": "Layering the biryani in a pot: cooked chicken at the bottom, followed by parboiled rice, saffron milk, fried onions, fresh cilantro, and mint, and a drizzle of ghee.",
+            "text": "Layer Biryani",
+            "voice_over": "Now, layer the biryani. First, the cooked chicken, then rice, saffron milk, fried onions, and fresh herbs.",
+            "scene_image_filename": "recipe_fks1ptgkhe448s9/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Biryani pot covered and simmering on low heat (dum).",
+            "text": "Dum",
+            "voice_over": "Cover and cook on low heat for 10-12 minutes, allowing the flavors to meld together beautifully.",
+            "scene_image_filename": "recipe_fks1ptgkhe448s9/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A serving of Chicken Biryani plated on a dish, garnished with fresh herbs and fried onions, served alongside raita and vinegar onions.",
+            "text": "Serve",
+            "voice_over": "Your delicious Chicken Biryani is ready! Serve it hot with some raita and vinegar onions. Enjoy!",
+            "scene_image_filename": "recipe_fks1ptgkhe448s9/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ptgkhe448s9-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 60,
+      "total_time_minutes": 90,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Onions",
+        "Yogurt",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Special Occasion"
+      ],
+      "cooking_tips": [
+        "For best results, use good quality Basmati rice.",
+        "Adjust the amount of Degi Mirch to control the spiciness.",
+        "Marinating the chicken for longer will enhance the flavor.",
+        "Using a cloth and lid for dum cooking helps to trap the steam and cook the rice evenly."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_fks1ptgkhe448s9/fks1ptgkhe448s9_main_image.jpg"
+    },
+    {
+      "id": "80g6f9l4ico00",
+      "name": "Creamy Santa Fe Chicken and Rice Casserole",
+      "url": "http://www.food.com/recipe/creamy-santa-fe-chicken-and-rice-459166",
+      "ingredients": [
+        "1 cup fat-free cottage cheese",
+        "1/2 cup fat-free plain Greek yogurt",
+        "4 1/2 cups low-sodium chicken broth",
+        "1 teaspoon salt",
+        "1/2 teaspoon garlic powder",
+        "6 tablespoons taco seasoning",
+        "1 (4 ounce) can diced green chilies (optional)",
+        "1 (4 ounce) can sliced black olives (optional)",
+        "1 (28 ounce) can diced tomatoes, drained (reserve juice)",
+        "1 (15.25 ounce) can sweet corn, drained (optional)",
+        "24 ounces cooked chicken, diced",
+        "2 cups uncooked long-grain rice"
+      ],
+      "directions": [
+        "Step 1: Preheat oven to 350\u00b0F (175\u00b0C).",
+        "Step 2: Cook rice according to package directions, substituting an equal amount of chicken broth plus the reserved tomato juice for the water.",
+        "Step 3: While the rice is cooking, combine the green chilies, black olives, diced tomatoes, corn, and cooked chicken in a large bowl.",
+        "Step 4: In a separate bowl or blender, combine the cottage cheese, Greek yogurt, 1 cup of chicken broth, salt, garlic powder, and taco seasoning. Blend until smooth.",
+        "Step 5: Once the rice is cooked, add it to the chicken mixture.",
+        "Step 6: Gently fold in the cottage cheese mixture until well combined.",
+        "Step 7: Pour the mixture into a greased 9x13 inch baking dish.",
+        "Step 8: Bake for 45 minutes, or until heated through and bubbly."
+      ],
+      "duration": "1 hrs 15 mins",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-m.webp",
+      "nutrition": {
+        "calories": "400 per serving",
+        "protein": "30 grams per serving",
+        "carbs": "50 grams per serving",
+        "fat": "10 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "10 grams per serving",
+        "sodium": "600 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Professional food photography of Creamy Santa Fe Chicken and Rice Casserole on a white plate with garnish, high-resolution, studio lighting, shallow depth of field, soft natural lighting, rich colors and textures",
+      "image_filepath": "recipe_80g6f9l4ico00/main_image",
+      "video_script": {
+        "title": "Creamy Santa Fe Chicken and Rice Casserole",
+        "description": "A quick and easy recipe for a flavorful and satisfying weeknight meal.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished Creamy Santa Fe Chicken and Rice Casserole, bubbly and golden brown, garnished with fresh cilantro. The casserole dish is on a wooden table setting with napkins and cutlery.",
+            "text": "Creamy Santa Fe Chicken & Rice Casserole",
+            "voice_over": "Craving a comforting and flavorful dish? This Creamy Santa Fe Chicken and Rice Casserole is packed with protein and Southwestern spices. It's easy to make and perfect for a weeknight dinner.",
+            "scene_image_filename": "recipe_80g6f9l4ico00/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Grouped ingredients: Cottage cheese, Greek yogurt, chicken broth, salt, garlic powder, and taco seasoning.",
+            "text": "Dairy & Spices",
+            "voice_over": "For the creamy base, we'll need cottage cheese, Greek yogurt, chicken broth, salt, garlic powder, and taco seasoning.",
+            "scene_image_filename": "recipe_80g6f9l4ico00/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Grouped ingredients: Canned diced tomatoes, diced green chilies, sliced black olives, sweet corn, cooked diced chicken, and uncooked long-grain rice.",
+            "text": "Chicken, Rice & Veggies",
+            "voice_over": "Next, gather your diced tomatoes, green chilies, black olives, corn, cooked chicken, and uncooked long-grain rice.",
+            "scene_image_filename": "recipe_80g6f9l4ico00/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Pot with rice cooking in chicken broth and reserved tomato juice.",
+            "text": "Cook the Rice",
+            "voice_over": "Cook the rice according to package directions, but substitute chicken broth and the reserved tomato juice for water. This adds tons of flavor!",
+            "scene_image_filename": "recipe_80g6f9l4ico00/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Blender blending cottage cheese, Greek yogurt, chicken broth, salt, garlic powder, and taco seasoning.",
+            "text": "Blend Creamy Base",
+            "voice_over": "While the rice cooks, blend together the cottage cheese, Greek yogurt, chicken broth, salt, garlic powder, and taco seasoning until smooth.",
+            "scene_image_filename": "recipe_80g6f9l4ico00/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Large bowl with chicken, veggies, and cooked rice being mixed together.",
+            "text": "Combine Ingredients",
+            "voice_over": "In a large bowl, combine the cooked chicken, diced tomatoes, green chilies, black olives, corn, and the cooked rice.",
+            "scene_image_filename": "recipe_80g6f9l4ico00/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The creamy base being gently folded into the chicken and rice mixture.",
+            "text": "Gently Fold",
+            "voice_over": "Gently fold in the creamy cottage cheese mixture until everything is well combined.",
+            "scene_image_filename": "recipe_80g6f9l4ico00/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Pouring the mixture into a greased 9x13 baking dish.",
+            "text": "Bake",
+            "voice_over": "Pour the mixture into a greased 9x13 inch baking dish.",
+            "scene_image_filename": "recipe_80g6f9l4ico00/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The casserole baking in the oven at 350\u00b0F.",
+            "text": "Bake at 350\u00b0F",
+            "voice_over": "Bake for 45 minutes at 350 degrees Fahrenheit, or until heated through and bubbly.",
+            "scene_image_filename": "recipe_80g6f9l4ico00/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Final shot of the finished casserole, garnished with fresh cilantro, alongside serving suggestions like a side salad and tortilla chips.",
+            "text": "Enjoy!",
+            "voice_over": "Let it cool slightly before serving. This casserole is delicious on its own or with a side salad and tortilla chips.  Enjoy! Each serving has approximately 400 calories, 30 grams of protein, 50 grams of carbs and 10 grams of fat.",
+            "scene_image_filename": "recipe_80g6f9l4ico00/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/80g6f9l4ico00-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 55,
+      "total_time_minutes": 75,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dinner"
+      ],
+      "cuisine_type": "Tex-Mex",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Rice",
+        "Cottage Cheese",
+        "Greek Yogurt",
+        "Taco Seasoning",
+        "Green Chilies",
+        "Black Olives",
+        "Tomatoes",
+        "Corn"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Potluck",
+        "Family Dinner"
+      ],
+      "cooking_tips": [
+        "For a spicier dish, add a pinch of cayenne pepper or a few dashes of your favorite hot sauce to the cottage cheese mixture.",
+        "If you don't have an immersion blender, a regular blender works fine. Just be careful when blending hot liquids.",
+        "Leftovers can be stored in an airtight container in the refrigerator for up to 3 days."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/rice_chicken/recipe_80g6f9l4ico00/80g6f9l4ico00_main_image.jpg"
+    }
+  ]
+}
