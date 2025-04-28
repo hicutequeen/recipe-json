@@ -1,0 +1,552 @@
+{
+  "recipes": [
+    {
+      "id": "fks4gdoqgdar3u",
+      "name": "Crispy Jalebi",
+      "url": "https://www.vegrecipesofindia.com/jalebi-recipe-how-to-make-jalebi/",
+      "ingredients": [
+        "1 cup (125 grams) all-purpose flour",
+        "2 tablespoons gram flour (besan)",
+        "\u215b teaspoon turmeric powder",
+        "\u00bc teaspoon baking powder",
+        "1 cup water",
+        "1 to 2 tablespoons all-purpose flour (for thickening)",
+        "1 cup (150 grams) granulated sugar",
+        "\u00be cup water",
+        "\u00bd teaspoon saffron strands",
+        "Oil for deep frying (or ghee)",
+        "\u00bd teaspoon lemon juice"
+      ],
+      "directions": [
+        "Step 1: In a mixing bowl, combine 1 cup all-purpose flour, gram flour, turmeric powder, and baking powder.",
+        "Step 2: Gradually add 1 cup of water, mixing with a spatula or spoon until a smooth batter forms. Adjust water quantity as needed depending on flour quality.",
+        "Step 3: Whisk the batter briskly for 4 minutes to create a light and airy consistency.",
+        "Step 4: Cover the bowl and let the batter ferment in a warm place for 12-15 hours (adjust fermentation time based on climate).",
+        "Step 5: After fermentation, stir the batter and add 1-2 tablespoons of all-purpose flour to thicken it.",
+        "Step 6: Transfer the batter to a squeeze bottle, piping bag, or a coconut shell with a small hole.",
+        "Step 7: In a pan, combine 1 cup sugar, saffron strands, and \u00be cup water.",
+        "Step 8: Cook over low heat, stirring until the sugar dissolves.",
+        "Step 9: Increase heat to medium and cook until the syrup reaches a one-string consistency.",
+        "Step 10: Remove from heat, add \u00bd teaspoon lemon juice, and stir well. Keep the syrup warm.",
+        "Step 11: Heat oil (or ghee) in a deep frying pan or kadai to 350\u00b0F (176\u00b0C).",
+        "Step 12: Squeeze the batter into the hot oil in concentric circles to form jalebi shapes.",
+        "Step 13: Fry until light golden brown, turning once, and remove with tongs.",
+        "Step 14: Immediately immerse the fried jalebi in the warm sugar syrup for 2-3 minutes, turning once to coat.",
+        "Step 15: Remove jalebi from syrup, allowing excess syrup to drain, and place on a plate lined with foil or parchment paper.",
+        "Step 16: Serve jalebi hot, warm, or at room temperature. Store leftovers in an airtight container in the refrigerator."
+      ],
+      "duration": "15 hr 45 m",
+      "serves": "20",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-m.webp",
+      "nutrition": {
+        "calories": "85 per serving",
+        "protein": "1 gram per serving",
+        "carbs": "15 grams per serving",
+        "fat": "2 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "Not specified",
+        "sodium": "Not specified"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stack of crispy, golden jalebis drizzled with sugar syrup on a dark slate surface. Use a shallow depth of field to focus on the foreground jalebis, with the background softly blurred.  A few saffron strands garnish the jalebis and syrup. Backlighting highlights the intricate texture and translucent glow of the syrup-soaked spirals.  A brass serving spoon rests subtly beside the stack, adding a touch of rustic elegance. Aim for a rich, warm, and inviting mood.  Shoot from a slightly elevated angle showcasing the height and layers of the jalebis.",
+      "image_filepath": "recipe_fks4gdoqgdar3u/main_image",
+      "video_script": {
+        "title": "Crispy Jalebi Recipe",
+        "description": "Learn how to make delicious, crispy jalebi at home with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a plate of golden, crispy jalebi, glistening with syrup. Focus on the intricate swirls and crispy texture.",
+            "text": "Crispy Jalebi",
+            "voice_over": "Welcome! Today, we'll be making crispy, syrupy jalebi, a popular South Asian sweet treat. Get ready to indulge in this delightful dessert!",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: all-purpose flour, gram flour, turmeric powder, baking powder, sugar, water, saffron strands, lemon juice, and oil.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: all-purpose flour, gram flour, turmeric powder, baking powder for the batter.  For the syrup, we'll need sugar, water, saffron strands, and a touch of lemon juice. And of course, oil for frying.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show a mixing bowl with flour, gram flour, baking powder and turmeric powder.  A hand is gradually adding water while mixing with a spatula.",
+            "text": "Making the Batter",
+            "voice_over": "In a mixing bowl, combine the all-purpose flour, gram flour, turmeric powder, and baking powder. Gradually add water, mixing until you get a smooth batter. Adjust the water quantity if needed.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up of the batter being whisked vigorously for 4 minutes until light and airy.",
+            "text": "Whisk & Ferment",
+            "voice_over": "Whisk the batter briskly for about 4 minutes. This helps create a light and airy texture. Cover the bowl and let the batter ferment in a warm place for 12-15 hours, or longer in colder climates.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Show the fermented batter after 12-15 hours. Then show adding additional all-purpose flour to the batter for thickening, and stir it.",
+            "text": "Thicken & Transfer",
+            "voice_over": "After fermentation, the batter will be bubbly. Stir it well, add 1-2 tablespoons of all-purpose flour for thickness and then transfer the batter to a squeeze bottle or piping bag.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Show making the sugar syrup by combining sugar, saffron, and water in a pan and cooking until it reaches a one-string consistency. Then, show adding lemon juice.",
+            "text": "Making the Syrup",
+            "voice_over": "While the batter ferments, prepare the sugar syrup. Combine sugar, saffron strands, and water in a pan. Cook over low heat then medium until the syrup reaches a one-string consistency.  Remove from heat and add lemon juice.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show hot oil in a pan with batter being squeezed into it in concentric circles to make jalebi shapes.",
+            "text": "Frying Jalebi",
+            "voice_over": "Heat oil to 350\u00b0F (176\u00b0C). Squeeze the batter into the hot oil in concentric circles. Fry until light golden brown, turning once.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Show transferring the fried jalebi into the warm sugar syrup and soaking for 2-3 minutes.",
+            "text": "Soaking in Syrup",
+            "voice_over": "Immediately immerse the fried jalebi in the warm sugar syrup for 2-3 minutes, turning once to ensure they're fully coated.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up of golden, glistening jalebi arranged on a serving plate.",
+            "text": "Enjoy!",
+            "voice_over": "Remove from the syrup, let the excess drain, and serve your crispy jalebi hot, warm, or at room temperature.  Store leftovers in an airtight container.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 25,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 55,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Flour",
+        "Sugar",
+        "Saffron",
+        "Turmeric"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use ghee for frying.",
+        "Adjust sugar syrup consistency to your preference.",
+        "Fermentation time can be adjusted based on the temperature of your surroundings."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/jalebi/recipe_fks4gdoqgdar3u/fks4gdoqgdar3u_main_image.jpg"
+    },
+    {
+      "id": "fks23uo5okh6f2l",
+      "name": "Jalebi ",
+      "url": "https://www.thespruceeats.com/jalebi-deep-fried-dessert-1957798",
+      "ingredients": [
+        "2 cups flour (self-rising)",
+        "1/2 teaspoon baking powder",
+        "1 cup yogurt",
+        "3 strands saffron",
+        "1/4 teaspoon cardamom powder",
+        "3 inches vegetable oil (canola/sunflower cooking oil for deep frying)",
+        "2 drops food coloring (orange)",
+        "1 cup sugar",
+        "2 tablespoons rosewater",
+        "{\"cal\":\"225\",\"fat\":\"4\",\"carb\":\"47\",\"prot\":\"3\",\"sug\":\"\"}"
+      ],
+      "directions": [
+        "Gather the ingredients.",
+        "Mix the flour, baking powder, yogurt, and food coloring into a batter and keep aside for 24 hours to ferment.",
+        "Pour batter into a ketchup dispensing bottle.",
+        "To make sugar syrup, melt the sugar with the rosewater in a small saucepan and boil to get a one thread consistency. To check for one thread consistency, carefully dip the tip of your index finger into the syrup, touch your finger and thumb together and gently tease apart. If one thread is formed between your finger and thumb, the syrup is done.",
+        "Turn off the fire, add the saffron strands and cardamom and stir well.",
+        "Heat the oil in a deep wok-like dish. To test for the right temperature, drop a small amount of batter into the oil. If it sizzles and rises to the top of the oil, the oil is hot enough. Keep the flame on medium at all times to ensure thorough cooking of the jalebis.",
+        "Now hold the ketchup dispenser over the hot oil and squeeze the batter into the oil into a wiggly, randomly coiled circle. Squeeze out several at a time.",
+        "Fry till light golden and then remove and put directly into the sugar syrup.",
+        "Allow to soak for 2 to 3 minutes and then remove.",
+        "Serve warm.\r\n"
+      ],
+      "duration": "1 hr 55 m",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-m.webp",
+      "nutrition": null
+    },
+    {
+      "id": "fks4gdoqgdar3u",
+      "name": "Crispy Jalebi",
+      "url": "https://www.vegrecipesofindia.com/jalebi-recipe-how-to-make-jalebi/",
+      "ingredients": [
+        "1 cup (125 grams) all-purpose flour",
+        "2 tablespoons gram flour (besan)",
+        "\u215b teaspoon turmeric powder",
+        "\u00bc teaspoon baking powder",
+        "1 cup water",
+        "1 to 2 tablespoons all-purpose flour (for thickening)",
+        "1 cup (150 grams) granulated sugar",
+        "\u00be cup water",
+        "\u00bd teaspoon saffron strands",
+        "Oil for deep frying (or ghee)",
+        "\u00bd teaspoon lemon juice"
+      ],
+      "directions": [
+        "Step 1: In a mixing bowl, combine 1 cup all-purpose flour, gram flour, turmeric powder, and baking powder.",
+        "Step 2: Gradually add 1 cup of water to the dry ingredients, mixing with a spatula until smooth. The batter should have a flowing consistency.",
+        "Step 3: Stir the batter briskly in a circular motion for 4 minutes to incorporate air. Cover and let it ferment in a warm place for 8-12 hours, or until slightly tangy and bubbly.",
+        "Step 4: After fermentation, stir the batter and add 1-2 tablespoons of all-purpose flour to thicken it to a piping consistency.",
+        "Step 5: Transfer the batter to a squeeze bottle, piping bag, or a ziplock bag with a corner snipped off.",
+        "Step 6: In a saucepan, combine sugar, saffron strands, and \u00be cup water. Cook over low heat, stirring until sugar dissolves.",
+        "Step 7: Increase the heat to medium and cook until the syrup reaches a one-string consistency (when a drop of syrup forms a thin string between your fingers).",
+        "Step 8: Remove from heat and stir in lemon juice. Keep the syrup warm.",
+        "Step 9: Heat oil (or ghee) in a deep frying pan or kadai to 350\u00b0F (175\u00b0C).",
+        "Step 10: Squeeze the batter into the hot oil in concentric circles, forming jalebi shapes.",
+        "Step 11: Fry until golden brown and crispy, flipping halfway through.",
+        "Step 12: Remove the jalebi from the oil and immediately immerse them in the warm sugar syrup for 2-3 minutes.",
+        "Step 13: Remove from syrup, allowing excess syrup to drip off. Serve warm."
+      ],
+      "duration": "15 hr 45 m",
+      "serves": "20",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-m.webp",
+      "nutrition": {
+        "calories": "85 per serving",
+        "protein": "1 gram per serving",
+        "carbs": "15 grams per serving",
+        "fat": "2 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "10 grams per serving",
+        "sodium": "5mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture crispy, golden jalebis drizzled with sugar syrup against a dark, rustic backdrop.  Use a shallow depth of field, focusing on the glistening syrup and intricate swirls of a jalebi in the foreground.  Incorporate subtle saffron strands and a few glistening sugar crystals.  Light from the side to highlight the texture and airy crispness.  Compose with a slightly overhead angle to showcase the circular shapes and create a visually appealing arrangement.  Mood: warm, inviting, indulgent.",
+      "image_filepath": "recipe_fks4gdoqgdar3u/main_image",
+      "video_script": {
+        "title": "Crispy Jalebi Recipe",
+        "description": "Learn how to make delicious, crispy jalebi at home with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a plate of golden, crispy jalebi, glistening with syrup. Focus on the intricate swirls and crispy texture.",
+            "text": "Crispy Jalebi",
+            "voice_over": "Welcome! Today, we're making crispy, syrupy jalebi, a popular South Asian sweet treat. Get ready for a delightful crunch and a burst of sweetness.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display all-purpose flour, gram flour, turmeric powder, and baking powder in separate bowls, arranged neatly.",
+            "text": "Dry Ingredients",
+            "voice_over": "Let's gather our dry ingredients: all-purpose flour, gram flour, turmeric for that beautiful golden color, and baking powder for a light and airy texture.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show water being gradually added to the dry ingredients while mixing with a spatula to form a smooth batter.",
+            "text": "Making the Batter",
+            "voice_over": "Gradually add water to the dry ingredients, mixing until a smooth batter forms. Aim for a flowing consistency.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Show the batter being stirred briskly in a circular motion, then covered and placed in a warm spot.",
+            "text": "Fermentation",
+            "voice_over": "Stir the batter vigorously for 4 minutes to create air bubbles. Then, cover and let it ferment in a warm place for 8-12 hours, or until bubbly and slightly tangy.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Show the fermented batter, now thicker, being transferred to a squeeze bottle or piping bag.",
+            "text": "Preparing to Fry",
+            "voice_over": "After fermenting, thicken the batter with 1-2 tablespoons of flour. Transfer it to a piping bag or a ziplock bag with a corner snipped.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Show sugar, water, and saffron strands in a saucepan, placed on a stove.",
+            "text": "Sugar Syrup",
+            "voice_over": "In a saucepan, combine sugar, saffron, and water. Simmer until the sugar dissolves and the syrup reaches a one-string consistency.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show jalebi batter being piped into hot oil in circular motions, forming jalebi shapes.",
+            "text": "Frying",
+            "voice_over": "Heat oil to 350\u00b0F. Pipe the batter into the hot oil in concentric circles. Fry until golden and crispy, about 2-3 minutes per side.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Show the fried jalebi being immediately immersed in the warm sugar syrup.",
+            "text": "Syrup Soak",
+            "voice_over": "Dip the hot jalebi into the warm sugar syrup for 2-3 minutes to absorb the sweetness.",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Show the finished jalebi arranged on a serving plate, garnished with chopped nuts (optional), ready to be enjoyed.",
+            "text": "Enjoy!",
+            "voice_over": "Remove the jalebi from the syrup. Serve warm. These crispy delights are perfect for any occasion. Enjoy!",
+            "scene_image_filename": "recipe_fks4gdoqgdar3u/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4gdoqgdar3u-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Flour",
+        "Sugar",
+        "Saffron"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For crispier jalebi, use ghee for frying.",
+        "Fermentation time may vary depending on the temperature. A longer fermentation time will result in a more tangy flavor.",
+        "Make sure the sugar syrup is warm when you add the jalebi for optimal absorption."
+      ]
+    },
+    {
+      "id": "fks23uo5okh6f2l",
+      "name": "Crispy Jalebi",
+      "url": "https://www.thespruceeats.com/jalebi-deep-fried-dessert-1957798",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1/2 teaspoon baking powder",
+        "1 cup plain yogurt",
+        "3 strands saffron",
+        "1/4 teaspoon ground cardamom",
+        "3 cups vegetable oil (canola or sunflower oil), for deep frying",
+        "2 drops orange food coloring",
+        "1 cup granulated sugar",
+        "2 tablespoons rosewater"
+      ],
+      "directions": [
+        "Step 1: In a large bowl, combine the flour, baking powder, yogurt, and food coloring. Mix well to form a smooth batter.",
+        "Step 2: Cover the bowl and let the batter ferment at room temperature for 24 hours.",
+        "Step 3: Prepare the sugar syrup: In a saucepan, combine the sugar and rosewater. Bring to a boil over medium heat, stirring constantly until the sugar dissolves.",
+        "Step 4: Continue to boil the syrup until it reaches a one-thread consistency. To test this, dip your index finger into the syrup, touch your thumb to your finger, and gently pull them apart. If a single thread forms between your finger and thumb, the syrup is ready.",
+        "Step 5: Remove the syrup from the heat and stir in the saffron strands and cardamom powder.",
+        "Step 6: Heat the oil in a deep wok or kadai over medium heat. To check if the oil is hot enough, drop a small amount of batter into the oil. If it sizzles and rises to the top immediately, the oil is ready.",
+        "Step 7: Transfer the fermented batter to a squeeze bottle or a piping bag with a small round tip.",
+        "Step 8: Carefully squeeze the batter into the hot oil in a circular, spiral motion, forming jalebi shapes.",
+        "Step 9: Fry the jalebis until they are golden brown and crispy, turning them occasionally.",
+        "Step 10: Remove the fried jalebis from the oil and immediately immerse them in the warm sugar syrup.",
+        "Step 11: Allow the jalebis to soak in the syrup for 2-3 minutes.",
+        "Step 12: Remove the jalebis from the syrup and serve warm."
+      ],
+      "duration": "1 hr 55 m",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-m.webp",
+      "nutrition": {
+        "calories": "225 per serving",
+        "protein": "3 grams per serving",
+        "carbs": "47 grams per serving",
+        "fat": "4 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "unknown per serving",
+        "sodium": "unknown mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture crispy, golden jalebis drizzled with shimmering sugar syrup. Use a dark, textured background with a shallow depth of field, focusing on the foreground jalebis. Highlight the intricate swirls and crispy texture. Incorporate subtle saffron strands and a few drops of syrup on the background for added visual interest. Shoot from a slightly overhead angle with soft, diffused lighting to enhance the golden hues and create a warm, inviting mood.  Garnish with a small silver spoon or a sprinkle of chopped pistachios.",
+      "image_filepath": "recipe_fks23uo5okh6f2l/main_image",
+      "video_script": {
+        "title": "Crispy Jalebi Recipe",
+        "description": "Learn how to make delicious, crispy jalebis at home with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a plate of golden, crispy jalebis, glistening with sugar syrup. Focus on the intricate swirls and crispy texture.",
+            "text": "Crispy Jalebi",
+            "voice_over": "Welcome! Today, we're making crispy, syrupy jalebis, a popular South Asian sweet treat. Get ready for a burst of flavor and satisfying crunch.",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: flour, baking powder, yogurt, saffron, cardamom, oil, food coloring, sugar, and rosewater.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: all-purpose flour, baking powder, yogurt, saffron strands, ground cardamom, oil for frying, orange food coloring, granulated sugar, and rosewater for the syrup.",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a bowl with flour, baking powder, yogurt and food coloring being whisked together until smooth.",
+            "text": "Make the batter",
+            "voice_over": "In a bowl, combine the flour, baking powder, yogurt, and a touch of orange food coloring. Mix well to form a smooth batter.",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 4,
+            "image_prompt": "Time-lapse of the batter fermenting in a bowl, covered with a cloth, at room temperature for 24 hours.",
+            "text": "Ferment",
+            "voice_over": "Cover and let the batter ferment at room temperature for 24 hours. This crucial step enhances the flavor and texture.",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up of sugar and rosewater being heated in a saucepan, stirring constantly.",
+            "text": "Prepare Syrup",
+            "voice_over": "Now for the syrup. Combine sugar and rosewater in a saucepan. Boil over medium heat, stirring until the sugar dissolves.",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close up shot of the sugar syrup being tested for one-thread consistency between thumb and forefinger.",
+            "text": "Check Syrup Consistency",
+            "voice_over": "Boil until it reaches one-thread consistency. Test by dipping your finger and touching it to your thumb. A single thread should form.",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Shot of saffron and cardamom being stirred into the prepared sugar syrup.",
+            "text": "Flavor the Syrup",
+            "voice_over": "Remove from heat and add saffron and cardamom.  The syrup is ready.",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Batter being squeezed from a piping bag into hot oil in a circular motion.",
+            "text": "Fry Jalebis",
+            "voice_over": "Heat oil to medium. Squeeze the batter into the hot oil in a spiral motion.",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up of jalebis frying in hot oil until golden brown, being turned occasionally.",
+            "text": "Golden Brown",
+            "voice_over": "Fry until golden brown and crispy, turning as needed. This should take around 2-3 minutes per side.",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Fried jalebis being immersed in warm sugar syrup.",
+            "text": "Soak in Syrup",
+            "voice_over": "Dip the hot jalebis into the warm syrup for 2-3 minutes, ensuring they absorb the sweetness.",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "Close-up shot of crispy jalebis arranged on a serving plate, garnished with chopped pistachios (optional).",
+            "text": "Serve",
+            "voice_over": "Remove from syrup and serve warm. Enjoy the irresistible crispy jalebis!",
+            "scene_image_filename": "recipe_fks23uo5okh6f2l/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks23uo5okh6f2l-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 2450,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Flour",
+        "Yogurt",
+        "Saffron",
+        "Cardamom",
+        "Sugar"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use ghee instead of vegetable oil for frying.",
+        "If the batter is too thick, add a little water or milk to achieve a smooth, flowing consistency.",
+        "Ensure the oil temperature is consistent throughout the frying process to prevent soggy jalebis.",
+        "Do not overcrowd the wok while frying the jalebis, as this will lower the oil temperature and result in uneven cooking.",
+        "Store leftover jalebis in an airtight container at room temperature for up to 2 days."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/jalebi/recipe_fks23uo5okh6f2l/fks23uo5okh6f2l_main_image.jpg"
+    }
+  ]
+}
