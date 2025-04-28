@@ -1,0 +1,2991 @@
+{
+  "recipes": [
+    {
+      "id": "d36osrsoh",
+      "name": "Spiced Dal Parathas",
+      "url": "http://keralarecipes.com/?recipe=dal-parathas",
+      "ingredients": [
+        "4 cups whole wheat flour",
+        "1 cup split gram dal, soaked overnight",
+        "1 teaspoon black pepper, ground",
+        "1/2 teaspoon ground cinnamon",
+        "5 cloves garlic, minced",
+        "1/2 inch piece fresh ginger, grated",
+        "2 green chilies, finely chopped",
+        "1 teaspoon fresh coriander leaves, chopped",
+        "2 tablespoons oil, for cooking and dough preparation",
+        "Salt to taste"
+      ],
+      "directions": [
+        "1. Soak the gram dal overnight in water.",
+        "2. Drain the dal and cook it in a saucepan with a little water, salt, black pepper, ground cinnamon, garlic, ginger, and green chilies until soft.",
+        "3. Allow the cooked dal mixture to cool for 15 minutes, then drain any excess water and grind it to a smooth paste.",
+        "4. In a large bowl, mix wheat flour, salt to taste, and 2 tablespoons of oil. Add water gradually to knead into a soft dough.",
+        "5. Divide the dough into equal portions. Roll each portion into a small circle, place a spoonful of the dal mixture in the center, and fold the dough over to seal.",
+        "6. Roll out each stuffed dough ball gently into a paratha, taking care not to let the filling spill out.",
+        "7. Heat a tava or skillet over medium heat. Cook each paratha for 2-3 minutes on each side, smearing with a little oil until golden brown.",
+        "8. Serve hot with sauce, pickles, or yogurt."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osrsoh-m.webp",
+      "nutrition": {
+        "calories": "320",
+        "protein": "10",
+        "carbs": "60",
+        "fat": "7",
+        "fiber": "8",
+        "sugar": "2",
+        "sodium": "250"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant shot of Spiced Dal Parathas stacked on a rustic wooden platter, with a sprinkle of fresh coriander on top. Utilize soft, diffused natural light to enhance the golden-brown crust and the textures of the flaky parathas. Incorporate a dark slate background to contrast the dish, and place a small bowl of spicy pickle and a side of yogurt for color. Shoot from a 45-degree angle, with a shallow depth of field to blur the background, focusing sharply on the parathas to evoke a warm, inviting mood.",
+      "image_filepath": "recipe_d36osrsoh/main_image",
+      "video_script": {
+        "title": "Spiced Dal Parathas Recipe Tutorial",
+        "description": "Learn how to make delicious spiced dal parathas with our easy-to-follow recipe tutorial. Perfect for a hearty meal!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of golden-brown spiced dal parathas served with yogurt and pickles on a rustic wooden table.",
+            "text": "Welcome to our Spiced Dal Parathas Recipe!",
+            "voice_over": "In this video, we will learn to make spiced dal parathas, a perfect blend of flavors and wholesome ingredients.",
+            "scene_image_filename": "recipe_d36osrsoh/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrsoh-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A neatly arranged ingredients layout showing whole wheat flour, soaked split gram dal, spices, garlic, ginger, and green chilies on a kitchen counter.",
+            "text": "Ingredients:",
+            "voice_over": "For this recipe, you will need four cups of whole wheat flour, one cup of split gram dal soaked overnight, and a selection of spices and fresh ingredients.",
+            "scene_image_filename": "recipe_d36osrsoh/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrsoh-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A close-up of gram dal being soaked in a bowl of water.",
+            "text": "1. Soak the gram dal overnight.",
+            "voice_over": "Start by soaking the split gram dal in water overnight, which helps soften the dal for cooking.",
+            "scene_image_filename": "recipe_d36osrsoh/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrsoh-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A saucepan on a stove with cooked dal mixed with garlic, ginger, green chilies, and spices.",
+            "text": "2. Cook the dal with spices.",
+            "voice_over": "Next, drain the dal and cook it in a saucepan with salt, black pepper, ground cinnamon, minced garlic, grated ginger, and chopped green chilies until soft.",
+            "scene_image_filename": "recipe_d36osrsoh/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrsoh-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A bowl with the cooked dal mixture cooling down on a kitchen counter.",
+            "text": "3. Cool and grind the dal.",
+            "voice_over": "Allow the cooked dal mixture to cool for 15 minutes. Then, drain any excess water and grind it to a smooth paste.",
+            "scene_image_filename": "recipe_d36osrsoh/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrsoh-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A large mixing bowl with whole wheat flour, oil, and a spoon adding water for kneading dough.",
+            "text": "4. Prepare the dough.",
+            "voice_over": "In a large bowl, mix the whole wheat flour, salt to taste, and two tablespoons of oil. Gradually add water to knead into a soft dough.",
+            "scene_image_filename": "recipe_d36osrsoh/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrsoh-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Dough portions being rolled out and filled with dal mixture on a floured surface.",
+            "text": "5. Fill and shape the parathas.",
+            "voice_over": "Divide the dough into equal portions. Roll each portion into a small circle, place a spoonful of the dal mixture in the center, and fold to seal.",
+            "scene_image_filename": "recipe_d36osrsoh/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrsoh-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Parathas being cooked on a tava, sizzling and turning golden brown.",
+            "text": "6. Cook the parathas.",
+            "voice_over": "Heat a tava or skillet over medium heat. Cook each paratha for 2-3 minutes on each side while smearing with a little oil until golden brown.",
+            "scene_image_filename": "recipe_d36osrsoh/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrsoh-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A vibrant serving platter with perfectly cooked dal parathas, garnished and served with yogurt and pickles.",
+            "text": "7. Serve hot!",
+            "voice_over": "Now your spiced dal parathas are ready to serve! Enjoy them hot with sauce, pickles, or yogurt.",
+            "scene_image_filename": "recipe_d36osrsoh/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrsoh-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A close-up of a plate showcasing one paratha, yogurt, and pickles, emphasizing the meal's appeal.",
+            "text": "Enjoy your meal!",
+            "voice_over": "Thanks for joining us! Don't forget to like and subscribe for more delicious recipes!",
+            "scene_image_filename": "recipe_d36osrsoh/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrsoh-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free (if using gluten-free flour)"
+      ],
+      "ingredient_tags": [
+        "Wheat Flour",
+        "Gram Dal",
+        "Garlic",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Family Meal"
+      ],
+      "cooking_tips": [
+        "Ensure the dal is cooked well and the mixture is not too watery before stuffing.",
+        "Roll the parathas evenly to avoid tearing and splattering of the filling."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36osrsoh/d36osrsoh_main_image.jpg"
+    },
+    {
+      "id": "d36osq1pb",
+      "name": "Onion and Tomato Raita",
+      "url": "http://keralarecipes.com/?recipe=onion-tomato-raita",
+      "ingredients": [
+        "10 ounces plain yogurt, beaten until smooth",
+        "2 small onions, finely chopped",
+        "1/2 teaspoon salt",
+        "1 small tomato, finely chopped",
+        "1/2 teaspoon black pepper",
+        "1/4 cup milk"
+      ],
+      "directions": [
+        "Step 1: In a mixing bowl, beat the yogurt and milk together until smooth.",
+        "Step 2: Finely chop the onions and tomatoes and add them to the yogurt mixture.",
+        "Step 3: Season the mixture with salt and black pepper, and stir well to combine."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osq1pb-m.webp",
+      "nutrition": {
+        "calories": "90",
+        "protein": "5g",
+        "carbs": "10g",
+        "fat": "3g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "sodium": "200mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stunning overhead shot of a bowl of Onion and Tomato Raita, with the creamy yogurt contrasting against the vibrant red of tomatoes and the soft white of onions. Use natural light to enhance the textures, casting soft shadows. Style with a rustic wooden backdrop and a textured linen napkin. Place fresh cilantro leaves as a garnish, and use a shallow depth of field to softly blur the edges, drawing focus to the dish\u2019s colorful ingredients, evoking a fresh and inviting mood.",
+      "image_filepath": "recipe_d36osq1pb/main_image",
+      "video_script": {
+        "title": "Onion and Tomato Raita Recipe Tutorial",
+        "description": "Learn how to make a refreshing Onion and Tomato Raita, the perfect accompaniment to your meals!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully presented bowl of Onion and Tomato Raita topped with finely chopped herbs, served with Indian bread and a side of colorful spices.",
+            "text": "Welcome to our Raita Tutorial!",
+            "voice_over": "In today's video, we're making a refreshing Onion and Tomato Raita that's perfect for balancing spicy dishes.",
+            "scene_image_filename": "recipe_d36osq1pb/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osq1pb-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "A clean countertop displaying all ingredients: plain yogurt, chopped onions, chopped tomatoes, salt, black pepper, and milk, neatly arranged.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "We'll need 10 ounces of plain yogurt, 2 small finely chopped onions, 1 small finely chopped tomato, 1/2 teaspoon salt, 1/2 teaspoon black pepper, and 1/4 cup of milk.",
+            "scene_image_filename": "recipe_d36osq1pb/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osq1pb-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A mixing bowl with yogurt and milk being whisked together until smooth, with a whisk in action.",
+            "text": "Step 1: Beat yogurt and milk.",
+            "voice_over": "In a mixing bowl, beat the yogurt and milk together until smooth.",
+            "scene_image_filename": "recipe_d36osq1pb/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osq1pb-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Finely chopped onions and tomatoes displayed on a cutting board, with a chef's knife and a small bowl for collecting chopped ingredients.",
+            "text": "Step 2: Chop onions and tomatoes.",
+            "voice_over": "Finely chop the onions and tomatoes, and add them to the yogurt mixture.",
+            "scene_image_filename": "recipe_d36osq1pb/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osq1pb-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A hand adding salt and black pepper into the bowl with yogurt, onions, and tomatoes, with a spoon ready to mix.",
+            "text": "Step 3: Add salt and black pepper.",
+            "voice_over": "Season the mixture with 1/2 teaspoon of salt and 1/2 teaspoon of black pepper, and stir well to combine.",
+            "scene_image_filename": "recipe_d36osq1pb/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osq1pb-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A close-up of the finished raita in a decorative bowl, showcasing the textures and colors of the onions, tomatoes, and spices.",
+            "text": "Mix everything well.",
+            "voice_over": "Make sure everything is mixed well to incorporate all flavors.",
+            "scene_image_filename": "recipe_d36osq1pb/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osq1pb-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The Onion and Tomato Raita served in a bowl, garnished with coriander, and displayed next to spicy Indian dishes on a table.",
+            "text": "Ready to serve!",
+            "voice_over": "Your Onion and Tomato Raita is ready to serve! Enjoy it with biryani or spicy curries.",
+            "scene_image_filename": "recipe_d36osq1pb/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osq1pb-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A visual of nutritional information overlaid on a background of the raita and dishes, conveying health benefits.",
+            "text": "Nutritional Information.",
+            "voice_over": "This raita contains about 90 calories, 5 grams of protein, 10 grams of carbs, and 3 grams of fat per serving.",
+            "scene_image_filename": "recipe_d36osq1pb/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osq1pb-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A beautifully arranged table set for a meal, featuring the raita as a centerpiece with friends enjoying the food.",
+            "text": "Enjoy your meal!",
+            "voice_over": "Thank you for watching! Don\u2019t forget to like and subscribe for more delicious recipes.",
+            "scene_image_filename": "recipe_d36osq1pb/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osq1pb-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 10,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Side Dish",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Dairy"
+      ],
+      "ingredient_tags": [
+        "Yogurt",
+        "Onions",
+        "Tomatoes"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a creamier texture, use full-fat yogurt.",
+        "Let the raita sit in the refrigerator for 30 minutes to enhance the flavors."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36osq1pb/d36osq1pb_main_image.jpg"
+    },
+    {
+      "id": "d36osu9kh",
+      "name": "Traditional Scotch Egg",
+      "url": "http://keralarecipes.com/?recipe=scotch-egg",
+      "ingredients": [
+        "6 large eggs, hard-boiled and peeled",
+        "250 grams potatoes, boiled and mashed",
+        "6 slices white bread, crusts removed, soaked in salted water",
+        "50 grams besan (gram flour)",
+        "A small bunch of fresh coriander leaves, chopped",
+        "1/2 teaspoon chili powder",
+        "1/2 teaspoon garam masala",
+        "Salt to taste",
+        "Oil for deep frying"
+      ],
+      "directions": [
+        "Step 1: Hard-boil the eggs in a pot of water for about 8-10 minutes. Once cooked, transfer the eggs to cold water, then shell them carefully.",
+        "Step 2: Boil the potatoes until tender. Drain, then mash the potatoes in a bowl.",
+        "Step 3: Mix the mashed potatoes with chili powder, garam masala, chopped coriander leaves, and salt until well combined.",
+        "Step 4: Take a portion of the mashed potato mixture and flatten it in your hand. Place a hard-boiled egg in the center and mold the potato around the egg to form a ball. Repeat for all eggs.",
+        "Step 5: Squeeze the soaked bread slices to remove excess water and wrap each potato-covered egg in the bread, ensuring it's fully covered.",
+        "Step 6: In a separate bowl, mix besan with salt and add enough water to create a thick batter.",
+        "Step 7: Dip each bread-wrapped egg in the besan batter until fully coated.",
+        "Step 8: Heat oil in a deep frying pan over medium heat. Carefully add the coated eggs and fry until golden brown and crispy, about 5-7 minutes.",
+        "Step 9: Remove from oil and drain on paper towels. Slice the Scotch eggs with a sharp knife and serve warm with salad and mint chutney."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osu9kh-m.webp",
+      "nutrition": {
+        "calories": "250 per serving",
+        "protein": "12 grams per serving",
+        "carbs": "28 grams per serving",
+        "fat": "10 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "1 gram per serving",
+        "sodium": "400 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a Traditional Scotch Egg, perfectly golden-brown and crispy, halved to reveal the vibrant yellow yolk and textured sausage layer. Use a rustic wooden board as the base, with a scattering of fresh coriander and chili flakes for color contrast. Employ soft, diffused natural light to enhance the textures of the breadcrumb coating and the creamy yolk. A shallow depth of field should focus on the Scotch Egg, with a blurred background of a warm, inviting kitchen scene, evoking a cozy, homely mood.",
+      "image_filepath": "recipe_d36osu9kh/main_image",
+      "video_script": {
+        "title": "How to Make Traditional Scotch Egg",
+        "description": "Learn to make perfect Scotch Eggs with a crispy coating, delicious flavors, and a satisfying crunch. Follow along step by step!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Scotch Egg, cut in half to reveal the golden yolk and crispy breading, garnished with fresh salad and mint chutney on the side.",
+            "text": "Welcome to our Scotch Egg tutorial!",
+            "voice_over": "Today, we will be making traditional Scotch Eggs, a deliciously crispy treat. Let's begin!",
+            "scene_image_filename": "recipe_d36osu9kh/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A clean countertop with all the ingredients displayed: hard-boiled eggs, mashed potatoes, bread slices, besan, and spices.",
+            "text": "Here are our ingredients.",
+            "voice_over": "For this recipe, you will need six hard-boiled eggs, mashed potatoes, soaked bread, besan, fresh coriander, chili powder, garam masala, salt, and oil for frying.",
+            "scene_image_filename": "recipe_d36osu9kh/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A pot on a stove with boiling water, showcasing eggs being carefully placed in.",
+            "text": "Start by boiling the eggs.",
+            "voice_over": "First, hard-boil the eggs for 8 to 10 minutes. Once done, transfer them to cold water before peeling.",
+            "scene_image_filename": "recipe_d36osu9kh/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A pot full of boiling potatoes, with steam rising, and someone lifting a potato out to check its doneness.",
+            "text": "Boil and mash potatoes.",
+            "voice_over": "Next, boil the potatoes until tender, then drain and mash them in a bowl until smooth.",
+            "scene_image_filename": "recipe_d36osu9kh/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A mixing bowl with mashed potatoes being combined with spices and fresh coriander.",
+            "text": "Mix in spices and herbs.",
+            "voice_over": "Combine the mashed potatoes with chili powder, garam masala, chopped coriander, and salt until well mixed.",
+            "scene_image_filename": "recipe_d36osu9kh/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "A hand molding a portion of the potato mixture around a hard-boiled egg, demonstrating the wrapping technique.",
+            "text": "Mold the potato around the eggs.",
+            "voice_over": "Take a portion of the potato mixture, flatten it, place the egg in the center, and mold the potato around it to form a ball.",
+            "scene_image_filename": "recipe_d36osu9kh/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Soaked slices of bread being squeezed to remove excess water, ready for wrapping.",
+            "text": "Wrap in soaked bread.",
+            "voice_over": "Squeeze the soaked bread slices to remove excess water, and wrap each potato-covered egg completely.",
+            "scene_image_filename": "recipe_d36osu9kh/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A bowl with besan mixed with salt, creating a thick batter, ready for dipping.",
+            "text": "Prepare the besan batter.",
+            "voice_over": "In another bowl, mix besan with salt and add water gradually until you have a thick batter.",
+            "scene_image_filename": "recipe_d36osu9kh/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "Eggs being dipped into the besan batter, ensuring a thorough coating before frying.",
+            "text": "Dip in batter before frying.",
+            "voice_over": "Dip each wrapped egg into the besan batter until fully coated, ready for frying.",
+            "scene_image_filename": "recipe_d36osu9kh/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 7,
+            "image_prompt": "A frying pan with golden-brown Scotch Eggs sizzling in hot oil, surrounded by bubbles.",
+            "text": "Fry until golden brown.",
+            "voice_over": "Heat oil in a deep pan over medium heat. Fry the coated eggs for about 5 to 7 minutes until golden brown and crispy.",
+            "scene_image_filename": "recipe_d36osu9kh/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "Freshly fried Scotch Eggs resting on paper towels, draining off excess oil.",
+            "text": "Drain and slice the eggs.",
+            "voice_over": "Remove the eggs and let them drain on paper towels. Slice them with a sharp knife.",
+            "scene_image_filename": "recipe_d36osu9kh/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          },
+          {
+            "scene_number": 12,
+            "duration": 6,
+            "image_prompt": "The final dish of Scotch Eggs served with a side of salad and mint chutney, looking appetizing.",
+            "text": "Serve and enjoy!",
+            "voice_over": "Serve warm with a fresh salad and mint chutney. Enjoy your delicious Scotch Eggs!",
+            "scene_image_filename": "recipe_d36osu9kh/scene_12_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osu9kh-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "British",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Eggs",
+        "Potatoes",
+        "Breads",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is hot enough before frying for a crispy finish.",
+        "You can add additional spices to the potato mixture for extra flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36osu9kh/d36osu9kh_main_image.jpg"
+    },
+    {
+      "id": "d36osqp5f",
+      "name": "Cheera Cutlets",
+      "url": "http://keralarecipes.com/?recipe=cheera-cutlet",
+      "ingredients": [
+        "1 cup of finely chopped Cheera (leafy vegetable)",
+        "1/2 cup of finely chopped onion",
+        "2 green chilies, finely chopped",
+        "1/2 inch piece of ginger, finely chopped",
+        "1/4 cup of cooked and mashed potato",
+        "1/4 cup of bread soaked in water and squeezed",
+        "1/4 teaspoon of coriander powder",
+        "1/4 teaspoon of garam masala",
+        "1/2 cup of rusk powder",
+        "1 tablespoon of all-purpose flour (maida)",
+        "1 sprig of curry leaves",
+        "Salt to taste"
+      ],
+      "directions": [
+        "Step 1: In a pan, combine the chopped Cheera, onion, green chilies, and ginger. Cook for 1 minute covered, until the vegetables are slightly wilted.",
+        "Step 2: Remove from heat and mix in the mashed potato, soaked bread, salt, coriander powder, and garam masala. Form the mixture into small cutlets.",
+        "Step 3: In a bowl, mix the all-purpose flour with 1/2 cup of water to create a thin batter. Dip each cutlet into the batter.",
+        "Step 4: Coat the cutlets in rusk powder until evenly covered.",
+        "Step 5: Heat oil in a pan and fry the cutlets on both sides until golden brown and crispy."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osqp5f-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "3",
+        "carbs": "20",
+        "fat": "6",
+        "fiber": "2",
+        "sugar": "1",
+        "sodium": "200"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up shot of Cheera Cutlets arranged artfully on a rustic wooden board, garnished with fresh coriander and a slice of lemon for vibrant contrast. Use soft, diffused natural light to enhance the rich green hues of the Cheera and the golden-brown crispiness of the cutlets. Employ a shallow depth of field to create a dreamy background, focusing sharply on the texture of the cutlets. Include a small bowl of tangy chutney and scattered rusk powder for added context and visual interest.",
+      "image_filepath": "recipe_d36osqp5f/main_image",
+      "video_script": {
+        "title": "Delicious Cheera Cutlets Recipe",
+        "description": "Learn to make crispy and flavorful Cheera Cutlets with our easy step-by-step tutorial.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated serving of Cheera Cutlets with garnishes and a dipping sauce on a rustic wooden table.",
+            "text": "Welcome to our Cheera Cutlets tutorial!",
+            "voice_over": "In this video, we will prepare delicious and crispy Cheera Cutlets that are perfect as snacks or appetizers.",
+            "scene_image_filename": "recipe_d36osqp5f/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqp5f-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "All ingredients neatly arranged on a kitchen countertop, focusing on Cheera and spices.",
+            "text": "Let\u2019s gather our ingredients!",
+            "voice_over": "For this recipe, you will need Cheera, onions, green chilies, ginger, potatoes, and a few spices to bring out the flavor.",
+            "scene_image_filename": "recipe_d36osqp5f/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqp5f-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A pan on the stove with chopped Cheera, onions, green chilies, and ginger being saut\u00e9ed.",
+            "text": "Cook the vegetables.",
+            "voice_over": "In a pan, combine 1 cup of chopped Cheera, 1/2 cup of finely chopped onion, 2 green chilies, and 1/2 inch ginger. Cook for just 1 minute covered, until they are slightly wilted.",
+            "scene_image_filename": "recipe_d36osqp5f/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqp5f-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A mixing bowl with cooked vegetable mixture, mashed potatoes, and bread being combined.",
+            "text": "Mix in other ingredients.",
+            "voice_over": "Remove from heat and mix in 1/4 cup of mashed potato, 1/4 cup of soaked bread, salt to taste, 1/4 teaspoon of coriander powder, and 1/4 teaspoon of garam masala. Form into small cutlets.",
+            "scene_image_filename": "recipe_d36osqp5f/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqp5f-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A bowl showing a thin batter made with all-purpose flour and water.",
+            "text": "Prepare the batter.",
+            "voice_over": "In a bowl, mix 1 tablespoon of all-purpose flour with 1/2 cup of water to create a thin batter for dipping the cutlets.",
+            "scene_image_filename": "recipe_d36osqp5f/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqp5f-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Cutlets being dipped in batter and coated with rusk powder on a plate.",
+            "text": "Coat the cutlets.",
+            "voice_over": "Dip each shaped cutlet into the batter and then coat them with 1/2 cup of rusk powder until fully covered.",
+            "scene_image_filename": "recipe_d36osqp5f/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqp5f-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A frying pan filled with oil and cutlets frying until golden brown.",
+            "text": "Fry until golden.",
+            "voice_over": "Heat oil in a pan and fry the cutlets over medium heat until golden brown and crispy on both sides, about 3-4 minutes per side.",
+            "scene_image_filename": "recipe_d36osqp5f/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqp5f-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "A final plated dish of golden Cheera Cutlets with a side of chutney and fresh herbs.",
+            "text": "Enjoy your Cheera Cutlets!",
+            "voice_over": "Your crispy Cheera Cutlets are ready! Serve them hot with your favorite chutney or dip for a delightful snack.",
+            "scene_image_filename": "recipe_d36osqp5f/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqp5f-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 25,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Cheera",
+        "Onion",
+        "Green Chilli",
+        "Ginger",
+        "Potato"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure not to overcook the Cheera to preserve its vibrant color and nutrients.",
+        "Feel free to add other spices according to your preference."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36osqp5f/d36osqp5f_main_image.jpg"
+    },
+    {
+      "id": "d36osvaib",
+      "name": "Spiced Tapioca with Coconut",
+      "url": "http://keralarecipes.com/?recipe=tapioca",
+      "ingredients": [
+        "1 kilogram tapioca, peeled and cut into small pieces",
+        "1 cup grated coconut scrapings",
+        "1 pinch turmeric powder",
+        "1 clove garlic, minced",
+        "1 small onion, finely chopped",
+        "1 pinch cumin seeds (jeera)",
+        "1 sprig fresh curry leaves",
+        "Salt, to taste"
+      ],
+      "directions": [
+        "Step 1: Peel the tapioca and cut it into small pieces.",
+        "Step 2: Wash the tapioca pieces thoroughly and place them in a pan. Add enough water to just cover the tapioca and season with salt.",
+        "Step 3: Bring the water to a boil and cook the tapioca until it becomes soft.",
+        "Step 4: Drain the water from the cooked tapioca. In a separate bowl, crush the grated coconut, garlic, onion, turmeric, cumin seeds, and curry leaves to create a spice mixture.",
+        "Step 5: Combine the spice mixture with the drained tapioca, cover the pan, and cook on low heat for 3 minutes.",
+        "Step 6: Stir the ingredients to ensure they are well mixed, and serve hot with fish or meat curry."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osvaib-m.webp",
+      "nutrition": {
+        "calories": "220 per serving",
+        "protein": "3 grams per serving",
+        "carbs": "45 grams per serving",
+        "fat": "8 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "1 gram per serving",
+        "sodium": "300 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of Spiced Tapioca with Coconut, styled elegantly on a rustic wooden table. Use soft, diffused natural light to enhance the golden hues of turmeric and the white coconut against a deep green backdrop. Incorporate props like a small clay dish of cumin seeds, fresh curry leaves, and a finely chopped onion for added texture. Focus on a slightly elevated angle to showcase the dish's layers, with a shallow depth of field blurring the background, drawing attention to the dish's glossy finish and intricate details. Aim for a warm, inviting mood that evokes comfort and tradition.",
+      "image_filepath": "recipe_d36osvaib/main_image",
+      "video_script": {
+        "title": "Spiced Tapioca with Coconut Recipe Tutorial",
+        "description": "Learn how to make a delicious and aromatic spiced tapioca dish with coconut that pairs perfectly with fish or meat curry.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A vibrant platter of spiced tapioca with coconut, garnished with fresh curry leaves and served alongside fish curry.",
+            "text": "Welcome to our Spiced Tapioca with Coconut tutorial!",
+            "voice_over": "Today, we'll be making a delicious spiced tapioca with coconut, an ideal accompaniment to any meat or fish curry.",
+            "scene_image_filename": "recipe_d36osvaib/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osvaib-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A well-organized table displaying all ingredients: tapioca, coconut, turmeric, garlic, onion, cumin seeds, curry leaves, and salt.",
+            "text": "Here are the ingredients you'll need.",
+            "voice_over": "You'll need 1 kilogram of tapioca, 1 cup of grated coconut, turmeric, garlic, onion, cumin seeds, curry leaves, and salt.",
+            "scene_image_filename": "recipe_d36osvaib/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osvaib-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A chef peeling and chopping the tapioca into small pieces on a cutting board.",
+            "text": "Step 1: Prepare the tapioca.",
+            "voice_over": "First, peel the tapioca and cut it into small pieces.",
+            "scene_image_filename": "recipe_d36osvaib/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osvaib-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A pan filled with tapioca pieces submerged in water, ready to boil with added salt.",
+            "text": "Step 2: Wash and boil.",
+            "voice_over": "Next, wash the tapioca pieces and place them in a pan, covering them with water and adding a pinch of salt. Bring to a boil.",
+            "scene_image_filename": "recipe_d36osvaib/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osvaib-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A visualization of boiled tapioca pieces in a pan, showing softness.",
+            "text": "Step 3: Cook until soft.",
+            "voice_over": "Cook the tapioca until it becomes soft, which should take about 10-15 minutes.",
+            "scene_image_filename": "recipe_d36osvaib/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osvaib-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "A bowl with crushed coconut, garlic, onion, turmeric, and spices being mixed together.",
+            "text": "Step 4: Make the spice mixture.",
+            "voice_over": "Once cooked, drain the water from the tapioca. In a separate bowl, crush the grated coconut, garlic, onion, turmeric, cumin seeds, and curry leaves together to create a flavorful spice mixture.",
+            "scene_image_filename": "recipe_d36osvaib/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osvaib-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Combining the spice mixture with the drained tapioca in a pan, covered to cook.",
+            "text": "Step 5: Combine and cook.",
+            "voice_over": "Combine the spice mixture with the drained tapioca. Cover the pan and cook on low heat for 3 minutes, allowing all flavors to meld.",
+            "scene_image_filename": "recipe_d36osvaib/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osvaib-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "A chef stirring the spiced tapioca in a pan, ensuring an even mix.",
+            "text": "Step 6: Final stir and serve.",
+            "voice_over": "Give everything a good stir to ensure it's well mixed, then serve hot! This pairs excellently with fish or meat curry.",
+            "scene_image_filename": "recipe_d36osvaib/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osvaib-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A beautifully plated serving of spiced tapioca with curry on the side, garnished with fresh herbs.",
+            "text": "Enjoy your meal!",
+            "voice_over": "Enjoy your spiced tapioca with coconut, a dish bursting with flavor and perfect for any meal!",
+            "scene_image_filename": "recipe_d36osvaib/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osvaib-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Tapioca",
+        "Coconut",
+        "Garlic",
+        "Onion",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure tapioca is fully cooked until soft for the best texture.",
+        "For extra flavor, toast the cumin seeds before crushing them."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36osvaib/d36osvaib_main_image.jpg"
+    },
+    {
+      "id": "d36ospbo9",
+      "name": "Bhoondhi Raita",
+      "url": "http://keralarecipes.com/?recipe=bhoondhi-raita",
+      "ingredients": [
+        "1/4 cup besan (gram flour), sifted",
+        "1/2 cup water",
+        "Ghee (clarified butter) for frying",
+        "Salt to taste",
+        "Pepper to taste",
+        "2 cups plain curd (yogurt)",
+        "1/4 cup milk",
+        "1 teaspoon chaat masala"
+      ],
+      "directions": [
+        "Step 1: Combine the besan and water in a mixing bowl to create a smooth pouring paste.",
+        "Step 2: Heat ghee in a deep frying pan over medium heat.",
+        "Step 3: Using a slotted spoon, drop small amounts of the besan paste into the hot ghee, allowing them to form little droplets (boondhi).",
+        "Step 4: Fry the boondhi until they turn golden brown, then remove them with the slotted spoon and place them on a paper towel to absorb excess oil.",
+        "Step 5: Soak the fried boondhi in warm water for a few minutes, then drain and squeeze out the excess water.",
+        "Step 6: In a separate bowl, mix the curd, milk, salt, pepper, and chaat masala until well combined.",
+        "Step 7: Gently fold the soaked boondhi into the curd mixture until evenly distributed.",
+        "Step 8: Serve the Bhoondhi Raita chilled with rice, biryani, or as a side dish."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36ospbo9-m.webp",
+      "nutrition": {
+        "calories": "120",
+        "protein": "4",
+        "carbs": "15",
+        "fat": "6",
+        "fiber": "2",
+        "sugar": "2",
+        "sodium": "150"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of Bhoondhi Raita, styled with a rustic wooden backdrop and a soft linen cloth. Use natural light to enhance the creamy yogurt's texture and the golden, crispy boondi. Angle the shot slightly from above to showcase the colorful garnishes of fresh coriander and a dusting of chaat masala. Employ a shallow depth of field to blur the background while keeping the bowl in sharp focus, evoking a warm, inviting mood. Use a simple, elegant spoon beside the bowl for added context.",
+      "image_filepath": "recipe_d36ospbo9/main_image",
+      "video_script": {
+        "title": "Bhoondhi Raita Recipe Tutorial",
+        "description": "Learn how to make a refreshing Bhoondhi Raita with step-by-step instructions and tips.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully plated Bhoondhi Raita garnished with coriander leaves, accompanied by a bowl of biryani and a glass of lassi.",
+            "text": "Welcome to our Bhoondhi Raita tutorial!",
+            "voice_over": "In this video, we'll be making a delicious and refreshing Bhoondhi Raita, perfect for pairing with rice or biryani.",
+            "scene_image_filename": "recipe_d36ospbo9/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ospbo9-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "All ingredients neatly arranged on a kitchen counter: besan, water, ghee, curd, milk, spices.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "To make Bhoondhi Raita, we'll need besan, water, ghee, curd, milk, and a few spices.",
+            "scene_image_filename": "recipe_d36ospbo9/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ospbo9-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A mixing bowl with besan being combined with water to form a thick paste.",
+            "text": "Mix besan and water.",
+            "voice_over": "First, combine 1/4 cup of besan and 1/2 cup of water in a bowl to create a smooth pouring paste.",
+            "scene_image_filename": "recipe_d36ospbo9/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ospbo9-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A frying pan on the stove with hot ghee bubbling, preparing for frying.",
+            "text": "Heat ghee for frying.",
+            "voice_over": "Next, heat ghee in a deep frying pan over medium heat, making sure it's hot but not smoking.",
+            "scene_image_filename": "recipe_d36ospbo9/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ospbo9-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 7,
+            "image_prompt": "Droplets of besan mixture being dropped into the hot ghee from a slotted spoon, forming round shapes.",
+            "text": "Fry to make boondhi.",
+            "voice_over": "Using a slotted spoon, drop small amounts of the besan paste into the ghee, allowing them to form little droplets called boondhi.",
+            "scene_image_filename": "recipe_d36ospbo9/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ospbo9-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Golden brown fried boondhis being lifted out of the ghee and placed on paper towels to drain excess oil.",
+            "text": "Remove and drain boondhi.",
+            "voice_over": "Fry until golden brown, then remove with a slotted spoon and place them on a paper towel to absorb excess oil.",
+            "scene_image_filename": "recipe_d36ospbo9/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ospbo9-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A bowl with soaked, drained boondhis alongside a bowl of curd mixture being prepared with spices.",
+            "text": "Soak and prepare curd mixture.",
+            "voice_over": "Soak the fried boondhi in warm water for a few minutes, then drain and squeeze out excess water while mixing curd with milk and spices.",
+            "scene_image_filename": "recipe_d36ospbo9/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ospbo9-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Curd mixture being gently folded with soaked boondhi in a mixing bowl.",
+            "text": "Fold boondhi into curd mix.",
+            "voice_over": "In a separate bowl, mix 2 cups of curd, 1/4 cup of milk, salt, pepper, and chaat masala together, then gently fold in the soaked boondhi.",
+            "scene_image_filename": "recipe_d36ospbo9/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ospbo9-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Chilled Bhoondhi Raita served in a bowl, garnished and ready to be served.",
+            "text": "Serve chilled.",
+            "voice_over": "Serve the Bhoondhi Raita chilled with rice, biryani, or enjoy it as a refreshing side dish.",
+            "scene_image_filename": "recipe_d36ospbo9/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ospbo9-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Bhoondhi Raita served on a dinner table with rice and naan in the background.",
+            "text": "Enjoy your Bhoondhi Raita!",
+            "voice_over": "Enjoy your delicious Bhoondhi Raita with your favorite meal today!",
+            "scene_image_filename": "recipe_d36ospbo9/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ospbo9-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 25,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Side Dish",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Curd",
+        "Besan",
+        "Spices",
+        "Fried",
+        "Dairy"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Festive"
+      ],
+      "cooking_tips": [
+        "Ensure the ghee is hot enough before dropping the besan paste to form crispy boondhi.",
+        "You can adjust the seasoning according to your taste preferences."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36ospbo9/d36ospbo9_main_image.jpg"
+    },
+    {
+      "id": "d36q82ud7",
+      "name": "Vegetable Curry Puffs with Potato and Peas Filling",
+      "url": "http://www.easy-indian-cooking.com/recipe/vegetable-curry-puffs-potato-peas-filling/",
+      "ingredients": [
+        "4 medium-sized potatoes, peeled and cut into large pieces",
+        "1/2 cup green peas, fresh or frozen",
+        "2 medium onions, chopped",
+        "2 green chilies, chopped",
+        "1/2 medium tomato, chopped",
+        "1/2 tablespoon ginger-garlic paste",
+        "A pinch of turmeric powder",
+        "1/2 tablespoon red chili powder",
+        "1 tablespoon garam masala",
+        "1 tablespoon fresh coriander, chopped",
+        "1 tablespoon lemon juice",
+        "Salt to taste",
+        "2 tablespoons vegetable oil",
+        "1/2 tablespoon mustard seeds",
+        "5 curry leaves",
+        "1/2 teaspoon cumin seeds (jeera)",
+        "1 tablespoon urad dal",
+        "1 tablespoon chana dal"
+      ],
+      "directions": [
+        "Step 1: Boil the potatoes and green peas in a pressure cooker for 2 whistles. Allow the pressure to release, drain excess water, and rinse with cold water. Once cool, mash the potatoes lightly with your hands.",
+        "Step 2: Heat vegetable oil in a pan. Add mustard seeds and wait until they splutter. Then, add cumin seeds, curry leaves, urad dal, chana dal, chopped onions, ginger-garlic paste, chopped green chilies, and salt. Saut\u00e9 until the raw smell disappears and the mixture is fragrant.",
+        "Step 3: Add the chopped tomatoes to the mixture and cook for a few minutes until they soften.",
+        "Step 4: Stir in turmeric powder, red chili powder, and garam masala. Cook for an additional few minutes to combine all the spices.",
+        "Step 5: Add the mashed potatoes and green peas to the spice mixture. Mix well and cook on low flame for 5 minutes. Remove from heat and fold in the chopped coriander leaves and lemon juice.",
+        "Step 6: Once the filling is prepared, lay out the puff pastry sheets and flatten them slightly without rolling.",
+        "Step 7: Cut the pastry sheets into squares or rectangles that are large enough to hold the filling comfortably.",
+        "Step 8: Fill each cut piece of pastry with the potato and peas mixture, ensuring that the edges are thicker for proper sealing.",
+        "Step 9: Preheat the oven to 200\u00b0C (392\u00b0F). Place the puffs in the oven and bake for 10 minutes. Flip the puffs over and bake for an additional 5 minutes until golden brown.",
+        "Step 10: Remove from the oven and serve warm with chili sauce, curry sauce, or tomato ketchup."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q82ud7-m.webp",
+      "nutrition": {
+        "calories": "180",
+        "protein": "4",
+        "carbs": "25",
+        "fat": "7",
+        "fiber": "3",
+        "sugar": "2",
+        "sodium": "250"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant shot of golden-brown Vegetable Curry Puffs arranged artfully on a rustic wooden board. Use soft, diffused natural light to highlight the flaky pastry texture and the colorful filling of potatoes and peas. Incorporate fresh coriander and a small bowl of mint chutney as props, with a blurred background of spices and a textured linen cloth. Focus on a shallow depth of field to create an inviting, warm mood, drawing attention to the puffs while softly blurring the surrounding elements.",
+      "image_filepath": "recipe_d36q82ud7/main_image",
+      "video_script": {
+        "title": "Delicious Vegetable Curry Puffs with Potato and Peas Filling",
+        "description": "Learn how to make delicious Vegetable Curry Puffs filled with a flavorful potato and peas mixture. Perfect for snacks or appetizers!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of golden-brown vegetable curry puffs with a side of chili sauce and fresh coriander garnish",
+            "text": "Vegetable Curry Puffs",
+            "voice_over": "Welcome to our cooking tutorial! Today, we\u2019re making delicious Vegetable Curry Puffs filled with a mouthwatering potato and peas mixture.",
+            "scene_image_filename": "recipe_d36q82ud7/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "An assortment of fresh ingredients including potatoes, green peas, onions, ginger-garlic paste, and spices arranged on a kitchen countertop",
+            "text": "Ingredients",
+            "voice_over": "Let's gather our ingredients. We need potatoes, green peas, onions, ginger-garlic paste, and a mix of spices that will enhance our curry puffs.",
+            "scene_image_filename": "recipe_d36q82ud7/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "Boiling potatoes and green peas in a pressure cooker, steam coming out indicating it's working",
+            "text": "Step 1: Boil Potatoes & Peas",
+            "voice_over": "First, boil 4 medium-sized potatoes and \u00bd cup of green peas in a pressure cooker for 2 whistles. Allow to cool, then mash the potatoes lightly.",
+            "scene_image_filename": "recipe_d36q82ud7/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A frying pan with sizzling mustard seeds, curry leaves, and chopped onions saut\u00e9ing together",
+            "text": "Step 2: Saut\u00e9 Spices",
+            "voice_over": "In a heated pan, add 2 tablespoons of oil. Add mustard seeds and let them splutter, then add cumin seeds, curry leaves, urad dal, chana dal, onions, and ginger-garlic paste.",
+            "scene_image_filename": "recipe_d36q82ud7/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Chopped tomatoes being added to the saut\u00e9ed onion mixture in the frying pan",
+            "text": "Step 3: Add Tomatoes",
+            "voice_over": "Next, add \u00bd medium chopped tomato and saut\u00e9 until softened, letting those wonderful flavors come together.",
+            "scene_image_filename": "recipe_d36q82ud7/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Spices being sprinkled into the frying pan, vibrant colors of turmeric, red chili powder, and garam masala visible",
+            "text": "Step 4: Add Spices",
+            "voice_over": "Stir in turmeric powder, red chili powder, and garam masala. Saut\u00e9 for a few more minutes to blend all the spices together.",
+            "scene_image_filename": "recipe_d36q82ud7/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Mashed potatoes and peas being mixed into the spice mixture in the frying pan",
+            "text": "Step 5: Combine Filling",
+            "voice_over": "Now, add the mashed potatoes and peas to the pan. Mix well and cook on low flame for 5 minutes. Finish by adding chopped coriander and lemon juice.",
+            "scene_image_filename": "recipe_d36q82ud7/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Pastry sheets laid out on a clean surface, being cut into squares in preparation for filling",
+            "text": "Step 6: Prepare Pastry",
+            "voice_over": "Next, take your puff pastry sheets, slightly flatten them, and cut them into squares or rectangles big enough for the filling.",
+            "scene_image_filename": "recipe_d36q82ud7/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Filling the pastry squares with the potato and peas mixture, ensuring edges are thicker",
+            "text": "Step 7: Fill Pastries",
+            "voice_over": "Fill each pastry piece with the potato and peas mixture, making sure to keep the edges thick for sealing.",
+            "scene_image_filename": "recipe_d36q82ud7/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "A tray of unbaked curry puffs ready to go into the oven, preheating in the background",
+            "text": "Step 8: Bake Puffs",
+            "voice_over": "Preheat your oven to 200\u00b0C. Bake the puffs for 10 minutes, flip them, and bake for another 5 minutes until golden brown.",
+            "scene_image_filename": "recipe_d36q82ud7/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "Freshly baked golden curry puffs served on a platter with dipping sauces",
+            "text": "Enjoy Your Curry Puffs!",
+            "voice_over": "Remove from the oven and serve warm with chili sauce, curry sauce, or tomato ketchup. Enjoy your delicious vegetable curry puffs!",
+            "scene_image_filename": "recipe_d36q82ud7/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q82ud7-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Potatoes",
+        "Green Peas",
+        "Onions",
+        "Chilies",
+        "Spices",
+        "Pastry"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Use fresh vegetables for the best flavor.",
+        "Ensure the pastry edges are sealed properly to avoid leaking during baking.",
+        "You can add other vegetables like carrots or corn to the filling for variety."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36q82ud7/d36q82ud7_main_image.jpg"
+    },
+    {
+      "id": "d36osr50t",
+      "name": "Vegetable Pakora",
+      "url": "http://keralarecipes.com/?recipe=pakora",
+      "ingredients": [
+        "1/2 cup besan (gram flour)",
+        "5 ounces warm water (adjust as needed)",
+        "1/4 teaspoon chili powder",
+        "3/4 teaspoon salt",
+        "1/2 teaspoon garam masala",
+        "1 small onion, thinly sliced",
+        "1 medium potato, peeled and thinly sliced",
+        "A few spinach leaves, washed and patted dry",
+        "Oil for frying (vegetable or canola oil)"
+      ],
+      "directions": [
+        "Step 1: In a mixing bowl, combine the besan with half of the warm water and whisk until it forms a thick batter. Beat the batter vigorously for 5 minutes.",
+        "Step 2: Gradually add the remaining warm water to the batter, mixing well. Allow it to sit and swell for 30 minutes.",
+        "Step 3: After the batter has rested, add salt, chili powder, and garam masala, then beat the mixture again until smooth.",
+        "Step 4: Prepare the vegetables by washing, peeling, and slicing the onion and potato into thin slices. Wash and pat dry the spinach leaves.",
+        "Step 5: In a deep frying pan, heat oil over medium-high heat until it reaches a smoking point.",
+        "Step 6: Dip each vegetable slice into the batter to coat, then carefully drop them into the hot oil.",
+        "Step 7: Fry the pakoras in batches until they turn golden brown and crispy, about 3-5 minutes per batch.",
+        "Step 8: Use a slotted spoon to remove the pakoras from the oil and let them drain on paper towels."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osr50t-m.webp",
+      "nutrition": {
+        "calories": "150 per serving",
+        "protein": "4 grams per serving",
+        "carbs": "20 grams per serving",
+        "fat": "7 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "1 gram per serving",
+        "sodium": "300 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up shot of golden-brown Vegetable Pakoras artfully arranged on a rustic wooden board, garnished with fresh cilantro and a sprinkle of chili flakes. Utilize soft, natural daylight to enhance the crispy textures and vibrant colors of the vegetables. Include a small bowl of tangy green chutney and a few sliced red onions as props. Opt for a shallow depth of field to keep the focus on the pakoras, creating a warm, inviting mood. Aim for a slightly elevated angle to showcase the dish's layers and details.",
+      "image_filepath": "recipe_d36osr50t/main_image",
+      "video_script": {
+        "title": "Crispy Vegetable Pakora Recipe",
+        "description": "Learn how to make delicious and crispy Vegetable Pakoras with this easy recipe that includes a variety of vegetables and spices.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated finished Vegetable Pakora dish, garnished with fresh cilantro and served with a dipping sauce.",
+            "text": "Delicious Vegetable Pakoras",
+            "voice_over": "Welcome to our kitchen! Today, we'll be making crispy Vegetable Pakoras - a delightful snack or appetizer.",
+            "scene_image_filename": "recipe_d36osr50t/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "An array of ingredients laid out on a countertop: besan flour, spices, onion, potato, spinach leaves, and oil.",
+            "text": "Ingredients for Pakoras",
+            "voice_over": "For this recipe, you will need gram flour, spices, onion, potato, spinach, and oil for frying.",
+            "scene_image_filename": "recipe_d36osr50t/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A mixing bowl with besan flour and warm water being whisked into a thick batter.",
+            "text": "Make the Batter",
+            "voice_over": "Start by mixing half a cup of besan with warm water, whisking until it forms a thick batter.",
+            "scene_image_filename": "recipe_d36osr50t/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The batter resting in the bowl, covered with a cloth for 30 minutes.",
+            "text": "Rest the Batter",
+            "voice_over": "Let the batter rest for 30 minutes to allow it to swell and improve texture.",
+            "scene_image_filename": "recipe_d36osr50t/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A bowl with the rested batter, spices being added in, and a whisk blending the mixture.",
+            "text": "Add Spices and Mix",
+            "voice_over": "After resting, add salt, chili powder, and garam masala, then mix until smooth.",
+            "scene_image_filename": "recipe_d36osr50t/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "Sliced onion, potato, and washed spinach leaves being prepared on a cutting board.",
+            "text": "Prepare the Vegetables",
+            "voice_over": "Thinly slice the onion and potato, and wash and dry the spinach leaves for frying.",
+            "scene_image_filename": "recipe_d36osr50t/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A pan filled with heated oil, shimmering and ready for frying.",
+            "text": "Heat the Oil",
+            "voice_over": "Heat oil in a deep frying pan over medium-high heat until it reaches a smoking point.",
+            "scene_image_filename": "recipe_d36osr50t/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Vegetable slices being dipped into the batter and then gently placed into the hot oil.",
+            "text": "Dip and Fry",
+            "voice_over": "Dip each vegetable slice into the batter, then carefully drop them into the hot oil.",
+            "scene_image_filename": "recipe_d36osr50t/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Pakoras frying in the oil, turning golden brown and crispy.",
+            "text": "Fry Until Golden Brown",
+            "voice_over": "Fry the pakoras in batches for 3 to 5 minutes until they are golden brown and crispy.",
+            "scene_image_filename": "recipe_d36osr50t/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Using a slotted spoon to remove pakoras from the oil onto paper towels to drain.",
+            "text": "Drain Excess Oil",
+            "voice_over": "Use a slotted spoon to remove the pakoras and let them drain on paper towels.",
+            "scene_image_filename": "recipe_d36osr50t/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "The final Vegetable Pakora dish served on a plate alongside a bowl of mint chutney.",
+            "text": "Enjoy Your Pakoras!",
+            "voice_over": "Your crispy Vegetable Pakoras are ready to enjoy! Serve them hot with your favorite chutney.",
+            "scene_image_filename": "recipe_d36osr50t/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osr50t-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 45,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Besan",
+        "Onions",
+        "Potatoes",
+        "Spinach"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is hot enough before frying for a crispy texture.",
+        "Experiment by adding different vegetables or spices to the batter for variation."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36osr50t/d36osr50t_main_image.jpg"
+    },
+    {
+      "id": "d36q7a76v",
+      "name": "Spicy Maida Diamond Cut Biscuits - Indian Snack",
+      "url": "http://www.easy-indian-cooking.com/recipe/spicy-maida-diamond-cut-biscuits/",
+      "ingredients": [
+        "1 cup wheat flour (maida), sifted",
+        "1 cup rice flour",
+        "1/2 cup besan (gram flour)",
+        "1 tablespoon ajwain (carom seeds)",
+        "1/2 tablespoon cumin seeds",
+        "1 teaspoon red chili powder",
+        "6 teaspoons white sesame seeds",
+        "a small pinch of hing (asafoetida)",
+        "Water, as needed to prepare the dough",
+        "Salt, to taste",
+        "Oil, for deep frying"
+      ],
+      "directions": [
+        "Step 1: In a large mixing bowl, combine the wheat flour, rice flour, besan flour, salt, red chili powder, sesame seeds, and cumin seeds. Mix all the dry ingredients thoroughly.",
+        "Step 2: Gradually add water as needed to form a soft dough. Knead the dough for about 5 minutes, incorporating 2 tablespoons of oil or ghee. Taste and adjust with more salt or red chili powder if necessary.",
+        "Step 3: Divide the dough into lemon-sized balls and roll each ball into slightly thick chapatis.",
+        "Step 4: Prick small holes in the rolled-out dough using a fork or knife. Then, cut the dough into diamond or square shapes using a sharp knife to create the raw biscuit shapes.",
+        "Step 5: Heat enough oil in a wide, deep vessel until it reaches high heat. Carefully drop the diamond cuts into the hot oil. Allow them to fry until they float to the surface. Lower the heat and continue frying until they turn golden brown.",
+        "Step 6: Remove the biscuits from the oil using a slotted spoon and place them on a kitchen paper towel to absorb excess oil. Once cooled to room temperature, store the biscuits in an airtight container to maintain their crispiness."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q7a76v-m.webp",
+      "nutrition": {
+        "calories": "150 per serving",
+        "protein": "3 grams per serving",
+        "carbs": "20 grams per serving",
+        "fat": "7 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "0 grams per serving",
+        "sodium": "150 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a top-down angle of a rustic wooden table, featuring a stack of golden-brown Spicy Maida Diamond Cut Biscuits on a textured ceramic plate. Sprinkle a few white sesame seeds around the plate for contrast. Use soft, natural light to enhance the biscuit's crispy texture and rich colors, casting gentle shadows. Incorporate small bowls of ajwain and red chili powder as props, and add a delicate sprig of fresh coriander for garnish. Employ a shallow depth of field to blur the background, drawing focus to the biscuits and creating a warm, inviting mood.",
+      "image_filepath": "recipe_d36q7a76v/main_image",
+      "video_script": {
+        "title": "Spicy Maida Diamond Cut Biscuits - Indian Snack Tutorial",
+        "description": "Learn how to make crispy and flavorful Spicy Maida Diamond Cut Biscuits, a perfect Indian snack for tea time!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A plate filled with golden-brown diamond cut biscuits, garnished with fresh herbs and spices, on a rustic wooden table.",
+            "text": "Welcome to our kitchen!",
+            "voice_over": "Today, we're making Spicy Maida Diamond Cut Biscuits, a crispy Indian snack perfect for any occasion!",
+            "scene_image_filename": "recipe_d36q7a76v/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "An organized layout of all ingredients including maida, rice flour, besan, and an array of spices on a clean kitchen counter.",
+            "text": "Gather your ingredients.",
+            "voice_over": "For this recipe, you will need wheat flour, rice flour, besan, ajwain, cumin seeds, red chili powder, sesame seeds, hing, salt, and oil for frying.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A large mixing bowl filled with the dry ingredients, with hands mixing the flour together.",
+            "text": "Mix dry ingredients.",
+            "voice_over": "In a large bowl, combine 1 cup of maida, 1 cup of rice flour, 1/2 cup of besan, salt, red chili powder, sesame seeds, and cumin seeds. Mix thoroughly.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A dough being kneaded on a floured surface, with oil being poured in.",
+            "text": "Knead the dough.",
+            "voice_over": "Gradually add water to form a soft dough. Knead for about 5 minutes, adding 2 tablespoons of oil or ghee. Adjust with salt and chili powder to taste.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Small balls of dough being rolled out into chapatis on a flat surface.",
+            "text": "Roll out the dough.",
+            "voice_over": "Divide the dough into lemon-sized balls. Roll each ball into slightly thick chapatis for the biscuits.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "Rolled-out dough with small holes pricked using a fork, and diamond shapes being cut out.",
+            "text": "Cut into diamond shapes.",
+            "voice_over": "Prick small holes in the rolled dough and cut them into diamond or square shapes with a sharp knife.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A frying pan with hot oil, and diamond cut biscuits being dropped into the bubbling oil.",
+            "text": "Fry the biscuits.",
+            "voice_over": "Heat oil in a deep vessel until hot. Carefully drop in the biscuit shapes. Fry until they float, then lower the heat and fry until golden brown.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Golden-brown biscuits being placed on a paper towel to drain excess oil.",
+            "text": "Drain and cool.",
+            "voice_over": "Remove the biscuits with a slotted spoon and place them on kitchen paper to absorb excess oil. Let them cool to room temperature.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A beautiful serving suggestion of the final golden-brown diamond cut biscuits arranged on a plate with a bowl of spicy chutney.",
+            "text": "Serve and enjoy!",
+            "voice_over": "And there you have it! Your delicious Spicy Maida Diamond Cut Biscuits are ready. Serve them with your favorite chutney or tea and enjoy!",
+            "scene_image_filename": "recipe_d36q7a76v/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 30,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Wheat",
+        "Rice",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Tea Time",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is hot enough before adding the biscuits to avoid sogginess.",
+        "Adjust the spices to your taste preference for a more or less spicy biscuit."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36q7a76v/d36q7a76v_main_image.jpg"
+    },
+    {
+      "id": "d36q5p05k",
+      "name": "Raw Banana Bajji (Plantain Fritters)",
+      "url": "http://www.easy-indian-cooking.com/recipe/raw-bananabajji-vazhakkai-bajji-plantain-fritters/",
+      "ingredients": [
+        "1 raw banana (also known as plantain, cleaned and sliced longitudinally)",
+        "150 grams besan (gram flour, sifted)",
+        "3 tablespoons rice flour",
+        "2 tablespoons barbeque masala",
+        "A pinch of Eno salt (or baking soda)",
+        "A small pinch of hing powder (asafoetida)",
+        "Oil for deep frying",
+        "Salt to taste"
+      ],
+      "directions": [
+        "Step 1: Wash and clean the raw banana thoroughly. Apply a little oil to your hands and knife to prevent stickiness, then peel off the outer layer and slice the banana into thin longitudinal slices.",
+        "Step 2: In a mixing bowl, combine the besan, rice flour, barbeque masala, Eno salt, hing powder, and salt. Gradually add water until the batter reaches a smooth consistency.",
+        "Step 3: Heat oil in a deep frying vessel over medium flame. Once the oil is hot, dip each banana slice into the batter, allowing excess to drip off, and carefully slide it into the hot oil.",
+        "Step 4: Deep fry the banana slices until the batter turns golden brown, ensuring they are cooked evenly. Remove and drain excess oil on kitchen paper.",
+        "Step 5: Serve the hot Raw Banana Bajji fritters with your choice of chutney or sauce."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q5p05k-m.webp",
+      "nutrition": {
+        "calories": "120 per serving",
+        "protein": "3 grams per serving",
+        "carbs": "20 grams per serving",
+        "fat": "5 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "3 grams per serving",
+        "sodium": "200 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, high-contrast image of Raw Banana Bajji arranged on a rustic wooden board. Use natural light to emphasize the golden-brown textures of the fritters, placing them in a slight pyramid for depth. Surround with a scattering of spices and a small bowl of tangy chutney for color contrast. Incorporate fresh green coriander leaves as a garnish. Shoot from a 45-degree angle with a shallow depth of field to keep the focus on the crispy fritters, creating a warm, inviting mood.",
+      "image_filepath": "recipe_d36q5p05k/main_image",
+      "video_script": {
+        "title": "Delicious Raw Banana Bajji (Plantain Fritters) Recipe",
+        "description": "Learn how to make crispy and flavorful Raw Banana Bajji, a popular Indian snack made from plantains and gram flour.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated serving of golden-brown Raw Banana Bajji garnished with fresh coriander and served with a variety of chutneys.",
+            "text": "Crispy Raw Banana Bajji",
+            "voice_over": "Welcome to our kitchen! Today, we'll be making delicious Raw Banana Bajji, perfect for snacking.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "An overhead shot of all ingredients: raw banana, besan, rice flour, spices, and oil laid out neatly on a kitchen counter.",
+            "text": "Ingredients Needed",
+            "voice_over": "Here are the ingredients you'll need: 1 raw banana, gram flour, rice flour, barbeque masala, Eno salt, hing, oil for frying, and salt to taste.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "Close-up of a hand peeling and slicing the raw banana with oil applied to the hand to prevent stickiness.",
+            "text": "Prep the Banana",
+            "voice_over": "First, wash the raw banana. Apply a little oil to your hands and knife, then peel and slice it thinly lengthwise.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A mixing bowl filled with besan, rice flour, and spices being combined together with a whisk.",
+            "text": "Make the Batter",
+            "voice_over": "In a mixing bowl, combine besan, rice flour, barbeque masala, Eno salt, hing powder, and salt. Gradually add water to achieve a smooth batter consistency.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A pot with oil heating on the stove, with bubbles indicating it's ready for frying.",
+            "text": "Heat the Oil",
+            "voice_over": "Heat oil in a deep frying vessel over medium heat until hot, around 350\u00b0F or 180\u00b0C.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "A hand dipping banana slices into batter, then gently placing them in hot oil with bubbles forming around them.",
+            "text": "Fry the Banana Slices",
+            "voice_over": "Dip each banana slice into the batter, allowing excess to drip off, and carefully slide them into the hot oil. Fry until golden brown.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "The fried bajji being removed from the oil and placed on a kitchen paper to drain excess oil.",
+            "text": "Drain the Bajji",
+            "voice_over": "Remove the bajji from the oil once golden and crisp, and drain them on kitchen paper to remove excess oil.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A serving platter of hot Raw Banana Bajji with dips like coconut chutney and spicy salsa on the side.",
+            "text": "Serve and Enjoy",
+            "voice_over": "Serve your hot Raw Banana Bajji with your favorite chutney or sauce. Enjoy the crunch!",
+            "scene_image_filename": "recipe_d36q5p05k/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 30,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Bananas",
+        "Batter",
+        "Oil",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "College Snacks"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is hot enough before adding banana slices to achieve a crispy texture.",
+        "Avoid overcrowding the frying vessel to maintain oil temperature."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36q5p05k/d36q5p05k_main_image.jpg"
+    },
+    {
+      "id": "d36oss7t2",
+      "name": "Tandoori Roti",
+      "url": "http://keralarecipes.com/?recipe=tandoori-roti",
+      "ingredients": [
+        "5 cups whole wheat flour, sifted",
+        "Water, as needed for kneading the dough",
+        "Salt, to taste"
+      ],
+      "directions": [
+        "Step 1: In a large mixing bowl, combine the sifted whole wheat flour and salt. Gradually add water and knead until a soft and pliable dough forms. Cover the dough with a damp cloth and let it rest for 30 minutes.",
+        "Step 2: Preheat the tandoor on high flame for 5 to 6 minutes until it reaches the desired temperature.",
+        "Step 3: Divide the rested dough into small balls. On a floured surface, roll out each ball into a round shape approximately \u00bc inch thick.",
+        "Step 4: Slightly moisten your hand with water and stick the rolled-out roti onto the inner surface of the hot tandoor. Close the lid of the tandoor.",
+        "Step 5: After about 2 minutes, the roti will fall off the lid of the tandoor. Carefully remove the roti using tongs and serve hot with paneer kurma."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36oss7t2-m.webp",
+      "nutrition": {
+        "calories": "150 per serving",
+        "protein": "4 grams per serving",
+        "carbs": "30 grams per serving",
+        "fat": "1 gram per serving",
+        "fiber": "3 grams per serving",
+        "sugar": "0 grams per serving",
+        "sodium": "200 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture Tandoori Roti in a rustic setting, showcasing the golden-brown, charred texture against a dark wooden table. Use natural light to create soft highlights that accentuate the roti's warmth. Style with a woven basket and a small bowl of vibrant chutney beside it for contrast. Employ a shallow depth of field to keep the focus on the roti while softly blurring the background. Angle the shot slightly above to reveal the roti's inviting layers, evoking a cozy, inviting mood.",
+      "image_filepath": "recipe_d36oss7t2/main_image",
+      "video_script": {
+        "title": "Delicious Tandoori Roti Recipe Tutorial",
+        "description": "Learn how to make soft and tasty Tandoori Roti at home with this easy step-by-step tutorial.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Tandoori Roti served with curry on a rustic wooden table, showcasing the perfect golden brown color and a sprinkle of herbs.",
+            "text": "Welcome to our Tandoori Roti Tutorial!",
+            "voice_over": "In this video, we\u2019ll show you how to make delicious and soft Tandoori Roti from scratch. Let\u2019s gather our ingredients!",
+            "scene_image_filename": "recipe_d36oss7t2/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36oss7t2-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "A kitchen counter with all the ingredients displayed: whole wheat flour, salt, and a bowl of water, arranged neatly.",
+            "text": "Ingredients for Tandoori Roti",
+            "voice_over": "We need five cups of sifted whole wheat flour, some salt to taste, and water for kneading the dough.",
+            "scene_image_filename": "recipe_d36oss7t2/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36oss7t2-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A large mixing bowl filled with whole wheat flour and salt, and hands mixing water into it, creating a dough.",
+            "text": "Combine flour and salt, knead dough.",
+            "voice_over": "In a large mixing bowl, combine the flour and salt. Gradually add water and knead until a soft and pliable dough forms. Cover and let it rest for 30 minutes.",
+            "scene_image_filename": "recipe_d36oss7t2/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36oss7t2-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A traditional tandoor being preheated with flames visible, showing the temperature building up.",
+            "text": "Preheat the tandoor.",
+            "voice_over": "Now, preheat the tandoor on high flame for about 5 to 6 minutes until it reaches the desired temperature.",
+            "scene_image_filename": "recipe_d36oss7t2/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36oss7t2-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A hand rolling small balls of dough on a flour-dusted surface, showcasing perfect round shapes.",
+            "text": "Divide and roll the dough.",
+            "voice_over": "After resting, divide the dough into small balls. On a floured surface, roll each ball into a round shape approximately a quarter inch thick.",
+            "scene_image_filename": "recipe_d36oss7t2/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36oss7t2-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A hand moistening with water and pressing the rolled roti onto the inner surface of a hot tandoor, with steam coming out.",
+            "text": "Stick roti to the tandoor wall.",
+            "voice_over": "Slightly moisten your hand, then stick the rolled-out roti onto the inner surface of the hot tandoor. Close the lid.",
+            "scene_image_filename": "recipe_d36oss7t2/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36oss7t2-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A perfectly cooked Tandoori Roti falling off the lid of the tandoor, showing its puffiness and golden spots.",
+            "text": "Cook until done.",
+            "voice_over": "After about 2 minutes, the roti will fall off the lid of the tandoor. Carefully remove it using tongs.",
+            "scene_image_filename": "recipe_d36oss7t2/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36oss7t2-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A stack of warm Tandoori Roti on a plate served alongside steaming paneer kurma, garnished with cilantro.",
+            "text": "Serve hot and enjoy!",
+            "voice_over": "Serve your hot Tandoori Roti with paneer kurma or your favorite curry. Enjoy this delicious treat!",
+            "scene_image_filename": "recipe_d36oss7t2/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36oss7t2-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 6,
+      "total_time_minutes": 36,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Vegan"
+      ],
+      "ingredient_tags": [
+        "Wheat Flour",
+        "Salt"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Family Gathering"
+      ],
+      "cooking_tips": [
+        "Ensure the tandoor is preheated sufficiently for the best results.",
+        "Experiment with different thicknesses of the roti for varied textures."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36oss7t2/d36oss7t2_main_image.jpg"
+    },
+    {
+      "id": "d36ostdj0",
+      "name": "Traditional Indian Naan Bread",
+      "url": "http://keralarecipes.com/?recipe=nan",
+      "ingredients": [
+        "2 cups all-purpose flour (maida), sifted",
+        "4 tablespoons sweet curd (yogurt)",
+        "1/2 cup milk, lukewarm",
+        "1 large egg, beaten",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon baking soda",
+        "1/2 teaspoon active dry yeast",
+        "3 tablespoons ghee, melted",
+        "A pinch of black cumin seeds (black jeera)",
+        "A pinch of salt"
+      ],
+      "directions": [
+        "Step 1: In a large mixing bowl, combine all-purpose flour, sweet curd, lukewarm milk, beaten egg, baking powder, baking soda, yeast, melted ghee, black cumin seeds, and salt. Knead the mixture thoroughly until a soft dough forms.",
+        "Step 2: Cover the dough with a damp cloth and let it rest in a warm place for 6 hours to allow for fermentation.",
+        "Step 3: After 6 hours, knead the dough again for a few minutes and allow it to rest for an additional 30 minutes.",
+        "Step 4: Divide the dough into equal portions and roll each portion into a circle about 1/4 inch thick.",
+        "Step 5: Sprinkle additional black cumin seeds on top of each rolled naan.",
+        "Step 6: Cook the naan in a preheated tandoor or on a hot skillet until golden brown on both sides."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36ostdj0-m.webp",
+      "nutrition": {
+        "calories": "230",
+        "protein": "7",
+        "carbs": "35",
+        "fat": "9",
+        "fiber": "1",
+        "sugar": "1",
+        "sodium": "200"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stunning overhead shot of traditional Indian naan bread, perfectly golden-brown with charred spots, placed on a rustic wooden board. Surround the naan with small bowls of vibrant chutneys and fresh herbs for color pops. Use soft, diffused natural light to emphasize the fluffy texture and glossy ghee sheen. Incorporate a few scattered black cumin seeds for detail. Maintain a shallow depth of field, focusing on the naan while softly blurring the background for a warm, inviting mood.",
+      "image_filepath": "recipe_d36ostdj0/main_image",
+      "video_script": {
+        "title": "How to Make Traditional Indian Naan Bread",
+        "description": "Learn to make soft and fluffy Traditional Indian Naan Bread with this easy step-by-step recipe. Perfect for pairing with your favorite curries!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully plated naan bread served with colorful curry, garnished with fresh coriander on a traditional Indian table setting.",
+            "text": "Delicious Traditional Indian Naan Bread",
+            "voice_over": "Welcome! Today we\u2019ll be making fluffy and delicious Traditional Indian Naan Bread, perfect for dipping in your favorite curry.",
+            "scene_image_filename": "recipe_d36ostdj0/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostdj0-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "An overhead shot of a wooden table with separated ingredients: all-purpose flour, yogurt, milk, egg, and spices in small bowls.",
+            "text": "Gather Your Ingredients",
+            "voice_over": "Here are the ingredients you'll need: 2 cups all-purpose flour, 4 tablespoons sweet curd, 1/2 cup lukewarm milk, 1 beaten egg, baking powder, baking soda, yeast, melted ghee, black cumin seeds, and salt.",
+            "scene_image_filename": "recipe_d36ostdj0/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostdj0-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A mixing bowl filled with all-purpose flour and other ingredients being mixed with a wooden spoon.",
+            "text": "Mix the Ingredients",
+            "voice_over": "In a large mixing bowl, combine all-purpose flour, sweet curd, lukewarm milk, beaten egg, baking powder, baking soda, yeast, melted ghee, black cumin seeds, and a pinch of salt. Knead until a soft dough forms.",
+            "scene_image_filename": "recipe_d36ostdj0/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostdj0-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The dough covered with a damp cloth in a warm area.",
+            "text": "Let the Dough Rest",
+            "voice_over": "Cover the dough with a damp cloth and let it rest in a warm place for 6 hours to allow for fermentation.",
+            "scene_image_filename": "recipe_d36ostdj0/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostdj0-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A hand kneading the rested dough on a floured surface.",
+            "text": "Knead Again",
+            "voice_over": "After 6 hours, knead the dough again for a few minutes and let it rest for an additional 30 minutes.",
+            "scene_image_filename": "recipe_d36ostdj0/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostdj0-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Dough balls being rolled out into flat circles using a rolling pin.",
+            "text": "Shape the Naans",
+            "voice_over": "Now, divide the dough into equal portions and roll each piece into circles about 1/4 inch thick.",
+            "scene_image_filename": "recipe_d36ostdj0/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostdj0-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 4,
+            "image_prompt": "Sprinkling black cumin seeds on top of the rolled out naan dough.",
+            "text": "Add Toppings",
+            "voice_over": "Sprinkle additional black cumin seeds on top of each rolled naan for extra flavor.",
+            "scene_image_filename": "recipe_d36ostdj0/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostdj0-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A naan bread cooking in a tandoor oven, turning golden brown.",
+            "text": "Cook the Naans",
+            "voice_over": "Cook the naan in a preheated tandoor or on a hot skillet until golden brown on both sides, approximately 2-3 minutes per side.",
+            "scene_image_filename": "recipe_d36ostdj0/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostdj0-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A close-up of a stack of freshly made naan breads, with ghee being brushed over the top.",
+            "text": "Brush with Ghee",
+            "voice_over": "Once cooked, brush the naan with melted ghee for a glossy finish.",
+            "scene_image_filename": "recipe_d36ostdj0/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostdj0-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "A beautifully presented naan bread basket with curries and dips, ready to serve.",
+            "text": "Serve and Enjoy!",
+            "voice_over": "And there you have it! Serve your delicious naan with your favorite curry, and enjoy this traditional Indian treat!",
+            "scene_image_filename": "recipe_d36ostdj0/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostdj0-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 375,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dinner",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Flour",
+        "Dairy",
+        "Yeast"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a softer naan, add a little extra milk while kneading.",
+        "If you don\u2019t have a tandoor, use a cast-iron skillet to achieve a similar texture."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36ostdj0/d36ostdj0_main_image.jpg"
+    },
+    {
+      "id": "fksd84k3ocm2",
+      "name": "Cumin-Spiced Maida Papdi Crackers",
+      "url": "http://www.veganricha.com/2015/03/maida-papdi-cumin-spiced-crackers.html",
+      "ingredients": [
+        "1/3 to 1/2 teaspoon cumin seeds, toasted",
+        "2 cups unbleached white flour",
+        "1/4 teaspoon carom seeds (ajwain)",
+        "1/4 teaspoon freshly ground black pepper",
+        "1/2 to 3/4 teaspoon salt",
+        "1/4 teaspoon baking soda",
+        "3 tablespoons neutral oil or melted vegan butter",
+        "1/2 to 3/4 cup water, as needed"
+      ],
+      "directions": [
+        "Step 1: Toast the cumin seeds in a dry skillet over medium heat for about 2 minutes, or until they change color and become fragrant. This step enhances the flavor of the cumin for the crackers.",
+        "Step 2: In a large mixing bowl, combine the toasted cumin seeds, flour, carom seeds, salt, black pepper, and baking soda. Whisk the mixture well to ensure even distribution of ingredients.",
+        "Step 3: Add the oil to the dry ingredients, mixing with your hands or a spoon until the mixture resembles breadcrumbs, approximately 2 minutes.",
+        "Step 4: Gradually add water, a few tablespoons at a time, kneading to create a smooth dough that is neither too stiff nor too sticky. Cover the dough and let it rest for 30 minutes.",
+        "Step 5: After resting, knead the dough again for about 30 seconds and then divide it into golf-ball-sized portions.",
+        "Step 6: Roll each portion into a 4-inch circle. Fold the circle in half, and then fold it again to form a triangular shape. Roll slightly to flatten, then place each triangle on a parchment-lined baking sheet. Repeat with all dough portions.",
+        "Step 7: Alternatively, roll out a larger ball of dough into a thin 8-inch circle. Spray the surface with oil, then fold in half and roll until approximately 2 mm thick. Cut into desired shapes using a pizza cutter or cookie cutter. For papri chaat, use a 1 or 1.5-inch cookie cutter to create round papdi, sprinkling with fine sea salt if desired.",
+        "Step 8: Bake in a preheated oven at 350\u00b0F (175\u00b0C) for 12 minutes. Rotate the crackers, and bake for an additional 4 minutes. Flip the crackers and continue to bake for another 2 minutes, or until they are just lightly golden at the edges. Note that triangle crackers may require a few additional minutes to crisp up.",
+        "Step 9: Allow the crackers to cool completely and store them in an airtight container for up to 2 weeks."
+      ],
+      "duration": "35 minutes ",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-m.webp",
+      "nutrition": {
+        "calories": "80",
+        "protein": "1g",
+        "carbs": "10g",
+        "fat": "4g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "sodium": "200mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a top-down view of Cumin-Spiced Maida Papdi Crackers arranged artfully on a rustic wooden board, accentuated by a scattering of toasted cumin seeds and carom seeds. Use soft, diffused natural light to highlight the golden-brown color and crisp texture of the crackers. Incorporate a small bowl of spicy chutney for a pop of color and a sprig of fresh cilantro for garnish. Employ a shallow depth of field to focus on the crackers while softly blurring the background, creating a warm, inviting mood.",
+      "image_filepath": "recipe_fksd84k3ocm2/main_image",
+      "video_script": {
+        "title": "Cumin-Spiced Maida Papdi Crackers Recipe",
+        "description": "Learn how to make delicious Cumin-Spiced Maida Papdi Crackers, a perfect snack for any occasion!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully arranged plate of Cumin-Spiced Maida Papdi Crackers with a sprinkle of cumin on top, set against a vibrant background.",
+            "text": "Cumin-Spiced Maida Papdi Crackers",
+            "voice_over": "Welcome to our kitchen! Today, we're making Cumin-Spiced Maida Papdi Crackers, a delightful and crunchy snack.",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "An overhead shot of all the ingredients laid out on a countertop, clearly labeled, including flour, cumin seeds, ajwain, and more.",
+            "text": "Ingredients",
+            "voice_over": "Here are the ingredients you'll need: toasted cumin seeds, unbleached white flour, carom seeds, black pepper, salt, baking soda, oil, and water.",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A dry skillet with cumin seeds being toasted, showing a golden color and steam rising, with a spatula in action.",
+            "text": "Toast cumin seeds",
+            "voice_over": "Step 1: Toast 1/3 to 1/2 teaspoon of cumin seeds in a dry skillet for about 2 minutes until fragrant.",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A large mixing bowl filled with flour and spices, a whisk mixing everything together, with visible cumin seeds and ajwain.",
+            "text": "Mix dry ingredients",
+            "voice_over": "Step 2: In a bowl, combine the toasted cumin, flour, ajwain, salt, black pepper, and baking soda. Whisk it well.",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Close-up of hands mixing oil into the dry mixture, showing the crumbly texture forming.",
+            "text": "Add oil",
+            "voice_over": "Step 3: Add 3 tablespoons of oil to the mixture, and combine until it resembles breadcrumbs, about 2 minutes.",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A hand holding a measuring cup pouring water into the dough, showing the kneading process unfolding.",
+            "text": "Knead dough",
+            "voice_over": "Step 4: Gradually add water, knead until smooth, and let the dough rest for 30 minutes.",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Cutting dough into small portions, showing hands shaping them into golf-ball-sized balls.",
+            "text": "Divide dough",
+            "voice_over": "Step 5: After resting, knead the dough briefly, then divide it into golf-ball-sized portions.",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 7,
+            "image_prompt": "A rolling pin flattening dough, showing circles being cut into triangles on a parchment-lined baking sheet.",
+            "text": "Roll and shape",
+            "voice_over": "Step 6: Roll each portion into circles, fold into triangles, and place on a baking sheet.",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "A baking tray filled with freshly cut papdi shapes, ready to be placed in the oven, sprinkled with salt.",
+            "text": "Prepare to bake",
+            "voice_over": "Step 7: Bake in a preheated oven at 350\u00b0F for 12 minutes, then rotate and bake for another 6 minutes.",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A timer indicating the baking process is complete, and the kitchen filled with the aroma of baked crackers.",
+            "text": "Cool and store",
+            "voice_over": "Step 9: Let the crackers cool completely before storing them in an airtight container.",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "A stunning close-up of the finished Cumin-Spiced Maida Papdi Crackers served with a dipping sauce or chutney.",
+            "text": "Enjoy your snacks!",
+            "voice_over": "Enjoy your crispy Cumin-Spiced Maida Papdi Crackers as a perfect snack for any occasion!",
+            "scene_image_filename": "recipe_fksd84k3ocm2/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd84k3ocm2-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 18,
+      "total_time_minutes": 48,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Dairy-Free"
+      ],
+      "ingredient_tags": [
+        "Flour",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Make sure to toast the cumin seeds to enhance their flavor.",
+        "Store the crackers in an airtight container to maintain their crispness."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_fksd84k3ocm2/fksd84k3ocm2_main_image.jpg"
+    },
+    {
+      "id": "d36ostsb1",
+      "name": "Fluffy Bhaturas",
+      "url": "http://keralarecipes.com/?recipe=bhatura",
+      "ingredients": [
+        "5 cups all-purpose flour (maida), sifted",
+        "1 cup plain yogurt (curd), at room temperature",
+        "1 cup semolina (suji or rava), finely ground",
+        "1/8 teaspoon active dry yeast, dissolved in lukewarm water",
+        "1 teaspoon baking powder",
+        "2 cups oil (for deep frying), or as needed",
+        "Salt to taste"
+      ],
+      "directions": [
+        "Step 1: In a small bowl, dissolve the active dry yeast with 1 teaspoon of sugar in lukewarm water and let it sit for 10 minutes until frothy.",
+        "Step 2: In a large mixing bowl, sift the all-purpose flour with baking powder 3-4 times to aerate it.",
+        "Step 3: Add the prepared yeast mixture and yogurt to the flour, kneading until a stiff dough forms. Maintain a firmer texture.",
+        "Step 4: Cover the dough with a damp cloth and allow it to rise in a warm place for about 4 hours until it doubles in size.",
+        "Step 5: Once the dough has risen, punch it down and divide it into small balls (about the size of a golf ball).",
+        "Step 6: Roll out each ball into a thick, flat disc (bhatura) using a rolling pin.",
+        "Step 7: Heat the oil in a deep fryer over medium-high heat. Fry the rolled bhaturas one at a time until they puff up and turn golden brown, about 1-2 minutes on each side.",
+        "Step 8: Remove the bhaturas from the oil and drain them on paper towels. Serve hot with curry or chole."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36ostsb1-m.webp",
+      "nutrition": {
+        "calories": "200",
+        "protein": "4 grams",
+        "carbs": "30 grams",
+        "fat": "8 grams",
+        "fiber": "1 gram",
+        "sugar": "1 gram",
+        "sodium": "100 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, high-quality photograph of fluffy bhaturas, stacked artistically on a rustic wooden board. Use soft, diffused natural light to enhance the golden color and airy texture of the bhaturas. Include a small bowl of spicy chickpea curry and a side of fresh cucumber salad for contrast. Employ a shallow depth of field to keep the focus on the bhaturas while softly blurring the background. Add a sprinkle of fresh coriander on top for a pop of color, creating an inviting, warm mood.",
+      "image_filepath": "recipe_d36ostsb1/main_image",
+      "video_script": {
+        "title": "Fluffy Bhaturas Recipe Tutorial",
+        "description": "Learn how to make soft and fluffy bhaturas that pair perfectly with your favorite curries!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of golden-brown fluffy bhaturas served with curry and a side of chutney.",
+            "text": "Welcome to our Bhatura Recipe!",
+            "voice_over": "In this video, we will learn how to make delicious and fluffy bhaturas, perfect for any meal.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A top-down view of all the ingredients neatly placed on a wooden countertop, including flour, yogurt, semolina, and oil.",
+            "text": "Ingredients Needed:",
+            "voice_over": "For this recipe, you will need 5 cups of all-purpose flour, 1 cup of yogurt, 1 cup of semolina, yeast, baking powder, oil for frying, and salt to taste.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A close-up of a small bowl with warm water, sugar, and yeast, with bubbles forming on the surface.",
+            "text": "Activate the Yeast",
+            "voice_over": "Start by dissolving 1/8 teaspoon of active dry yeast with 1 teaspoon of sugar in lukewarm water. Let it sit for 10 minutes until frothy.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A large mixing bowl with sifted flour and baking powder, a whisk nearby.",
+            "text": "Sift the Flour",
+            "voice_over": "In a large bowl, sift 5 cups of all-purpose flour with 1 teaspoon of baking powder 3-4 times to aerate it.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A hand mixing yogurt and the yeast mixture into the flour, creating a dough.",
+            "text": "Mix Ingredients",
+            "voice_over": "Add the prepared yeast mixture and 1 cup of yogurt to the flour. Knead until a firm dough forms.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The covered bowl with a damp cloth, placed in a warm location.",
+            "text": "Let it Rise",
+            "voice_over": "Cover the dough with a damp cloth and allow it to rise in a warm place for about 4 hours or until it doubles in size.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The risen dough being punched down and divided into small golf ball-sized portions.",
+            "text": "Divide the Dough",
+            "voice_over": "Once risen, punch down the dough and divide it into small balls, roughly the size of a golf ball.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A rolling pin flattening a dough ball into a thick disc on a floured surface.",
+            "text": "Roll Out the Bhaturas",
+            "voice_over": "Roll each dough ball into a thick disc using a rolling pin, ensuring they are not too thin.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A deep fryer bubbling with hot oil, ready for frying bhaturas.",
+            "text": "Heat the Oil",
+            "voice_over": "Heat 2 cups of oil in a deep fryer over medium-high heat.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "A bhatura frying in hot oil, puffing up and turning golden brown.",
+            "text": "Fry the Bhaturas",
+            "voice_over": "Fry each bhatura one at a time for 1-2 minutes on each side until they puff up and turn golden brown.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "Removing the fried bhaturas from the oil and draining them on paper towels.",
+            "text": "Drain and Serve",
+            "voice_over": "Remove the bhaturas from the oil and drain on paper towels. Serve them hot with curry or chole.",
+            "scene_image_filename": "recipe_d36ostsb1/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          },
+          {
+            "scene_number": 12,
+            "duration": 5,
+            "image_prompt": "A close-up of served bhaturas on a platter, garnished with cilantro and served with dips.",
+            "text": "Enjoy Your Meal!",
+            "voice_over": "Enjoy your fluffy bhaturas fresh and warm, perfect for any curry dish!",
+            "scene_image_filename": "recipe_d36ostsb1/scene_12_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36ostsb1-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 240,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack",
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Flour",
+        "Dairy",
+        "Yeast",
+        "Oil"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Celebration"
+      ],
+      "cooking_tips": [
+        "Ensure the yogurt is at room temperature for easier mixing.",
+        "You can add spices like cumin powder to the dough for extra flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36ostsb1/d36ostsb1_main_image.jpg"
+    },
+    {
+      "id": "d36osqbtk",
+      "name": "Rava Upma (Savory Semolina Porridge)",
+      "url": "http://keralarecipes.com/?recipe=uppuma",
+      "ingredients": [
+        "2 cups semolina (suji), roasted",
+        "2 medium onions, finely chopped",
+        "1/4 teaspoon mustard seeds",
+        "1/2 teaspoon urad dal (split black gram)",
+        "8 cashew nuts, lightly toasted",
+        "1/2 teaspoon lemon juice (optional)",
+        "3 green chilies, finely chopped",
+        "1/2 inch piece of ginger, crushed",
+        "3 tablespoons ghee or cooking oil",
+        "1 sprig fresh curry leaves",
+        "Salt to taste",
+        "4 cups water, boiled",
+        "1/4 cup grated coconut"
+      ],
+      "directions": [
+        "Step 1: In a dry pan, roast the semolina until lightly golden, then set it aside.",
+        "Step 2: In the same pan, heat the ghee. Once hot, add mustard seeds and allow them to splutter.",
+        "Step 3: Add the urad dal and curry leaves to the pan; saut\u00e9 for 30 seconds until fragrant.",
+        "Step 4: Stir in the cashew nuts and mix well until they begin to brown slightly.",
+        "Step 5: Add the finely chopped onions, crushed ginger, and green chilies; saut\u00e9 for 2 minutes until the onions are translucent.",
+        "Step 6: If desired, add grated carrots or any other vegetables you prefer (like green peas or diced tomatoes); mix and cook for another 2 minutes.",
+        "Step 7: Pour in the boiled water and allow the mixture to cook for 1 minute.",
+        "Step 8: Gradually add the roasted semolina, stirring continuously to avoid lumps. Mix well for another minute.",
+        "Step 9: Lower the heat, cover the pan with a lid, and let it cook for 5-7 minutes until the semolina absorbs the water.",
+        "Step 10: Remove from heat, and stir in the lemon juice and grated coconut before serving hot with banana, sambar, or chutney."
+      ],
+      "duration": "20 minutes ",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osqbtk-m.webp",
+      "nutrition": {
+        "calories": "250 per serving",
+        "protein": "6 grams per serving",
+        "carbs": "40 grams per serving",
+        "fat": "10 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "1 gram per serving",
+        "sodium": "250 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of Rava Upma, styled with finely chopped onions and colorful green chilies, garnished with toasted cashews and fresh curry leaves. Use natural light to enhance the golden hues of the semolina, creating soft shadows for depth. Position the bowl slightly off-center on a rustic wooden table, with a textured linen napkin and a small brass spoon nearby. Employ a shallow depth of field to blur the background, keeping the focus on the dish\u2019s inviting textures and colors, evoking warmth and comfort.",
+      "image_filepath": "recipe_d36osqbtk/main_image",
+      "video_script": {
+        "title": "Delicious Rava Upma: Savory Semolina Porridge Recipe",
+        "description": "Learn how to make a delicious and healthy Rava Upma, a traditional Indian savory semolina porridge with vibrant flavors and textures.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully plated dish of Rava Upma garnished with fresh coriander, served with a side of banana, sambar, and coconut chutney.",
+            "text": "Welcome to our kitchen!",
+            "voice_over": "Today, we're making Rava Upma, a savory semolina porridge that's both delicious and nutritious.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "An overhead shot of all the ingredients laid out on a counter, grouped neatly with labels for each.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "We'll need semolina, onions, mustard seeds, urad dal, cashew nuts, green chilies, ginger, curry leaves, ghee, and salt.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A pan on the stovetop, with semolina being roasted until golden brown.",
+            "text": "Roast the semolina.",
+            "voice_over": "In a dry pan, roast 2 cups of semolina until lightly golden, then set it aside.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Ghee melting in a pan with mustard seeds beginning to splutter.",
+            "text": "Heat the ghee and add mustard seeds.",
+            "voice_over": "In the same pan, heat 3 tablespoons of ghee, add 1/4 teaspoon of mustard seeds and let them splutter.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The pan with urad dal and curry leaves sizzling, giving off a fragrant aroma.",
+            "text": "Add urad dal and curry leaves.",
+            "voice_over": "Add 1/2 teaspoon of urad dal and a sprig of curry leaves, saut\u00e9 for 30 seconds until fragrant.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Cashew nuts being stirred into the pan, beginning to brown slightly.",
+            "text": "Stir in the cashew nuts.",
+            "voice_over": "Stir in 8 lightly toasted cashew nuts and mix until they begin to brown slightly.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "Onions, ginger, and green chilies saut\u00e9ing in the pan, vibrant colors against the pan's surface.",
+            "text": "Saut\u00e9 onions, ginger, and chilies.",
+            "voice_over": "Add 2 finely chopped onions, a crushed piece of ginger, and 3 chopped green chilies; saut\u00e9 for 2 minutes until onions are translucent.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Boiled water being poured into the pan, creating steam as it meets the saut\u00e9ed ingredients.",
+            "text": "Add boiled water to the mixture.",
+            "voice_over": "Pour in 4 cups of boiled water and let it cook for 1 minute.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Gradually adding roasted semolina to the pan while stirring to avoid lumps.",
+            "text": "Add the roasted semolina.",
+            "voice_over": "Gradually add the roasted semolina, stirring continuously to avoid lumps, and mix well for another minute.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 7,
+            "image_prompt": "Covering the pan with a lid, steam escaping from the sides as the semolina cooks.",
+            "text": "Cover and cook.",
+            "voice_over": "Lower the heat, cover the pan with a lid, and let it cook for 5-7 minutes until the semolina absorbs the water.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "Final mixture being stirred in the pan with fresh grated coconut and lemon juice added on top.",
+            "text": "Finish with coconut and lemon juice.",
+            "voice_over": "Remove from heat, stir in 1/4 cup of grated coconut and a squeeze of lemon juice before serving.",
+            "scene_image_filename": "recipe_d36osqbtk/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          },
+          {
+            "scene_number": 12,
+            "duration": 7,
+            "image_prompt": "The finished Rava Upma served hot, garnished with fresh coriander and served with banana and chutney.",
+            "text": "Serve and enjoy!",
+            "voice_over": "Serve your Rava Upma hot with banana, sambar, or chutney for a delightful meal!",
+            "scene_image_filename": "recipe_d36osqbtk/scene_12_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osqbtk-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 30,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Breakfast",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Nut-Free"
+      ],
+      "ingredient_tags": [
+        "Semolina",
+        "Cashews",
+        "Onions",
+        "Spices",
+        "Vegetables"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Comfort Food"
+      ],
+      "cooking_tips": [
+        "Adjust the amount of water for a softer or firmer Upma based on your preference.",
+        "You can add a variety of vegetables like carrots, peas, or bell peppers for added nutrition and flavor.",
+        "Ensure to roast the semolina well for a fragrant and delicious Upma."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36osqbtk/d36osqbtk_main_image.jpg"
+    },
+    {
+      "id": "d36osrgvn",
+      "name": "Dahi Vada (Indian Lentil Fritters)",
+      "url": "http://keralarecipes.com/?recipe=dahi-vada",
+      "ingredients": [
+        "1/2 cup urad dal, soaked for 4 hours",
+        "1/2 cup moong dal, soaked for 4 hours",
+        "1 cup plain yogurt, beaten",
+        "1/2 cup milk, for thinning yogurt",
+        "1 tablespoon cumin seeds (jeera), or to taste",
+        "Oil for frying, as needed"
+      ],
+      "directions": [
+        "Step 1: Rinse the soaked urad dal and moong dal under cold water and drain well.",
+        "Step 2: Blend the drained dals in a blender using minimal water to form a smooth, flowing paste.",
+        "Step 3: Add salt to the batter and mix well. Start heating oil in a deep frying pan over medium heat.",
+        "Step 4: Once the oil is hot, drop spoonfuls of batter into the oil using a large tablespoon.",
+        "Step 5: Fry the vadas until they are golden brown on all sides, about 5-7 minutes.",
+        "Step 6: Remove the fried vadas and place them on paper towels to absorb excess oil.",
+        "Step 7: Soak the fried vadas in warm water for about 15-20 minutes to soften them.",
+        "Step 8: In a separate bowl, beat the yogurt with milk and season with cumin seeds according to taste.",
+        "Step 9: Squeeze out excess water from the soaked vadas and arrange them on a serving plate.",
+        "Step 10: Pour the seasoned yogurt over the vadas and serve chilled or at room temperature."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osrgvn-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "7",
+        "carbs": "21",
+        "fat": "5",
+        "fiber": "3",
+        "sugar": "2",
+        "sodium": "300"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stunning overhead shot of Dahi Vada, showcasing golden-brown fritters drizzled with creamy yogurt and garnished with vibrant red chili powder and fresh green coriander. Use natural light to enhance the textures, creating soft shadows that add depth. Style the scene with a rustic wooden table and a textured linen napkin, complemented by a small bowl of tangy tamarind chutney. Employ a shallow depth of field to keep the fritters in sharp focus while softly blurring the background, evoking a warm, inviting mood.",
+      "image_filepath": "recipe_d36osrgvn/main_image",
+      "video_script": {
+        "title": "Dahi Vada Recipe - Indian Lentil Fritters",
+        "description": "Learn how to make delicious Dahi Vada, a popular Indian snack made from lentil fritters soaked in yogurt. Perfect for any occasion!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated serving of Dahi Vada topped with yogurt, garnished with cumin seeds and green chutney, showcasing a vibrant and appetizing appearance.",
+            "text": "Delicious Dahi Vada!",
+            "voice_over": "Welcome to our kitchen! Today, we're making Dahi Vada, a delightful Indian snack that's perfect for any celebration.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A variety of ingredients laid out on a kitchen countertop including urad dal, moong dal, yogurt, milk, and cumin seeds.",
+            "text": "Ingredients for Dahi Vada",
+            "voice_over": "For our Dahi Vada, we'll need urad dal, moong dal, plain yogurt, milk, cumin seeds, and oil for frying.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of a bowl of soaked urad dal and moong dal, with water being drained out.",
+            "text": "Rinse and drain lentils",
+            "voice_over": "Start by rinsing the soaked urad and moong dal under cold water. Drain them well to remove excess water.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A blender filled with drained dal, being blended into a smooth paste with a little water visible.",
+            "text": "Blend into a smooth paste",
+            "voice_over": "Blend the drained dals in a blender with minimal water to create a smooth and flowing batter.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A bowl showing the smooth lentil batter with salt being added, and a frying pan heating on the stove.",
+            "text": "Add salt and heat the oil",
+            "voice_over": "Mix in salt to the batter, and start heating oil in a deep frying pan over medium heat.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A hand dropping spoonfuls of batter into hot oil, with bubbles forming around the fritters.",
+            "text": "Fry the vadas",
+            "voice_over": "Once the oil is hot, drop spoonfuls of batter into the oil. Fry until golden brown, about 5 to 7 minutes.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "A plate lined with paper towels, showing freshly fried vadas being placed to absorb excess oil.",
+            "text": "Drain excess oil",
+            "voice_over": "Remove the fried vadas and place them on paper towels to absorb any excess oil.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "A bowl containing fried vadas soaking in warm water, with a timer showing 15 minutes.",
+            "text": "Soak in warm water",
+            "voice_over": "Soak the fried vadas in warm water for about 15 to 20 minutes to soften them.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A whisk mixing yogurt and milk in a bowl, with cumin seeds sprinkled on top.",
+            "text": "Prepare yogurt mixture",
+            "voice_over": "In another bowl, beat the yogurt with milk and season with cumin seeds to taste.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A hand squeezing water out of soft vadas, and arranging them on a serving plate.",
+            "text": "Squeeze and arrange",
+            "voice_over": "Squeeze out excess water from the soaked vadas and arrange them neatly on a serving plate.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "Pouring the seasoned yogurt over the arranged vadas on the plate, with garnishes like cilantro and pomegranate seeds.",
+            "text": "Serve with yogurt",
+            "voice_over": "Pour the seasoned yogurt over the vadas and garnish as desired. Serve chilled or at room temperature.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 12,
+            "duration": 5,
+            "image_prompt": "The final presentation of Dahi Vada on a decorative plate, styled with chutney and fresh herbs.",
+            "text": "Enjoy your Dahi Vada!",
+            "voice_over": "And there you have it, delicious Dahi Vada! Enjoy this refreshing snack with friends and family!",
+            "scene_image_filename": "recipe_d36osrgvn/scene_12_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Urad Dal",
+        "Moong Dal",
+        "Yogurt",
+        "Cumin"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Festival"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is hot enough before frying to achieve a crispy texture.",
+        "The vadas can be prepared in advance and soaked in water just before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36osrgvn/d36osrgvn_main_image.jpg"
+    },
+    {
+      "id": "d36osurhs",
+      "name": "Spiced Tapioca and Beef Stir-Fry",
+      "url": "http://keralarecipes.com/?recipe=tapioca-meat-mix",
+      "ingredients": [
+        "1.5 kilograms tapioca, peeled and cubed",
+        "1 kilogram beef, cut into small pieces",
+        "1 medium onion, finely chopped",
+        "1 tablespoon chili powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon garam masala",
+        "1/4 teaspoon turmeric powder",
+        "1 piece ginger (about 2 inches), grated",
+        "3 cloves garlic, minced",
+        "2 sprigs curry leaves, torn",
+        "Salt, to taste",
+        "2 tablespoons oil, for cooking"
+      ],
+      "directions": [
+        "Step 1: Cook the tapioca in boiling water until tender, then drain and set aside.",
+        "Step 2: In a large pan, heat 2 tablespoons of oil over medium heat. Add the chopped onion, grated ginger, and minced garlic. Saut\u00e9 until the onion is golden brown.",
+        "Step 3: Add the chili powder, coriander powder, garam masala, and turmeric powder to the pan. Stir well and fry for another minute to release the spices' aromas.",
+        "Step 4: Add the beef pieces to the pan and cook for about 5 minutes, stirring occasionally, until the beef is browned.",
+        "Step 5: Combine the cooked tapioca with the spiced beef mixture and add torn curry leaves. Stir thoroughly to mix and lower the heat. Cook for an additional 2-3 minutes.",
+        "Step 6: Remove from heat and serve hot. This dish can be enjoyed as a complete meal or as part of a larger feast."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osurhs-m.webp",
+      "nutrition": {
+        "calories": "400 per serving",
+        "protein": "25 grams per serving",
+        "carbs": "55 grams per serving",
+        "fat": "15 grams per serving",
+        "fiber": "3 grams per serving",
+        "sugar": "2 grams per serving",
+        "sodium": "500 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant high-angle shot of spiced tapioca and beef stir-fry, showcasing the golden and deep red hues of the spices against the creamy tapioca. Use natural diffused light to accentuate textures, with a soft focus on the dish's surface while keeping the background slightly blurred. Style with a rustic wooden table as a backdrop, add a few scattered coriander leaves and a small bowl of chili flakes for garnish. Incorporate a textured fabric underneath for warmth, creating a cozy, inviting mood.",
+      "image_filepath": "recipe_d36osurhs/main_image",
+      "video_script": {
+        "title": "Spiced Tapioca and Beef Stir-Fry Recipe",
+        "description": "Learn how to make a delicious Spiced Tapioca and Beef Stir-Fry with this easy recipe tutorial. Perfect for a hearty meal!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 7,
+            "image_prompt": "A beautifully plated Spiced Tapioca and Beef Stir-Fry garnished with fresh curry leaves and vibrant colors, set against a rustic table.",
+            "text": "Welcome to our recipe for Spiced Tapioca and Beef Stir-Fry!",
+            "voice_over": "In today's video, we'll be making a flavorful Spiced Tapioca and Beef Stir-Fry that combines hearty ingredients with aromatic spices.",
+            "scene_image_filename": "recipe_d36osurhs/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osurhs-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "An overhead view of all ingredients grouped together: cubed tapioca, beef pieces, spices in small bowls, and chopped onions and garlic.",
+            "text": "Here are the ingredients you'll need.",
+            "voice_over": "For this recipe, you'll need 1.5 kilograms of peeled and cubed tapioca, 1 kilogram of beef, and a variety of spices including chili powder and garam masala.",
+            "scene_image_filename": "recipe_d36osurhs/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osurhs-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A pot of boiling water on the stove with tapioca cubes being added and steam rising.",
+            "text": "Step 1: Cook the tapioca.",
+            "voice_over": "First, cook the tapioca in boiling water until tender, which takes about 15 minutes. Drain and set it aside.",
+            "scene_image_filename": "recipe_d36osurhs/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osurhs-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A large pan on the stove with oil heating, with chopped onions, ginger, and garlic being added.",
+            "text": "Step 2: Saut\u00e9 the aromatics.",
+            "voice_over": "In a large pan, heat 2 tablespoons of oil over medium heat. Add the chopped onion, grated ginger, and minced garlic, and saut\u00e9 until the onion is golden brown.",
+            "scene_image_filename": "recipe_d36osurhs/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osurhs-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Close-up of the pan with spices being sprinkled in, colorful and aromatic.",
+            "text": "Step 3: Add the spices.",
+            "voice_over": "Add 1 tablespoon of chili powder, 1 teaspoon of coriander powder, half a teaspoon of garam masala, and a quarter teaspoon of turmeric powder. Stir well and cook for another minute to release the spices\u2019 aromas.",
+            "scene_image_filename": "recipe_d36osurhs/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osurhs-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Beef pieces being added to the pan, sizzling as they hit the oil with mixed spices.",
+            "text": "Step 4: Brown the beef.",
+            "voice_over": "Now, add the beef pieces and cook for about 5 minutes, stirring occasionally until the beef is nicely browned.",
+            "scene_image_filename": "recipe_d36osurhs/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osurhs-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "The cooked tapioca is added to the beef mixture in the pan, all vibrant and colorful.",
+            "text": "Step 5: Combine and cook.",
+            "voice_over": "Combine the cooked tapioca with the spiced beef mixture and add torn curry leaves. Stir thoroughly and lower the heat, cooking for an additional 2 to 3 minutes.",
+            "scene_image_filename": "recipe_d36osurhs/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osurhs-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The completed dish served hot in a bowl, garnished and ready to enjoy.",
+            "text": "Step 6: Serve hot.",
+            "voice_over": "Remove the dish from heat and serve it hot, perfect as a filling meal or part of a larger feast.",
+            "scene_image_filename": "recipe_d36osurhs/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osurhs-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "An inviting dining table set with bowls of Spiced Tapioca and Beef Stir-Fry alongside drinks.",
+            "text": "Enjoy your meal!",
+            "voice_over": "This delicious dish is not only rich in flavor but also provides great nutritional benefits, with about 400 calories per serving. Enjoy your Spiced Tapioca and Beef Stir-Fry!",
+            "scene_image_filename": "recipe_d36osurhs/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osurhs-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 40,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "ingredient_tags": [
+        "Beef",
+        "Tapioca",
+        "Spices",
+        "Onion",
+        "Ginger"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the tapioca is cooked thoroughly until soft to enhance its texture in the dish.",
+        "Experiment with different spices according to your taste preference."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36osurhs/d36osurhs_main_image.jpg"
+    },
+    {
+      "id": "d36osskkv",
+      "name": "Fluffy Indian Pooris",
+      "url": "http://keralarecipes.com/?recipe=poori",
+      "ingredients": [
+        "1 cup wheat flour",
+        "2 tablespoons sweet curd (yogurt)",
+        "1/2 teaspoon wheat flour (for dusting)",
+        "1 pinch turmeric powder",
+        "1 pinch asafetida (hing)",
+        "1 sprig fresh curry leaves, finely chopped",
+        "2 teaspoons ghee (clarified butter)",
+        "1 pinch baking powder",
+        "Coconut oil (for frying, amount as needed)"
+      ],
+      "directions": [
+        "Step 1: In a mixing bowl, combine 1 cup of wheat flour, 2 tablespoons of sweet curd, turmeric powder, asafetida, and baking powder.",
+        "Step 2: Add ghee to the mixture and knead into a smooth dough, adding water as necessary to achieve the right consistency.",
+        "Step 3: Once the dough is ready, cover it with a cloth and let it rest for about 15 minutes.",
+        "Step 4: After resting, divide the dough into small balls and roll each ball into a circle about 5 inches in diameter, dusting with a little wheat flour to prevent sticking.",
+        "Step 5: Heat coconut oil in a deep pan over medium heat. Carefully drop each rolled poori into the hot oil.",
+        "Step 6: Fry until the poori puffs up and turns golden brown on both sides. Remove and drain on paper towels.",
+        "Step 7: Serve the pooris hot with curry or as a side dish."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osskkv-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "3.5 grams",
+        "carbs": "24 grams",
+        "fat": "5 grams",
+        "fiber": "1 gram",
+        "sugar": "1 gram",
+        "sodium": "5 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant scene of fluffy Indian pooris arranged artfully on a rustic wooden platter, dusted lightly with flour. Use natural light to emphasize the golden-brown hues and airy texture of the pooris, reflecting warmth. Incorporate a bowl of sweet curd with a garnish of fresh curry leaves in the background. A shallow depth of field will blur the edges, drawing focus to the pooris while creating a cozy, inviting mood. Include a delicate piece of cloth and a few curry leaves scattered around for added interest.",
+      "image_filepath": "recipe_d36osskkv/main_image",
+      "video_script": {
+        "title": "Fluffy Indian Pooris Recipe Tutorial",
+        "description": "Learn how to make light and fluffy Indian pooris, perfect for pairing with your favorite curry. Follow this simple step-by-step tutorial!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully arranged plate of golden-brown fluffy pooris, garnished with sprigs of cilantro, served alongside a colorful curry and rice.",
+            "text": "Delicious Fluffy Pooris!",
+            "voice_over": "Welcome to our cooking channel! Today, we'll be making fluffy Indian pooris that are perfect for any meal.",
+            "scene_image_filename": "recipe_d36osskkv/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osskkv-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "All ingredients for the recipe neatly laid out on a kitchen countertop: wheat flour, yogurt, turmeric, asafetida, curry leaves, ghee, baking powder, and coconut oil.",
+            "text": "Ingredients for Pooris",
+            "voice_over": "Let's gather our ingredients. We'll need wheat flour, sweet curd, turmeric powder, asafetida, fresh curry leaves, ghee, baking powder, and coconut oil for frying.",
+            "scene_image_filename": "recipe_d36osskkv/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osskkv-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A mixing bowl with a smooth dough mixture, including flour, yogurt, and spices being combined.",
+            "text": "Mix the Ingredients",
+            "voice_over": "In a mixing bowl, combine one cup of wheat flour, two tablespoons of sweet curd, a pinch of turmeric, asafetida, and baking powder.",
+            "scene_image_filename": "recipe_d36osskkv/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osskkv-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A hand adding ghee to the mixing bowl while kneading the dough.",
+            "text": "Knead the Dough",
+            "voice_over": "Add two teaspoons of ghee and knead into a smooth dough. Add water as necessary to achieve the right consistency.",
+            "scene_image_filename": "recipe_d36osskkv/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osskkv-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "A cloth covering a bowl, allowing the dough to rest.",
+            "text": "Let it Rest",
+            "voice_over": "Cover the dough with a cloth and let it rest for about 15 minutes.",
+            "scene_image_filename": "recipe_d36osskkv/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osskkv-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Small dough balls being rolled out into flat circles on a floured surface.",
+            "text": "Roll the Dough",
+            "voice_over": "After resting, divide the dough into small balls and roll each into a circle about 5 inches in diameter, dusting with flour to prevent sticking.",
+            "scene_image_filename": "recipe_d36osskkv/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osskkv-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A deep pan with sizzling coconut oil, and a hand carefully placing a rolled poori into the hot oil.",
+            "text": "Fry the Pooris",
+            "voice_over": "Heat coconut oil in a deep pan over medium heat. Once hot, carefully drop each rolled poori into the oil.",
+            "scene_image_filename": "recipe_d36osskkv/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osskkv-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Golden brown pooris puffing up in the hot oil, with bubbles forming around them.",
+            "text": "Cook Until Golden",
+            "voice_over": "Fry until they puff up and turn golden brown on both sides. Remove and drain on paper towels.",
+            "scene_image_filename": "recipe_d36osskkv/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osskkv-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 4,
+            "image_prompt": "A platter of fluffy pooris served hot, with a side of curry and rice.",
+            "text": "Serve Hot!",
+            "voice_over": "Serve the pooris hot alongside your favorite curry or as a delightful side dish.",
+            "scene_image_filename": "recipe_d36osskkv/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osskkv-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A close-up of a poori being broken open, showing its fluffy texture, with curry and rice in the background.",
+            "text": "Enjoy Your Meal!",
+            "voice_over": "Enjoy your delicious fluffy pooris with curry! They are sure to impress your family and friends.",
+            "scene_image_filename": "recipe_d36osskkv/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osskkv-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 25,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Breakfast",
+        "Snack",
+        "Lunch"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Wheat",
+        "Dairy",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Festive",
+        "Family Meal"
+      ],
+      "cooking_tips": [
+        "Make sure the oil is hot enough before frying to ensure the pooris puff up.",
+        "Do not overcrowd the pan while frying; cook in batches for the best results."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/snacks/recipe_d36osskkv/d36osskkv_main_image.jpg"
+    }
+  ]
+}
