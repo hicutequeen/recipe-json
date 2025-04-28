@@ -1,0 +1,503 @@
+{
+  "recipes": [
+    {
+      "id": "fksd87n9m3im",
+      "name": "Oats Uttapam",
+      "url": "http://www.flavorsofmumbai.com/oats-uttapam-recipe/",
+      "ingredients": [
+        "2 cups boiled idli rice or short-grained rice, soaked for 4-5 hours",
+        "1.5 cups rolled oats, soaked for 4-5 hours",
+        "1/2 cup split black lentils (urad dal), soaked for 4-5 hours",
+        "1/2 cup carrot, chopped into small cubes",
+        "Water, as required for soaking and adjusting batter consistency",
+        "Salt, to taste",
+        "Oil, for frying uttapams"
+      ],
+      "directions": [
+        "1. Wash the idli rice, rolled oats, and split black lentils thoroughly, then soak them in water for 4 to 5 hours or until they swell.",
+        "2. Drain the excess water from the soaked ingredients and combine them in a blender. Blend until a smooth and soft batter is formed.",
+        "3. If necessary, blend the ingredients in batches to avoid overloading the blender. Transfer the blended batter into a large mixing bowl.",
+        "4. Cover the batter and allow it to ferment for 6 to 8 hours at room temperature, or longer if your environment is cool.",
+        "5. Once fermented, set aside 1 cup of the batter. Add salt to the reserved batter, mixing well. Store the remaining batter in the refrigerator or freezer for later use.",
+        "6. Heat a dosa tava or non-stick frying pan over medium heat. Grease the surface with a few drops of oil, wiping it with an onion or potato slice for even coating.",
+        "7. When the pan is hot but not excessively so, pour a scoop of the batter into the center of the pan. Do not spread; instead, scatter the chopped carrot cubes over the batter.",
+        "8. Drizzle a little oil over the carrot topping. Cover the pan with a lid to cook the top of the uttapam evenly without needing to flip it.",
+        "9. Cook until the edges turn golden and crisp. Gently remove the uttapam with a spatula.",
+        "10. Repeat the process with the remaining batter to cook additional uttapams.",
+        "11. Serve the oats uttapams hot with coconut chutney and sambar."
+      ],
+      "duration": "14 hours 20 minutes ",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd87n9m3im-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "6 grams",
+        "carbs": "30 grams",
+        "fat": "5 grams",
+        "fiber": "4 grams",
+        "sugar": "2 grams",
+        "sodium": "250 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Oats Uttapam presented on a rustic wooden board, garnished with fresh cilantro and a side of colorful chutneys. Use soft, diffused natural light to enhance the golden-brown crust and the vivid textures of the chopped carrots. Position the camera at a 45-degree angle to showcase the uttapam\u2019s layers, with a shallow depth of field that softly blurs the background, drawing focus to the dish. Include a few scattered oats and lentils around for added texture and interest.",
+      "image_filepath": "recipe_fksd87n9m3im/main_image",
+      "video_script": {
+        "title": "Delicious Oats Uttapam Recipe Tutorial",
+        "description": "Learn how to make healthy and delicious Oats Uttapam with this easy tutorial. Perfect for breakfast or a snack!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Oats Uttapam topped with vibrant carrot cubes, alongside a small bowl of coconut chutney and sambar.",
+            "text": "Welcome to Oats Uttapam!",
+            "voice_over": "Today, we'll be making a healthy and tasty dish: Oats Uttapam!",
+            "scene_image_filename": "recipe_fksd87n9m3im/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87n9m3im-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "All the ingredients displayed on a wooden kitchen table, with bowls of soaked idli rice, rolled oats, urad dal, and diced carrots, and oil.",
+            "text": "Ingredients Overview",
+            "voice_over": "For this recipe, you'll need idli rice, rolled oats, split black lentils, carrots, salt, and oil.",
+            "scene_image_filename": "recipe_fksd87n9m3im/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87n9m3im-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A close-up shot of idli rice, oats, and lentils soaking in a bowl of water.",
+            "text": "Soak the ingredients",
+            "voice_over": "First, wash and soak the idli rice, oats, and lentils in water for 4 to 5 hours until they swell.",
+            "scene_image_filename": "recipe_fksd87n9m3im/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87n9m3im-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A blender filled with soaked ingredients and a smooth, creamy batter being poured into a large bowl.",
+            "text": "Blend into batter",
+            "voice_over": "Drain the soaked ingredients and blend them together to a smooth batter, then transfer it to a mixing bowl.",
+            "scene_image_filename": "recipe_fksd87n9m3im/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87n9m3im-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A bowl covered with a kitchen towel sitting on a countertop, indicating the fermentation process.",
+            "text": "Let it ferment",
+            "voice_over": "Cover the batter and let it ferment for 6 to 8 hours at room temperature.",
+            "scene_image_filename": "recipe_fksd87n9m3im/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87n9m3im-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A frying pan heated with oil, with a scoop of batter poured in the center.",
+            "text": "Cook the Uttapam",
+            "voice_over": "Once fermented, heat a pan, add a scoop of batter, and sprinkle carrots on top without spreading it.",
+            "scene_image_filename": "recipe_fksd87n9m3im/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87n9m3im-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A lid placed over the frying pan, with the edges of the uttapam turning golden brown.",
+            "text": "Cover and cook",
+            "voice_over": "Drizzle oil over it and cover the pan to cook until the edges are golden and crisp.",
+            "scene_image_filename": "recipe_fksd87n9m3im/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87n9m3im-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "A spatula gently lifting the golden uttapam from the frying pan onto a plate.",
+            "text": "Serve it up!",
+            "voice_over": "Carefully remove it with a spatula and repeat with remaining batter.",
+            "scene_image_filename": "recipe_fksd87n9m3im/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87n9m3im-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A table set with a plate of hot Oats Uttapam next to chutneys and sambar, ready to be served.",
+            "text": "Enjoy your meal!",
+            "voice_over": "Serve your Oats Uttapams hot with coconut chutney and sambar for a perfect meal!",
+            "scene_image_filename": "recipe_fksd87n9m3im/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87n9m3im-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 240,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "ingredient_tags": [
+        "Oats",
+        "Rice",
+        "Lentils",
+        "Vegetables"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Healthy"
+      ],
+      "cooking_tips": [
+        "For a creamier texture, add a small amount of yogurt to the batter before fermenting.",
+        "Use fresh ingredients for enhanced flavor and nutrition."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/uttapam/recipe_fksd87n9m3im/fksd87n9m3im_main_image.jpg"
+    },
+    {
+      "id": "fks21q749m254q",
+      "name": "Onion Uttapam",
+      "url": "http://masalachilli.com/kollu-idli-horsegram-idli-huruli-idli/",
+      "ingredients": [
+        "1 cup horse gram (Kollu, Kulith), soaked for 4 hours",
+        "1 1/2 cups whole urad dal, soaked for 4 hours",
+        "1 cup Ponni idli rice (or any variety of short grain rice), soaked for 2 hours",
+        "1 teaspoon fenugreek seeds (methi seeds), soaked with urad dal",
+        "2 teaspoons oil (for greasing idli plates)",
+        "Salt to taste",
+        "Water (as needed for soaking, grinding, adjusting batter, and steaming)"
+      ],
+      "directions": [
+        "1. Wash and soak the horse gram and urad dal together in water for at least 4 hours, adding the fenugreek seeds.",
+        "2. In a separate bowl, wash and soak the Ponni idli rice for at least 2 hours.",
+        "3. Grind the soaked horse gram and urad dal separately to a coarse paste, then combine both in a large bowl and mix with your hands. Allow the mixture to ferment for at least 8 hours or preferably overnight.",
+        "4. After fermentation, add salt to taste and a little water, if necessary, to achieve a batter-like consistency and mix gently.",
+        "5. Prepare a steamer and grease the idli moulds or idli plate with oil.",
+        "6. Pour a ladle of the batter into each cavity of the idli mould and steam for at least 15 minutes, or until cooked through. Once done, turn off the flame.",
+        "7. Allow the idlis to cool slightly before removing them from the plates and serve warm with chutney or the accompaniment of your choice."
+      ],
+      "duration": "40  minutes",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "7",
+        "carbs": "30",
+        "fat": "3",
+        "fiber": "4",
+        "sugar": "1",
+        "sodium": "200"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a high-angle shot of a golden-brown Onion Uttapam, showcasing its crispy edges and soft center adorned with vibrant, colorful toppings of finely chopped onions, green chilies, and fresh coriander. Use a rustic wooden table as the backdrop and place the uttapam on a handcrafted ceramic plate. Incorporate a side of coconut chutney and sambar in elegant bowls, while soft, natural light highlights the dish's textures. Use a shallow depth of field to blur the background subtly, creating a warm, inviting mood that emphasizes the dish's inviting colors and details.",
+      "image_filepath": "recipe_fks21q749m254q/main_image",
+      "video_script": {
+        "title": "Onion Uttapam Recipe Tutorial",
+        "description": "Learn how to make delicious and fluffy Onion Uttapam, a South Indian delight that's perfect for any meal!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "Beautifully plated Onion Uttapam topped with onions, green chilies, and coriander, served with chutney and sambar on the side.",
+            "text": "Onion Uttapam",
+            "voice_over": "Welcome to our Onion Uttapam recipe tutorial! Today, we\u2019ll learn to make this tasty South Indian dish that's perfect for breakfast or a snack.",
+            "scene_image_filename": "recipe_fks21q749m254q/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Group of ingredients displayed on a wooden countertop: soaked horse gram, urad dal, idli rice, fenugreek seeds, and oil.",
+            "text": "Ingredients Overview",
+            "voice_over": "For this recipe, we need one cup of soaked horse gram, one and a half cups of soaked whole urad dal, one cup of idli rice, and fenugreek seeds, along with salt and oil.",
+            "scene_image_filename": "recipe_fks21q749m254q/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "Close-up video of horse gram and urad dal being soaked in water with fenugreek seeds visible.",
+            "text": "Soak Ingredients",
+            "voice_over": "First, wash and soak the horse gram and urad dal together in water for at least 4 hours, adding the fenugreek seeds to soak.",
+            "scene_image_filename": "recipe_fks21q749m254q/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A separate bowl with Ponni idli rice soaking in water, getting soft.",
+            "text": "Soak Idli Rice",
+            "voice_over": "In a separate bowl, wash and soak the Ponni idli rice for at least 2 hours. This will help in grinding.",
+            "scene_image_filename": "recipe_fks21q749m254q/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 7,
+            "image_prompt": "A blender with soaked horse gram and urad dal being ground to a coarse paste.",
+            "text": "Grind the Batter",
+            "voice_over": "Grind the soaked horse gram and urad dal separately to a coarse paste. Then, combine both mixtures in a large bowl and mix by hand. Let it ferment for at least 8 hours, or preferably overnight.",
+            "scene_image_filename": "recipe_fks21q749m254q/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Bowl with fermented batter, hands adding salt and mixing it lightly.",
+            "text": "Create the Uttapam Batter",
+            "voice_over": "Once fermented, add salt to taste and a little water, if necessary, until you reach a batter-like consistency. Mix gently.",
+            "scene_image_filename": "recipe_fks21q749m254q/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Steamer setup with idli moulds greased with oil, ready for batter pouring.",
+            "text": "Prepare to Steam",
+            "voice_over": "Prepare your steamer and grease the idli moulds with oil. This prevents sticking.",
+            "scene_image_filename": "recipe_fks21q749m254q/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Pouring ladles of batter into idli moulds and placing them in the steamer.",
+            "text": "Steam the Batter",
+            "voice_over": "Pour a ladle of batter into each cavity of the idli mould and steam for at least 15 minutes or until they\u2019re cooked through. Make sure to keep the flame steady.",
+            "scene_image_filename": "recipe_fks21q749m254q/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Removed idlis cooling slightly on a plate, look fluffy and soft.",
+            "text": "Final Touch",
+            "voice_over": "Once done, turn off the flame and allow the idlis to cool slightly before removing them from the plates.",
+            "scene_image_filename": "recipe_fks21q749m254q/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 7,
+            "image_prompt": "Final serving of Onion Uttapam on a plate with a bowl of chutney and sambar.",
+            "text": "Serve and Enjoy",
+            "voice_over": "Serve the Onion Uttapam warm with chutney or the accompaniment of your choice. Enjoy this healthy treat!",
+            "scene_image_filename": "recipe_fks21q749m254q/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21q749m254q-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 500,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Breakfast",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Horse Gram",
+        "Urad Dal",
+        "Rice"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For best results, allow the batter to ferment at a warm temperature.",
+        "You can customize the uttapam by adding chopped onions, tomatoes, or other vegetables to the batter before steaming."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/uttapam/recipe_fks21q749m254q/fks21q749m254q_main_image.jpg"
+    },
+    {
+      "id": "fksd8580t8th",
+      "name": "Oats Dosa Recipe - A Healthy Indian Crepe",
+      "url": "http://www.flavorsofmumbai.com/how-to-make-oats-dosa-recipe/",
+      "ingredients": [
+        "1 cup boiled rice or idli rice, soaked",
+        "\u00bd cup split black gram (urad dal), soaked",
+        "1 cup quick-cooking oats, soaked",
+        "Water as needed to adjust batter consistency",
+        "1 teaspoon sugar",
+        "Salt to taste",
+        "Few drops of cooking oil for frying"
+      ],
+      "directions": [
+        "Step 1: Soak the boiled rice, split black gram, and oats in sufficient water for 7-8 hours, or until they swell.",
+        "Step 2: Drain the excess water and grind the mixture into a smooth batter, adding a little water as necessary to achieve a medium consistency.",
+        "Step 3: Cover the batter and allow it to ferment for 7-8 hours or overnight in a warm place. The fermentation process may take longer in colder climates.",
+        "Step 4: After fermentation, add salt and sugar to the batter, stirring gently to combine. If the batter is too thick, add a bit more water to achieve the desired consistency.",
+        "Step 5: Heat a dosa pan over medium heat, and lightly grease it with a few drops of oil wiped on with a piece of halved onion or a cloth.",
+        "Step 6: Pour a ladle of batter into the center of the pan and spread it in a circular motion towards the edges using a spatula or the back of a small bowl.",
+        "Step 7: Drizzle a few drops of oil around the edges of the dosa. Once the bottom is golden brown, carefully flip and cook the other side.",
+        "Step 8: Repeat the process with the remaining batter, adjusting the heat as necessary to avoid burning the dosas. Sprinkle water on the pan if temperatures rise too high.",
+        "Step 9: Serve the oats dosa hot with coconut chutney or sambar."
+      ],
+      "duration": "13 hours 20 minutes ",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-m.webp",
+      "nutrition": {
+        "calories": "120",
+        "protein": "4 grams",
+        "carbs": "20 grams",
+        "fat": "4 grams",
+        "fiber": "3 grams",
+        "sugar": "1 gram",
+        "sodium": "200 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up shot of a golden-brown Oats Dosa, elegantly draped over a vibrant green banana leaf, highlighting its crispy texture. Use natural light to enhance the dosa's warm tones, ensuring soft shadows add depth. Include a small bowl of coconut chutney and a sprinkle of fresh coriander as garnish. Position the camera at a 45-degree angle to emphasize the dosa's edges. Use a shallow depth of field to keep the focus sharp on the dosa while softly blurring the background elements for a refined, inviting mood.",
+      "image_filepath": "recipe_fksd8580t8th/main_image",
+      "video_script": {
+        "title": "Oats Dosa Recipe - A Healthy Indian Crepe",
+        "description": "Learn how to make a delicious and healthy oats dosa, a delightful Indian crepe perfect for breakfast or a snack!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated oats dosa served with coconut chutney and sambar, garnished with fresh coriander.",
+            "text": "Healthy Oats Dosa Recipe!",
+            "voice_over": "Today, we\u2019ll make a delicious oats dosa, packed with nutrition and flavor!",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "All ingredients neatly arranged on a kitchen counter, including rice, urad dal, oats, and spices.",
+            "text": "Ingredients for Oats Dosa",
+            "voice_over": "For this recipe, you'll need boiled rice, split black gram, quick-cooking oats, sugar, salt, and cooking oil.",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A bowl showing boiled rice, urad dal, and oats soaking in water with a timer set for 8 hours.",
+            "text": "Step 1: Soak Ingredients",
+            "voice_over": "Soak the boiled rice, urad dal, and oats in water for 7-8 hours until they swell.",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A blender filled with the soaked ingredients being blended into a smooth batter.",
+            "text": "Step 2: Blend into Batter",
+            "voice_over": "Drain the excess water and blend the mixture into a smooth batter, adding water for consistency.",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A bowl with white batter covered with a cloth, placed in a warm spot for fermentation.",
+            "text": "Step 3: Ferment the Batter",
+            "voice_over": "Cover and let the batter ferment for 7-8 hours or overnight in a warm place.",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Fermented batter in a bowl with salt and sugar being added, ready to be mixed.",
+            "text": "Step 4: Add Salt and Sugar",
+            "voice_over": "After fermentation, mix in salt and sugar, adjusting the thickness if necessary.",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A dosa pan being heated with a drop of oil applied with a piece of onion.",
+            "text": "Step 5: Prepare the Pan",
+            "voice_over": "Heat a dosa pan over medium heat, lightly grease it with oil.",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Dosa batter being poured and spread on the pan into a circular shape.",
+            "text": "Step 6: Make the Dosa",
+            "voice_over": "Pour a ladle of batter onto the pan and spread it in a circular motion.",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A dosa frying in the pan with oil sizzling around the edges.",
+            "text": "Step 7: Cook Until Golden",
+            "voice_over": "Drizzle oil around the edges and cook until the bottom is golden brown, then flip.",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "A stack of crispy oats dosas on a plate with water being sprinkled on the pan.",
+            "text": "Step 8: Repeat and Serve",
+            "voice_over": "Continue until all batter is used, adjusting heat as needed. Serve hot.",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "Final presentation of oats dosa with chutney and sambar on the side, garnished with coriander.",
+            "text": "Enjoy Your Oats Dosa!",
+            "voice_over": "Enjoy your delicious oats dosa with coconut chutney or sambar. A healthy delight!",
+            "scene_image_filename": "recipe_fksd8580t8th/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8580t8th-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 650,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Breakfast",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Nut-Free"
+      ],
+      "ingredient_tags": [
+        "Rice",
+        "Oats",
+        "Lentils",
+        "Dosa"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Brunch"
+      ],
+      "cooking_tips": [
+        "Ensure that the batter is not too thick; it should easily spread in the pan.",
+        "You may add finely chopped vegetables to the batter for added nutrition.",
+        "Keep the dosa pan well-greased to prevent sticking."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/uttapam/recipe_fksd8580t8th/fksd8580t8th_main_image.jpg"
+    }
+  ]
+}
