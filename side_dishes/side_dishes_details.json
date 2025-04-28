@@ -1,0 +1,2438 @@
+{
+  "recipes": [
+    {
+      "id": "d36q6bvt5",
+      "name": "Indo-German Spinach Vegetable Curry",
+      "url": "http://www.easy-indian-cooking.com/recipe/spinach-palak-vegetable-curry-indo-german-style/",
+      "ingredients": [
+        "400 grams frozen spinach, thawed",
+        "350 grams mixed frozen vegetables (carrot, peas, corn, cauliflower, and beans)",
+        "1 medium onion, finely chopped",
+        "4 cloves garlic, minced",
+        "1/2 teaspoon ginger, grated",
+        "10 curry leaves",
+        "1/2 teaspoon red chili powder",
+        "1 pinch asafoetida",
+        "1/2 teaspoon mustard seeds",
+        "Salt, to taste",
+        "1/2 cup plain yogurt, whisked",
+        "1 teaspoon vegetable oil",
+        "1 bunch fresh spinach, washed and chopped",
+        "1/2 carrot, chopped",
+        "1 floret cauliflower, chopped",
+        "1 cup green peas (fresh or frozen)",
+        "2 maize corn, chopped"
+      ],
+      "directions": [
+        "Step 1: Prepare the spinach. If using frozen spinach, place it in a ceramic plate and microwave for 2 minutes until slightly softened. Alternatively, heat in a nonstick pan for 5 minutes. If using fresh spinach, wash and chop it finely, boil for 10 minutes in a little water, then cool to room temperature and grind to a semi-solid state.",
+        "Step 2: Prepare the vegetables. If using frozen mixed vegetables, microwave according to package instructions for 2-3 minutes. For fresh vegetables, chop the carrot and cauliflower. Heat 1 teaspoon of vegetable oil in a pan, add the chopped vegetables, fry for 1 minute, and cover the pan to cook for an additional 2 minutes.",
+        "Step 3: Temper the spices. In a nonstick pan, heat 2 teaspoons of oil over medium heat. Add mustard seeds and asafoetida, and when the seeds begin to pop, add the chopped onions, ginger, and garlic. Fry until the onions turn golden brown while adding a pinch of salt to expedite cooking.",
+        "Step 4: Add the spices. Mix in red chili powder and coriander powder, and cook until the raw smell dissipates.",
+        "Step 5: Incorporate the vegetables. If using frozen butter vegetables, add them and cook for 5 minutes. If using fresh vegetables, add them and cook for 5 minutes. Then, mix in the prepared spinach puree and season with salt. Reduce the heat and simmer for 10 minutes until the vegetables are thoroughly cooked.",
+        "Step 6: Combine the spinach and yogurt. Once the vegetables are cooked, stir in the chopped spinach from Step 1 and cook for a few more minutes. Then, reduce the heat and add the whisked yogurt, mixing well. Cook for another 2 minutes.",
+        "Step 7: Serve the curry hot with rice, chapati, or paratha. Enjoy this unique Indo-German dish!"
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q6bvt5-m.webp",
+      "nutrition": {
+        "calories": "220 per serving",
+        "protein": "8 grams per serving",
+        "carbs": "30 grams per serving",
+        "fat": "8 grams per serving",
+        "fiber": "6 grams per serving",
+        "sugar": "4 grams per serving",
+        "sodium": "350 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of Indo-German Spinach Vegetable Curry, styled with a rustic wooden table backdrop. Use natural light to enhance the rich green hues of the spinach and the colorful mixed vegetables, creating a warm and inviting atmosphere. Garnish with fresh cilantro and a sprinkle of chili flakes for contrast. Shoot from a slightly elevated angle to emphasize the dish's depth, with a shallow depth of field to blur the background, drawing focus to the curry\u2019s texture. Use a simple white plate for elegance, complemented by a wooden spoon and a small bowl of rice on the side.",
+      "image_filepath": "recipe_d36q6bvt5/main_image",
+      "video_script": {
+        "title": "Indo-German Spinach Vegetable Curry Recipe Tutorial",
+        "description": "Learn to make a delicious Indo-German Spinach Vegetable Curry, combining rich flavors and healthy ingredients for a unique culinary experience.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully plated dish of Indo-German Spinach Vegetable Curry, colorful vegetables and a drizzle of yogurt on top, served with fragrant rice and chapati on a wooden table.",
+            "text": "Welcome to our Indo-German Spinach Vegetable Curry!",
+            "voice_over": "In this video, we'll create a unique Indo-German dish that's both healthy and flavorful. Let's dive in!",
+            "scene_image_filename": "recipe_d36q6bvt5/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6bvt5-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "All the fresh ingredients laid out on a kitchen counter, including spinach, vegetables, onion, garlic, and spices arranged aesthetically.",
+            "text": "Ingredients you\u2019ll need:",
+            "voice_over": "For this recipe, gather frozen spinach, mixed vegetables, onions, garlic, spices, and yogurt.",
+            "scene_image_filename": "recipe_d36q6bvt5/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6bvt5-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A microwave with a plate of frozen spinach inside, a timer set for 2 minutes; alternatively, a pan on a stove with spinach cooking.",
+            "text": "Step 1: Prepare the spinach.",
+            "voice_over": "Microwave frozen spinach for 2 minutes or heat in a pan for 5 minutes. If using fresh spinach, boil and grind it.",
+            "scene_image_filename": "recipe_d36q6bvt5/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6bvt5-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A cutting board with chopped fresh vegetables, including carrots and cauliflower, alongside a pan heating with oil.",
+            "text": "Step 2: Prepare the vegetables.",
+            "voice_over": "Chop fresh vegetables and saut\u00e9 them in a heated pan with oil for 1 minute, cover and cook for 2 more minutes.",
+            "scene_image_filename": "recipe_d36q6bvt5/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6bvt5-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Spices being added to a heated pan, mustard seeds popping, with onions and garlic browning.",
+            "text": "Step 3: Temper the spices.",
+            "voice_over": "Heat oil, add mustard seeds and asafoetida. Once they pop, add chopped onions, garlic, and ginger, cooking until golden.",
+            "scene_image_filename": "recipe_d36q6bvt5/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6bvt5-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A close-up of spices being stirred into the onion mixture in the pan, red chili powder and coriander powder being mixed.",
+            "text": "Step 4: Add the spices.",
+            "voice_over": "Mix in red chili powder and coriander, cooking until the raw smell disappears.",
+            "scene_image_filename": "recipe_d36q6bvt5/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6bvt5-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "Mixed vegetables and spinach puree coming together in the pan, visible textures and colors mixing.",
+            "text": "Step 5: Incorporate the vegetables.",
+            "voice_over": "Add the cooked vegetables and season with salt. Stir in the spinach puree and let it simmer for 10 minutes.",
+            "scene_image_filename": "recipe_d36q6bvt5/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6bvt5-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Chopped fresh spinach being stirred into the curry, with yogurt ready to be added next to the pan.",
+            "text": "Step 6: Combine the spinach and yogurt.",
+            "voice_over": "Once vegetables are cooked, stir in the chopped spinach and whisked yogurt, cooking for another 2 minutes.",
+            "scene_image_filename": "recipe_d36q6bvt5/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6bvt5-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The finished Indo-German Spinach Vegetable Curry served in a bowl, with rice and chapati on the side ready for serving.",
+            "text": "Step 7: Serve and enjoy!",
+            "voice_over": "Serve hot with rice, chapati, or paratha. Enjoy this unique Indo-German dish!",
+            "scene_image_filename": "recipe_d36q6bvt5/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6bvt5-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indo-German",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Spinach",
+        "Vegetables",
+        "Yogurt"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Family Meal"
+      ],
+      "cooking_tips": [
+        "For a creamier texture, use fresh cream instead of yogurt.",
+        "Adjust spice levels according to your taste preference."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q6bvt5/d36q6bvt5_main_image.jpg"
+    },
+    {
+      "id": "d36q7tdvt",
+      "name": "Aloo Broccoli Sabzi (Broccoli Potato Fry)",
+      "url": "http://www.easy-indian-cooking.com/recipe/broccoli-potato-fry-aloo-broccoli-sabzi/",
+      "ingredients": [
+        "400 grams fresh broccoli, cut into small florets",
+        "4 medium-sized potatoes, sliced into lengthy pieces",
+        "1 medium onion, chopped",
+        "1/2 medium tomato, chopped",
+        "1 teaspoon grated garlic",
+        "1/4 teaspoon cumin seeds",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon coriander powder",
+        "2 teaspoons garam masala",
+        "1/2 teaspoon chili powder",
+        "Salt to taste",
+        "1/2 teaspoon lime juice",
+        "2 tablespoons vegetable oil for frying and tempering"
+      ],
+      "directions": [
+        "Step 1: Slice the potatoes into lengthy pieces and set aside.",
+        "Step 2: Cut the broccoli into small florets and set aside.",
+        "Step 3: Heat 1 tablespoon of vegetable oil in a nonstick pan, add the sliced potatoes and a pinch of salt. Fry for 5 minutes until they are partially cooked. Transfer the potatoes to a bowl and cover them.",
+        "Step 4: In the same pan, heat another tablespoon of vegetable oil, add the broccoli florets with a pinch of salt. Fry for 5 minutes until they are partially cooked. Transfer the broccoli to the bowl with the potatoes and cover.",
+        "Step 5: Heat 2 tablespoons of vegetable oil in a pan for tempering. Add cumin seeds and chopped onions. Saut\u00e9 until the onions turn golden. Then, add grated garlic and continue to cook until the raw smell disappears.",
+        "Step 6: Add the chopped tomatoes to the onion mixture and cook until they are fully mashed. Stir in the turmeric, coriander powder, and chili powder. Mix well.",
+        "Step 7: Add the partially cooked potatoes and broccoli to the spice mixture. Cover the pan and cook on high flame for 5 minutes, then sprinkle garam masala, reduce heat, and cook for an additional 5 minutes until tender.",
+        "Step 8: Finally, add lime juice, stir for 2 more minutes, then remove from heat. Garnish with fresh coriander leaves before serving."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-m.webp",
+      "nutrition": {
+        "calories": "180",
+        "protein": "5 grams",
+        "carbs": "30 grams",
+        "fat": "6 grams",
+        "fiber": "5 grams",
+        "sugar": "2 grams",
+        "sodium": "400 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Aloo Broccoli Sabzi in a rustic wooden bowl, emphasizing the lush green broccoli and golden potato slices against a textured dark slate background. Use natural soft lighting to illuminate the dish, highlighting the spices' vibrant colors. Incorporate a sprinkle of fresh cilantro and a lemon wedge for contrast. Shoot from a 45-degree angle to create depth, with a shallow depth of field that softly blurs the background, drawing focus to the dish's enticing textures and rich hues.",
+      "image_filepath": "recipe_d36q7tdvt/main_image",
+      "video_script": {
+        "title": "Aloo Broccoli Sabzi (Broccoli Potato Fry) Recipe",
+        "description": "Learn how to make a delicious Aloo Broccoli Sabzi featuring a blend of spices and fresh vegetables. Perfect as a side dish or a main meal!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully presented bowl of Aloo Broccoli Sabzi garnished with fresh coriander, served alongside a plate of rice and naan.",
+            "text": "Delicious Aloo Broccoli Sabzi",
+            "voice_over": "Welcome to our kitchen! Today, we're making Aloo Broccoli Sabzi, a flavorful stir-fry that combines broccoli and potatoes with aromatic spices.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A laid out display of all the ingredients needed for the recipe: broccoli florets, potato slices, chopped onion, tomato, garlic, and spices.",
+            "text": "Ingredients:",
+            "voice_over": "Let's take a look at the ingredients you'll need: fresh broccoli, potatoes, onions, tomatoes, garlic, and a variety of spices.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "Close-up of freshly sliced potatoes on a chopping board.",
+            "text": "Slice Potatoes.",
+            "voice_over": "Start by slicing 4 medium-sized potatoes into lengthy pieces. This helps them cook evenly.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Broccoli florets being cut into smaller pieces against a backdrop of a wooden kitchen countertop.",
+            "text": "Cut Broccoli.",
+            "voice_over": "Next, cut 400 grams of fresh broccoli into small florets. Set them aside for later.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A nonstick pan on the stove with potatoes frying, visible oil and a pinch of salt being added.",
+            "text": "Fry Potatoes.",
+            "voice_over": "In a nonstick pan, heat one tablespoon of vegetable oil. Add the sliced potatoes and a pinch of salt. Fry for about 5 minutes until they're partially cooked.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Broccoli florets being added to the same pan with oil, sizzling as they cook.",
+            "text": "Fry Broccoli.",
+            "voice_over": "Now, in the same pan, add another tablespoon of oil and toss in the broccoli florets with a pinch of salt. Fry for another 5 minutes until partially cooked.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Onions sizzling in a pan, with garlic being grated over them, creating a flavorful aroma.",
+            "text": "Saut\u00e9 Onions and Spices.",
+            "voice_over": "Using the same pan, heat 2 tablespoons of oil for tempering. Add cumin seeds and chopped onions. Saut\u00e9 until the onions turn golden. Then mix in the grated garlic until fragrant.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Chopped tomatoes being stirred into the frying onions, a brightly colored mixture sizzling in the pan.",
+            "text": "Add Tomatoes.",
+            "voice_over": "Add in the chopped tomatoes and cook until they're fully mashed. Stir in turmeric, coriander powder, and chili powder.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "Potatoes and broccoli being combined into the spice mixture with a lid on the pan.",
+            "text": "Combine and Cook.",
+            "voice_over": "Now, add the partially cooked potatoes and broccoli to the spice blend. Cover and cook on high for 5 minutes.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "Sprinkling garam masala over the cooking vegetables in the pan, followed by a vibrant mixture of colors.",
+            "text": "Finish with Spices.",
+            "voice_over": "Sprinkle in the garam masala, lower the heat, and cook for another 5 minutes until everything is tender.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "Final dish being plated, lime juice being drizzled over the sabzi with fresh coriander for garnishing.",
+            "text": "Garnish and Serve.",
+            "voice_over": "Finish by adding a splash of lime juice. Stir for 2 more minutes, then remove from heat and garnish with fresh coriander.",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          },
+          {
+            "scene_number": 12,
+            "duration": 5,
+            "image_prompt": "The completed Aloo Broccoli Sabzi served in a decorative bowl, accompanied by a small lemon wedge and rice or naan on the side.",
+            "text": "Serve Hot!",
+            "voice_over": "And here you have it! Aloo Broccoli Sabzi, ready to be enjoyed with rice or naan. Bon app\u00e9tit!",
+            "scene_image_filename": "recipe_d36q7tdvt/scene_12_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7tdvt-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 35,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Broccoli",
+        "Potatoes",
+        "Tomatoes",
+        "Onions",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Family Meal"
+      ],
+      "cooking_tips": [
+        "For extra flavor, consider adding a pinch of asafoetida (hing) while tempering.",
+        "Ensure the vegetables do not overcook to maintain a slight crunch."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q7tdvt/d36q7tdvt_main_image.jpg"
+    },
+    {
+      "id": "d36q7lk0e",
+      "name": "Capsicum and Broccoli Besan Stir-Fry Sabzi",
+      "url": "http://www.easy-indian-cooking.com/recipe/capsicum-broccoli-besan-stir-fry-sabzi/",
+      "ingredients": [
+        "3 medium Capsicum (Bell Pepper), chopped",
+        "2 cups Broccoli florets, chopped",
+        "3 tablespoons Besan (Gram Flour), roasted",
+        "1 teaspoon Red Chili Powder",
+        "1 teaspoon Cumin Powder",
+        "1 teaspoon Coriander Powder",
+        "1/4 teaspoon Turmeric Powder",
+        "1/2 teaspoon Asafoetida",
+        "1 teaspoon Amchur (Dried Mango Powder)",
+        "1/2 cup fresh Coriander Leaves, chopped",
+        "5 tablespoons Cooking Oil",
+        "1/2 teaspoon fresh Lime or Lemon Juice",
+        "Salt, to taste"
+      ],
+      "directions": [
+        "Step 1: Wash and chop the Capsicum and Broccoli into medium-sized pieces, removing any seeds from the Capsicum.",
+        "Step 2: In a non-stick pan, dry roast 3 tablespoons of Besan on low flame while stirring continuously to prevent lumps.",
+        "Step 3: Once the Besan turns golden, add 1/2 teaspoon of Asafoetida, 1 teaspoon of Cumin Powder, and 1 teaspoon of Coriander Powder. Stir continuously until the mixture is aromatic.",
+        "Step 4: Mix in 1 teaspoon of Red Chili Powder to the Besan. Remove from heat and transfer to a plate.",
+        "Step 5: Heat 5 tablespoons of Cooking Oil in the same non-stick pan. Once hot, add 1 teaspoon of Cumin Seeds, 1/2 teaspoon of Asafoetida, and 1/4 teaspoon of Turmeric Powder.",
+        "Step 6: When the raw flavor of Turmeric dissipates, add the chopped Broccoli and season with Salt. Cook until the Broccoli is partially cooked, then add the chopped Capsicum. Cover and cook on low flame until soft, stirring occasionally.",
+        "Step 7: Once the Capsicum is cooked, drizzle with 1/2 teaspoon of fresh Lime or Lemon Juice and mix well.",
+        "Step 8: Gradually spread the roasted Besan mixture over the vegetables. Cover and cook for an additional 2 minutes, then gently mix to combine.",
+        "Step 9: Continue cooking for another 5 minutes on low heat, stirring occasionally to combine the flavors.",
+        "Step 10: Garnish the dish with chopped Coriander Leaves before serving.",
+        "Step 11: Serve the Capsicum and Broccoli Besan Stir-Fry Sabzi with rice or chapatti."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-m.webp",
+      "nutrition": {
+        "calories": "150 per serving",
+        "protein": "5 grams per serving",
+        "carbs": "15 grams per serving",
+        "fat": "8 grams per serving",
+        "fiber": "4 grams per serving",
+        "sugar": "2 grams per serving",
+        "sodium": "200 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Capsicum and Broccoli Besan Stir-Fry Sabzi in a shallow, white ceramic bowl placed on a rustic wooden surface. Use natural light from the left to enhance the glossy textures of the roasted besan and the vivid colors of the vegetables. Garnish with freshly chopped coriander leaves and a sprinkle of red chili powder on top. Shoot from a 45-degree angle to showcase the dish's depth, with a soft focus on the background to create a warm, inviting mood.",
+      "image_filepath": "recipe_d36q7lk0e/main_image",
+      "video_script": {
+        "title": "Capsicum and Broccoli Besan Stir-Fry Sabzi Recipe",
+        "description": "Learn how to make a flavorful and nutritious Capsicum and Broccoli Besan Stir-Fry Sabzi. This dish is packed with vibrant vegetables and aromatic spices.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Show a beautifully plated Capsicum and Broccoli Besan Stir-Fry Sabzi garnished with fresh coriander, with rice and chapatti in the background.",
+            "text": "Delicious Capsicum and Broccoli Besan Stir-Fry!",
+            "voice_over": "Welcome to our recipe tutorial! Today we will be making a delicious Capsicum and Broccoli Besan Stir-Fry Sabzi.",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "Display the ingredients neatly arranged on a kitchen counter, focusing on the capsicum, broccoli, and spices.",
+            "text": "Ingredients: Capsicum, Broccoli & Spices",
+            "voice_over": "Here are the ingredients you'll need: Capsicum, Broccoli, and a variety of spices.",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Demonstrate washing and chopping capsicum and broccoli into medium-sized pieces.",
+            "text": "Wash and chop the vegetables.",
+            "voice_over": "Step 1: Wash and chop 3 medium Capsicum and 2 cups of Broccoli into medium-sized pieces.",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Show a non-stick pan on a stove with besan being roasted until golden brown.",
+            "text": "Roast 3 tbsp Besan on low flame.",
+            "voice_over": "Step 2: In a non-stick pan, dry roast 3 tablespoons of Besan on low flame until golden, stirring continuously.",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Visualize adding spices to the roasted besan in the pan.",
+            "text": "Add spices to the roasted Besan.",
+            "voice_over": "Step 3: Add 1/2 teaspoon of Asafoetida, 1 teaspoon of Cumin Powder, and 1 teaspoon of Coriander Powder to the roasted Besan. Stir until aromatic.",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Show the mixture being transferred to a plate after adding red chili powder.",
+            "text": "Mix in Red Chili Powder and set aside.",
+            "voice_over": "Step 4: Mix in 1 teaspoon of Red Chili Powder, then remove from heat and transfer to a plate.",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Heat oil in the same non-stick pan, showcasing the addition of cumin seeds and spices.",
+            "text": "Heat oil and add cumin seeds.",
+            "voice_over": "Step 5: Heat 5 tablespoons of Cooking Oil. Add 1 teaspoon of Cumin Seeds and 1/2 teaspoon of Asafoetida, followed by 1/4 teaspoon of Turmeric Powder.",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Add chopped broccoli to the pan and cover.",
+            "text": "Add Broccoli and season.",
+            "voice_over": "Step 6: When the raw flavor of Turmeric dissipates, add the chopped Broccoli and season with Salt. Cook till partially tender.",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Illustrate the addition of capsicum to the partially cooked broccoli and show the pan covered.",
+            "text": "Add Capsicum and cook covered.",
+            "voice_over": "Next, add the chopped Capsicum, cover the pan, and cook on low flame until soft.",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Show the dish being garnished with coriander leaves.",
+            "text": "Garnish with fresh Coriander.",
+            "voice_over": "Once cooked, drizzle with 1/2 teaspoon of fresh Lime or Lemon Juice, then garnish with chopped Coriander Leaves.",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "Final dish displayed with a side of rice and chapatti ready to serve.",
+            "text": "Serve with rice or chapatti.",
+            "voice_over": "Serve your Capsicum and Broccoli Besan Stir-Fry Sabzi hot with rice or chapatti!",
+            "scene_image_filename": "recipe_d36q7lk0e/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7lk0e-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 35,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Capsicum",
+        "Broccoli",
+        "Gram Flour",
+        "Vegetables"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure to roast the Besan on low flame to avoid burning.",
+        "Adjust the spice levels according to your taste preferences."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q7lk0e/d36q7lk0e_main_image.jpg"
+    },
+    {
+      "id": "d36q7iqnh",
+      "name": "Beetroot and Broccoli Stir-Fry",
+      "url": "http://www.easy-indian-cooking.com/recipe/beetroot-broccoli-sabzi-fry/",
+      "ingredients": [
+        "3 pieces beetroot, peeled and diced",
+        "200 grams broccoli, cut into florets",
+        "3 tablespoons besan (gram flour)",
+        "3 cloves garlic, minced",
+        "1 medium onion, chopped",
+        "1/4 teaspoon mustard seeds",
+        "1/2 teaspoon cumin seeds",
+        "1/2 teaspoon chana dal",
+        "1 teaspoon urad dal",
+        "1 pinch turmeric powder",
+        "1 teaspoon red chili powder",
+        "1 teaspoon garam masala",
+        "10 curry leaves",
+        "2 tablespoons oil for cooking",
+        "Salt to taste",
+        "Water as required"
+      ],
+      "directions": [
+        "Step 1: Heat 1/2 teaspoon of oil in a pan over medium heat. Add the broccoli florets along with salt. Cover the pan and steam the broccoli for approximately 6 minutes until tender. Remove the broccoli and set it aside.",
+        "Step 2: In a pressure cooker, add diced beetroot with salt and a little water. Cook under pressure for 2 whistles. Release the pressure, then separate the beetroot pieces from the water and set both aside.",
+        "Step 3: In a non-stick pan, heat 1 teaspoon of oil. Add mustard seeds and allow them to pop. Then, add minced garlic, cumin seeds, chana dal, urad dal, and curry leaves, saut\u00e9ing until fragrant.",
+        "Step 4: Add the chopped onion to the tempering. Saut\u00e9 until the onions turn golden brown. Then mix in turmeric powder, red chili powder, and garam masala, stirring well to combine.",
+        "Step 5: Incorporate the cooked beetroot pieces into the pan with the spices and saut\u00e9 on low flame for 2 minutes.",
+        "Step 6: Add the previously steamed broccoli to the saut\u00e9ed mixture and gently mix all the ingredients together. Cover the pan and continue to cook for 1 minute.",
+        "Step 7: Sprinkle besan (gram flour) over the vegetables. Pour in the reserved beetroot water and mix well. Cover the pan and cook until the mixture thickens, adjusting the consistency as needed. Garnish with chopped coriander leaves."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "6",
+        "carbs": "25",
+        "fat": "5",
+        "fiber": "7",
+        "sugar": "4",
+        "sodium": "300"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Beetroot and Broccoli Stir-Fry, artfully arranged in a rustic white bowl, against a textured wooden surface. Use natural light to illuminate the dish, enhancing the rich purples of beetroot and the fresh greens of broccoli. Incorporate a sprinkle of sesame seeds and fresh cilantro as garnishes. Position the camera at a 45-degree angle for dynamic layering, with a shallow depth of field to softly blur the background, allowing the dish to be the focal point, evoking a warm, inviting mood.",
+      "image_filepath": "recipe_d36q7iqnh/main_image",
+      "video_script": {
+        "title": "Delicious Beetroot and Broccoli Stir-Fry Tutorial",
+        "description": "Learn how to make a vibrant and healthy Beetroot and Broccoli Stir-Fry packed with flavor and nutrition.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of Beetroot and Broccoli Stir-Fry garnished with fresh coriander leaves on a wooden table.",
+            "text": "Welcome to our Beetroot and Broccoli Stir-Fry!",
+            "voice_over": "In this video, we'll create a colorful and nutritious Beetroot and Broccoli Stir-Fry that's sure to please your palate.",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A neatly arranged display of all the ingredients needed for the recipe, including beetroots, broccoli, spices, and oils on a counter.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "For this recipe, you will need beetroot, broccoli, spices, and some essential cooking ingredients.",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A hand placing broccoli florets into a pan and sprinkling salt over them, with steam rising.",
+            "text": "Step 1: Steam broccoli.",
+            "voice_over": "First, heat half a teaspoon of oil in a pan. Add the broccoli florets with salt, cover, and steam for about 6 minutes until tender.",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A pressure cooker releasing steam, with diced beetroots inside, against a kitchen backdrop.",
+            "text": "Step 2: Pressure cook beetroot.",
+            "voice_over": "In a pressure cooker, add the diced beetroot, salt, and a little water. Cook under pressure for 2 whistles, then set aside.",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 7,
+            "image_prompt": "A non-stick pan with spices and garlic sizzling, mustard seeds popping, and curry leaves being added.",
+            "text": "Step 3: Temper spices.",
+            "voice_over": "In a non-stick pan, heat 1 teaspoon of oil, add mustard seeds, and let them pop. Next, add garlic, cumin, chana dal, urad dal, and curry leaves, saut\u00e9ing until fragrant.",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Chopped onions frying until golden brown in the pan, with colorful spices mixed in.",
+            "text": "Step 4: Add onions and spices.",
+            "voice_over": "Now, add the chopped onions and saut\u00e9 until golden brown. Stir in turmeric, red chili powder, and garam masala.",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Saut\u00e9ed beetroots being mixed into the frying pan with spices and onions.",
+            "text": "Step 5: Saut\u00e9 cooked beetroot.",
+            "voice_over": "Incorporate the cooked beetroot into the pan and saut\u00e9 on low heat for 2 minutes to mix the flavors.",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Steamed broccoli being carefully folded into the saut\u00e9 mixture in the pan.",
+            "text": "Step 6: Combine broccoli.",
+            "voice_over": "Add the steamed broccoli to the pan and gently combine. Cover and cook for another minute.",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Besan being sprinkled over the mixture as the pan is covered, with a splash of beetroot water beside it.",
+            "text": "Step 7: Add besan and beetroot water.",
+            "voice_over": "Sprinkle besan over the veggies, then pour in the reserved beetroot water. Stir and cook until thickened.",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A final stir-fry in the pan, colorful and garnished with chopped coriander.",
+            "text": "It's ready to serve!",
+            "voice_over": "Garnish with coriander leaves, and your Beetroot and Broccoli Stir-Fry is ready to enjoy!",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 7,
+            "image_prompt": "A beautifully styled serving of Beetroot and Broccoli Stir-Fry next to a bowl of rice and a fork.",
+            "text": "Enjoy your meal!",
+            "voice_over": "Serve this colorful stir-fry with rice or naan for a wholesome meal that's both delicious and nutritious. Enjoy!",
+            "scene_image_filename": "recipe_d36q7iqnh/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7iqnh-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 35,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Vegetables",
+        "Legumes",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "Ensure to chop vegetables uniformly for even cooking.",
+        "You can adjust the spice levels according to your taste preference.",
+        "If you have leftovers, this dish can be reheated and enjoyed the next day."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q7iqnh/d36q7iqnh_main_image.jpg"
+    },
+    {
+      "id": "d36q6rb1d",
+      "name": "Paneer Masala \u2013 Indian Fresh Cheese Curry",
+      "url": "http://www.easy-indian-cooking.com/recipe/paneer-masala-indian-fresh-cheese-curry/",
+      "ingredients": [
+        "2 cups paneer, cubed",
+        "1 medium tomato, finely chopped",
+        "2 medium onions, finely chopped",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon coriander powder",
+        "1 teaspoon ginger-garlic paste",
+        "4 whole cloves",
+        "1 teaspoon cashews",
+        "2 small cinnamon sticks",
+        "1/2 teaspoon garam masala",
+        "1/4 teaspoon chili powder",
+        "4 teaspoons yogurt",
+        "1 bunch fresh coriander leaves, chopped for garnish",
+        "5 teaspoons butter",
+        "1 teaspoon vegetable oil",
+        "Salt, to taste"
+      ],
+      "directions": [
+        "Step 1: Heat 1 teaspoon of vegetable oil in a pan over medium heat. Add 1 cup of cubed paneer and fry until golden brown. Transfer the fried paneer to a bowl and set aside. Grate the remaining 1 cup of paneer.",
+        "Step 2: In the same pan, heat another teaspoon of oil and add the cloves, cumin seeds, and cinnamon sticks. Saut\u00e9 until fragrant, then remove from heat and grind the mixture to a fine powder. Set aside for later use.",
+        "Step 3: In a separate pan, heat 1 teaspoon of oil; add the chopped onions and tomatoes along with the ginger-garlic paste. Cook for a few minutes until softened. Transfer this mixture to a blender and blitz into a fine paste.",
+        "Step 4: In the same frying pan, heat 5 teaspoons of butter. Add the cashews, coriander powder, garam masala, salt, chili powder, and the ground masala powder from Step 2. Stir-fry until aromatic, then incorporate the paste from Step 3.",
+        "Step 5: Continue to fry until the raw flavor dissipates, then add the yogurt to the mixture. Mix thoroughly until the gravy thickens. Once thick, gently fold in the fried paneer cubes and grated paneer. Add 1 cup of water, cover, and simmer on low heat for 10 minutes, allowing the gravy to absorb into the paneer.",
+        "Step 6: Garnish the Paneer Masala with chopped fresh coriander leaves before serving."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-m.webp",
+      "nutrition": {
+        "calories": "350",
+        "protein": "20",
+        "carbs": "15",
+        "fat": "25",
+        "fiber": "3",
+        "sugar": "5",
+        "sodium": "300"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of Paneer Masala, styled in a rustic wooden dish, surrounded by a sprinkle of fresh cilantro and a few whole spices for texture. Use natural light from the side to enhance the rich colors of the curry, creating soft shadows that highlight the paneer cubes. Position a colorful Indian textile beneath the dish for warmth, and shoot from a slightly elevated angle to showcase the creamy sauce. Use a shallow depth of field to blur the background, keeping the focus on the glossy paneer and inviting garnishes, evoking a cozy, inviting mood.",
+      "image_filepath": "recipe_d36q6rb1d/main_image",
+      "video_script": {
+        "title": "Paneer Masala \u2013 Indian Fresh Cheese Curry Tutorial",
+        "description": "Learn how to make delicious Paneer Masala with this step-by-step recipe tutorial, perfect for your next meal!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Paneer Masala garnished with fresh coriander leaves, served alongside naan and a bowl of rice.",
+            "text": "Welcome to our Paneer Masala tutorial!",
+            "voice_over": "Today, we are making a delightful Paneer Masala. This creamy curry features soft paneer cheese, aromatic spices, and rich flavors.",
+            "scene_image_filename": "recipe_d36q6rb1d/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "All ingredients displayed together on a wooden kitchen countertop, neatly arranged.",
+            "text": "Let's look at our ingredients.",
+            "voice_over": "For this recipe, we need 2 cups of cubed paneer, onions, tomatoes, spices, butter, and some yogurt. Check the description for a complete list.",
+            "scene_image_filename": "recipe_d36q6rb1d/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A skilled chef heating oil in a frying pan, with paneer cubes ready to fry.",
+            "text": "Fry the paneer.",
+            "voice_over": "Heat 1 teaspoon of vegetable oil over medium heat. Fry 1 cup of cubed paneer until golden brown. Set aside.",
+            "scene_image_filename": "recipe_d36q6rb1d/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The frying pan with spices being added; cloves, cumin, and cinnamon sticks are visible.",
+            "text": "Saut\u00e9 spices for flavor.",
+            "voice_over": "In the same pan, add cloves, cumin seeds, and cinnamon sticks. Saut\u00e9 until fragrant, then grind into a powder.",
+            "scene_image_filename": "recipe_d36q6rb1d/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Onions and tomatoes saut\u00e9ing in a frying pan, with ginger-garlic paste visible.",
+            "text": "Cook onions and tomatoes.",
+            "voice_over": "Heat another teaspoon of oil, add chopped onions and tomatoes with ginger-garlic paste. Cook until softened.",
+            "scene_image_filename": "recipe_d36q6rb1d/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Blending the cooked onions and tomatoes into a fine paste in a blender.",
+            "text": "Blend into a smooth paste.",
+            "voice_over": "Transfer the mixture to a blender and blitz until smooth. This will be the base of our gravy.",
+            "scene_image_filename": "recipe_d36q6rb1d/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Butter melting in a pan, with spices, cashews, and the blended paste being added.",
+            "text": "Prepare the masala.",
+            "voice_over": "In the same pan, melt 5 teaspoons of butter. Add cashews, spices, and the blended paste. Stir-fry until aromatic.",
+            "scene_image_filename": "recipe_d36q6rb1d/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "The dish simmering in the pan with fried paneer mixed in, water being added to create gravy.",
+            "text": "Add yogurt and paneer.",
+            "voice_over": "Stir in the yogurt, then fold in fried paneer and grated paneer. Add 1 cup of water, cover, and simmer for 10 minutes.",
+            "scene_image_filename": "recipe_d36q6rb1d/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Beautifully garnished Paneer Masala in a serving bowl with fresh coriander sprinkled on top.",
+            "text": "Garnish and serve.",
+            "voice_over": "Finally, garnish with chopped fresh coriander leaves. Your Paneer Masala is ready to serve!",
+            "scene_image_filename": "recipe_d36q6rb1d/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "The final dish of Paneer Masala served with naan and a side of rice, elegantly presented.",
+            "text": "Enjoy your meal!",
+            "voice_over": "Serve this Paneer Masala with naan or rice. Enjoy your delicious creation!",
+            "scene_image_filename": "recipe_d36q6rb1d/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q6rb1d-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Paneer",
+        "Tomatoes",
+        "Onions",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Use freshly made paneer for a richer flavor.",
+        "Adjust the spice levels according to your preference.",
+        "Pair the dish with naan or rice for a complete meal."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q6rb1d/d36q6rb1d_main_image.jpg"
+    },
+    {
+      "id": "d36q5f32t",
+      "name": "Chana Chole Masala - Spicy Chickpeas Curry",
+      "url": "http://www.easy-indian-cooking.com/recipe/chana-chole-masala-chickpeas-curry/",
+      "ingredients": [
+        "200 grams dried chickpeas, soaked overnight",
+        "2 medium onions, finely chopped",
+        "2 medium tomatoes, finely chopped",
+        "5 tablespoons tomato puree",
+        "1/2 teaspoon black cumin seeds",
+        "1/2 teaspoon cumin seeds",
+        "1/4 teaspoon mustard seeds",
+        "1/4 teaspoon ajwain (carom seeds)",
+        "1 teaspoon coriander powder",
+        "2 tablespoons ginger-garlic paste",
+        "1 tablespoon tamarind paste",
+        "1 teaspoon red chili powder",
+        "1 teaspoon garam masala",
+        "1/4 teaspoon turmeric powder",
+        "1 bay leaf",
+        "Salt to taste",
+        "6 curry leaves",
+        "Fresh coriander leaves for garnish"
+      ],
+      "directions": [
+        "Step 1: Drain the soaked chickpeas and set them aside for cooking.",
+        "Step 2: Heat oil in a non-stick pan over medium heat. Add mustard seeds and wait for them to pop. Then add black cumin seeds, cumin seeds, ajwain, curry leaves, bay leaf, and ginger-garlic paste. Saut\u00e9 for a few minutes until fragrant.",
+        "Step 3: Add chopped onions to the pan and fry until they turn golden brown.",
+        "Step 4: Stir in the chopped tomatoes and tomato puree. Cook until the tomatoes soften and the oil separates from the mixture, forming a thick gravy.",
+        "Step 5: Add turmeric powder, coriander powder, and red chili powder. Mix well and cook for a few minutes until the raw flavors diminish.",
+        "Step 6: Introduce the soaked chickpeas into the pan and mix with the gravy. Cook for about 10 minutes, adding a little water if necessary, or transfer the mixture to a pressure cooker. Cook under pressure for 3 whistles.",
+        "Step 7: Soak tamarind in warm water for 30 minutes, then extract the juice. Mix the tamarind juice with plain flour or corn flakes, and add it to the cooking curry to thicken the gravy.",
+        "Step 8: When the curry thickens, remove it from heat. Sprinkle in the garam masala and stir well.",
+        "Step 9: Garnish the curry with finely chopped fresh coriander leaves. Serve hot with chapati, naan, roti, paratha, or bhatura."
+      ],
+      "duration": "",
+      "serves": "3",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q5f32t-m.webp",
+      "nutrition": {
+        "calories": "300 per serving",
+        "protein": "15 grams per serving",
+        "carbs": "45 grams per serving",
+        "fat": "8 grams per serving",
+        "fiber": "10 grams per serving",
+        "sugar": "5 grams per serving",
+        "sodium": "500 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of Chana Chole Masala, filled with rich, spicy chickpeas curry, topped with fresh cilantro and a sprinkle of red chili powder for color. Use a rustic wooden table as your background, with a textured linen napkin and a small dish of naan nearby. Opt for soft, natural lighting to enhance the dish\u2019s warm hues and glossy textures. Shoot from a slightly overhead angle to showcase the curry\u2019s depth, with a shallow depth of field to blur the background, creating a cozy, inviting mood.",
+      "image_filepath": "recipe_d36q5f32t/main_image",
+      "video_script": {
+        "title": "Flavorful Chana Chole Masala - Spicy Chickpeas Curry",
+        "description": "Learn how to make a delicious and spicy Chana Chole Masala from scratch with this easy-to-follow recipe tutorial.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully plated bowl of Chana Chole Masala garnished with fresh coriander and served with naan and rice.",
+            "text": "Welcome to our kitchen! Let's make Chana Chole Masala.",
+            "voice_over": "In this video, we\u2019ll create a deliciously spicy Chana Chole Masala, perfect for any meal!",
+            "scene_image_filename": "recipe_d36q5f32t/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "A colorful array of all ingredients laid out on a kitchen counter, with dried chickpeas prominently displayed.",
+            "text": "Gather your ingredients. Here\u2019s what you'll need.",
+            "voice_over": "For this recipe, you will need dried chickpeas, tomatoes, onions, various spices, and more. Check the description for the full list.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A close-up of soaked chickpeas in a bowl, ready for cooking.",
+            "text": "Soaked chickpeas ready to go.",
+            "voice_over": "Start by draining the soaked chickpeas that have been soaking overnight.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A pan on medium heat with mustard seeds popping, and spices ready to be added.",
+            "text": "Heat oil and add spices to sizzle.",
+            "voice_over": "In a non-stick pan, heat oil over medium heat. Add mustard seeds and wait for them to pop, then introduce black cumin seeds, cumin seeds, ajwain, curry leaves, and ginger-garlic paste. Saut\u00e9 until fragrant.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Finely chopped onions being added to the pan, sizzling as they fry.",
+            "text": "Add the chopped onions.",
+            "voice_over": "Now add the finely chopped onions and fry until they turn golden brown.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Chopped tomatoes and tomato puree being mixed into the pan above saut\u00e9ed onions.",
+            "text": "Mix in tomatoes and puree.",
+            "voice_over": "Stir in the chopped tomatoes and tomato puree. Cook until the tomatoes soften and the oil separates, creating a thick gravy.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Spices being sprinkled into the pan, with the vibrant mixture bubbling.",
+            "text": "Add spices for flavor.",
+            "voice_over": "Add turmeric powder, coriander powder, and red chili powder. Mix well and cook until the raw flavors diminish.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 7,
+            "image_prompt": "Soaked chickpeas being added into the rich, bubbling gravy of the pan.",
+            "text": "Combine chickpeas with the gravy.",
+            "voice_over": "Introduce the soaked chickpeas into the pan. Mix well and cook for about 10 minutes, adding a splash of water, or transfer to a pressure cooker for 3 whistles.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A bowl filled with tamarind being soaked in warm water.",
+            "text": "Prepare tamarind juice.",
+            "voice_over": "Soak tamarind in warm water for about 30 minutes, then extract the juice. Mix it in and thicken the gravy.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "A pan bubbling with thickened Chana Chole Masala, garnished with fresh coriander.",
+            "text": "Finish with garam masala.",
+            "voice_over": "Once thickened, remove from heat and sprinkle in the garam masala. Stir well.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "A serving of Chana Chole Masala served hot with naan and fresh coriander on top.",
+            "text": "Garnish and serve hot.",
+            "voice_over": "Garnish with fresh coriander leaves and serve hot with chapati, naan, or rice. Enjoy your meal!",
+            "scene_image_filename": "recipe_d36q5f32t/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 12,
+            "duration": 5,
+            "image_prompt": "A beautifully set table with the final dish of Chana Chole Masala alongside garnishes and flatbreads.",
+            "text": "Dig in and enjoy!",
+            "voice_over": "That's it! You've made a hearty Chana Chole Masala. It\u2019s nutritious and delicious. Happy cooking!",
+            "scene_image_filename": "recipe_d36q5f32t/scene_12_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 40,
+      "total_time_minutes": 55,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Chickpeas",
+        "Tomatoes",
+        "Onions",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Family Meal",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For best flavor, use freshly ground spices.",
+        "Adjust the amount of chili powder according to your heat preference.",
+        "You can use canned chickpeas to save time; just skip the soaking step."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q5f32t/d36q5f32t_main_image.jpg"
+    },
+    {
+      "id": "d36q7a76v",
+      "name": "Spicy Maida Diamond Cut Biscuits - Indian Snack",
+      "url": "http://www.easy-indian-cooking.com/recipe/spicy-maida-diamond-cut-biscuits/",
+      "ingredients": [
+        "1 cup wheat flour (Maida)",
+        "1 cup rice flour",
+        "1/2 cup besan (chickpea flour)",
+        "1 tablespoon ajwain (carom seeds)",
+        "1/2 tablespoon cumin seeds",
+        "1 teaspoon red chili powder",
+        "6 teaspoons white sesame seeds",
+        "Pinch of hing (asafoetida)",
+        "Water, as needed to prepare dough",
+        "Salt, to taste",
+        "Oil, for deep frying"
+      ],
+      "directions": [
+        "Step 1: In a large mixing bowl, combine the wheat flour, rice flour, besan, salt, red chili powder, sesame seeds, and cumin seeds. Mix thoroughly.",
+        "Step 2: Gradually add water as needed and knead until the dough is soft. Incorporate 2 tablespoons of oil or ghee while kneading. Taste and adjust salt and spices as necessary. Allow the dough to rest for 5 minutes.",
+        "Step 3: Divide the dough into lemon-sized balls and roll them out into slightly thick chapati-like discs.",
+        "Step 4: Create small holes using a fork or knife on the rolled dough. Cut the dough into square or diamond shapes using a sharp knife to form raw diamond chips.",
+        "Step 5: Heat sufficient oil in a deep pan over high heat. Once the oil is hot, carefully drop in the diamond shapes. Fry until they rise to the surface, then reduce the heat and continue frying until they turn golden brown.",
+        "Step 6: Remove the biscuits using a slotted spoon and place them on kitchen paper to absorb excess oil. Allow them to cool completely before storing in an airtight container to maintain crispiness."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q7a76v-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "3",
+        "carbs": "20",
+        "fat": "7",
+        "fiber": "2",
+        "sugar": "0",
+        "sodium": "100"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up shot of Spicy Maida Diamond Cut Biscuits arranged artfully on a rustic wooden board, garnished with a sprinkle of sesame seeds and a few ajwain seeds for texture. Use soft, diffused natural light to enhance the golden hues and crispy textures of the biscuits. Include a small bowl of spicy dipping sauce beside them, and a few scattered whole spices for added visual interest. Employ a shallow depth of field to keep the focus on the biscuits, creating a warm, inviting mood that evokes a sense of homemade comfort.",
+      "image_filepath": "recipe_d36q7a76v/main_image",
+      "video_script": {
+        "title": "Spicy Maida Diamond Cut Biscuits - Indian Snack",
+        "description": "Learn how to make crispy and spicy maida diamond cut biscuits, a delicious Indian snack perfect for tea time!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully arranged plate of golden-brown spicy maida diamond cut biscuits garnished with fresh herbs and served with a side of spicy chutney.",
+            "text": "Welcome to our spicy maida diamond cut biscuits tutorial!",
+            "voice_over": "In this video, we'll be making flavorful and crispy maida diamond cut biscuits, a perfect snack to enjoy with your tea.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Close-up shot of all ingredients laid out on a kitchen countertop, including colorful spice jars and bowls with flours.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "You'll need wheat flour, rice flour, besan, carom seeds, cumin seeds, red chili powder, sesame seeds, hing, salt, and oil for frying.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A large mixing bowl containing a mixture of the dry ingredients, with someone mixing it with a spoon.",
+            "text": "Mix the dry ingredients.",
+            "voice_over": "In a mixing bowl, combine 1 cup each of wheat flour and rice flour, 1/2 cup of besan, along with salt, red chili powder, sesame seeds, and cumin seeds. Mix well.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 7,
+            "image_prompt": "Hands kneading a soft dough in a bowl, with a small container of water and oil nearby.",
+            "text": "Knead the dough until soft.",
+            "voice_over": "Gradually add water to the mixture and knead until the dough is soft. Incorporate 2 tablespoons of oil while kneading. Let it rest for 5 minutes.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Scene showing round balls of dough being flattened with a rolling pin on a countertop.",
+            "text": "Roll out dough into discs.",
+            "voice_over": "Divide the dough into lemon-sized balls and roll each out into slightly thick discs resembling chapatis.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A close-up of a fork making holes in the rolled dough and cutting it into diamond shapes.",
+            "text": "Cut into diamond shapes.",
+            "voice_over": "Using a fork, create small holes in the rolled dough, then cut it into diamond shapes with a sharp knife.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "A deep pan with hot oil and diamond shapes frying, with bubbles around them.",
+            "text": "Fry the diamond biscuits.",
+            "voice_over": "Heat oil in a deep pan over high heat until hot. Drop the diamond shapes carefully, and fry until golden brown, adjusting the heat as necessary.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "A slotted spoon lifting the fried biscuits from the oil, with a paper towel-lined plate in the background.",
+            "text": "Remove and drain excess oil.",
+            "voice_over": "Once golden, remove the biscuits with a slotted spoon and drain them on kitchen paper to absorb excess oil.",
+            "scene_image_filename": "recipe_d36q7a76v/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A final display of the crispy maida diamond cut biscuits in a decorative bowl, with a seasoning shaker and cup of tea in the background.",
+            "text": "Enjoy your spicy biscuits!",
+            "voice_over": "Let the biscuits cool completely before storing in an airtight container. Enjoy them with your favorite tea!",
+            "scene_image_filename": "recipe_d36q7a76v/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7a76v-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 35,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Wheat",
+        "Flour",
+        "Spices",
+        "Sesame Seeds"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Snack Time"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is hot enough before frying to achieve a crispy texture.",
+        "Adjust the spices to suit your heat preference.",
+        "Store in an airtight container to preserve freshness."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q7a76v/d36q7a76v_main_image.jpg"
+    },
+    {
+      "id": "d36q5l6km",
+      "name": "Kidney Beans Curry (Rajma Masala)",
+      "url": "http://www.easy-indian-cooking.com/recipe/kidney-beans-curry-rajma-masala/",
+      "ingredients": [
+        "1.5 cups kidney beans (Rajma), soaked for 5 hours or overnight",
+        "2 medium onions, finely chopped",
+        "2 medium tomatoes, chopped",
+        "4 cloves garlic, minced",
+        "1 teaspoon ginger, grated",
+        "10 curry leaves",
+        "0.5 teaspoon red chili powder",
+        "1 pinch asafoetida (hing)",
+        "1 teaspoon coriander powder",
+        "1 teaspoon garam masala",
+        "1 teaspoon chicken masala (optional)",
+        "0.5 teaspoon mustard seeds",
+        "Salt, to taste",
+        "2 teaspoons coconut milk or cream",
+        "1 teaspoon oil for cooking",
+        "Chopped fresh coriander leaves, for garnish"
+      ],
+      "directions": [
+        "Step 1: Soak the kidney beans overnight or for 5 hours in water to reduce cooking time.",
+        "Step 2: Drain the soaked kidney beans and place them in a pressure cooker. Add salt and sufficient water. Cook for 3 whistles and allow the pressure to release naturally. Reserve the cooking liquid for later use.",
+        "Step 3: In a grinder, blend the garlic and ginger into a coarse paste. Heat 1 teaspoon of oil in a nonstick pan over medium heat. Add the mustard seeds and wait for them to splutter. Add the curry leaves and the ginger-garlic paste. Saut\u00e9 until the raw aroma of ginger and garlic disappears.",
+        "Step 4: Add the chopped onions to the pan along with a pinch of salt. Saut\u00e9 the onions until they turn golden brown, adjusting the cooking time based on the type of onion used.",
+        "Step 5: Incorporate the chopped tomatoes into the pan and cook until they are soft and blended into the gravy. The oil should begin to separate from the mixture.",
+        "Step 6: Add the coriander powder, red chili powder, garam masala, and chicken masala (if using) to the tomato-onion sauce. Stir well to combine until the spices become fragrant.",
+        "Step 7: Gently stir in the cooked kidney beans. Cover the pan and simmer for 2 minutes to let the beans absorb the spices. After 2 minutes, pour in the reserved kidney bean cooking liquid gradually and stir well. Allow the curry to cook for an additional 10 minutes.",
+        "Step 8: Garnish with chopped coriander leaves and stir gently before serving."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q5l6km-m.webp",
+      "nutrition": {
+        "calories": "280",
+        "protein": "15",
+        "carbs": "45",
+        "fat": "5",
+        "fiber": "13",
+        "sugar": "4",
+        "sodium": "300"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of Kidney Beans Curry (Rajma Masala) styled elegantly on a rustic wooden table. Use soft, diffused natural light to enhance the rich reds and earthy tones of the dish, emphasizing the textures of the kidney beans and the glistening sauce. Garnish with fresh cilantro and a sprinkle of garam masala. Frame the shot from a slight overhead angle, with a shallow depth of field to blur the background, creating a warm and inviting mood. Include a few colorful spices in small bowls and a woven cloth to add context and depth.",
+      "image_filepath": "recipe_d36q5l6km/main_image",
+      "video_script": {
+        "title": "Delicious Kidney Beans Curry (Rajma Masala) Tutorial",
+        "description": "Learn how to make a flavorful Kidney Beans Curry, known as Rajma Masala, with this step-by-step recipe tutorial.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Kidney Beans Curry garnished with fresh coriander leaves, served with steaming rice, showcasing the rich colors and texture.",
+            "text": "Welcome to our Rajma Masala recipe!",
+            "voice_over": "Today, we are making a delicious and hearty Kidney Beans Curry, perfect for any meal.",
+            "scene_image_filename": "recipe_d36q5l6km/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5l6km-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A clean kitchen countertop displaying all the ingredients needed for the recipe: kidney beans, onions, tomatoes, spices, and coconut milk.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "For this recipe, you'll need soaking kidney beans, fresh vegetables, spices, and coconut milk for creaminess.",
+            "scene_image_filename": "recipe_d36q5l6km/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5l6km-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "Step-by-step images showing the soaking process of kidney beans in a bowl, followed by a pressure cooker.",
+            "text": "Soak kidney beans for 5 hours or overnight.",
+            "voice_over": "Start by soaking 1.5 cups of kidney beans for at least five hours or overnight to soften them.",
+            "scene_image_filename": "recipe_d36q5l6km/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5l6km-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A pressure cooker on the stove with kidney beans and a simmering process, alongside a measuring cup with water.",
+            "text": "Pressure cook kidney beans with salt.",
+            "voice_over": "Drain the beans, add them to a pressure cooker with salt and enough water, and cook for three whistles.",
+            "scene_image_filename": "recipe_d36q5l6km/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5l6km-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 7,
+            "image_prompt": "A nonstick pan on the stove with oil heating, mustard seeds spluttering, and garlic and ginger paste being added.",
+            "text": "Prepare the spice base.",
+            "voice_over": "In a non-stick pan, heat oil and splutter mustard seeds, then add ginger-garlic paste, saut\u00e9ing until fragrant.",
+            "scene_image_filename": "recipe_d36q5l6km/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5l6km-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "A pan with saut\u00e9ed onions turning golden brown, followed by diced tomatoes and stirring action.",
+            "text": "Cook onions and tomatoes.",
+            "voice_over": "Add onions with a pinch of salt, saut\u00e9 until golden, then incorporate chopped tomatoes and cook until soft.",
+            "scene_image_filename": "recipe_d36q5l6km/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5l6km-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Spices being added to the cooked onions and tomatoes in the pan, with a focus on color and texture.",
+            "text": "Mix in spices.",
+            "voice_over": "Now add coriander, red chili powder, garam masala, and optional chicken masala, stirring well.",
+            "scene_image_filename": "recipe_d36q5l6km/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5l6km-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 7,
+            "image_prompt": "Kidney beans being gently stirred into the spice mix in a pan while cooking liquid is being poured in.",
+            "text": "Add kidney beans and simmer.",
+            "voice_over": "Gently stir in the cooked kidney beans, cover, and simmer for 10 minutes, adding reserved liquid to adjust consistency.",
+            "scene_image_filename": "recipe_d36q5l6km/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5l6km-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Fresh chopped coriander leaves being sprinkled on the finished curry in a vibrant pan.",
+            "text": "Garnish and serve.",
+            "voice_over": "Finally, garnish with fresh coriander leaves before serving. Enjoy your Rajma Masala!",
+            "scene_image_filename": "recipe_d36q5l6km/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5l6km-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "A beautifully served bowl of Kidney Beans Curry on a dining table with rice and naan, showing the entire meal setup.",
+            "text": "Enjoy your homemade Rajma!",
+            "voice_over": "Serve this flavorful curry with rice or naan for a complete meal. Bon app\u00e9tit!",
+            "scene_image_filename": "recipe_d36q5l6km/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5l6km-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Kidney Beans",
+        "Spices",
+        "Tomatoes",
+        "Onions"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For added creaminess, adjust the amount of coconut milk or cream as desired.",
+        "Serve with steamed rice or roti for a complete meal.",
+        "If you prefer a thicker curry, cook uncovered for a few additional minutes."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q5l6km/d36q5l6km_main_image.jpg"
+    },
+    {
+      "id": "d36q67rlf",
+      "name": "Cabbage and Carrot Stir-Fry",
+      "url": "http://www.easy-indian-cooking.com/recipe/cabbage-carrot-stir-fry-sabzi/",
+      "ingredients": [
+        "500 grams shredded cabbage",
+        "1 cup grated carrot",
+        "1/2 teaspoon chopped garlic",
+        "2 whole dried red chilies",
+        "2 green chilies, slit",
+        "1 tablespoon vegetable oil",
+        "1 teaspoon mustard seeds",
+        "1 tablespoon chana dal (split chickpeas)",
+        "1 tablespoon urad dal (split black gram)",
+        "10 curry leaves",
+        "1 pinch asafoetida (hing)",
+        "1/4 teaspoon turmeric powder",
+        "1 teaspoon garam masala",
+        "Salt to taste",
+        "Fresh coriander leaves for garnishing"
+      ],
+      "directions": [
+        "Step 1: Heat 1 tablespoon of vegetable oil in a non-stick pan over medium heat. Add the shredded cabbage and grated carrot, cooking for a few minutes. Season with a pinch of salt, then cover the pan. Allow the vegetables to cook until the cabbage becomes tender and releases water, about 5 minutes. Transfer the mixture to a bowl and set aside.",
+        "Step 2: In the same pan, add another tablespoon of vegetable oil. Once hot, add mustard seeds and wait until they splutter. Add the urad dal, chana dal, and a pinch of asafoetida. Fry until the dals turn golden brown.",
+        "Step 3: Add the turmeric powder, chopped garlic, slit green chilies, and dried red chilies to the pan. Saut\u00e9 until the garlic becomes fragrant and the raw smell dissipates.",
+        "Step 4: Stir in the curry leaves and garam masala, then add chopped onions (if desired) and continue to saut\u00e9 until the onions turn golden brown. If using tomatoes, add them now and cook until they soften and break down.",
+        "Step 5: Return the cabbage and carrot mixture to the pan, combining everything well. Cook uncovered, stirring frequently, to allow any excess moisture to evaporate. Cook until both vegetables are tender but not mushy.",
+        "Step 6: Garnish the stir-fry with freshly chopped coriander leaves. Serve hot with chapati or rice. Enjoy your delicious Cabbage and Carrot Stir-Fry!"
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q67rlf-m.webp",
+      "nutrition": {
+        "calories": "120 per serving",
+        "protein": "3 grams per serving",
+        "carbs": "8 grams per serving",
+        "fat": "9 grams per serving",
+        "fiber": "4 grams per serving",
+        "sugar": "3 grams per serving",
+        "sodium": "300 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Cabbage and Carrot Stir-Fry in a shallow, rustic wooden bowl, showcasing the colorful textures of the shredded cabbage and grated carrot. Use natural light to create soft shadows, enhancing the freshness of the ingredients. Incorporate a dark slate background to contrast with the dish's bright colors. Include a sprinkle of fresh coriander on top for garnish and a few whole dried red chilies on the side. Focus on a shallow depth of field to draw attention to the stir-fry's intricate details, evoking a warm and inviting mood.",
+      "image_filepath": "recipe_d36q67rlf/main_image",
+      "video_script": {
+        "title": "Delicious Cabbage and Carrot Stir-Fry Recipe",
+        "description": "Learn how to make a healthy and flavorful Cabbage and Carrot Stir-Fry in this easy-to-follow recipe tutorial.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Cabbage and Carrot Stir-Fry garnished with fresh coriander leaves, colorful and vibrant.",
+            "text": "Welcome to our kitchen!",
+            "voice_over": "Today, we'll be making a delicious Cabbage and Carrot Stir-Fry that is both healthy and satisfying. Let's get started!",
+            "scene_image_filename": "recipe_d36q67rlf/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q67rlf-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "All the fresh ingredients laid out on a wooden countertop: shredded cabbage, grated carrot, spices, and oils.",
+            "text": "Gather your ingredients",
+            "voice_over": "For this recipe, you'll need 500 grams of shredded cabbage, 1 cup of grated carrot, and a selection of spices, including mustard seeds, turmeric, and garam masala. Check the full ingredient list in the description!",
+            "scene_image_filename": "recipe_d36q67rlf/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q67rlf-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A non-stick pan on the stove with oil sizzling, cabbage, and carrots in the pan starting to cook.",
+            "text": "Cook cabbage and carrots",
+            "voice_over": "Heat 1 tablespoon of vegetable oil in a non-stick pan over medium heat. Add the cabbage and carrot, season with a pinch of salt, and cover for about 5 minutes until the cabbage becomes tender.",
+            "scene_image_filename": "recipe_d36q67rlf/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q67rlf-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The same pan with mustard seeds popping and dals getting golden brown.",
+            "text": "Prepare the tempering",
+            "voice_over": "In the same pan, add another tablespoon of oil and mustard seeds. Wait until they splutter, then add urad dal, chana dal, and a pinch of asafoetida. Fry until golden brown.",
+            "scene_image_filename": "recipe_d36q67rlf/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q67rlf-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A pan filled with fragrant garlic, spices, and colorful chilies being saut\u00e9ed.",
+            "text": "Saut\u00e9 spices and garlic",
+            "voice_over": "Add turmeric powder, chopped garlic, slit green chilies, and dried red chilies. Saut\u00e9 until fragrant, allowing the raw smell of garlic to dissipate.",
+            "scene_image_filename": "recipe_d36q67rlf/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q67rlf-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Curry leaves and garam masala being sprinkled into the pan, with optionally chopped onions and tomatoes.",
+            "text": "Stir in more flavors",
+            "voice_over": "Next, add the curry leaves and garam masala. If you're using onions, toss them in now and saut\u00e9 until golden brown. Optionally, add tomatoes and cook until softened.",
+            "scene_image_filename": "recipe_d36q67rlf/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q67rlf-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "The cabbage and carrot mixture being added back into the pan, with vibrant colors mixing.",
+            "text": "Combine everything",
+            "voice_over": "Return the cabbage and carrot mix to the pan, combining well. Cook uncovered, stirring frequently, until the vegetables are tender but not mushy.",
+            "scene_image_filename": "recipe_d36q67rlf/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q67rlf-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The finished stir-fry garnished with fresh coriander leaves on a serving plate.",
+            "text": "Garnish and serve",
+            "voice_over": "Finish your stir-fry with freshly chopped coriander leaves. Serve it hot with chapati or rice for a delightful meal!",
+            "scene_image_filename": "recipe_d36q67rlf/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q67rlf-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A beautifully styled final dish of Cabbage and Carrot Stir-Fry served in a bowl, with chapati and rice on the side.",
+            "text": "Enjoy your meal!",
+            "voice_over": "And there you have it! Your delicious Cabbage and Carrot Stir-Fry is ready to enjoy. Thanks for cooking with us!",
+            "scene_image_filename": "recipe_d36q67rlf/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q67rlf-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 25,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Cabbage",
+        "Carrot",
+        "Vegetables",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Family Meal"
+      ],
+      "cooking_tips": [
+        "Adjust the number of chilies based on your spice preference.",
+        "You can add other vegetables like bell peppers or peas for varied flavors.",
+        "Make sure not to overcook the cabbage to maintain its crunchy texture."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q67rlf/d36q67rlf_main_image.jpg"
+    },
+    {
+      "id": "d36q7bhpg",
+      "name": "Aloo Gobi: Potato and Cauliflower Masala Curry",
+      "url": "http://www.easy-indian-cooking.com/recipe/aloo-gobi-potato-cauliflower-masala-curry/",
+      "ingredients": [
+        "1 large cauliflower, cut into florets",
+        "3 large potatoes, peeled and cut into medium-sized cubes",
+        "2 medium onions, finely chopped",
+        "3 ripe tomatoes, chopped",
+        "1/2 teaspoon ginger paste",
+        "4 garlic cloves, minced",
+        "4 tablespoons cooking oil",
+        "1/4 cup fresh coriander leaves, chopped (for garnish)",
+        "1 tablespoon cumin seeds",
+        "1 tablespoon turmeric powder",
+        "1 tablespoon salt",
+        "2 tablespoons garam masala",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon chili powder"
+      ],
+      "directions": [
+        "Step 1: Prepare the potatoes and cauliflower by peeling the potatoes and cutting them into medium-sized cubes. Cut the cauliflower into large florets.",
+        "Step 2: Heat the cooking oil in a large saucepan over medium heat. Add the finely chopped onions and cumin seeds. Saut\u00e9 until the onions become creamy, golden, and translucent.",
+        "Step 3: Incorporate the ginger and garlic paste into the onion mixture, stirring continuously until fragrant.",
+        "Step 4: Add the chopped tomatoes and cook until they soften and the mixture turns into a creamy sauce.",
+        "Step 5: Stir in the garam masala, coriander powder, chili powder, turmeric powder, and salt. Mix thoroughly.",
+        "Step 6: Add the prepared potatoes and cauliflower to the spiced mixture. Ensure the vegetables do not stick to the pan, adding a little water if necessary to coat them well with the sauce.",
+        "Step 7: Cover and cook on low heat until the potatoes are tender and cooked through, stirring occasionally.",
+        "Step 8: Turn off the heat and garnish the curry with freshly chopped coriander leaves before serving."
+      ],
+      "duration": "",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-m.webp",
+      "nutrition": {
+        "calories": "200",
+        "protein": "5",
+        "carbs": "30",
+        "fat": "10",
+        "fiber": "7",
+        "sugar": "3",
+        "sodium": "600"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Aloo Gobi curry in a rustic bowl, placing it atop a textured wooden table for warmth. Use natural light to accentuate the golden hues of turmeric and the earthy tones of potatoes and cauliflower. Style with a sprinkle of fresh coriander on top and a side of warm naan. Frame the shot from a 45-degree angle to emphasize depth, with a shallow depth of field blurring the background, creating a cozy, inviting mood. Incorporate a few scattered spices and a small copper pot for added authenticity.",
+      "image_filepath": "recipe_d36q7bhpg/main_image",
+      "video_script": {
+        "title": "Aloo Gobi: Potato and Cauliflower Masala Curry Recipe",
+        "description": "Learn how to make a flavorful Aloo Gobi, a delightful potato and cauliflower masala curry that's perfect for any occasion.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Aloo Gobi with vibrant yellow and green colors, garnished with fresh coriander leaves.",
+            "text": "Welcome to our Aloo Gobi tutorial!",
+            "voice_over": "In this video, we will make a delicious Aloo Gobi, a classic Indian curry made with potatoes and cauliflower.",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "An array of fresh ingredients: cauliflower florets, cubed potatoes, onions, tomatoes, and spices displayed on a wooden table.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "For this recipe, you'll need one large cauliflower, three large potatoes, two medium onions, three ripe tomatoes, ginger paste, garlic, and a selection of spices.",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A cook peeling potatoes and chopping vegetables on a cutting board, with cauliflower and spices in the background.",
+            "text": "Prepare the potatoes and cauliflower.",
+            "voice_over": "Start by peeling and cutting the potatoes into medium-sized cubes and cut the cauliflower into large florets.",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A large saucepan on medium heat with oil, onions, and cumin seeds sizzling.",
+            "text": "Heat oil and saut\u00e9 onions.",
+            "voice_over": "Heat four tablespoons of cooking oil in a large saucepan over medium heat. Add the finely chopped onions and cumin seeds, saut\u00e9 until creamy, golden, and translucent.",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up of ginger and garlic paste being stirred into the onion mixture in the pan.",
+            "text": "Add ginger and garlic.",
+            "voice_over": "Incorporate half a teaspoon of ginger paste and four minced garlic cloves. Stir until fragrant, about 1-2 minutes.",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Chopped tomatoes being added to the pan, making a creamy sauce.",
+            "text": "Add tomatoes and cook.",
+            "voice_over": "Add the chopped tomatoes and cook until they soften and the mixture turns into a creamy sauce, approximately 5 minutes.",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A mix of vibrant spices sprinkled into the pan over the tomato mixture.",
+            "text": "Mix in the spices.",
+            "voice_over": "Now, stir in the spices: one tablespoon of garam masala, coriander powder, chili powder, turmeric powder, and salt. Mix thoroughly.",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "The prepared potatoes and cauliflower added to the spiced mixture, mixed together in the pan.",
+            "text": "Add the potatoes and cauliflower.",
+            "voice_over": "Add the prepared potatoes and cauliflower to the spiced mixture, coating them well. If necessary, add a splash of water.",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "The pan covered with a lid, stewing gently, steam escaping.",
+            "text": "Cover and cook on low heat.",
+            "voice_over": "Cover and cook on low heat until the potatoes are tender, stirring occasionally, about 15-20 minutes.",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "The curry dish is being garnished with fresh coriander leaves.",
+            "text": "Garnish and serve.",
+            "voice_over": "Once done, turn off the heat and garnish your curry with freshly chopped coriander leaves before serving.",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "A final presentation of Aloo Gobi with rice and naan served on the side.",
+            "text": "Enjoy your meal!",
+            "voice_over": "Serve your Aloo Gobi hot with rice or naan. Enjoy your delicious homemade curry!",
+            "scene_image_filename": "recipe_d36q7bhpg/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7bhpg-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Vegetables",
+        "Potatoes",
+        "Cauliflower",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Family Meal"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, allow the curry to simmer for a longer time on low heat.",
+        "You can add peas or green beans for extra nutrition.",
+        "Serve it with rice or naan for a complete meal."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q7bhpg/d36q7bhpg_main_image.jpg"
+    },
+    {
+      "id": "d36q73pdc",
+      "name": "Sweet Rice Pongal \u2013 Sakkarai Pongal",
+      "url": "http://www.easy-indian-cooking.com/recipe/sweet-rice-pongal-sakkarai-pongal/",
+      "ingredients": [
+        "1 cup rice, rinsed and soaked",
+        "1 cup moong dal, rinsed",
+        "2 cups milk",
+        "1 tablespoon ghee",
+        "10 cashews, broken",
+        "15 raisins",
+        "5 cardamom pods, crushed",
+        "Water, as needed for cooking",
+        "5 pieces jaggery, broken into small chunks"
+      ],
+      "directions": [
+        "Step 1: Rinse the rice thoroughly and soak it in water for 30 minutes.",
+        "Step 2: In a pressure cooker, add the soaked rice along with 3 cups of water. Cook on medium heat and release the pressure after 3 whistles, until the rice is soft and fully cooked.",
+        "Step 3: Rinse the moong dal under running water. In the same pressure cooker, add the rinsed dal and 3 cups of water. Cook for 3 whistles, then let the pressure release naturally until the dal is soft. Mash the dal lightly.",
+        "Step 4: For the jaggery syrup, break the jaggery into small pieces. In a saucepan, add the jaggery and \u00bd cup of water. Heat over medium flame, boiling for about 5 minutes or until the jaggery completely dissolves to form a light syrup.",
+        "Step 5: Filter the jaggery syrup through a sieve to remove any impurities. Taste and adjust sweetness by adding more jaggery or water if necessary.",
+        "Step 6: In a pan, heat 1 tablespoon of ghee over medium heat. Add the broken cashews, raisins, and crushed cardamom pods. Roast until the cashews turn golden brown and the raisins plump up.",
+        "Step 7: In a large mixing bowl, combine the cooked rice, mashed dal, and jaggery syrup. Mix well.",
+        "Step 8: Gradually add the milk to the mixture, stirring until well blended.",
+        "Step 9: Top the rice and dal mix with the roasted cashews, raisins, and cardamom for added flavor.",
+        "Step 10: Serve the delicious Sweet Rice Pongal warm, garnished with more cashews if desired."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q73pdc-m.webp",
+      "nutrition": {
+        "calories": "300 per serving",
+        "protein": "7 grams per serving",
+        "carbs": "60 grams per serving",
+        "fat": "8 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "20 grams per serving",
+        "sodium": "25 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a bowl of Sweet Rice Pongal, styled elegantly with a sprinkle of crushed cardamom and a few whole cashews on top. Use a warm, natural light source to enhance the creamy texture of the dish, creating soft shadows. Position the bowl slightly off-center on a rustic wooden table, surrounded by small brass bowls filled with jaggery and raisins. Use a shallow depth of field to keep the focus on the Pongal, while blurring the background for a cozy, inviting mood.",
+      "image_filepath": "recipe_d36q73pdc/main_image",
+      "video_script": {
+        "title": "Delicious Sweet Rice Pongal \u2013 Sakkarai Pongal Recipe",
+        "description": "Learn how to make the traditional Sweet Rice Pongal, also known as Sakkarai Pongal, a delightful dish made with rice, moong dal, and jaggery.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully plated dish of Sweet Rice Pongal topped with cashews and raisins, surrounded by ingredients used in the recipe.",
+            "text": "Welcome to our Sweet Rice Pongal tutorial!",
+            "voice_over": "Today, we're making a delicious Sweet Rice Pongal, a festive favorite that's rich in flavor and tradition.",
+            "scene_image_filename": "recipe_d36q73pdc/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "A flat lay of all the ingredients needed for the recipe, neatly arranged on a counter.",
+            "text": "Let\u2019s take a look at our ingredients!",
+            "voice_over": "We will need 1 cup of soaked rice, 1 cup of moong dal, 2 cups of milk, ghee, cashews, raisins, cardamom pods, and jaggery.",
+            "scene_image_filename": "recipe_d36q73pdc/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "Close-up of rice soaking in a bowl of water.",
+            "text": "Step 1: Soak the rice.",
+            "voice_over": "Rinse 1 cup of rice thoroughly and soak it in water for 30 minutes.",
+            "scene_image_filename": "recipe_d36q73pdc/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Pressure cooker on the stove with water and rice inside it.",
+            "text": "Step 2: Pressure cook the rice.",
+            "voice_over": "In a pressure cooker, add the soaked rice with 3 cups of water, cook on medium heat for 3 whistles, until soft.",
+            "scene_image_filename": "recipe_d36q73pdc/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Rinsing moong dal under running water.",
+            "text": "Step 3: Prepare the moong dal.",
+            "voice_over": "Rinse 1 cup of moong dal and cook in the same pressure cooker with 3 cups of water for 3 whistles; mash it lightly after.",
+            "scene_image_filename": "recipe_d36q73pdc/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "A saucepan on the stove with jaggery and water heating up.",
+            "text": "Step 4: Make the jaggery syrup.",
+            "voice_over": "In a saucepan, add broken jaggery with half a cup of water, boil for 5 minutes until dissolved to form a light syrup.",
+            "scene_image_filename": "recipe_d36q73pdc/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "A frying pan with ghee heating up, cashews and raisins ready to be added.",
+            "text": "Step 6: Roast the nuts.",
+            "voice_over": "In a pan, heat 1 tablespoon of ghee, roast broken cashews, raisins, and crushed cardamom until golden and plump.",
+            "scene_image_filename": "recipe_d36q73pdc/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A mixing bowl combining rice, dal, and jaggery syrup.",
+            "text": "Step 7: Mix the ingredients.",
+            "voice_over": "Combine the cooked rice, mashed dal, and jaggery syrup in a large mixing bowl, stirring well.",
+            "scene_image_filename": "recipe_d36q73pdc/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Pouring milk into the rice and dal mixture with a spatula.",
+            "text": "Step 8: Add milk.",
+            "voice_over": "Gradually stir in 2 cups of milk until the mixture is well blended and creamy.",
+            "scene_image_filename": "recipe_d36q73pdc/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "Garnishing the Sweet Rice Pongal with roasted nuts and cardamom.",
+            "text": "Step 9: Garnish and serve.",
+            "voice_over": "Top the mix with the roasted cashews, raisins, and cardamom, enhancing the flavor and presentation.",
+            "scene_image_filename": "recipe_d36q73pdc/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "Serving the final dish of Sweet Rice Pongal, warm in bowls with extra cashews.",
+            "text": "Enjoy your Sweet Rice Pongal!",
+            "voice_over": "Serve the Sweet Rice Pongal warm, garnished with additional cashews as desired. Enjoy this delightful dish!",
+            "scene_image_filename": "recipe_d36q73pdc/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q73pdc-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Breakfast",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Rice",
+        "Moong Dal",
+        "Jaggery",
+        "Dairy"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Festival",
+        "Celebration"
+      ],
+      "cooking_tips": [
+        "Use freshly grated coconut for added flavor.",
+        "Adjust the milk quantity based on your desired consistency."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q73pdc/d36q73pdc_main_image.jpg"
+    },
+    {
+      "id": "d36q666mh",
+      "name": "Raw Banana Stir Fry - Vazhakkai Podimas",
+      "url": "http://www.easy-indian-cooking.com/recipe/raw-banana-stir-fry-vazhakkai-podimas/",
+      "ingredients": [
+        "2-3 medium-sized raw plantains, peeled and cut into large pieces",
+        "1/4 teaspoon turmeric powder",
+        "A pinch of hing (asafoetida)",
+        "3 green chilies, slit",
+        "1 small piece of ginger, grated",
+        "1.5 tablespoons urad dal",
+        "1 tablespoon chana dal",
+        "1/2 tablespoon mustard seeds",
+        "10 curry leaves, torn",
+        "1 cup fresh coriander leaves, chopped",
+        "1 lemon, juiced",
+        "2 tablespoons vegetable oil",
+        "1 tablespoon salt"
+      ],
+      "directions": [
+        "Step 1: Peel the plantains and cut them into large pieces (halves or quarters).",
+        "Step 2: In a pressure cooker, boil the cut plantains with a little turmeric powder and salt for 5-10 minutes, until tender.",
+        "Step 3: Once cooked, drain and mash the plantains slightly, then set aside.",
+        "Step 4: In a non-stick pan, heat 2 tablespoons of vegetable oil over medium heat. Add mustard seeds and let them crackle.",
+        "Step 5: Add urad dal, chana dal, hing, turmeric powder, curry leaves, green chilies, and grated ginger to the pan. Stir-fry until the mixture turns light brown and aromatic.",
+        "Step 6: Add the lemon juice and salt to the pan along with the mashed plantains. Mix thoroughly to combine all ingredients well."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q666mh-m.webp",
+      "nutrition": {
+        "calories": "120",
+        "protein": "4",
+        "carbs": "28",
+        "fat": "2",
+        "fiber": "4",
+        "sugar": "6",
+        "sodium": "500"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of Vazhakkai Podimas, showcasing the stir-fried raw plantains in a rustic wooden bowl. Use natural light to accentuate the yellows and greens, casting soft shadows to enhance textures. Style with fresh coriander leaves scattered around and a small bowl of chutney on the side. Include a textured linen napkin beneath the bowl for warmth. Shoot from a diagonal angle to emphasize the dish's depth, with a shallow depth of field to keep the focus on the colorful ingredients while softly blurring the background.",
+      "image_filepath": "recipe_d36q666mh/main_image",
+      "video_script": {
+        "title": "Delicious Raw Banana Stir Fry - Vazhakkai Podimas",
+        "description": "Join us as we prepare a healthy and flavorful Raw Banana Stir Fry, a traditional South Indian dish rich in taste and nutrients.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A vibrant bowl of Vazhakkai Podimas garnished with fresh coriander, served on a colorful plate with lemon slices beside it.",
+            "text": "Welcome to our kitchen! Today, we're making Vazhakkai Podimas.",
+            "voice_over": "In this video, we'll prepare a delicious Raw Banana Stir Fry, also known as Vazhakkai Podimas, packed with flavors and nutrients.",
+            "scene_image_filename": "recipe_d36q666mh/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q666mh-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A neatly arranged display of ingredients for the recipe, including raw plantains, spices, and condiments, all labeled.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "For this recipe, you'll need 2-3 medium-sized raw plantains, turmeric powder, hing, green chilies, ginger, urad dal, chana dal, mustard seeds, curry leaves, coriander, lemon, vegetable oil, and salt.",
+            "scene_image_filename": "recipe_d36q666mh/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q666mh-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A person peeling and chopping raw plantains into large pieces on a cutting board.",
+            "text": "Peel and chop the plantains.",
+            "voice_over": "Start by peeling the plantains and cutting them into large pieces, either halves or quarters.",
+            "scene_image_filename": "recipe_d36q666mh/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q666mh-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A pressure cooker with chopped plantains, visibly steaming, with turmeric and salt beside it.",
+            "text": "Cook the plantains in a pressure cooker.",
+            "voice_over": "In a pressure cooker, boil the cut plantains with 1/4 teaspoon of turmeric powder and 1 tablespoon of salt for about 5-10 minutes, until they are tender.",
+            "scene_image_filename": "recipe_d36q666mh/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q666mh-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A person draining cooked plantains in a colander and mashing them lightly in a bowl.",
+            "text": "Drain and mash the plantains.",
+            "voice_over": "Once cooked, drain the plantains and mash them slightly. Set them aside for later use.",
+            "scene_image_filename": "recipe_d36q666mh/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q666mh-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A non-stick pan on a stove with oil heating up, mustard seeds ready to be added.",
+            "text": "Heat oil and crackle mustard seeds.",
+            "voice_over": "In a non-stick pan, heat 2 tablespoons of vegetable oil over medium heat and add 1/2 tablespoon of mustard seeds. Let them crackle.",
+            "scene_image_filename": "recipe_d36q666mh/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q666mh-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "A colorful mixture of dals, spices, and chilies being saut\u00e9ed in the pan, with steam rising.",
+            "text": "Saut\u00e9 dals and spices.",
+            "voice_over": "Next, add urad dal, chana dal, hing, 1/4 teaspoon of turmeric powder, curry leaves, slit green chilies, and grated ginger to the pan. Stir-fry until the mixture turns light brown and aromatic.",
+            "scene_image_filename": "recipe_d36q666mh/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q666mh-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Cooked and mashed plantains being added to the saut\u00e9ed mixture in the pan.",
+            "text": "Add plantains and mix.",
+            "voice_over": "Now, add the lemon juice and the previously prepared mashed plantains. Mix everything together thoroughly to combine all the ingredients well.",
+            "scene_image_filename": "recipe_d36q666mh/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q666mh-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Vazhakkai Podimas with a sprinkle of coriander, ready to be served.",
+            "text": "It's ready to serve!",
+            "voice_over": "And there you have it! Your delicious Vazhakkai Podimas is ready to be enjoyed. You can serve it as a side dish with rice or even on its own.",
+            "scene_image_filename": "recipe_d36q666mh/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q666mh-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "A family sitting at the dining table enjoying Vazhakkai Podimas, with smiles and shared dishes.",
+            "text": "Enjoy with family and friends!",
+            "voice_over": "Enjoy your Vazhakkai Podimas with family and friends! Thank you for watching, and happy cooking!",
+            "scene_image_filename": "recipe_d36q666mh/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q666mh-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 25,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Plantains",
+        "Vegetables",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Casual"
+      ],
+      "cooking_tips": [
+        "Ensure the plantains are ripe but firm for the best texture in the dish.",
+        "Adjust the number of green chilies based on your spice preference."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q666mh/d36q666mh_main_image.jpg"
+    },
+    {
+      "id": "d36q5p05k",
+      "name": "Raw Banana Bajji (Vazhakkai Bajji) - Plantain Fritters",
+      "url": "http://www.easy-indian-cooking.com/recipe/raw-bananabajji-vazhakkai-bajji-plantain-fritters/",
+      "ingredients": [
+        "1 raw banana (plantain), peeled and sliced thinly",
+        "150 grams besan (gram flour)",
+        "3 tablespoons rice flour",
+        "2 tablespoons barbeque (BBQ) masala",
+        "A pinch of Eno salt (or baking soda)",
+        "A small pinch of hing powder (asafoetida)",
+        "Oil for deep frying",
+        "Salt to taste"
+      ],
+      "directions": [
+        "Step 1: Wash and clean the raw banana (also known as plantain or Vazhakkai). Apply a small amount of oil to your hands and knife before cutting to prevent stickiness. Peel off the outer layer and slice the banana longitudinally into thin pieces.",
+        "Step 2: In a mixing bowl, combine the besan, rice flour, barbecue masala, Eno salt, hing powder, and salt. Gradually add enough water to create a smooth batter.",
+        "Step 3: Heat oil in a deep frying pan over medium heat until hot. Dip each banana slice in the batter and carefully slide them into the hot oil. Fry until the coating is golden brown and crispy.",
+        "Step 4: Remove the fritters from the oil and drain on kitchen paper to absorb excess oil. Serve hot with your choice of chutney or sauce."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q5p05k-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "4",
+        "carbs": "20",
+        "fat": "6",
+        "fiber": "2",
+        "sugar": "1",
+        "sodium": "300"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up shot of golden-brown Raw Banana Bajji arranged artistically on a rustic wooden platter. Use a soft, diffused natural light to highlight the crispy texture and vibrant color of the fritters. Incorporate a small bowl of spicy dipping sauce and a sprinkle of fresh coriander for garnish. Position the camera at a 45-degree angle to emphasize the layers and detail. Use a shallow depth of field to blur the background, creating a warm, inviting mood that draws attention to the dish.",
+      "image_filepath": "recipe_d36q5p05k/main_image",
+      "video_script": {
+        "title": "Delicious Raw Banana Bajji (Vazhakkai Bajji) - Plantain Fritters Recipe",
+        "description": "Learn how to make crispy and flavorful Raw Banana Bajji, a delightful snack perfect for any occasion!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully plated serving of crispy Raw Banana Bajji fritters, garnished with fresh coriander and served with a side of spicy chutney.",
+            "text": "Crispy Raw Banana Bajji",
+            "voice_over": "Welcome to our cooking channel! Today, we\u2019ll be making delicious Raw Banana Bajji, a perfect crunchy snack for your evenings!",
+            "scene_image_filename": "recipe_d36q5p05k/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "All the raw ingredients displayed: raw bananas, besan, rice flour, BBQ masala, Eno salt, hing powder, and oil for frying.",
+            "text": "Ingredients for Bajji",
+            "voice_over": "For this recipe, we need raw bananas, besan, rice flour, BBQ masala, Eno salt, hing powder, and oil for frying.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 7,
+            "image_prompt": "A hand peeling and slicing a raw banana with a knife, surrounded by the mess of banana peels.",
+            "text": "Prepare the Raw Banana",
+            "voice_over": "Start by washing and peeling one raw banana. Slice it thinly and lengthwise to ensure crispiness.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A mixing bowl filled with besan, rice flour, BBQ masala, Eno salt, hing powder, and salt, alongside a whisk.",
+            "text": "Make the Batter",
+            "voice_over": "In a mixing bowl, combine 150 grams of besan, 3 tablespoons of rice flour, 2 tablespoons of BBQ masala, a pinch of Eno salt, hing powder, and salt. Mix well.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A hand pouring water into the mixing bowl, whisking the ingredients together to form a batter.",
+            "text": "Add Water to Batter",
+            "voice_over": "Gradually add water to create a smooth and thick batter. This will coat the banana slices evenly.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A deep frying pan with hot oil, and a hand carefully dipping banana slices into the batter.",
+            "text": "Fry the Bajji",
+            "voice_over": "Heat oil in a deep frying pan over medium heat until hot. Dip each banana slice in the batter and carefully fry them until golden brown.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Crispy fritters sizzling in hot oil, turning golden brown as they fry.",
+            "text": "Golden and Crispy",
+            "voice_over": "Fry until the fritters are crispy and golden, about 3-4 minutes on each side.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A hand removing the fried bajjis from the oil, and placing them on kitchen paper to drain excess oil.",
+            "text": "Drain Excess Oil",
+            "voice_over": "Once fried, remove the Bajji from the oil and drain them on kitchen paper to absorb the excess oil.",
+            "scene_image_filename": "recipe_d36q5p05k/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A small plate served with crispy bajjis and various chutneys, ready to be enjoyed.",
+            "text": "Serve and Enjoy!",
+            "voice_over": "Serve the hot Raw Banana Bajji with your favorite chutney. Enjoy this delicious snack while it's still warm!",
+            "scene_image_filename": "recipe_d36q5p05k/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5p05k-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 25,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Banana",
+        "Gram Flour",
+        "Rice Flour",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Festivals"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is hot enough before adding the fritters to achieve a crispy texture.",
+        "You can add other spices to the batter for additional flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q5p05k/d36q5p05k_main_image.jpg"
+    },
+    {
+      "id": "d36q7e1p7",
+      "name": "Aloo Mattar: Spiced Potato and Green Peas Curry",
+      "url": "http://www.easy-indian-cooking.com/recipe/aloo-mattar-potato-peas-curry/",
+      "ingredients": [
+        "4 medium potatoes, peeled and cut into quarters",
+        "1.5 cups fresh or frozen green peas",
+        "1.5 cups chopped onions",
+        "2 green chilies, slit lengthwise",
+        "1 teaspoon grated ginger",
+        "3 medium tomatoes, finely chopped",
+        "Salt, to taste",
+        "1 tablespoon cooking oil",
+        "1 teaspoon cumin seeds",
+        "1.5 teaspoons coriander powder",
+        "0.5 teaspoon red chili powder (adjust to taste)",
+        "0.5 teaspoon garam masala"
+      ],
+      "directions": [
+        "Step 1: Boil the quartered potatoes in a pressure cooker until the first whistle. Once done, cool them by adding cold water and then peel the skin.",
+        "Step 2: If using dried green peas, soak them for 5 hours, then cook in a pressure cooker until 3 whistles.",
+        "Step 3: Heat 1 tablespoon of oil in a pan over medium heat. Add the chopped onions and fry until golden brown.",
+        "Step 4: Add the chopped tomatoes to the pan and cook until they become mushy and fully integrated with the onions.",
+        "Step 5: Stir in the grated ginger, turmeric powder, coriander powder, red chili powder, and salt. Cook for a few minutes until fragrant.",
+        "Step 6: Incorporate the cooked and peeled potatoes into the pan, stirring gently to combine, and add water if necessary to achieve desired consistency.",
+        "Step 7: Add the cooked green peas and mix carefully to avoid breaking the potatoes. Let the mixture simmer for a few minutes to blend the flavors.",
+        "Step 8: Garnish with freshly chopped coriander leaves and serve hot with roti, poori, chapati, or paratha."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-m.webp",
+      "nutrition": {
+        "calories": "200 per serving",
+        "protein": "5 grams per serving",
+        "carbs": "42 grams per serving",
+        "fat": "4 grams per serving",
+        "fiber": "6 grams per serving",
+        "sugar": "2 grams per serving",
+        "sodium": "300 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Aloo Mattar curry in a rustic, shallow bowl, showcasing the spiced potatoes and green peas with a glossy sheen. Use soft, natural light to enhance the rich colors of the dish, casting gentle shadows for depth. Arrange fresh coriander leaves as a garnish atop the curry, and place a few whole spices nearby for authenticity. Shoot from a 45-degree angle to highlight the texture, with a blurred earthy backdrop that complements the curry's warmth, creating a cozy, inviting mood.",
+      "image_filepath": "recipe_d36q7e1p7/main_image",
+      "video_script": {
+        "title": "Aloo Mattar: Spiced Potato and Green Peas Curry",
+        "description": "Learn how to make Aloo Mattar, a delicious spiced potato and green peas curry that is easy to prepare and full of flavor!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A vibrant plate of Aloo Mattar garnished with coriander leaves, served with roti and a bowl of yogurt on the side.",
+            "text": "Welcome to our Aloo Mattar tutorial!",
+            "voice_over": "Today, we are making Aloo Mattar, a flavorful spiced potato and green peas curry, perfect with roti or rice.",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "An array of fresh ingredients including potatoes, green peas, onions, and spices neatly arranged on a table.",
+            "text": "Let's gather our ingredients!",
+            "voice_over": "For Aloo Mattar, you'll need potatoes, green peas, onions, and a variety of spices. Let's take a closer look.",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 7,
+            "image_prompt": "A pressure cooker with potatoes inside, steam rising from the top.",
+            "text": "Step 1: Boil the potatoes.",
+            "voice_over": "First, boil the quartered potatoes in a pressure cooker until the first whistle. Cool them in cold water, then peel the skin.",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A bowl with dried green peas soaking in water.",
+            "text": "Step 2: Prepare the green peas.",
+            "voice_over": "If using dried green peas, soak them for 5 hours, then cook in a pressure cooker until 3 whistles.",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A frying pan with onions saut\u00e9ing to a golden brown color.",
+            "text": "Step 3: Cook the onions.",
+            "voice_over": "Heat 1 tablespoon of oil in a pan over medium heat. Add chopped onions and fry until they are golden brown.",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A pan filled with onions and chopped tomatoes being stirred together.",
+            "text": "Step 4: Add the tomatoes.",
+            "voice_over": "Add the chopped tomatoes to the pan and cook until they become mushy and fully integrated with the onions.",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "A pan filled with spices, ginger, and onion-tomato mixture being saut\u00e9ed.",
+            "text": "Step 5: Add spices.",
+            "voice_over": "Stir in grated ginger, coriander powder, red chili powder, and salt. Cook for a few minutes until fragrant.",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 7,
+            "image_prompt": "The cooked potatoes being added to the spice mixture in the pan.",
+            "text": "Step 6: Combine potatoes.",
+            "voice_over": "Incorporate the cooked and peeled potatoes, stirring gently. Add water if necessary for desired consistency.",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A pan with both potatoes and green peas mixed together, simmering.",
+            "text": "Step 7: Add peas and simmer.",
+            "voice_over": "Add the cooked green peas and mix carefully to avoid breaking the potatoes. Let it simmer for a few minutes to blend the flavors.",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A beautifully presented bowl of Aloo Mattar garnished with coriander leaves.",
+            "text": "Step 8: Serve and enjoy!",
+            "voice_over": "Garnish with freshly chopped coriander leaves and serve hot with roti, poori, chapati, or paratha.",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "The final dish of Aloo Mattar served with various Indian breads and a side of yogurt.",
+            "text": "Enjoy your meal!",
+            "voice_over": "Your Aloo Mattar is ready! Enjoy this delightful dish with family and friends!",
+            "scene_image_filename": "recipe_d36q7e1p7/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q7e1p7-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Potatoes",
+        "Green Peas",
+        "Onions",
+        "Tomatoes",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Family Meal",
+        "Comfort Food"
+      ],
+      "cooking_tips": [
+        "Adjust the heat according to your spice preference by adding more or less chili powder.",
+        "For a creamier texture, you can add a splash of coconut milk or yogurt before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/side_dishes/recipe_d36q7e1p7/d36q7e1p7_main_image.jpg"
+    }
+  ]
+}
