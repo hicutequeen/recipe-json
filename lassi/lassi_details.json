@@ -1,0 +1,3333 @@
+{
+  "recipes": [
+    {
+      "id": "fksd7qqpibm2",
+      "name": "Mango Lassi (Aam Ki Lassi)",
+      "url": "http://www.flavorsofmumbai.com/mango-lassi-recipe/",
+      "ingredients": [
+        "2 ripe Alphonso mangoes (or other sweet variety), peeled, pitted, and cubed",
+        "1 1/2 cups hung yogurt (Greek yogurt can be substituted)",
+        "1/2 teaspoon cardamom powder",
+        "Pinch of saffron strands (optional), infused in 2 tablespoons hot milk",
+        "1 teaspoon rose water (optional)",
+        "3 tablespoons sugar (adjust to taste and mango sweetness)",
+        "Ice cubes (optional)",
+        "Pistachios, chopped (for garnish, optional)"
+      ],
+      "directions": [
+        "Step 1: In a blender, combine the cubed mangoes and sugar.",
+        "Step 2: Blend until smooth.",
+        "Step 3: Add the hung yogurt, cardamom powder, saffron-infused milk (if using), and rose water (if using) to the blender.",
+        "Step 4: Blend again until well combined, but avoid over-blending.",
+        "Step 5: If using, add ice cubes and blend briefly until the lassi is chilled.",
+        "Step 6: Pour the mango lassi into tall glasses.",
+        "Step 7: Garnish with chopped pistachios or a few saffron strands (if desired)."
+      ],
+      "duration": "13 minutes ",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-m.webp",
+      "nutrition": {
+        "calories": "250-300 per serving",
+        "protein": "10-12 grams per serving",
+        "carbs": "45-55 grams per serving",
+        "fat": "5-8 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "35-45 grams per serving",
+        "sodium": "10-15 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of a vibrant mango lassi in a chilled glass, garnished with chopped pistachios and a few saffron strands. Use a shallow depth of field, focusing on the creamy texture and the glistening condensation on the glass. Backdrop should be a rustic wooden surface with a soft, diffused natural light source creating a warm and inviting mood. Incorporate fresh mango slices and a sprinkle of cardamom powder around the glass for added visual appeal.  Aim for bright, saturated colors and a sense of refreshing coolness.",
+      "image_filepath": "recipe_fksd7qqpibm2/main_image",
+      "video_script": {
+        "title": "Mango Lassi (Aam Ki Lassi)",
+        "description": "A refreshing and creamy Indian drink made with ripe mangoes, yogurt, and aromatic spices.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two tall glasses of vibrant yellow mango lassi, garnished with chopped pistachios and a few saffron strands. The background is slightly blurred, with fresh mangoes and yogurt placed strategically to create a visually appealing setting.",
+            "text": "Mango Lassi",
+            "voice_over": "Beat the heat with this refreshing Mango Lassi, a creamy and flavorful Indian yogurt drink perfect for a hot summer day.  It's quick, easy, and absolutely delicious!",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: two ripe mangoes, a bowl of hung yogurt, a small bowl of sugar, cardamom powder in a small dish, a tiny bowl with saffron strands, a small bottle of rose water, ice cubes, and chopped pistachios.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: two ripe Alphonso mangoes, hung yogurt, sugar, cardamom powder, a pinch of saffron, rose water, ice, and pistachios for garnish.  Don't worry if you can't find Alphonso mangoes - other sweet varieties will work too! Greek yogurt can be used as a substitute for hung yogurt",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the mangoes being peeled, pitted, and cubed. Show the knife smoothly slicing through the mango.",
+            "text": "Prepare Mangoes",
+            "voice_over": "First, peel, pit, and cube your ripe mangoes.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the blender with mango chunks and sugar. Blend until smooth.",
+            "text": "Blend Mango & Sugar",
+            "voice_over": "Add the mango cubes and sugar to a blender. Blend until you get a smooth puree.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up shot of yogurt, cardamom powder, saffron milk (if using), and rose water being added to the blender.",
+            "text": "Add Yogurt & Spices",
+            "voice_over": "Now add the hung yogurt, cardamom powder, and if using, the saffron infused milk, and rose water.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Shot of the blender blending the ingredients until smooth. Show the lassi turning creamy and frothy.",
+            "text": "Blend Again",
+            "voice_over": "Blend everything together for another minute or two, until it's well combined.  Avoid over-blending.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 4,
+            "image_prompt": "Close-up shot of ice being added to the blender. Briefly blend with ice.",
+            "text": "Add Ice (Optional)",
+            "voice_over": "If you prefer your lassi extra chilled, add some ice cubes and blend for a few seconds until the lassi is nice and frosty.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Shot of the lassi being poured into two glasses.",
+            "text": "Pour and Serve",
+            "voice_over": "Pour the mango lassi into tall glasses and prepare for a taste of heaven!",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up of the garnished mango lassi, ready to serve.",
+            "text": "Garnish & Enjoy",
+            "voice_over": "Garnish with some chopped pistachios and a few saffron strands. This recipe makes two delicious servings, perfect for sharing. Each glass is packed with about 250 to 300 calories, 10-12g of protein and 45-55g of carbs.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 10,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Beverage",
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Cardamom",
+        "Saffron",
+        "Rose Water"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use more hung yogurt or freeze the mango chunks for 30 minutes before blending.",
+        "Adjust the sugar according to the sweetness of the mangoes.",
+        "If you don't have rose water or saffron, you can skip them. The lassi will still be delicious.",
+        "Serve chilled for the best experience."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fksd7qqpibm2/fksd7qqpibm2_main_image.jpg"
+    },
+    {
+      "id": "fks1hcn56sqp2sb",
+      "name": "Classic Lassi",
+      "url": "https://www.allrecipes.com/recipe/20435/indian-lassi/",
+      "ingredients": [
+        "1 1/2 cups plain yogurt",
+        "1 1/2 cups ice water",
+        "6 ice cubes",
+        "6 ice cubes, crushed",
+        "2 teaspoons white sugar",
+        "1 pinch salt"
+      ],
+      "directions": [
+        "Step 1: Fill 6 tall glasses with ice cubes.",
+        "Step 2: Combine yogurt, ice water, crushed ice, sugar, and salt in a blender.",
+        "Step 3: Blend until smooth and frothy.",
+        "Step 4: Pour the lassi over the ice cubes in the glasses to serve."
+      ],
+      "duration": "15 m",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1hcn56sqp2sb-m.webp",
+      "nutrition": {
+        "calories": "150 per serving",
+        "protein": "10 grams per serving",
+        "carbs": "25 grams per serving",
+        "fat": "2 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "20 grams per serving",
+        "sodium": "50 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a chilled glass of classic Lassi against a rustic, textured backdrop of light wood. Style with a linen napkin and a scattering of crushed ice.  Focus on the creamy texture of the Lassi, highlighting its subtle sweetness with soft, diffused natural light from the side.  Use a shallow depth of field to blur the background slightly, drawing attention to the condensation on the glass and the icy texture within. Aim for a bright, refreshing mood with a slightly overhead angle showcasing the drink's thickness and garnished rim of crushed ice.",
+      "image_filepath": "recipe_fks1hcn56sqp2sb/main_image",
+      "video_script": {
+        "title": "Classic Lassi Recipe",
+        "description": "Learn how to make a refreshing and creamy Classic Lassi in minutes!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a tall glass of creamy, white lassi garnished with a sprinkle of crushed ice. The background is slightly blurred, showcasing other lassi glasses and some of the key ingredients like yogurt and ice.",
+            "text": "Classic Lassi",
+            "voice_over": "Beat the heat with this simple and delicious Classic Lassi recipe. It's creamy, refreshing, and perfect for a hot day!",
+            "scene_image_filename": "recipe_fks1hcn56sqp2sb/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hcn56sqp2sb-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients laid out on a table: A container of plain yogurt, a pitcher of ice water, a bowl of ice cubes, a small bowl of crushed ice, a small bowl of sugar, and a small pinch of salt.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one and a half cups of plain yogurt, one and a half cups of ice water, six ice cubes, six crushed ice cubes, two teaspoons of sugar, and a pinch of salt.",
+            "scene_image_filename": "recipe_fks1hcn56sqp2sb/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hcn56sqp2sb-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Six tall glasses being filled with ice cubes.",
+            "text": "Chill the Glasses",
+            "voice_over": "First, fill six tall glasses with ice cubes. This will help keep your lassi nice and cold.",
+            "scene_image_filename": "recipe_fks1hcn56sqp2sb/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hcn56sqp2sb-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 7,
+            "image_prompt": "Yogurt, ice water, crushed ice, sugar, and salt being added to a blender.",
+            "text": "Combine Ingredients",
+            "voice_over": "In a blender, combine the yogurt, ice water, crushed ice, sugar, and salt.",
+            "scene_image_filename": "recipe_fks1hcn56sqp2sb/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hcn56sqp2sb-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up of the blender blending the lassi mixture until smooth and frothy.",
+            "text": "Blend",
+            "voice_over": "Blend for about 30 seconds, or until the mixture is smooth and frothy.",
+            "scene_image_filename": "recipe_fks1hcn56sqp2sb/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hcn56sqp2sb-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The blended lassi being poured from the blender into the ice-filled glasses.",
+            "text": "Pour & Serve",
+            "voice_over": "Pour the lassi over the ice in the prepared glasses.",
+            "scene_image_filename": "recipe_fks1hcn56sqp2sb/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hcn56sqp2sb-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Final shot of the lassi glasses, garnished and ready to serve. Maybe a few extra ingredients in the background like a bowl of berries or mint leaves for additional garnish suggestions.",
+            "text": "Enjoy!",
+            "voice_over": "Your refreshing Classic Lassi is ready! Enjoy!  Each serving contains approximately 150 calories, 10 grams of protein, 25 grams of carbs, and 2 grams of fat. For variations, try adding a pinch of cardamom or a few fresh mint leaves before blending.  Feel free to adjust the sugar to your liking.",
+            "scene_image_filename": "recipe_fks1hcn56sqp2sb/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1hcn56sqp2sb-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Beverage",
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Yogurt",
+        "Sugar"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a sweeter lassi, add more sugar or a touch of honey or maple syrup.",
+        "If you prefer a thicker lassi, use less ice water or add a few frozen bananas or mangoes while blending.",
+        "Garnish with a sprinkle of cardamom or chopped pistachios for an extra touch of flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fks1hcn56sqp2sb/fks1hcn56sqp2sb_main_image.jpg"
+    },
+    {
+      "id": "fks2lbq1j0f5sd4",
+      "name": "Mango Lassi",
+      "url": "https://www.thespruceeats.com/mango-lassi-recipe-7153415",
+      "ingredients": [
+        "1 cup fresh ripe mango, diced (plus 3 tablespoons reserved)",
+        "1/2 cup plain whole milk yogurt",
+        "1/2 cup cold whole milk",
+        "2 tablespoons confectioners' sugar (optional)",
+        "5-6 ice cubes",
+        "2 pinches ground cardamom (optional)",
+        "3-4 saffron threads (optional)",
+        "2 teaspoons slivered pistachios (optional)"
+      ],
+      "directions": [
+        "Step 1: Combine the initial ingredients: In a blender, combine 1 cup of diced mango, yogurt, milk, and confectioners' sugar (if using).  Ripe mangoes are often sweet enough to omit added sugar.",
+        "Step 2: Blend: Add the ice cubes and blend until smooth, achieving a thick smoothie consistency.",
+        "Step 3: Incorporate remaining mango: Gently stir the remaining 3 tablespoons of diced mango into the blended lassi.",
+        "Step 4: Serve: Divide the lassi between two glasses.",
+        "Step 5: Garnish (optional): Garnish with a dusting of ground cardamom, a few saffron threads, and/or slivered pistachios, as desired."
+      ],
+      "duration": "10 m",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2lbq1j0f5sd4-m.webp",
+      "nutrition": {
+        "calories": "324 per serving",
+        "protein": "10 grams per serving",
+        "carbs": "56 grams per serving",
+        "fat": "9 grams per serving",
+        "fiber": "Not specified",
+        "sugar": "Not specified",
+        "sodium": "Not specified"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of a chilled Mango Lassi in a tall, elegant glass.  Focus on the creamy texture and the diced mango pieces suspended within. Soft, diffused natural light from the side should highlight the golden hue. Garnish with the reserved mango, a sprinkle of pistachios, and a few saffron threads.  A slightly darker, textured background and a shallow depth of field will draw attention to the lassi's inviting coolness. Use a 45-degree angle, showcasing the condensation on the glass and the thickness of the drink. Convey a refreshing and indulgent mood.",
+      "image_filepath": "recipe_fks2lbq1j0f5sd4/main_image",
+      "video_script": {
+        "title": "Mango Lassi: The Ultimate Summer Cooler",
+        "description": "Learn how to make a creamy and refreshing Mango Lassi in minutes with this easy recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses of vibrant yellow Mango Lassi, garnished with pistachios and saffron threads, with diced mangoes and a few ice cubes scattered around.",
+            "text": "Mango Lassi",
+            "voice_over": "Beat the heat with this creamy, refreshing Mango Lassi! It's the perfect summer cooler, ready in just a few minutes.",
+            "scene_image_filename": "recipe_fks2lbq1j0f5sd4/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2lbq1j0f5sd4-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: ripe mangoes, yogurt, milk, sugar, ice cubes, cardamom, saffron, and pistachios.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: fresh ripe mangoes, plain yogurt, whole milk, sugar, ice, and for an extra touch of flavor, cardamom, saffron, and pistachios.",
+            "scene_image_filename": "recipe_fks2lbq1j0f5sd4/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2lbq1j0f5sd4-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of dicing a ripe mango on a cutting board.",
+            "text": "Prep the Mango",
+            "voice_over": "Start by dicing one cup of fresh, ripe mango. Save about 3 tablespoons for later.",
+            "scene_image_filename": "recipe_fks2lbq1j0f5sd4/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2lbq1j0f5sd4-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A blender with mango, yogurt, milk, and sugar inside.",
+            "text": "Combine & Blend",
+            "voice_over": "Add the diced mango, yogurt, milk, and sugar if using, to a blender. If your mangoes are sweet enough you can skip the added sugar.",
+            "scene_image_filename": "recipe_fks2lbq1j0f5sd4/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2lbq1j0f5sd4-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A blender blending the mango mixture with ice.",
+            "text": "Blend with Ice",
+            "voice_over": "Now, add your ice cubes. Blend until everything is perfectly smooth and you have a thick, creamy consistency.",
+            "scene_image_filename": "recipe_fks2lbq1j0f5sd4/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2lbq1j0f5sd4-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 4,
+            "image_prompt": "Stirring the reserved diced mango into the blended lassi.",
+            "text": "Gentle Fold",
+            "voice_over": "Gently fold in the remaining diced mango. This adds a nice texture to your lassi.",
+            "scene_image_filename": "recipe_fks2lbq1j0f5sd4/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2lbq1j0f5sd4-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Pouring the mango lassi into two glasses.",
+            "text": "Serve",
+            "voice_over": "Pour the lassi into glasses.",
+            "scene_image_filename": "recipe_fks2lbq1j0f5sd4/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2lbq1j0f5sd4-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Two glasses of Mango Lassi, garnished with cardamom, saffron, and pistachios.",
+            "text": "Garnish & Enjoy",
+            "voice_over": "Garnish with a pinch of cardamom, a few saffron threads, and some slivered pistachios, if you like. Your refreshing Mango Lassi is ready! Each serving packs about 324 calories, 10 grams of protein, 56 grams of carbs, and 9 grams of fat.",
+            "scene_image_filename": "recipe_fks2lbq1j0f5sd4/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2lbq1j0f5sd4-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Beverage"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Milk",
+        "Cardamom",
+        "Saffron",
+        "Pistachio"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use less milk or add a frozen banana.",
+        "Adjust the sweetness to your liking by adding more or less sugar.",
+        "If you don't have fresh mango, you can use frozen mango chunks. Thaw them slightly before blending."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fks2lbq1j0f5sd4/fks2lbq1j0f5sd4_main_image.jpg"
+    },
+    {
+      "id": "fksd7qqpom6t",
+      "name": "Rose Lassi",
+      "url": "http://www.flavorsofmumbai.com/rose-lassi-recipe/",
+      "ingredients": [
+        "1\u00bd cups chilled hung yogurt (homemade or store-bought)",
+        "2 tablespoons water",
+        "7-8 ice cubes",
+        "3 tablespoons rose syrup (e.g., Guruji brand)",
+        "7-8 fresh or dried rose petals (optional)",
+        "1 tablespoon rose water",
+        "\u00bd teaspoon cardamom powder",
+        "Pinch of nutmeg powder",
+        "1 tablespoon pistachio flakes (optional)",
+        "Pinch of salt"
+      ],
+      "directions": [
+        "Step 1: In a blender jar, combine the hung yogurt and rose syrup.",
+        "Step 2: Add water, ice cubes, rose water, cardamom powder, nutmeg powder, and salt.",
+        "Step 3: Blend until smooth and creamy.",
+        "Step 4: Pour the lassi into tall glasses or earthen glasses.",
+        "Step 5: Garnish with pistachio flakes (if using) and serve chilled."
+      ],
+      "duration": "2 minutes ",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd7qqpom6t-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "5-7 grams per serving",
+        "carbs": "30-35 grams per serving",
+        "fat": "5-8 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "25-30 grams per serving",
+        "sodium": "50-75 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a chilled glass of Rose Lassi, garnished with rose petals and pistachio flakes, against a textured backdrop of light pink or muted grey. Use soft, diffused natural light to highlight the creamy texture and delicate pink hue.  Focus on the condensation on the glass and a few floating petals within the drink.  A shallow depth of field emphasizes the garnish, with the background slightly blurred. Convey a refreshing and elegant mood with a slightly overhead, angled shot.",
+      "image_filepath": "recipe_fksd7qqpom6t/main_image",
+      "video_script": {
+        "title": "Rose Lassi: Refreshing and Aromatic Yogurt Drink",
+        "description": "Learn how to make a delightful Rose Lassi, a creamy and fragrant yogurt drink perfect for any occasion.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses of Rose Lassi garnished with pistachio flakes and rose petals, with a blurred background featuring a bowl of rose petals and a bottle of rose syrup.",
+            "text": "Rose Lassi",
+            "voice_over": "Welcome! Today, we'll be making a refreshing Rose Lassi, a perfect blend of yogurt, rose, and spices.",
+            "scene_image_filename": "recipe_fksd7qqpom6t/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpom6t-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients arranged on a table: chilled hung yogurt, rose syrup, rose water, water, ice cubes, cardamom powder, nutmeg powder, salt, pistachio flakes, and rose petals.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: chilled hung yogurt, rose syrup, rose water, water, ice cubes, cardamom powder, nutmeg powder, salt, pistachio flakes, and some fresh or dried rose petals for garnish.",
+            "scene_image_filename": "recipe_fksd7qqpom6t/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpom6t-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of hung yogurt and rose syrup being added to a blender jar.",
+            "text": "Combine Yogurt & Syrup",
+            "voice_over": "In a blender, combine the chilled hung yogurt and rose syrup.",
+            "scene_image_filename": "recipe_fksd7qqpom6t/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpom6t-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of adding water, ice cubes, rose water, cardamom powder, nutmeg powder, and salt to the blender.",
+            "text": "Add Remaining Ingredients",
+            "voice_over": "Add water, ice cubes, rose water, cardamom powder, nutmeg powder, and a pinch of salt.",
+            "scene_image_filename": "recipe_fksd7qqpom6t/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpom6t-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the blender blending the ingredients until smooth and creamy.",
+            "text": "Blend",
+            "voice_over": "Blend for about 30-45 seconds until everything is smooth and creamy.",
+            "scene_image_filename": "recipe_fksd7qqpom6t/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpom6t-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up shot of pouring the lassi into two tall glasses.",
+            "text": "Pour & Serve",
+            "voice_over": "Pour the lassi into tall glasses.",
+            "scene_image_filename": "recipe_fksd7qqpom6t/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpom6t-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Close-up shot of garnishing the lassi with pistachio flakes and rose petals.",
+            "text": "Garnish",
+            "voice_over": "Garnish with pistachio flakes and rose petals for that extra touch of elegance.",
+            "scene_image_filename": "recipe_fksd7qqpom6t/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpom6t-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses of Rose Lassi, garnished and ready to serve, with a blurred background of rose petals and a few pistachios.",
+            "text": "Enjoy!",
+            "voice_over": "Your refreshing Rose Lassi is ready! Enjoy it chilled. It's approximately 200-250 calories per serving, with 5-7 grams of protein, 30-35 grams of carbs, and 5-8 grams of fat.",
+            "scene_image_filename": "recipe_fksd7qqpom6t/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpom6t-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Beverage",
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Yogurt",
+        "Rose",
+        "Pistachio",
+        "Cardamom"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use Greek yogurt or strain regular yogurt through cheesecloth for a few hours.",
+        "Adjust the amount of rose syrup to your liking. Start with less and add more if needed.",
+        "If using fresh rose petals, make sure they are pesticide-free and washed thoroughly.",
+        "For a richer flavor, add a pinch of saffron strands to the lassi."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fksd7qqpom6t/fksd7qqpom6t_main_image.jpg"
+    },
+    {
+      "id": "5hd7v69a1a9p5",
+      "name": "Mango or Banana Fruit Lassi",
+      "url": "http://www.food.com/recipe/fruit-lassi-63356",
+      "ingredients": [
+        "2 cups whole milk yogurt",
+        "1 cup ice water",
+        "1 cup cold milk",
+        "1/2 teaspoon ground cardamom",
+        "1 tablespoon rose water",
+        "2 ripe mangoes, peeled, pitted, and cubed OR 5 ripe bananas, peeled and sliced",
+        "Toasted sliced almonds, for garnish"
+      ],
+      "directions": [
+        "Step 1: Combine yogurt, ice water, cold milk, cardamom, and rose water in a blender.",
+        "Step 2: Add either the mango cubes or the banana slices.",
+        "Step 3: Blend until smooth.",
+        "Step 4: Pour into glasses filled with ice cubes.",
+        "Step 5: Garnish with toasted sliced almonds."
+      ],
+      "duration": "15 mins",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/5hd7v69a1a9p5-m.webp",
+      "nutrition": {
+        "calories": "250-350 per serving",
+        "protein": "10-15 grams per serving",
+        "carbs": "40-50 grams per serving",
+        "fat": "5-10 grams per serving",
+        "fiber": "2-4 grams per serving",
+        "sugar": "30-40 grams per serving",
+        "sodium": "100-150 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant close-up of a mango or banana lassi in a tall, chilled glass, garnished with toasted almond slivers. Use a shallow depth of field, focusing sharply on the creamy texture and glistening surface of the lassi. Soft, diffused natural light should highlight the rich colors of the fruit and the delicate garnish. A rustic wooden background and a few scattered mango/banana slices will complement the drink. Aim for a bright, refreshing mood with a slightly overhead angle, showcasing the thickness and inviting nature of the lassi.",
+      "image_filepath": "recipe_5hd7v69a1a9p5/main_image",
+      "video_script": {
+        "title": "Mango or Banana Lassi: A Refreshing Summer Treat",
+        "description": "Learn how to make a delicious and creamy Mango or Banana Lassi in minutes! This recipe is perfect for a hot day or as a healthy dessert.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses of lassi, one mango and one banana, garnished with toasted almond slices.  Focus on the creamy texture and vibrant colors. Show condensation on the glasses, hinting at the chilled drink.",
+            "text": "Mango or Banana Lassi",
+            "voice_over": "Beat the heat with a refreshing Mango or Banana Lassi! This creamy, flavorful drink is easy to make and perfect for any occasion.",
+            "scene_image_filename": "recipe_5hd7v69a1a9p5/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5hd7v69a1a9p5-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display all ingredients: yogurt, milk, water, cardamom, rose water, and both mango and banana options side-by-side.  Use measuring cups and spoons to emphasize quantities.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: Two cups of whole milk yogurt, one cup of ice water, one cup of cold milk, half a teaspoon of ground cardamom, one tablespoon of rose water.  For the fruit, you'll need either two ripe mangoes, peeled, pitted, and cubed, or five ripe bananas, peeled and sliced.  Finally, some toasted sliced almonds for garnish.",
+            "scene_image_filename": "recipe_5hd7v69a1a9p5/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5hd7v69a1a9p5-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Yogurt, ice water, cold milk, cardamom, and rose water being added to a blender.",
+            "text": "Combine Wet Ingredients",
+            "voice_over": "In a blender, combine the yogurt, ice water, cold milk, cardamom, and rose water.",
+            "scene_image_filename": "recipe_5hd7v69a1a9p5/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5hd7v69a1a9p5-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close up of either the mango cubes or banana slices being added to the blender with the other ingredients.",
+            "text": "Add Fruit",
+            "voice_over": "Now add your choice of fruit - either the mango cubes or the banana slices.",
+            "scene_image_filename": "recipe_5hd7v69a1a9p5/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5hd7v69a1a9p5-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 7,
+            "image_prompt": "The blender running, showing the ingredients mixing together into a smooth, creamy lassi.",
+            "text": "Blend",
+            "voice_over": "Blend on high speed until the mixture is completely smooth. This should take about 30-60 seconds.",
+            "scene_image_filename": "recipe_5hd7v69a1a9p5/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5hd7v69a1a9p5-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Pouring the blended lassi into two glasses filled with ice cubes.",
+            "text": "Pour & Serve",
+            "voice_over": "Pour the lassi into glasses filled with ice.",
+            "scene_image_filename": "recipe_5hd7v69a1a9p5/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5hd7v69a1a9p5-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Garnishing the lassi with toasted almond slices. Show a close-up of the finished drink.",
+            "text": "Garnish",
+            "voice_over": "Garnish with toasted almond slices.",
+            "scene_image_filename": "recipe_5hd7v69a1a9p5/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5hd7v69a1a9p5-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Two glasses of finished lassi - mango and banana variations - presented on a table setting with napkins and maybe a couple of straws. Close-up showcasing the garnish and texture.",
+            "text": "Enjoy!",
+            "voice_over": "Your refreshing Mango or Banana Lassi is ready! Enjoy it as a healthy snack or a cool dessert.  Each serving contains roughly 250 to 350 calories, 10 to 15 grams of protein, 40 to 50 grams of carbs, and 5 to 10 grams of fat.  Enjoy!",
+            "scene_image_filename": "recipe_5hd7v69a1a9p5/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5hd7v69a1a9p5-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Breakfast"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Yogurt",
+        "Mango",
+        "Banana",
+        "Almond",
+        "Cardamom"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use less water or add a few ice cubes to the blender.",
+        "Adjust the amount of rose water and cardamom according to your preference.",
+        "If using bananas, add a squeeze of lemon juice to prevent browning."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_5hd7v69a1a9p5/5hd7v69a1a9p5_main_image.jpg"
+    },
+    {
+      "id": "5t2680mckm6cd",
+      "name": "Cardamom Lassi",
+      "url": "http://www.food.com/recipe/cardamom-lassi-172508",
+      "ingredients": [
+        "1 quart (946ml) plain low-fat yogurt",
+        "6-8 tablespoons granulated sugar",
+        "4 large ice cubes",
+        "1 teaspoon ground cardamom"
+      ],
+      "directions": [
+        "Step 1: Spoon the yogurt into a blender.",
+        "Step 2: Add 6 tablespoons of sugar to the yogurt.",
+        "Step 3: Add the ice cubes and ground cardamom.",
+        "Step 4: Blend until the mixture is smooth and frothy.",
+        "Step 5: Taste and add up to 2 more tablespoons of sugar if desired for a sweeter lassi.",
+        "Step 6: Pour into tall glasses and serve immediately."
+      ],
+      "duration": "5 mins",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/5t2680mckm6cd-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "8-10 grams per serving",
+        "carbs": "40-50 grams per serving",
+        "fat": "2-3 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "35-45 grams per serving",
+        "sodium": "100-120mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a chilled cardamom lassi in a tall, elegant glass against a softly textured, light neutral backdrop.  Focus sharply on the creamy texture of the lassi, with a shallow depth of field blurring a sprinkle of ground cardamom on the surface and a few cardamom pods artfully placed nearby.  Use soft, diffused natural light to highlight the cool white of the drink and the warm brown of the spice, creating a refreshing and inviting mood.  Shoot from a slightly elevated angle to showcase the lassi's thickness and the delicate garnish.",
+      "image_filepath": "recipe_5t2680mckm6cd/main_image",
+      "video_script": {
+        "title": "Refreshing Cardamom Lassi",
+        "description": "Learn how to make a creamy and flavorful cardamom lassi in minutes!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a tall glass of creamy, light-green cardamom lassi, garnished with a sprinkle of ground cardamom. The background is slightly blurred, featuring other ingredients like yogurt and cardamom pods.",
+            "text": "Cardamom Lassi",
+            "voice_over": "Cool down with this refreshing cardamom lassi! It's creamy, flavorful, and perfect for a hot day.",
+            "scene_image_filename": "recipe_5t2680mckm6cd/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5t2680mckm6cd-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients arranged neatly on a clean surface: a quart of plain yogurt, a bowl of sugar, ground cardamom in a small bowl, and a few ice cubes.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one quart of plain low-fat yogurt, 6-8 tablespoons of granulated sugar, 4 large ice cubes, and 1 teaspoon of ground cardamom.",
+            "scene_image_filename": "recipe_5t2680mckm6cd/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5t2680mckm6cd-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Yogurt being spooned into a blender.",
+            "text": "Add Yogurt",
+            "voice_over": "First, spoon the yogurt into your blender.",
+            "scene_image_filename": "recipe_5t2680mckm6cd/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5t2680mckm6cd-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 4,
+            "image_prompt": "Sugar being added to the yogurt in the blender.",
+            "text": "Add Sugar",
+            "voice_over": "Add 6 tablespoons of sugar. You can adjust the sweetness later.",
+            "scene_image_filename": "recipe_5t2680mckm6cd/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5t2680mckm6cd-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "Ice cubes and ground cardamom being added to the blender with the yogurt and sugar.",
+            "text": "Ice & Cardamom",
+            "voice_over": "Now, add the ice cubes and ground cardamom.",
+            "scene_image_filename": "recipe_5t2680mckm6cd/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5t2680mckm6cd-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The blender blending the lassi until smooth and frothy.",
+            "text": "Blend",
+            "voice_over": "Blend until the mixture is smooth and frothy. This should only take about 30 seconds.",
+            "scene_image_filename": "recipe_5t2680mckm6cd/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5t2680mckm6cd-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "A close-up shot of someone tasting the lassi with a spoon.",
+            "text": "Taste & Adjust",
+            "voice_over": "Taste the lassi and add up to 2 more tablespoons of sugar if you prefer it sweeter.",
+            "scene_image_filename": "recipe_5t2680mckm6cd/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5t2680mckm6cd-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Lassi being poured into two tall glasses.",
+            "text": "Serve",
+            "voice_over": "Pour into tall glasses and serve immediately.",
+            "scene_image_filename": "recipe_5t2680mckm6cd/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5t2680mckm6cd-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "Two tall glasses of cardamom lassi garnished with a sprinkle of ground cardamom, served on a table with a few cardamom pods scattered around.",
+            "text": "Enjoy!",
+            "voice_over": "This cardamom lassi is a delicious and refreshing treat. Enjoy! Each serving has about 200-250 calories, 8-10 grams of protein, 40-50 grams of carbs, and 2-3 grams of fat.",
+            "scene_image_filename": "recipe_5t2680mckm6cd/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5t2680mckm6cd-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Beverage",
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Yogurt",
+        "Sugar",
+        "Cardamom"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use Greek yogurt or strain regular yogurt through cheesecloth for a few hours before blending.",
+        "Adjust the amount of cardamom to your liking.  A pinch of saffron can also be added for flavor and color.",
+        "If you don't have a blender, you can whisk the yogurt, sugar, and cardamom together until smooth, then stir in crushed ice."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_5t2680mckm6cd/5t2680mckm6cd_main_image.jpg"
+    },
+    {
+      "id": "fksd7gatt2u7",
+      "name": "Mango Lassi",
+      "url": "http://thewanderlustkitchen.com/how-to-make-a-mango-lassi/",
+      "ingredients": [
+        "1 cup fresh mango, diced",
+        "1 cup plain non-fat yogurt",
+        "\u00bd cup milk",
+        "2 tablespoons white sugar",
+        "\u215b teaspoon ground cinnamon (optional)"
+      ],
+      "directions": [
+        "Step 1: Combine the diced mango, plain non-fat yogurt, milk, sugar, and optional cinnamon in a blender.",
+        "Step 2: Blend until the mixture is completely smooth.",
+        "Step 3: Pour into glasses and serve immediately."
+      ],
+      "duration": "5 minutes ",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd7gatt2u7-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "8-10 grams per serving",
+        "carbs": "40-50 grams per serving",
+        "fat": "2-3 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "30-40 grams per serving",
+        "sodium": "50-70 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of a chilled Mango Lassi in a tall, elegant glass.  Freshly diced mango pieces peek through the creamy, pale yellow drink.  Use soft, diffused natural light from the side to highlight the texture and showcase the vibrant yellow color.  A rustic wooden background with a linen napkin adds warmth. Garnish with a sprinkle of cinnamon and a few strategically placed mango slices.  Shallow depth of field, focusing on the foreground mango pieces, creates a dreamy, inviting mood.",
+      "image_filepath": "recipe_fksd7gatt2u7/main_image",
+      "video_script": {
+        "title": "Mango Lassi Recipe",
+        "description": "A quick and easy recipe for a refreshing and creamy mango lassi.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a vibrant, creamy mango lassi in a tall glass, garnished with a sprinkle of cinnamon. The background is slightly blurred, featuring fresh mangoes and yogurt.",
+            "text": "Mango Lassi",
+            "voice_over": "Beat the heat with this delicious and refreshing Mango Lassi! It's creamy, sweet, and takes only minutes to make.",
+            "scene_image_filename": "recipe_fksd7gatt2u7/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gatt2u7-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: diced mango, yogurt, milk, sugar, and a small bowl of cinnamon.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one cup of fresh diced mango, one cup of plain non-fat yogurt, half a cup of milk, two tablespoons of sugar, and optionally, a pinch of ground cinnamon for that extra warmth.",
+            "scene_image_filename": "recipe_fksd7gatt2u7/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gatt2u7-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A blender with the mango, yogurt, milk, sugar, and cinnamon inside, ready to be blended.",
+            "text": "Combine Ingredients",
+            "voice_over": "Add the diced mango, yogurt, milk, sugar, and cinnamon into your blender.",
+            "scene_image_filename": "recipe_fksd7gatt2u7/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gatt2u7-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The blender blending the ingredients until smooth. Show the mixture transforming from chunky to a smooth, creamy consistency.",
+            "text": "Blend",
+            "voice_over": "Blend until the mixture is completely smooth. This should only take about 30 seconds to a minute depending on your blender.",
+            "scene_image_filename": "recipe_fksd7gatt2u7/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gatt2u7-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Pouring the smooth mango lassi from the blender into two tall glasses.",
+            "text": "Pour & Serve",
+            "voice_over": "Pour the lassi into glasses and serve immediately. You can chill it in the refrigerator for later, but it's best enjoyed fresh.",
+            "scene_image_filename": "recipe_fksd7gatt2u7/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gatt2u7-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Two glasses of mango lassi, garnished with cinnamon, with fresh mangoes in the background. One glass has a straw in it, ready to be enjoyed.",
+            "text": "Enjoy!",
+            "voice_over": "This Mango Lassi is perfect for a hot day or as a refreshing after-dinner treat.  Each serving has around 200 to 250 calories, 8 to 10 grams of protein, 40 to 50 grams of carbs, and only 2 to 3 grams of fat. Enjoy!",
+            "scene_image_filename": "recipe_fksd7gatt2u7/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gatt2u7-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Breakfast"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Milk",
+        "Cinnamon"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use less milk or add a few ice cubes before blending.",
+        "If your mangoes are not very sweet, adjust the sugar accordingly.",
+        "For a richer flavor, use full-fat yogurt or add a dollop of cream before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fksd7gatt2u7/fksd7gatt2u7_main_image.jpg"
+    },
+    {
+      "id": "fks2g19ept07hh",
+      "name": "Mango Lassi",
+      "url": "https://forking.riafy.in/parser_console/parser.php?u=https://www.cookbookrecipes.in/mangolassi",
+      "ingredients": [
+        "300 g frozen mango chunks",
+        "300 g nonfat yogurt",
+        "5 g ground cardamom",
+        "20 g honey"
+      ],
+      "directions": [
+        "Step 1: Combine all ingredients (frozen mango chunks, nonfat yogurt, ground cardamom, and honey) in a blender.",
+        "Step 2: Blend until smooth and creamy. Add a splash of milk or water if needed to reach desired consistency."
+      ],
+      "duration": "8 m",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2g19ept07hh-m.webp",
+      "nutrition": {
+        "calories": "193 per serving",
+        "protein": "6 grams per serving",
+        "carbs": "35 grams per serving",
+        "fat": "1 gram per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "30 grams per serving",
+        "sodium": "5 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of a chilled Mango Lassi in a tall, elegant glass. The thick, creamy texture should be evident, with a subtle swirl of yellow and white. Garnish with a sprinkle of ground cardamom and a small wedge of fresh mango on the rim. Use a shallow depth of field to focus on the foreground, blurring a rustic wooden background and a few scattered mango slices. Soft, diffused lighting should highlight the drink's coolness and the mango's vibrant color, creating a refreshing and inviting mood. Style with linen napkins and minimalistic tableware for an upscale, editorial feel.  The camera angle should be slightly overhead, showcasing the texture and garnish.",
+      "image_filepath": "recipe_fks2g19ept07hh/main_image",
+      "video_script": {
+        "title": "Creamy Mango Lassi",
+        "description": "A quick and easy recipe for a refreshing Mango Lassi.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a vibrant, creamy mango lassi in a tall glass, garnished with a few pieces of fresh mango and a sprinkle of cardamom. The background is slightly blurred, with a few fresh mangoes and yogurt container placed artfully.",
+            "text": "Mango Lassi",
+            "voice_over": "Beat the heat with this refreshing and creamy Mango Lassi! It's quick, easy, and packed with flavor.",
+            "scene_image_filename": "recipe_fks2g19ept07hh/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g19ept07hh-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: frozen mango chunks, nonfat yogurt, ground cardamom, and honey.",
+            "text": "Ingredients",
+            "voice_over": "You'll need: 300 grams of frozen mango chunks, 300 grams of nonfat yogurt, 5 grams of ground cardamom, and 20 grams of honey.",
+            "scene_image_filename": "recipe_fks2g19ept07hh/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g19ept07hh-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Frozen mango chunks, nonfat yogurt, ground cardamom, and honey being added into a blender.",
+            "text": "Combine Ingredients",
+            "voice_over": "Step one: Add the frozen mango chunks, nonfat yogurt, ground cardamom, and honey into your blender.",
+            "scene_image_filename": "recipe_fks2g19ept07hh/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g19ept07hh-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 7,
+            "image_prompt": "Blender blending the ingredients until smooth and creamy.",
+            "text": "Blend",
+            "voice_over": "Step two: Blend until the mixture is perfectly smooth and creamy. This should take about 30-60 seconds depending on your blender's power.  If it's too thick, add a splash of milk or water to reach your desired consistency.",
+            "scene_image_filename": "recipe_fks2g19ept07hh/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g19ept07hh-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A tall glass being filled with the creamy mango lassi.",
+            "text": "Serve",
+            "voice_over": "Pour your delicious Mango Lassi into a glass. Garnish with some fresh mango if you have any!",
+            "scene_image_filename": "recipe_fks2g19ept07hh/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g19ept07hh-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up of the finished mango lassi, garnished with fresh mango slices and a sprinkle of cardamom, with a spoon taking a scoop, in front of blurred background ingredients and a couple of mangoes.",
+            "text": "Enjoy!",
+            "voice_over": "Each serving has about 193 calories, 6 grams of protein, 35 grams of carbs, and just 1 gram of fat.  Enjoy your refreshing treat!",
+            "scene_image_filename": "recipe_fks2g19ept07hh/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g19ept07hh-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Cardamom",
+        "Honey"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a sweeter lassi, add more honey or a few dates.",
+        "If the mango is not frozen, add a few ice cubes to the blender for a chilled beverage.",
+        "Garnish with a pinch of cardamom or a sprig of mint before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fks2g19ept07hh/fks2g19ept07hh_main_image.jpg"
+    },
+    {
+      "id": "d367n4mar",
+      "name": "Mango Lassi",
+      "url": "http://chefdehome.com/Recipes/110/mango-lassi",
+      "ingredients": [
+        "4 ripe yellow mangoes (less fibrous)",
+        "1 1/2 cups plain non-fat yogurt",
+        "2 tablespoons honey (or fine sugar)",
+        "1 cup water",
+        "3 tablespoons diced ripe mango"
+      ],
+      "directions": [
+        "Step 1: Blend the 4 mangoes in a blender until smooth.",
+        "Step 2: Add the yogurt, water, and honey (or sugar) to the blender.",
+        "Step 3: Blend until well combined.",
+        "Step 4: Pour into serving glasses.",
+        "Step 5: Top with the diced mango.",
+        "Step 6: Chill in the refrigerator until ready to serve."
+      ],
+      "duration": "0 minute",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d367n4mar-m.webp",
+      "nutrition": {
+        "calories": "250 per serving",
+        "protein": "5 grams per serving",
+        "carbs": "50 grams per serving",
+        "fat": "2 grams per serving",
+        "fiber": "3 grams per serving",
+        "sugar": "40 grams per serving",
+        "sodium": "5 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of a chilled Mango Lassi in a tall, elegant glass. The drink should be a smooth, creamy yellow, garnished with diced mango. Use backlighting to illuminate the vibrant color and texture. Focus on the diced mango and the condensation on the glass, with a shallow depth of field. Include a few ripe mangoes and a sprig of mint on a rustic wooden surface in the blurred background. The overall mood should be refreshing and inviting, evoking a tropical summer vibe.",
+      "image_filepath": "recipe_d367n4mar/main_image",
+      "video_script": {
+        "title": "Mango Lassi Recipe",
+        "description": "A refreshing and easy-to-make mango lassi recipe perfect for a hot day.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a vibrant, chilled glass of mango lassi, garnished with diced mangoes. The background is slightly blurred, showcasing a few ripe mangoes and some yogurt.",
+            "text": "Mango Lassi",
+            "voice_over": "Beat the heat with this creamy and delicious mango lassi! It's quick, easy, and packed with the goodness of mangoes.",
+            "scene_image_filename": "recipe_d367n4mar/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367n4mar-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Four ripe yellow mangoes, a cup of plain non-fat yogurt, and honey in a measuring cup are arranged neatly on a kitchen counter. The background is a clean and bright kitchen setting.",
+            "text": "Ingredients",
+            "voice_over": "You'll need 4 ripe mangoes, 1 1/2 cups of plain non-fat yogurt, and 2 tablespoons of honey for that perfect sweetness.",
+            "scene_image_filename": "recipe_d367n4mar/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367n4mar-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Four peeled and chopped mangoes inside the blender. The blender is about to start.",
+            "text": "Blend Mangoes",
+            "voice_over": "First, blend 4 ripe mangoes until smooth.  Ripe, yellow mangoes will give you the best flavor and color.",
+            "scene_image_filename": "recipe_d367n4mar/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367n4mar-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Inside the blender, the blended mangoes, along with yogurt, water, and honey, are getting blended. ",
+            "text": "Combine Ingredients",
+            "voice_over": "Add the yogurt, 1 cup of water, and honey to the blender with the mango puree. Blend until well combined and frothy.",
+            "scene_image_filename": "recipe_d367n4mar/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367n4mar-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The creamy, yellow lassi being poured into two serving glasses. ",
+            "text": "Pour & Serve",
+            "voice_over": "Pour the lassi into serving glasses.",
+            "scene_image_filename": "recipe_d367n4mar/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367n4mar-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up of two glasses of mango lassi, with freshly diced mangoes as garnish.",
+            "text": "Garnish & Chill",
+            "voice_over": "Top with freshly diced mangoes.  For best results, chill for about 30 minutes before serving.",
+            "scene_image_filename": "recipe_d367n4mar/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367n4mar-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Two chilled glasses of mango lassi are presented on a table setting with a couple of ripe mangoes and some cut mango slices. ",
+            "text": "Enjoy!",
+            "voice_over": "Your refreshing mango lassi is ready! It's perfect on its own or as a complement to spicy dishes. Each serving has about 250 calories, 5g of protein, 50g of carbs, and 2g of fat. Enjoy!",
+            "scene_image_filename": "recipe_d367n4mar/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367n4mar-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 10,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Honey"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Taste and adjust sweetness by adding 1 or more teaspoons of honey if needed.",
+        "If the mangoes are not fully ripe or sweet, you may need to add more honey."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_d367n4mar/d367n4mar_main_image.jpg"
+    },
+    {
+      "id": "fks4jqsnodk4h7",
+      "name": "Creamy Banana Lassi",
+      "url": "https://www.allrecipes.com/recipe/238362/banana-lassi/",
+      "ingredients": [
+        "2 overripe bananas, broken into chunks",
+        "1 1/2 cups plain thick yogurt",
+        "3/4 cup milk",
+        "2 ice cubes",
+        "2 tablespoons white sugar"
+      ],
+      "directions": [
+        "Step 1: Combine the bananas, yogurt, milk, ice cubes, and sugar in a blender.",
+        "Step 2: Blend until smooth. Add more milk if needed to reach desired consistency."
+      ],
+      "duration": "10 m",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks4jqsnodk4h7-m.webp",
+      "nutrition": {
+        "calories": "270 kcal",
+        "protein": "11 g",
+        "carbs": "52 g",
+        "fat": "4 g",
+        "fiber": "N/A",
+        "sugar": "N/A",
+        "sodium": "N/A"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Creamy Banana Lassi, styled in a tall, chilled glass with a gentle swirl visible.  Two overripe bananas, partially peeled, rest artfully in the background alongside a rustic wooden spoon dusted with sugar.  Bright, diffused natural light from the side highlights the drink's texture and creamy yellow color. Shallow depth of field, focused on the lassi's surface, with a slightly blurred background. Incorporate a linen napkin and dark wood surface for a rustic yet sophisticated mood. Garnish with a sprinkle of ground cardamom. Overhead shot, slightly angled.",
+      "image_filepath": "recipe_fks4jqsnodk4h7/main_image",
+      "video_script": {
+        "title": "Creamy Banana Lassi",
+        "description": "A quick and easy recipe for a refreshing and healthy Creamy Banana Lassi.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished Creamy Banana Lassi in a tall glass, garnished with a banana slice. The lassi is smooth, creamy, and pale yellow.",
+            "text": "Creamy Banana Lassi",
+            "voice_over": "Beat the heat with this refreshing Creamy Banana Lassi! It's quick, easy, and packed with flavor.",
+            "scene_image_filename": "recipe_fks4jqsnodk4h7/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4jqsnodk4h7-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients laid out on a table: two overripe bananas, a container of plain thick yogurt, a glass of milk, ice cubes, and a small bowl of sugar.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: two overripe bananas, one and a half cups of plain thick yogurt, three-quarters of a cup of milk, two ice cubes, and two tablespoons of sugar.",
+            "scene_image_filename": "recipe_fks4jqsnodk4h7/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4jqsnodk4h7-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of banana chunks, yogurt, milk, ice cubes, and sugar being added to a blender.",
+            "text": "Combine Ingredients",
+            "voice_over": "Add the bananas, yogurt, milk, ice cubes, and sugar to a blender.",
+            "scene_image_filename": "recipe_fks4jqsnodk4h7/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4jqsnodk4h7-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the blender blending the ingredients until smooth.",
+            "text": "Blend",
+            "voice_over": "Blend until smooth, about 30-60 seconds.  Check the consistency and add a splash more milk if needed.",
+            "scene_image_filename": "recipe_fks4jqsnodk4h7/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4jqsnodk4h7-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 7,
+            "image_prompt": "Close-up shot of the finished lassi being poured into a tall glass. The glass is slightly frosted and ready to enjoy.",
+            "text": "Pour and Serve",
+            "voice_over": "Pour your lassi into a glass. For an extra chill, use a frosted glass that has been in the freezer for a few minutes prior.",
+            "scene_image_filename": "recipe_fks4jqsnodk4h7/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4jqsnodk4h7-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the final Creamy Banana Lassi garnished with a banana slice, served alongside some other snacks like some cookies. The background is light and airy.",
+            "text": "Enjoy!",
+            "voice_over": "Garnish with a banana slice. This creamy and refreshing lassi is perfect on its own or with a light snack. Enjoy!",
+            "scene_image_filename": "recipe_fks4jqsnodk4h7/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4jqsnodk4h7-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Breakfast",
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Banana",
+        "Yogurt",
+        "Milk",
+        "Sugar"
+      ],
+      "occasion_tags": [
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use less milk or add a few more ice cubes.",
+        "For a sweeter lassi, add more sugar or a drizzle of honey.",
+        "If you don't have overripe bananas, you can use frozen bananas for a colder, thicker lassi."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fks4jqsnodk4h7/fks4jqsnodk4h7_main_image.jpg"
+    },
+    {
+      "id": "fks2k3vrfdc6b8g",
+      "name": "Creamy Mango Lassi",
+      "url": "https://forking.riafy.in/parser_console/parser.php?u=https://www.cookbookrecipes.in/lassi",
+      "ingredients": [
+        "300 g frozen mango chunks",
+        "300 g nonfat yogurt",
+        "5 g ground cardamom",
+        "20 g honey"
+      ],
+      "directions": [
+        "Step 1: Combine all ingredients (frozen mango chunks, nonfat yogurt, ground cardamom, and honey) in a blender.",
+        "Step 2: Blend until smooth and creamy. Add a splash of milk or water if needed to adjust consistency.",
+        "Step 3: Pour into glasses and serve immediately."
+      ],
+      "duration": "8 m",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2k3vrfdc6b8g-m.webp",
+      "nutrition": {
+        "calories": "193 per serving",
+        "protein": "6 grams per serving",
+        "carbs": "35 grams per serving",
+        "fat": "1 gram per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "30 grams per serving",
+        "sodium": "5 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of creamy mango lassi in a chilled glass, garnished with a sprinkle of cardamom and a small mango wedge. Use a shallow depth of field, focusing on the texture of the lassi. Backdrop should be a light, textured linen with subtle hints of yellow and orange. Soft, directional light should highlight the drink's coolness and creamy texture, creating a refreshing and inviting mood. The glass should be slightly off-center, with negative space for copy. Consider a 45-degree angle to showcase both the surface and the thickness of the lassi.",
+      "image_filepath": "recipe_fks2k3vrfdc6b8g/main_image",
+      "video_script": {
+        "title": "Creamy Mango Lassi",
+        "description": "A quick and easy recipe for a refreshing and flavorful mango lassi.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a vibrant, creamy mango lassi in a tall glass, garnished with a sprinkle of cardamom. The background features fresh mangoes and a bowl of yogurt.",
+            "text": "Creamy Mango Lassi",
+            "voice_over": "Beat the heat with this creamy and refreshing mango lassi! It's quick, easy, and packed with flavor.",
+            "scene_image_filename": "recipe_fks2k3vrfdc6b8g/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2k3vrfdc6b8g-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: frozen mango chunks, nonfat yogurt, ground cardamom, and honey.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: 300 grams of frozen mango chunks, 300 grams of nonfat yogurt, 5 grams of ground cardamom, and 20 grams of honey.",
+            "scene_image_filename": "recipe_fks2k3vrfdc6b8g/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2k3vrfdc6b8g-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Frozen mango chunks, yogurt, cardamom, and honey being added to a blender.",
+            "text": "Combine Ingredients",
+            "voice_over": "Add the frozen mango, yogurt, cardamom, and honey to a blender.",
+            "scene_image_filename": "recipe_fks2k3vrfdc6b8g/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2k3vrfdc6b8g-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 7,
+            "image_prompt": "The blender blending the ingredients until smooth and creamy.",
+            "text": "Blend",
+            "voice_over": "Blend until smooth and creamy. This should take about 30-60 seconds. Add a splash of milk or water if needed to reach your desired consistency.",
+            "scene_image_filename": "recipe_fks2k3vrfdc6b8g/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2k3vrfdc6b8g-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Pouring the creamy mango lassi into two tall glasses.",
+            "text": "Pour & Serve",
+            "voice_over": "Pour into glasses and serve immediately.",
+            "scene_image_filename": "recipe_fks2k3vrfdc6b8g/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2k3vrfdc6b8g-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Two glasses of creamy mango lassi, garnished with cardamom, alongside fresh mango slices. In the background, there's a blurred image of the blender.",
+            "text": "Enjoy!",
+            "voice_over": "Enjoy your refreshing and delicious mango lassi! It's perfect for a hot day or as a sweet treat any time. This recipe makes two servings, each with approximately 193 calories, 6 grams of protein, 35 grams of carbs, and 1 gram of fat.",
+            "scene_image_filename": "recipe_fks2k3vrfdc6b8g/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2k3vrfdc6b8g-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Breakfast"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Cardamom",
+        "Honey"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a sweeter lassi, add more honey or a few dates.",
+        "For a thinner lassi, add more water or milk.",
+        "If you don't have frozen mango, use fresh mango and add a few ice cubes."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fks2k3vrfdc6b8g/fks2k3vrfdc6b8g_main_image.jpg"
+    },
+    {
+      "id": "fks289vhvcpfpc1",
+      "name": "Creamy Mango Lassi",
+      "url": "https://forking.riafy.in/parser_console/parser.php?u=https://www.cookbookrecipes.in/mango dessert",
+      "ingredients": [
+        "300g frozen mango chunks",
+        "300g nonfat yogurt",
+        "5g ground cardamom",
+        "20g honey"
+      ],
+      "directions": [
+        "Step 1: Combine the frozen mango chunks, nonfat yogurt, ground cardamom, and honey in a blender.",
+        "Step 2: Blend until smooth and creamy. Add a splash of milk or water if needed to reach desired consistency.",
+        "Step 3: Pour into glasses and serve immediately."
+      ],
+      "duration": "8 m",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks289vhvcpfpc1-m.webp",
+      "nutrition": {
+        "calories": "193 per serving",
+        "protein": "6 grams per serving",
+        "carbs": "35 grams per serving",
+        "fat": "1 gram per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "27 grams per serving",
+        "sodium": "5mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of creamy mango lassi in a chilled glass, garnished with a sprinkle of cardamom and a small wedge of fresh mango. Use a shallow depth of field to focus on the texture of the lassi, with the garnish slightly blurred. Backdrop of rustic wood and linen, lit with soft, diffused natural light from the side to highlight the golden hue and creamy swirls.  Styling should evoke a refreshing, tropical feel. Aim for a bright, airy mood with pops of vibrant yellow and orange against the neutral background.",
+      "image_filepath": "recipe_fks289vhvcpfpc1/main_image",
+      "video_script": {
+        "title": "Creamy Mango Lassi",
+        "description": "A quick and easy recipe for a refreshing and healthy mango lassi.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a vibrant, creamy mango lassi in a tall glass, garnished with a sprinkle of cardamom. The background is slightly blurred, with fresh mango slices and yogurt subtly placed.",
+            "text": "Creamy Mango Lassi",
+            "voice_over": "Beat the heat with this creamy and refreshing mango lassi! It's quick, easy, and packed with flavor.",
+            "scene_image_filename": "recipe_fks289vhvcpfpc1/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks289vhvcpfpc1-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a clean surface: frozen mango chunks, nonfat yogurt, ground cardamom, and honey.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: 300 grams of frozen mango chunks, 300 grams of nonfat yogurt, 5 grams of ground cardamom, and 20 grams of honey.",
+            "scene_image_filename": "recipe_fks289vhvcpfpc1/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks289vhvcpfpc1-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Frozen mango chunks, yogurt, cardamom, and honey being added into a blender.",
+            "text": "Combine Ingredients",
+            "voice_over": "Add the frozen mango, yogurt, cardamom, and honey to a blender.",
+            "scene_image_filename": "recipe_fks289vhvcpfpc1/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks289vhvcpfpc1-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "The blender blending the ingredients until smooth and creamy.",
+            "text": "Blend",
+            "voice_over": "Blend until smooth and creamy. This should take about 30-60 seconds. If it's too thick, add a splash of milk or water for desired consistency.",
+            "scene_image_filename": "recipe_fks289vhvcpfpc1/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks289vhvcpfpc1-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Pouring the creamy mango lassi from the blender into two tall glasses. One glass is in focus in the foreground and the other in the background.",
+            "text": "Serve",
+            "voice_over": "Pour into glasses and serve immediately.",
+            "scene_image_filename": "recipe_fks289vhvcpfpc1/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks289vhvcpfpc1-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Two glasses of creamy mango lassi garnished with a sprinkle of cardamom, served on a table with fresh mango slices. One glass is in focus in the foreground and the other in the background.",
+            "text": "Enjoy!",
+            "voice_over": "Enjoy your refreshing and delicious mango lassi! It's perfect for a hot day or as a healthy dessert. This recipe makes two servings, each with approximately 193 calories, 6 grams of protein, 35 grams of carbs, and 1 gram of fat.",
+            "scene_image_filename": "recipe_fks289vhvcpfpc1/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks289vhvcpfpc1-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Cardamom",
+        "Honey"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a sweeter lassi, add more honey to taste.",
+        "If you don't have frozen mango, use fresh mango and add a few ice cubes to the blender.",
+        "Garnish with a pinch of cardamom or a sprig of mint before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fks289vhvcpfpc1/fks289vhvcpfpc1_main_image.jpg"
+    },
+    {
+      "id": "fks833l35n22ha",
+      "name": "Mango Lassi",
+      "url": "https://www.allrecipes.com/recipe/32620/mango-lassi-ii/",
+      "ingredients": [
+        "2 ripe mangoes, peeled, pitted, and diced",
+        "2 cups plain yogurt",
+        "\u00bd cup white sugar",
+        "1 cup ice"
+      ],
+      "directions": [
+        "Step 1: Combine the diced mangoes, plain yogurt, sugar, and ice in a blender.",
+        "Step 2: Blend until the mixture is completely smooth.",
+        "Step 3: Pour the lassi into glasses and serve immediately."
+      ],
+      "duration": " 5 m",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks833l35n22ha-m.webp",
+      "nutrition": {
+        "calories": "482 per serving",
+        "protein": "14 grams per serving",
+        "carbs": "102 grams per serving",
+        "fat": "4 grams per serving",
+        "fiber": "null",
+        "sugar": "null",
+        "sodium": "null"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of a chilled Mango Lassi in a tall, elegant glass, garnished with a few diced mango pieces and a sprig of mint. Use a shallow depth of field, focusing on the creamy texture and the vibrant yellow color. Backdrop of rustic wood and linen, lit with soft, diffused natural light from the side, creating gentle highlights and shadows. Style with a few scattered mango slices and a bowl of fresh mint in the background. Aim for a refreshing and inviting summer mood.",
+      "image_filepath": "recipe_fks833l35n22ha/main_image",
+      "video_script": {
+        "title": "Mango Lassi Recipe",
+        "description": "Learn how to make a creamy and refreshing Mango Lassi in minutes!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a vibrant yellow Mango Lassi in a tall glass, garnished with a fresh mango slice. The background is slightly blurred with hints of fresh mangoes and yogurt.",
+            "text": "Mango Lassi",
+            "voice_over": "Beat the heat with this delicious and easy Mango Lassi recipe. It's creamy, sweet, and perfect for a refreshing treat.",
+            "scene_image_filename": "recipe_fks833l35n22ha/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks833l35n22ha-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: two ripe mangoes, a container of plain yogurt, a bowl of sugar, and a glass of ice cubes.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: two ripe mangoes, two cups of plain yogurt, half a cup of sugar, and one cup of ice.",
+            "scene_image_filename": "recipe_fks833l35n22ha/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks833l35n22ha-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of hands dicing mangoes on a cutting board.",
+            "text": "Prepare Mangoes",
+            "voice_over": "Start by peeling and dicing two ripe mangoes.",
+            "scene_image_filename": "recipe_fks833l35n22ha/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks833l35n22ha-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A blender with the diced mangoes, yogurt, sugar, and ice inside, ready to be blended.",
+            "text": "Combine Ingredients",
+            "voice_over": "Add the diced mangoes, yogurt, sugar, and ice to a blender.",
+            "scene_image_filename": "recipe_fks833l35n22ha/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks833l35n22ha-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The blender running, showing the ingredients mixing into a smooth, creamy consistency.",
+            "text": "Blend",
+            "voice_over": "Blend for about 30-60 seconds, or until the mixture is completely smooth.",
+            "scene_image_filename": "recipe_fks833l35n22ha/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks833l35n22ha-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Pouring the Mango Lassi from the blender into two tall glasses.",
+            "text": "Serve",
+            "voice_over": "Pour the lassi into glasses and serve immediately.",
+            "scene_image_filename": "recipe_fks833l35n22ha/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks833l35n22ha-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Two glasses of Mango Lassi, garnished with fresh mango slices, with a bowl of fresh mangoes and a spoon in the background. Focus on the vibrant color and texture of the lassi.",
+            "text": "Enjoy!",
+            "voice_over": "Enjoy your refreshing Mango Lassi!  It's packed with flavor and perfect for any occasion. This recipe makes two servings, each with approximately 482 calories, 14 grams of protein, 102 grams of carbs, and 4 grams of fat.",
+            "scene_image_filename": "recipe_fks833l35n22ha/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks833l35n22ha-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Sugar"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use less ice or add a frozen banana.",
+        "If your mangoes are not very sweet, adjust the sugar to your liking.",
+        "Garnish with a pinch of cardamom or a sprig of mint for an extra touch of flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fks833l35n22ha/fks833l35n22ha_main_image.jpg"
+    },
+    {
+      "id": "853kfehg8na00",
+      "name": "Mango Lassi",
+      "url": "http://www.chefdehome.com/Recipes/110/mango-lassi",
+      "ingredients": [
+        "4 large ripe yellow mangoes (less fibrous)",
+        "1 1/2 cups plain non-fat yogurt",
+        "2 tablespoons honey (or fine sugar)",
+        "1 cup water",
+        "3 tablespoons ripe diced mango"
+      ],
+      "directions": [
+        "Step 1: Puree the 4 mangoes in a blender until smooth.",
+        "Step 2: Add the yogurt, water, and honey (or sugar) to the blender.",
+        "Step 3: Blend until well combined and frothy.",
+        "Step 4: Pour into serving glasses.",
+        "Step 5: Top each glass with the diced mango.",
+        "Step 6: Chill in the refrigerator until ready to serve."
+      ],
+      "duration": "0 minute",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/853kfehg8na00-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "5-7 grams per serving",
+        "carbs": "40-50 grams per serving",
+        "fat": "2-4 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "30-40 grams per serving",
+        "sodium": "5-10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant close-up of a chilled mango lassi in a tall, elegant glass, garnished with diced mango and a sprig of mint. Use a shallow depth of field to focus on the creamy texture and vibrant yellow color. Backdrop with a rustic wooden surface and soft, diffused natural light from the side to highlight the condensation on the glass. Include a few sliced mangoes and scattered cardamom pods in the background to complement the lassi. Aim for a bright, refreshing, and inviting mood.",
+      "image_filepath": "recipe_853kfehg8na00/main_image",
+      "video_script": {
+        "title": "Mango Lassi Recipe: Refreshing Summer Delight",
+        "description": "Learn how to make this creamy and delicious mango lassi in minutes!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses of vibrant yellow mango lassi, garnished with diced mangoes.  A few whole, ripe mangoes sit in the background.",
+            "text": "Mango Lassi",
+            "voice_over": "Beat the heat with a refreshing Mango Lassi!  This creamy and flavorful Indian drink is perfect for a hot day and super easy to make.",
+            "scene_image_filename": "recipe_853kfehg8na00/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/853kfehg8na00-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Four ripe yellow mangoes, a measuring cup filled with plain non-fat yogurt, a small bowl of honey, and a glass of water are arranged on a table.",
+            "text": "Ingredients",
+            "voice_over": "You'll need 4 ripe yellow mangoes, 1 1/2 cups of plain non-fat yogurt, 2 tablespoons of honey, 1 cup of water, and 3 tablespoons of diced mango for garnish.",
+            "scene_image_filename": "recipe_853kfehg8na00/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/853kfehg8na00-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Peeled and chopped mango pieces are being placed into a blender.",
+            "text": "Prep the Mangoes",
+            "voice_over": "First, peel and roughly chop the mangoes, making sure to discard the pit.  Use ripe, less fibrous mangoes for the best texture and flavor.",
+            "scene_image_filename": "recipe_853kfehg8na00/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/853kfehg8na00-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A blender pureeing mango pieces until smooth.",
+            "text": "Puree",
+            "voice_over": "Puree the mango chunks in a blender until completely smooth.  This might take a minute or two depending on your blender.",
+            "scene_image_filename": "recipe_853kfehg8na00/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/853kfehg8na00-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Yogurt, water, and honey are being added to the blender with the mango puree.",
+            "text": "Combine",
+            "voice_over": "Add the yogurt, water, and honey to the blender. You can substitute sugar for the honey if desired.",
+            "scene_image_filename": "recipe_853kfehg8na00/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/853kfehg8na00-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The blender is blending the mango mixture until well combined and frothy.",
+            "text": "Blend",
+            "voice_over": "Blend everything together until smooth and frothy. This will usually take about 30 seconds.",
+            "scene_image_filename": "recipe_853kfehg8na00/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/853kfehg8na00-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The mango lassi is being poured into two serving glasses.",
+            "text": "Serve",
+            "voice_over": "Pour the lassi into serving glasses.",
+            "scene_image_filename": "recipe_853kfehg8na00/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/853kfehg8na00-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Diced mango is being added on top of the lassi in each glass.",
+            "text": "Garnish",
+            "voice_over": "Garnish each glass with the diced mango. This adds a nice pop of color and texture.",
+            "scene_image_filename": "recipe_853kfehg8na00/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/853kfehg8na00-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Two glasses of mango lassi, garnished with diced mangoes, are shown with condensation on the glasses, indicating they are chilled. Some fresh mint sprigs are scattered around.",
+            "text": "Chill & Enjoy",
+            "voice_over": "Chill in the refrigerator for at least 30 minutes before serving. The flavors will meld together beautifully. Garnish with a few fresh mint sprigs if you like.  Each serving has approximately 200-250 calories, 5-7g of protein, 40-50g of carbs, and 2-4g of fat. Enjoy!",
+            "scene_image_filename": "recipe_853kfehg8na00/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/853kfehg8na00-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 10,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Honey"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Adjust sweetness to your preference by adding more honey or sugar.",
+        "For a thicker lassi, use less water.",
+        "If using frozen mango chunks, reduce the amount of water or omit it altogether."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_853kfehg8na00/853kfehg8na00_main_image.jpg"
+    },
+    {
+      "id": "6e3vcgh33sjuj",
+      "name": "Honey-Ginger Lassi",
+      "url": "http://www.food.com/recipe/honey-ginger-lassi-245239",
+      "ingredients": [
+        "2 1/2 cups whole milk (or low-fat milk)",
+        "1/4 cup honey",
+        "1 tablespoon finely grated fresh ginger (heaping)",
+        "2 pinches freshly grated nutmeg",
+        "8 medium ice cubes (or 4 large ice cubes)",
+        "Ice, for serving"
+      ],
+      "directions": [
+        "Step 1: Combine the milk, honey, grated ginger, and nutmeg in a blender.",
+        "Step 2: Blend for 30 seconds to froth the milk.",
+        "Step 3: Add the ice cubes and blend until pulverized.",
+        "Step 4: Fill large glasses with ice.",
+        "Step 5: Pour the lassi into the prepared glasses and serve.",
+        "Step 6: Variation for Warm Honey-Ginger Drink: In a saucepan, heat 3 cups of milk until almost boiling. Add the honey, ginger, and nutmeg, and stir well. Serve warm in mugs."
+      ],
+      "duration": "5 mins",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "8-10 grams per serving",
+        "carbs": "30-35 grams per serving",
+        "fat": "5-8 grams per serving",
+        "fiber": "0-1 grams per serving",
+        "sugar": "25-30 grams per serving",
+        "sodium": "100-120 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of a chilled glass of Honey-Ginger Lassi. The creamy, off-white beverage should be garnished with a thin spiral of candied ginger and a dusting of nutmeg. Use a shallow depth of field, focusing on the garnishes and the texture of the lassi. Backlight the glass against a dark, moody background with subtle textures, creating a rim light. Include a small, wooden honey dipper and a piece of fresh ginger root as props, softly blurred in the background. Emphasize the cool, refreshing nature of the drink through lighting and color.",
+      "image_filepath": "recipe_6e3vcgh33sjuj/main_image",
+      "video_script": {
+        "title": "Honey-Ginger Lassi: Refreshing and Aromatic",
+        "description": "Learn how to make a creamy and flavorful Honey-Ginger Lassi at home with this easy recipe. Perfect for a quick cool-down treat!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a glass of honey-ginger lassi, garnished with a thin slice of ginger. The background is slightly blurred, emphasizing the lassi's creamy texture and inviting color.",
+            "text": "Honey-Ginger Lassi",
+            "voice_over": "Welcome! Today, we'll be making a refreshing Honey-Ginger Lassi - a creamy blend of milk, honey, ginger, and a hint of nutmeg.  It's the perfect beverage for a hot day or anytime you need a flavorful pick-me-up.",
+            "scene_image_filename": "recipe_6e3vcgh33sjuj/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients arranged neatly on a table: whole milk, honey, fresh ginger root, nutmeg, and ice cubes in a bowl.  A blender is positioned nearby.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: whole milk, honey, fresh ginger, nutmeg, and ice. Feel free to use low-fat milk if you prefer.",
+            "scene_image_filename": "recipe_6e3vcgh33sjuj/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of grating ginger and showing the measurement of grated ginger, honey, and nutmeg being added to the blender.",
+            "text": "Combine Ingredients",
+            "voice_over": "Start by grating about a tablespoon of fresh ginger. Then, combine the milk, honey, grated ginger, and a pinch of nutmeg in your blender.",
+            "scene_image_filename": "recipe_6e3vcgh33sjuj/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 4,
+            "image_prompt": "Blender blending the milk mixture until frothy.  Focus on the mixture's texture as it transforms.",
+            "text": "Blend",
+            "voice_over": "Blend for about 30 seconds until the milk is nice and frothy.",
+            "scene_image_filename": "recipe_6e3vcgh33sjuj/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "Ice cubes being added to the blender with the milk mixture.",
+            "text": "Add Ice",
+            "voice_over": "Now, add your ice cubes to the blender.",
+            "scene_image_filename": "recipe_6e3vcgh33sjuj/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The blender blending the lassi with the ice until smooth. Focus on the ice crushing and the mixture becoming completely smooth.",
+            "text": "Blend Again",
+            "voice_over": "Blend again until the ice is completely pulverized, creating a smooth and creamy lassi.",
+            "scene_image_filename": "recipe_6e3vcgh33sjuj/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Two glasses filled with ice.",
+            "text": "Prepare Glasses",
+            "voice_over": "Fill your serving glasses with ice.",
+            "scene_image_filename": "recipe_6e3vcgh33sjuj/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Pouring the lassi from the blender into the ice-filled glasses.",
+            "text": "Pour and Serve",
+            "voice_over": "Pour the lassi into your prepared glasses and serve immediately.",
+            "scene_image_filename": "recipe_6e3vcgh33sjuj/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Two glasses of honey-ginger lassi, garnished with ginger slices, sitting on a table. A small bowl of extra ice is next to the glasses.  The lighting is warm and inviting.",
+            "text": "Enjoy!",
+            "voice_over": "And there you have it - a delicious and refreshing Honey-Ginger Lassi.  For a warm variation, heat milk in a saucepan until almost boiling, then stir in the honey, ginger, and nutmeg.  Enjoy!",
+            "scene_image_filename": "recipe_6e3vcgh33sjuj/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Text overlay displaying nutritional information against a softly blurred background image of the lassi. ",
+            "text": "Nutritional Information (per serving)",
+            "voice_over": "Each serving contains roughly 200-250 calories, 8-10 grams of protein, 30-35 grams of carbs, and 5-8 grams of fat. Enjoy responsibly!",
+            "scene_image_filename": "recipe_6e3vcgh33sjuj/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6e3vcgh33sjuj-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Beverage",
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Milk",
+        "Honey",
+        "Ginger",
+        "Nutmeg"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use less milk or add a few tablespoons of yogurt.",
+        "Adjust the amount of honey and ginger to your liking.",
+        "Garnish with a sprinkle of ground nutmeg or cinnamon before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_6e3vcgh33sjuj/6e3vcgh33sjuj_main_image.jpg"
+    },
+    {
+      "id": "6oo7ntus104ld",
+      "name": "Mango Mania Lassi",
+      "url": "http://www.food.com/recipe/mango-mania-lassi-95753",
+      "ingredients": [
+        "1-2 fresh mangoes, peeled, chopped, and pureed (or 3/4 cup mango puree)",
+        "1 cup plain low-fat yogurt (or 1 cup nonfat yogurt)",
+        "2 1/4 cups cold water",
+        "3 teaspoons sugar",
+        "Crushed ice, as needed"
+      ],
+      "directions": [
+        "Step 1: Combine the yogurt, sugar, and cold water in a blender.",
+        "Step 2: Blend on high speed until smooth.",
+        "Step 3: Add the mango puree and blend again until well combined.",
+        "Step 4: Fill two glasses with crushed ice.",
+        "Step 5: Pour the mango lassi over the ice.",
+        "Step 6: Serve immediately and enjoy!"
+      ],
+      "duration": "10 mins",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/6oo7ntus104ld-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "8-10 grams per serving",
+        "carbs": "40-50 grams per serving",
+        "fat": "2-4 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "30-40 grams per serving",
+        "sodium": "5-10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Mango Mania Lassi in a tall, chilled glass against a bright, minimally styled background. Use a slightly overhead, angled shot emphasizing the creamy texture and vibrant yellow color.  Garnish with a fresh mango slice on the rim and a sprinkle of crushed pistachios. Employ soft, diffused lighting to highlight the frost on the glass and the thickness of the lassi. Shallow depth of field, focusing on the foreground mango slice and the surface of the drink, creating a dreamy, refreshing mood.  Incorporate subtle reflections and highlights to enhance the visual appeal.",
+      "image_filepath": "recipe_6oo7ntus104ld/main_image",
+      "video_script": {
+        "title": "Mango Mania Lassi",
+        "description": "A refreshing and easy mango lassi recipe perfect for a hot day!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses of vibrant yellow mango lassi, garnished with fresh mint sprigs, situated on a table with a few ripe mangoes in the background.",
+            "text": "Mango Mania Lassi",
+            "voice_over": "Beat the heat with this creamy and delicious Mango Mania Lassi! It's quick, easy, and packed with tropical mango flavor.",
+            "scene_image_filename": "recipe_6oo7ntus104ld/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6oo7ntus104ld-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: fresh mangoes, plain yogurt, a measuring cup with water, a bowl of sugar, and a bowl of crushed ice.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: fresh, ripe mangoes, plain low-fat yogurt, cold water, sugar, and some crushed ice for that extra chill.",
+            "scene_image_filename": "recipe_6oo7ntus104ld/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6oo7ntus104ld-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of a blender with yogurt, water, and sugar being added.",
+            "text": "Combine Wet Ingredients",
+            "voice_over": "In your blender, combine one cup of plain yogurt, two and a quarter cups of cold water, and three teaspoons of sugar.",
+            "scene_image_filename": "recipe_6oo7ntus104ld/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6oo7ntus104ld-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 4,
+            "image_prompt": "Blender blending the yogurt mixture until smooth.",
+            "text": "Blend",
+            "voice_over": "Blend these ingredients on high speed until the mixture is perfectly smooth.",
+            "scene_image_filename": "recipe_6oo7ntus104ld/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6oo7ntus104ld-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Adding mango puree to the blender with the yogurt mixture.",
+            "text": "Add Mango Puree",
+            "voice_over": "Now, add one to two pureed fresh mangoes, or about three-quarters of a cup of mango puree, to the blender.",
+            "scene_image_filename": "recipe_6oo7ntus104ld/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6oo7ntus104ld-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 4,
+            "image_prompt": "Blender blending the mango mixture until well combined.",
+            "text": "Blend Again",
+            "voice_over": "Blend again until the mango is fully incorporated and the lassi is a beautiful, vibrant yellow.",
+            "scene_image_filename": "recipe_6oo7ntus104ld/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6oo7ntus104ld-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Two glasses being filled with crushed ice.",
+            "text": "Ice, Ice Baby!",
+            "voice_over": "Grab your glasses and fill them with crushed ice. This will keep your lassi nice and cold.",
+            "scene_image_filename": "recipe_6oo7ntus104ld/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6oo7ntus104ld-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Pouring the mango lassi into the glasses filled with ice.",
+            "text": "Pour & Serve",
+            "voice_over": "Carefully pour the mango lassi over the ice, filling each glass almost to the top.",
+            "scene_image_filename": "recipe_6oo7ntus104ld/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6oo7ntus104ld-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "Final shot of the two glasses of mango lassi, garnished with mint, with mango slices and some leftover ice on the side.",
+            "text": "Enjoy!",
+            "voice_over": "Serve immediately and enjoy the refreshing taste of your homemade Mango Mania Lassi! It's perfect on its own or as a complement to spicy dishes.  Each serving has about 200 to 250 calories, 8 to 10 grams of protein, 40 to 50 grams of carbs, and just 2 to 4 grams of fat.",
+            "scene_image_filename": "recipe_6oo7ntus104ld/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6oo7ntus104ld-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Beverage"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use less water or add a few ice cubes to the blender.",
+        "Adjust the amount of sugar to your preference.",
+        "If using fresh mangoes, make sure they are ripe for the best flavor.",
+        "Garnish with a sprig of mint or a sprinkle of cardamom for an extra touch."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_6oo7ntus104ld/6oo7ntus104ld_main_image.jpg"
+    },
+    {
+      "id": "2pjr8g64o9h9l",
+      "name": "Honey-Berry Lassi",
+      "url": "http://www.food.com/recipe/honey-berry-lassi-293979",
+      "ingredients": [
+        "1 cup mixed berries, fresh or frozen",
+        "3 tablespoons honey",
+        "1 cup plain yogurt",
+        "6 ice cubes"
+      ],
+      "directions": [
+        "Step 1: Combine the mixed berries and 1 tablespoon of honey in a blender. Blend until smooth."
+      ],
+      "duration": "5 mins",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/2pjr8g64o9h9l-m.webp",
+      "nutrition": {
+        "calories": "250-300 per serving",
+        "protein": "8-10 grams per serving",
+        "carbs": "50-60 grams per serving",
+        "fat": "5-8 grams per serving",
+        "fiber": "3-5 grams per serving",
+        "sugar": "40-50 grams per serving",
+        "sodium": "50-75 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Honey-Berry Lassi in a tall, chilled glass against a rustic wooden backdrop.  Use soft, diffused natural light from the side to highlight the creamy texture and deep berry hues. Focus on the surface of the lassi, blurring the background slightly for a shallow depth of field. Garnish with a few fresh berries and a drizzle of honey. Compose the shot from a slightly elevated angle, showcasing the thickness of the lassi and the condensation on the glass. Aim for a refreshing and inviting mood.  Include a linen napkin and a small wooden spoon as props.",
+      "image_filepath": "recipe_2pjr8g64o9h9l/main_image",
+      "video_script": {
+        "title": "Honey-Berry Lassi",
+        "description": "A refreshing and healthy Honey-Berry Lassi recipe perfect for a quick breakfast or snack.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a vibrant Honey-Berry Lassi in a glass, garnished with a few fresh berries. The background is a light wooden table.",
+            "text": "Honey-Berry Lassi",
+            "voice_over": "Welcome! Today we're making a delicious and healthy Honey-Berry Lassi. It's quick, easy, and perfect for a hot day.",
+            "scene_image_filename": "recipe_2pjr8g64o9h9l/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2pjr8g64o9h9l-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a light wooden surface: mixed berries, honey, plain yogurt, and ice cubes.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one cup of mixed berries, three tablespoons of honey, one cup of plain yogurt, and six ice cubes.",
+            "scene_image_filename": "recipe_2pjr8g64o9h9l/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2pjr8g64o9h9l-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of mixed berries and honey being added to a blender.",
+            "text": "Blend Berries & Honey",
+            "voice_over": "First, combine the mixed berries and one tablespoon of honey in your blender.",
+            "scene_image_filename": "recipe_2pjr8g64o9h9l/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2pjr8g64o9h9l-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the blender blending the berries and honey until smooth.",
+            "text": "Blend Until Smooth",
+            "voice_over": "Blend the mixture until it's completely smooth. This should take about 30-45 seconds.",
+            "scene_image_filename": "recipe_2pjr8g64o9h9l/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2pjr8g64o9h9l-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Yogurt being added to the blender with the blended berry mixture.",
+            "text": "Add Yogurt",
+            "voice_over": "Now, add the plain yogurt to the blender.",
+            "scene_image_filename": "recipe_2pjr8g64o9h9l/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2pjr8g64o9h9l-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Ice cubes being added to the blender.",
+            "text": "Add Ice",
+            "voice_over": "Next, add the ice cubes.",
+            "scene_image_filename": "recipe_2pjr8g64o9h9l/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2pjr8g64o9h9l-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The blender blending all ingredients together.",
+            "text": "Blend Again",
+            "voice_over": "Blend everything together until well combined and frothy. This might take another minute or so.",
+            "scene_image_filename": "recipe_2pjr8g64o9h9l/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2pjr8g64o9h9l-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The finished lassi being poured into a glass.",
+            "text": "Pour & Enjoy",
+            "voice_over": "Pour your Honey-Berry Lassi into a glass.",
+            "scene_image_filename": "recipe_2pjr8g64o9h9l/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2pjr8g64o9h9l-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Two glasses of Honey-Berry Lassi, garnished with fresh berries, on a wooden table. One glass has a straw. In the background, there's a bowl of mixed berries.",
+            "text": "Serving Suggestion",
+            "voice_over": "Garnish with a few fresh berries. It's a refreshing and healthy treat any time of day.  Each serving has roughly 250-300 calories, 8-10 grams of protein, 50-60 grams of carbs, and 5-8 grams of fat. Enjoy!",
+            "scene_image_filename": "recipe_2pjr8g64o9h9l/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2pjr8g64o9h9l-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Breakfast"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Berries",
+        "Yogurt",
+        "Honey"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use frozen berries and less ice.",
+        "Adjust the amount of honey to your liking.",
+        "If using Greek yogurt, add a splash of milk or water for a smoother consistency."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_2pjr8g64o9h9l/2pjr8g64o9h9l_main_image.jpg"
+    },
+    {
+      "id": "1ahg1fp763pmh",
+      "name": "Spiced Sweet Lassi",
+      "url": "http://www.food.com/recipe/sweet-lassi-with-spices-437713",
+      "ingredients": [
+        "150 ml plain yogurt",
+        "2 tablespoons sugar",
+        "1/4 teaspoon ground cardamom",
+        "1 pinch turmeric powder",
+        "1 teaspoon rose syrup (or 1 teaspoon rose water + 1 teaspoon sugar)",
+        "150 ml cold water",
+        "Ice cubes",
+        "4 saffron threads",
+        "4 fresh mint leaves"
+      ],
+      "directions": [
+        "Step 1: In a bowl, combine the yogurt, sugar, cardamom, turmeric powder, and rose syrup (or rose water and extra sugar). Whisk well until smooth.",
+        "Step 2: In a food processor or blender, combine the cold water, ice cubes, saffron threads, and 2 mint leaves. Blend until the ice is crushed and the mint leaves are finely chopped.",
+        "Step 3: Add the ice mixture to the yogurt mixture. Blend everything together using a hand blender or regular blender until smooth and frothy.",
+        "Step 4: Pour the lassi into serving glasses. Garnish with the remaining 2 mint leaves."
+      ],
+      "duration": "10 mins",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/1ahg1fp763pmh-m.webp",
+      "nutrition": {
+        "calories": "150-200 per serving",
+        "protein": "5-7 grams per serving",
+        "carbs": "25-30 grams per serving",
+        "fat": "4-6 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "20-25 grams per serving",
+        "sodium": "5-10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a spiced sweet lassi in a tall, chilled glass against a lightly textured, neutral backdrop. Style with a few scattered saffron threads and fresh mint leaves. Use soft, diffused natural light from the side to highlight the creamy texture and pale yellow hue. Focus on the condensation on the glass and a single mint leaf, creating a shallow depth of field.  Compose the shot from a slightly elevated angle, showcasing the swirling lassi and ice cubes within. Aim for a refreshing and inviting mood.",
+      "image_filepath": "recipe_1ahg1fp763pmh/main_image",
+      "video_script": {
+        "title": "Spiced Sweet Lassi: A Refreshing Summer Treat",
+        "description": "Learn how to make a delicious and aromatic Spiced Sweet Lassi with this easy-to-follow recipe. Perfect for a hot day!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses of Spiced Sweet Lassi garnished with fresh mint leaves. The background is slightly blurred, showcasing a summery setting.",
+            "text": "Spiced Sweet Lassi",
+            "voice_over": "Beat the heat with this refreshing Spiced Sweet Lassi! It's creamy, aromatic, and incredibly easy to make.",
+            "scene_image_filename": "recipe_1ahg1fp763pmh/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1ahg1fp763pmh-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients arranged on a clean surface: yogurt, sugar, cardamom, turmeric powder, rose syrup, water, ice cubes, saffron, and mint leaves.  Each ingredient is clearly labeled.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: plain yogurt, sugar, ground cardamom, a pinch of turmeric, rose syrup, cold water, ice, saffron threads, and fresh mint leaves.",
+            "scene_image_filename": "recipe_1ahg1fp763pmh/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1ahg1fp763pmh-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a bowl with yogurt, sugar, cardamom, turmeric, and rose syrup being whisked together until smooth.",
+            "text": "Combine Yogurt Mixture",
+            "voice_over": "In a bowl, combine the yogurt, sugar, cardamom, turmeric powder, and rose syrup. Whisk until smooth and well combined.",
+            "scene_image_filename": "recipe_1ahg1fp763pmh/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1ahg1fp763pmh-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A blender with cold water, ice cubes, saffron threads, and mint leaves. The blender is about to be turned on.",
+            "text": "Blend Ice Mixture",
+            "voice_over": "In a blender, combine the cold water, ice cubes, saffron threads, and two mint leaves. Blend until the ice is crushed and the mint is finely chopped.",
+            "scene_image_filename": "recipe_1ahg1fp763pmh/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1ahg1fp763pmh-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The ice mixture being added to the yogurt mixture in a larger container. A hand blender is about to be used.",
+            "text": "Combine & Blend",
+            "voice_over": "Now, add the ice mixture to the yogurt mixture. Blend everything together until smooth and frothy. This should take about 30 seconds with a hand blender, or a minute with a regular blender.",
+            "scene_image_filename": "recipe_1ahg1fp763pmh/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1ahg1fp763pmh-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up shot of pouring the lassi into two serving glasses.",
+            "text": "Serve",
+            "voice_over": "Pour the lassi into serving glasses.",
+            "scene_image_filename": "recipe_1ahg1fp763pmh/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1ahg1fp763pmh-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Two glasses of finished Spiced Sweet Lassi, garnished with fresh mint leaves, on a table setting with napkins and a summery backdrop.",
+            "text": "Garnish & Enjoy",
+            "voice_over": "Garnish with the remaining mint leaves.  Your refreshing Spiced Sweet Lassi is ready! Each serving contains roughly 150-200 calories, 5-7 grams of protein, 25-30 grams of carbs, and 4-6 grams of fat. Enjoy!",
+            "scene_image_filename": "recipe_1ahg1fp763pmh/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1ahg1fp763pmh-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Beverage",
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Yogurt",
+        "Sugar",
+        "Cardamom",
+        "Turmeric",
+        "Rose",
+        "Mint"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Adjust the amount of sugar according to your preference.",
+        "For a richer flavor, use full-fat yogurt.",
+        "If using rose water instead of rose syrup, add an extra teaspoon of sugar.",
+        "Chill the lassi for a more refreshing drink.",
+        "You can also add a pinch of salt to balance the sweetness."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_1ahg1fp763pmh/1ahg1fp763pmh_main_image.jpg"
+    },
+    {
+      "id": "fksd87pt6nkn",
+      "name": "Mixed Berry Lassi",
+      "url": "http://www.playfulcooking.com/beverage/mixed-berry-lassi/",
+      "ingredients": [
+        "2 cups plain yogurt",
+        "1 cup water",
+        "1 1/2 cups fresh mixed berries",
+        "1/2 tablespoon coarsely ground roasted cumin seeds",
+        "1 teaspoon salt",
+        "1/4 cup honey"
+      ],
+      "directions": [
+        "Step 1: Combine yogurt, water, mixed berries, roasted cumin seeds, salt, and honey in a blender.",
+        "Step 2: Blend until smooth.",
+        "Step 3: Taste and adjust salt or honey as needed."
+      ],
+      "duration": null,
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd87pt6nkn-m.webp",
+      "nutrition": {
+        "calories": "250-300 per serving",
+        "protein": "10-12 grams per serving",
+        "carbs": "40-50 grams per serving",
+        "fat": "5-7 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "30-40 grams per serving",
+        "sodium": "150-200 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant mixed berry lassi in a tall, chilled glass against a rustic, light wood background.  Style with a scattering of fresh berries and a dusting of cumin near the base.  Use soft, diffused natural light from the side to highlight the creamy texture and deep berry hues.  Focus on the surface of the lassi, with a shallow depth of field blurring the background slightly. Aim for a refreshing and inviting mood, with a slightly high angle showcasing the drink's thickness and garnishes. A linen napkin casually draped nearby adds a touch of elegance.",
+      "image_filepath": "recipe_fksd87pt6nkn/main_image",
+      "video_script": {
+        "title": "Mixed Berry Lassi",
+        "description": "A refreshing and healthy yogurt drink perfect for any time of day.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a vibrant glass of Mixed Berry Lassi, garnished with a few fresh berries. The background is slightly blurred, emphasizing the drink.",
+            "text": "Mixed Berry Lassi",
+            "voice_over": "Welcome! Today, we're making a delicious and healthy Mixed Berry Lassi. It's a perfect blend of creamy yogurt, fresh berries, and a hint of spice.",
+            "scene_image_filename": "recipe_fksd87pt6nkn/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87pt6nkn-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "A flat lay of all the ingredients neatly arranged on a table: plain yogurt, fresh mixed berries, roasted cumin seeds, salt, and honey.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: two cups of plain yogurt, one and a half cups of fresh mixed berries, half a tablespoon of roasted cumin seeds, one teaspoon of salt, a quarter cup of honey, and one cup of water.",
+            "scene_image_filename": "recipe_fksd87pt6nkn/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87pt6nkn-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Yogurt, water, mixed berries, cumin seeds, salt, and honey added into a blender.",
+            "text": "Combine Ingredients",
+            "voice_over": "Add the yogurt, water, mixed berries, roasted cumin seeds, salt, and honey to a blender.",
+            "scene_image_filename": "recipe_fksd87pt6nkn/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87pt6nkn-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The blender running, showing the ingredients blending into a smooth mixture.",
+            "text": "Blend",
+            "voice_over": "Blend until the mixture is completely smooth. This should take about 30-60 seconds depending on your blender.",
+            "scene_image_filename": "recipe_fksd87pt6nkn/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87pt6nkn-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Pouring the blended lassi from the blender into two glasses, showing off the creamy texture.",
+            "text": "Taste & Serve",
+            "voice_over": "Pour the lassi into glasses. Taste and adjust the sweetness or saltiness as needed. You can add more honey for sweetness or a pinch of salt if required.",
+            "scene_image_filename": "recipe_fksd87pt6nkn/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87pt6nkn-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Two glasses of Mixed Berry Lassi garnished with fresh berries, served on a table with a bowl of fresh berries in the background.",
+            "text": "Enjoy!",
+            "voice_over": "Garnish with some extra berries, and your Mixed Berry Lassi is ready! It's a refreshing treat, perfect for a hot day or any time you need a healthy pick-me-up. Each serving has roughly 250-300 calories, 10-12 grams of protein, 40-50 grams of carbs, and 5-7 grams of fat.",
+            "scene_image_filename": "recipe_fksd87pt6nkn/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87pt6nkn-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Breakfast",
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Yogurt",
+        "Berries",
+        "Cumin",
+        "Honey"
+      ],
+      "occasion_tags": [
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use Greek yogurt or reduce the amount of water.",
+        "If you don't have fresh berries, you can use frozen berries. Thaw them slightly before blending.",
+        "Adjust the amount of honey according to the sweetness of the berries.",
+        "A pinch of cardamom powder can enhance the flavor of the lassi."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fksd87pt6nkn/fksd87pt6nkn_main_image.jpg"
+    },
+    {
+      "id": "37idme6v21oi4",
+      "name": "Melon and Strawberry Lassi",
+      "url": "http://www.taste.com.au/recipes/126/melon+and+strawberry+lassi",
+      "ingredients": [
+        "1/4 small pineapple, peeled and chopped",
+        "1/8 small rockmelon, peeled and chopped",
+        "125g strawberries, hulled",
+        "1/4 cup low-fat yogurt",
+        "1/2 cup unsweetened pineapple juice",
+        "1/4 teaspoon ground cardamom",
+        "2 cups ice cubes",
+        "Fresh mint sprigs, for garnish"
+      ],
+      "directions": [
+        "Step 1: Combine the pineapple, rockmelon, and strawberries in a blender.",
+        "Step 2: Blend until smooth.",
+        "Step 3: Add the yogurt, pineapple juice, cardamom, and ice.",
+        "Step 4: Blend until creamy and smooth.",
+        "Step 5: Pour into glasses.",
+        "Step 6: Garnish with fresh mint sprigs and serve immediately."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/37idme6v21oi4-m.webp",
+      "nutrition": {
+        "calories": "150-200 per serving",
+        "protein": "2-3 grams per serving",
+        "carbs": "30-40 grams per serving",
+        "fat": "1-2 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "20-30 grams per serving",
+        "sodium": "5-10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, refreshing Melon and Strawberry Lassi in a tall, chilled glass against a light, textured backdrop.  Focus on the frosty condensation and the vibrant pink hue of the drink. Garnish with fresh mint sprigs. Use soft, diffused lighting to highlight the fruit pieces within the lassi.  A shallow depth of field, focusing on the front of the glass and garnish, will create a sense of inviting coolness.  Incorporate a few scattered ice cubes and sliced strawberries on the surface beside the glass for added visual appeal. Aim for a bright, summery mood.",
+      "image_filepath": "recipe_37idme6v21oi4/main_image",
+      "video_script": {
+        "title": "Melon and Strawberry Lassi",
+        "description": "A refreshing and healthy summer drink, this lassi is packed with fruity flavors and a creamy texture.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses of vibrant pink Melon and Strawberry Lassi, garnished with fresh mint sprigs. The background is a blurred summery setting with fresh fruit.",
+            "text": "Melon and Strawberry Lassi",
+            "voice_over": "Beat the heat with this refreshing Melon and Strawberry Lassi! It's packed with fruity goodness and takes only minutes to make.",
+            "scene_image_filename": "recipe_37idme6v21oi4/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/37idme6v21oi4-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "A flat lay showcasing the ingredients: quartered pineapple, a slice of rockmelon, fresh strawberries, a bowl of yogurt, a glass of pineapple juice, ground cardamom, ice cubes, and fresh mint sprigs.  A blender is positioned to the side.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: pineapple, rockmelon, strawberries, low-fat yogurt, unsweetened pineapple juice, a touch of cardamom, ice, and fresh mint for garnish.",
+            "scene_image_filename": "recipe_37idme6v21oi4/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/37idme6v21oi4-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Pineapple, rockmelon, and strawberries being added to a blender.",
+            "text": "Fruits into Blender",
+            "voice_over": "First, combine the chopped pineapple, rockmelon, and strawberries in your blender.",
+            "scene_image_filename": "recipe_37idme6v21oi4/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/37idme6v21oi4-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The blender blending the fruits until smooth. Show a close-up of the smooth mixture.",
+            "text": "Blend",
+            "voice_over": "Blend these fruits until they're completely smooth. This should take about 30 seconds depending on your blender's power.",
+            "scene_image_filename": "recipe_37idme6v21oi4/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/37idme6v21oi4-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Yogurt, pineapple juice, cardamom, and ice cubes being added to the blender with the fruit mixture.",
+            "text": "Add Remaining Ingredients",
+            "voice_over": "Now, add in the yogurt, pineapple juice, cardamom, and ice cubes.",
+            "scene_image_filename": "recipe_37idme6v21oi4/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/37idme6v21oi4-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The blender blending all the ingredients together until smooth and creamy.",
+            "text": "Blend Again",
+            "voice_over": "Blend again for another minute, or until the lassi is perfectly creamy and smooth.",
+            "scene_image_filename": "recipe_37idme6v21oi4/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/37idme6v21oi4-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Pouring the lassi into two glasses filled with ice.",
+            "text": "Pour and Serve",
+            "voice_over": "Pour the lassi into glasses filled with ice.",
+            "scene_image_filename": "recipe_37idme6v21oi4/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/37idme6v21oi4-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Two glasses of Melon and Strawberry Lassi, garnished with fresh mint sprigs. A few extra strawberries and slices of pineapple and rockmelon are scattered around the glasses.",
+            "text": "Enjoy!",
+            "voice_over": "Garnish with fresh mint sprigs. This lassi is best served immediately.  It's roughly 150-200 calories with 2-3 grams of protein, 30-40 grams of carbs, and 1-2 grams of fat per serving. Enjoy!",
+            "scene_image_filename": "recipe_37idme6v21oi4/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/37idme6v21oi4-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Breakfast"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Pineapple",
+        "Rockmelon",
+        "Strawberry",
+        "Yogurt",
+        "Cardamom"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Summer"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use frozen fruit or add more ice.",
+        "Adjust the amount of cardamom to your liking.",
+        "If you don't have pineapple juice, you can use water or milk instead."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_37idme6v21oi4/37idme6v21oi4_main_image.jpg"
+    },
+    {
+      "id": "d368703aq",
+      "name": "Savory Yogurt Lassi",
+      "url": "http://chefdehome.com/Recipes/108/savory-yogurt-lassi",
+      "ingredients": [
+        "1 cup low-fat yogurt",
+        "1 cup water",
+        "1/2 teaspoon freshly crushed black pepper",
+        "1/2 teaspoon salt",
+        "1 tablespoon finely chopped cilantro",
+        "3 tablespoons chickpea puffs (pakodi) (optional)"
+      ],
+      "directions": [
+        "Step 1: In a blender, combine the yogurt and water. Blend until smooth.",
+        "Step 2: Refrigerate the mixture for at least 30 minutes to chill.",
+        "Step 3: Just before serving, add the salt, crushed black pepper, and cilantro to the yogurt mixture.",
+        "Step 4: Mix well to combine.",
+        "Step 5: Pour the lassi into serving glasses.",
+        "Step 6: If desired, top each glass with 1-2 tablespoons of chickpea puffs.",
+        "Step 7: If the yogurt is too tart, add 1 teaspoon of sugar while blending with the water in Step 1."
+      ],
+      "duration": "0 minute",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d368703aq-m.webp",
+      "nutrition": {
+        "calories": "150 per serving",
+        "protein": "8 grams per serving",
+        "carbs": "15 grams per serving",
+        "fat": "5 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "12 grams per serving",
+        "sodium": "300 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a chilled, savory yogurt lassi in a tall, elegant glass against a rustic, textured backdrop.  Soft, diffused natural light should highlight the creamy white yogurt swirled with fresh green cilantro and specks of black pepper.  A shallow depth of field focuses on the lassi's surface, with chickpea puffs (optional) scattered around the base for added texture. The mood should be refreshing and inviting, conveying a sense of coolness and subtle spice. A slightly overhead angle will showcase the lassi's texture and garnish.",
+      "image_filepath": "recipe_d368703aq/main_image",
+      "video_script": {
+        "title": "Savory Yogurt Lassi: A Refreshing Twist",
+        "description": "A quick and easy recipe for a savory and refreshing yogurt lassi, perfect for a light meal or snack.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a chilled glass of savory yogurt lassi, garnished with cilantro and a sprinkle of chickpea puffs. The background should be slightly blurred, emphasizing the refreshing drink.",
+            "text": "Savory Yogurt Lassi",
+            "voice_over": "Beat the heat with this Savory Yogurt Lassi! It's a refreshing twist on the traditional sweet lassi, perfect for a light meal or a cooling snack.",
+            "scene_image_filename": "recipe_d368703aq/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d368703aq-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a clean surface: yogurt, water, cilantro, black pepper, salt, and optional chickpea puffs.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one cup of low-fat yogurt, one cup of water, half a teaspoon each of freshly crushed black pepper and salt, one tablespoon of finely chopped cilantro, and optionally, three tablespoons of chickpea puffs for topping.",
+            "scene_image_filename": "recipe_d368703aq/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d368703aq-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Yogurt and water being blended in a blender until smooth.",
+            "text": "Blend Yogurt & Water",
+            "voice_over": "In a blender, combine the yogurt and water. Blend until you get a smooth and creamy mixture. If your yogurt is too tart, you can add a teaspoon of sugar at this stage.",
+            "scene_image_filename": "recipe_d368703aq/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d368703aq-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A bowl of yogurt mixture being placed in the refrigerator.",
+            "text": "Chill",
+            "voice_over": "Refrigerate the yogurt mixture for at least 30 minutes to allow it to chill thoroughly. This enhances the refreshing flavors of the lassi.",
+            "scene_image_filename": "recipe_d368703aq/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d368703aq-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Salt, pepper, and cilantro being added to the chilled yogurt mixture in a bowl.",
+            "text": "Spice & Herb Infusion",
+            "voice_over": "Just before serving, add the salt, crushed black pepper, and chopped cilantro to the chilled yogurt mixture.",
+            "scene_image_filename": "recipe_d368703aq/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d368703aq-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The yogurt mixture being stirred gently to combine the spices and herbs.",
+            "text": "Mix",
+            "voice_over": "Mix everything well to ensure the spices and herbs are evenly distributed throughout the lassi.",
+            "scene_image_filename": "recipe_d368703aq/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d368703aq-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The prepared lassi being poured into serving glasses.",
+            "text": "Pour & Serve",
+            "voice_over": "Pour the savory lassi into serving glasses.",
+            "scene_image_filename": "recipe_d368703aq/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d368703aq-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a glass of savory yogurt lassi being topped with chickpea puffs.",
+            "text": "Optional Topping",
+            "voice_over": "If desired, top each glass with one or two tablespoons of chickpea puffs for added texture and flavor.",
+            "scene_image_filename": "recipe_d368703aq/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d368703aq-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Two glasses of savory yogurt lassi garnished with cilantro and chickpea puffs, served alongside a light snack or meal.",
+            "text": "Enjoy!",
+            "voice_over": "Your Savory Yogurt Lassi is ready! It's a refreshing and flavorful drink with about 150 calories, 8 grams of protein, 15 grams of carbs, and 5 grams of fat per serving. Enjoy!",
+            "scene_image_filename": "recipe_d368703aq/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d368703aq-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 40,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Drink"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Yogurt",
+        "Cilantro",
+        "Black Pepper"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a creamier lassi, use full-fat yogurt.",
+        "Adjust the amount of water to your liking.  Use less for a thicker lassi, and more for a thinner one.",
+        "If you don't have chickpea puffs, you can substitute with roasted cumin powder or a pinch of chaat masala."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_d368703aq/d368703aq_main_image.jpg"
+    },
+    {
+      "id": "fks4rl0iphk20",
+      "name": "Creamy Mango Lassi",
+      "url": "http://www.mattersofthebelly.com/simple-mango-lassi/",
+      "ingredients": [
+        "250g plain yogurt",
+        "1 large ripe mango, peeled, pitted, and chopped",
+        "Milk or water, as needed",
+        "Honey to taste (optional)",
+        "\u00bd teaspoon ground cardamom (optional)"
+      ],
+      "directions": [
+        "Step 1: Combine the yogurt and chopped mango in a blender.",
+        "Step 2: Blend on medium speed until smooth.",
+        "Step 3: Gradually add milk or water, a little at a time, while blending, until the desired consistency is reached.",
+        "Step 4: If using, add the cardamom and blend briefly to incorporate.",
+        "Step 5: Taste and adjust sweetness with honey, if desired.",
+        "Step 6: Serve immediately or chill, covered, in the refrigerator for up to 3 days."
+      ],
+      "duration": "10 minutes ",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks4rl0iphk20-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "8-10 grams per serving",
+        "carbs": "40-50 grams per serving",
+        "fat": "2-4 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "30-40 grams per serving",
+        "sodium": "5-10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a creamy mango lassi in a tall, chilled glass against a light, textured backdrop.  Focus on the vibrant yellow hue and smooth texture. Use a slightly overhead angle, showcasing a shallow depth of field with the lassi in sharp focus.  Garnish with a few fresh mango slices and a sprinkle of cardamom. Employ soft, diffused lighting to highlight the drink's coolness. Incorporate a linen napkin and a few ripe mangoes in the background to create a sense of freshness and natural sweetness.  Aim for a bright, inviting mood.",
+      "image_filepath": "recipe_fks4rl0iphk20/main_image",
+      "video_script": {
+        "title": "Creamy Mango Lassi",
+        "description": "Learn how to make a refreshing and creamy mango lassi in minutes with this easy recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a glass of creamy mango lassi garnished with a few pieces of chopped mango and a sprig of mint. The background is slightly blurred, with a few mangoes and yogurt container visible.",
+            "text": "Creamy Mango Lassi",
+            "voice_over": "Beat the heat with this creamy and delicious mango lassi! It's quick, easy, and perfect for a refreshing treat.",
+            "scene_image_filename": "recipe_fks4rl0iphk20/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4rl0iphk20-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: plain yogurt in a bowl, a ripe mango, a small bowl of honey, a small dish of ground cardamom, a glass of milk, and measuring spoons.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: 250 grams of plain yogurt, one large ripe mango, milk or water, honey to taste, and half a teaspoon of ground cardamom.",
+            "scene_image_filename": "recipe_fks4rl0iphk20/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4rl0iphk20-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a blender with chopped mango and yogurt inside.",
+            "text": "Combine",
+            "voice_over": "Add the chopped mango and yogurt to a blender.",
+            "scene_image_filename": "recipe_fks4rl0iphk20/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4rl0iphk20-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the blender blending the mango and yogurt mixture.",
+            "text": "Blend",
+            "voice_over": "Blend on medium speed until the mixture is completely smooth.",
+            "scene_image_filename": "recipe_fks4rl0iphk20/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4rl0iphk20-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up shot of milk being poured into the blender while it's running.",
+            "text": "Adjust Consistency",
+            "voice_over": "Gradually add milk or water while blending until you achieve your desired consistency.",
+            "scene_image_filename": "recipe_fks4rl0iphk20/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4rl0iphk20-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up shot of ground cardamom being added to the blender.",
+            "text": "Spice it Up (Optional)",
+            "voice_over": "If using, add the cardamom and blend briefly to combine.",
+            "scene_image_filename": "recipe_fks4rl0iphk20/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4rl0iphk20-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Close-up shot of honey being drizzled into the blender.",
+            "text": "Sweeten (Optional)",
+            "voice_over": "Taste and add honey if you prefer a sweeter lassi. Blend again to incorporate.",
+            "scene_image_filename": "recipe_fks4rl0iphk20/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4rl0iphk20-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses filled with mango lassi, garnished with chopped mango and mint. One glass has a straw, the other a spoon. A few mango slices are scattered around.",
+            "text": "Serve and Enjoy!",
+            "voice_over": "Serve immediately or chill for later. Your creamy mango lassi is ready! It's the perfect refreshing drink for any occasion.",
+            "scene_image_filename": "recipe_fks4rl0iphk20/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4rl0iphk20-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Breakfast"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Cardamom"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use less liquid.",
+        "For a colder lassi, use chilled yogurt and mango.",
+        "If your mango isn't very sweet, add more honey to taste."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fks4rl0iphk20/fks4rl0iphk20_main_image.jpg"
+    },
+    {
+      "id": "fksd7a48krfg",
+      "name": "Peach and Buttermilk Lassi",
+      "url": "http://joythebaker.com/2015/06/peach-and-buttermilk-lassi/",
+      "ingredients": [
+        "2 ripe peaches, pitted and sliced into wedges (reserve a few slices for garnish)",
+        "1 cup chilled peach yogurt",
+        "1 cup chilled buttermilk",
+        "3 tablespoons peach jam",
+        "Pinch of salt",
+        "Pinch of ground cinnamon",
+        "Pinch of freshly grated nutmeg",
+        "Freshly grated nutmeg (for garnish)"
+      ],
+      "directions": [
+        "Step 1: In a blender, combine the peach slices (reserving a few for garnish), peach yogurt, buttermilk, peach jam, salt, cinnamon, and nutmeg.",
+        "Step 2: Blend on high speed until smooth.",
+        "Step 3: Divide the lassi between two small glasses.",
+        "Step 4: Garnish with the reserved peach slices and a sprinkle of nutmeg.",
+        "Step 5: Serve immediately."
+      ],
+      "duration": "10 minutes ",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd7a48krfg-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "8-10 grams per serving",
+        "carbs": "35-40 grams per serving",
+        "fat": "5-7 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "25-30 grams per serving",
+        "sodium": "100-150 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a chilled Peach and Buttermilk Lassi in a tall, elegant glass against a rustic wooden backdrop.  Style with a few peach slices cascading down the glass's exterior. Garnish with a dusting of nutmeg and a small spoon dipped in.  Use soft, diffused natural light to emphasize the creamy texture and vibrant peach color. Shallow depth of field, focusing on the lassi's surface, with a slightly darker, moody background to create contrast.  Incorporate a linen napkin and a few scattered peach slices for a touch of casual elegance.",
+      "image_filepath": "recipe_fksd7a48krfg/main_image",
+      "video_script": {
+        "title": "Peach & Buttermilk Lassi: A Refreshing Summer Treat",
+        "description": "Learn how to make a creamy and delicious Peach and Buttermilk Lassi in minutes! This simple recipe is perfect for a hot day and is packed with flavor.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses of Peach and Buttermilk Lassi, garnished with peach slices and a sprinkle of nutmeg. The background is a blurred summery setting.",
+            "text": "Peach & Buttermilk Lassi",
+            "voice_over": "Beat the heat with this refreshing Peach and Buttermilk Lassi! It's creamy, fruity, and incredibly easy to make.",
+            "scene_image_filename": "recipe_fksd7a48krfg/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7a48krfg-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: ripe peaches, peach yogurt, buttermilk, peach jam, salt, cinnamon, and nutmeg.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: two ripe peaches, one cup of chilled peach yogurt, one cup of chilled buttermilk, three tablespoons of peach jam, a pinch of salt, cinnamon, and nutmeg.  We'll also use a little extra nutmeg for garnish.",
+            "scene_image_filename": "recipe_fksd7a48krfg/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7a48krfg-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of peach slices being added to a blender.",
+            "text": "Prep the Peaches",
+            "voice_over": "Start by pitting and slicing your peaches. Reserve a few slices for garnishing later.",
+            "scene_image_filename": "recipe_fksd7a48krfg/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7a48krfg-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up of the blender with all ingredients: peaches, yogurt, buttermilk, jam and spices.",
+            "text": "Combine Ingredients",
+            "voice_over": "Now, add the sliced peaches to a blender along with the peach yogurt, buttermilk, peach jam, salt, cinnamon, and nutmeg. ",
+            "scene_image_filename": "recipe_fksd7a48krfg/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7a48krfg-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The blender blending the lassi ingredients until smooth.",
+            "text": "Blend",
+            "voice_over": "Blend everything on high speed until the mixture is completely smooth. This should only take about 30-60 seconds.",
+            "scene_image_filename": "recipe_fksd7a48krfg/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7a48krfg-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Pouring the blended lassi into two glasses. ",
+            "text": "Pour & Serve",
+            "voice_over": "Divide the lassi between two small glasses.",
+            "scene_image_filename": "recipe_fksd7a48krfg/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7a48krfg-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Garnishing the lassi glasses with peach slices and a sprinkle of nutmeg. ",
+            "text": "Garnish",
+            "voice_over": "Garnish each glass with the reserved peach slices and a final sprinkle of nutmeg.",
+            "scene_image_filename": "recipe_fksd7a48krfg/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7a48krfg-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Two glasses of Peach and Buttermilk Lassi, ready to be served. A spoon is placed next to the glasses on a table. ",
+            "text": "Enjoy!",
+            "voice_over": "Your Peach and Buttermilk Lassi is ready! Serve immediately and enjoy this refreshing treat. Each serving has roughly 200-250 calories, 8-10 grams of protein, 35-40 grams of carbs, and 5-7 grams of fat.",
+            "scene_image_filename": "recipe_fksd7a48krfg/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7a48krfg-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Breakfast"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Peaches",
+        "Yogurt",
+        "Buttermilk",
+        "Peach Jam",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Summer"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use frozen peach slices.",
+        "Adjust the amount of peach jam to your liking for desired sweetness.",
+        "If you don't have peach yogurt, plain yogurt or vanilla yogurt can be substituted."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_fksd7a48krfg/fksd7a48krfg_main_image.jpg"
+    },
+    {
+      "id": "6t9st3982gth7",
+      "name": "Savory Yogurt Lassi",
+      "url": "http://www.chefdehome.com/Recipes/108/savory-yogurt-lassi",
+      "ingredients": [
+        "1 cup low-fat yogurt",
+        "1 cup water",
+        "1/2 teaspoon freshly ground black pepper",
+        "1/2 teaspoon salt",
+        "1 tablespoon finely chopped cilantro",
+        "3 tablespoons chickpea puffs (pakodi) (optional)"
+      ],
+      "directions": [
+        "Step 1: Combine the yogurt and water in a blender and blend until smooth.",
+        "Step 2: Refrigerate for at least 30 minutes to chill.",
+        "Step 3: Just before serving, add the salt, black pepper, and cilantro to the lassi.",
+        "Step 4: Mix well.",
+        "Step 5: Pour into serving glasses and top each glass with 1-2 tablespoons of chickpea puffs (if using)."
+      ],
+      "duration": "0 minute",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/6t9st3982gth7-m.webp",
+      "nutrition": {
+        "calories": "150-200 per serving",
+        "protein": "8-10 grams per serving",
+        "carbs": "15-20 grams per serving",
+        "fat": "5-7 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "10-15 grams per serving",
+        "sodium": "200-300 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a chilled Savory Yogurt Lassi in a tall, elegant glass against a textured, neutral backdrop.  Soft, diffused natural light should highlight the creamy white yogurt speckled with black pepper and vibrant green cilantro. Focus sharply on the cilantro and a few chickpea puffs (if used) floating on the surface, creating a shallow depth of field.  Style with a rustic wooden spoon and linen napkin. Convey a refreshing and subtly spiced mood.  Shoot from a slightly elevated angle to showcase the drink's texture and garnishes.",
+      "image_filepath": "recipe_6t9st3982gth7/main_image",
+      "video_script": {
+        "title": "Savory Yogurt Lassi: A Refreshing Twist",
+        "description": "Cool down with this easy and flavorful savory yogurt lassi recipe, perfect for a light meal or snack.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a chilled glass of savory yogurt lassi garnished with cilantro and chickpea puffs, condensation on the glass.",
+            "text": "Savory Yogurt Lassi",
+            "voice_over": "Beat the heat with this refreshing Savory Yogurt Lassi! It's a quick and easy recipe, perfect for a light meal or a healthy snack.",
+            "scene_image_filename": "recipe_6t9st3982gth7/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6t9st3982gth7-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients arranged neatly on a countertop: a cup of yogurt, a cup of water, a bowl of chopped cilantro, salt and pepper shakers, and a small bowl of chickpea puffs.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one cup of low-fat yogurt, one cup of water, half a teaspoon each of freshly ground black pepper and salt, one tablespoon of finely chopped cilantro, and optionally, three tablespoons of chickpea puffs for a crunchy topping.",
+            "scene_image_filename": "recipe_6t9st3982gth7/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6t9st3982gth7-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Yogurt and water being blended in a blender until smooth.",
+            "text": "Blend Yogurt & Water",
+            "voice_over": "Combine the yogurt and water in a blender. Blend until the mixture is perfectly smooth, about 30 seconds.",
+            "scene_image_filename": "recipe_6t9st3982gth7/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6t9st3982gth7-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A pitcher of lassi being placed in the refrigerator.",
+            "text": "Chill",
+            "voice_over": "Refrigerate the lassi for at least 30 minutes to allow it to chill thoroughly. This will enhance the flavors and make it even more refreshing.",
+            "scene_image_filename": "recipe_6t9st3982gth7/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6t9st3982gth7-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Salt, pepper, and cilantro being added to the chilled lassi.",
+            "text": "Season & Mix",
+            "voice_over": "Just before serving, add the salt, black pepper, and cilantro to the chilled lassi. Mix well to combine.",
+            "scene_image_filename": "recipe_6t9st3982gth7/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6t9st3982gth7-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Lassi being poured into serving glasses and topped with chickpea puffs.",
+            "text": "Serve & Enjoy",
+            "voice_over": "Pour the lassi into serving glasses. If using, top each glass with one to two tablespoons of chickpea puffs for a delightful crunch. Your Savory Yogurt Lassi is ready!",
+            "scene_image_filename": "recipe_6t9st3982gth7/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6t9st3982gth7-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Two glasses of savory yogurt lassi garnished with cilantro and chickpea puffs, served on a table with a napkin and a spoon.",
+            "text": "Nutritional Info (per serving)",
+            "voice_over": "This Savory Yogurt Lassi is not only delicious but also healthy! Each serving contains approximately 150 to 200 calories, 8 to 10 grams of protein, 15 to 20 grams of carbs, and 5 to 7 grams of fat. Enjoy!",
+            "scene_image_filename": "recipe_6t9st3982gth7/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6t9st3982gth7-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 35,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Beverage"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Yogurt",
+        "Cilantro",
+        "Black Pepper"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "If the yogurt is too tart, add 1 teaspoon of sugar while blending with the water.",
+        "For a spicier lassi, add a pinch of cayenne pepper or a small green chili along with other spices.",
+        "Garnish with a sprig of cilantro or a sprinkle of roasted cumin powder for added flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/lassi/recipe_6t9st3982gth7/6t9st3982gth7_main_image.jpg"
+    }
+  ]
+}
