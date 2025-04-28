@@ -1,0 +1,987 @@
+{
+  "recipes": [
+    {
+      "id": "15u21btpcijer",
+      "name": "Sambhar: Flavorful South Indian Lentil Stew",
+      "url": "http://www.food.com/recipe/sambhar-115127",
+      "ingredients": [
+        "8 ounces red lentils, picked over, washed and drained",
+        "3 to 4 cups water",
+        "1 inch ball tamarind pulp",
+        "1 cup boiling water (for soaking tamarind pulp)",
+        "1/2 teaspoon turmeric powder",
+        "2 tablespoons vegetable oil (coconut oil recommended)",
+        "1/2 teaspoon brown mustard seeds",
+        "1/2 teaspoon cumin seeds",
+        "2 teaspoons sambhar powder",
+        "2 whole dried red chilies",
+        "1/4 teaspoon asafetida powder",
+        "8 to 10 fresh curry leaves",
+        "2 garlic cloves, crushed",
+        "2 tablespoons desiccated unsweetened coconut, shredded",
+        "1 pound chopped mixed vegetables (e.g., cauliflower, zucchini, red bell pepper, okra, mushrooms, peas, Brussels sprouts)",
+        "4 firm tomatoes, peeled and chopped",
+        "2 tablespoons extra vegetable oil",
+        "2 garlic cloves, finely sliced (for garnish)",
+        "Fresh cilantro, chopped (for garnish)"
+      ],
+      "directions": [
+        "Step 1: In a heatproof bowl, combine the tamarind pulp and 1 cup of boiling water. Let it stand for 30 minutes.",
+        "Step 2: After 30 minutes, squeeze the tamarind with your fingers to release the pulp into the water. Strain the mixture, discard the fibrous residue and seeds, and reserve the tamarind water.",
+        "Step 3: In a deep saucepan, place the lentils and add 3 cups of water and turmeric. Bring to a boil over high heat.",
+        "Step 4: Reduce heat to a simmer and cook uncovered until the lentils are just tender, approximately 20 to 30 minutes. If the water evaporates too quickly, add an additional 1/2 to 1 cup water as needed.",
+        "Step 5: While the lentils are cooking, heat 2 tablespoons of vegetable oil in a small skillet. Add mustard seeds, cumin seeds, sambhar powder, dried red chilies, asafoetida, curry leaves, crushed garlic, and shredded coconut. Saut\u00e9 until the coconut is golden brown, being careful not to burn it.",
+        "Step 6: Set the saut\u00e9ed spice mixture aside. Once the lentils are tender, add the saut\u00e9ed spices, prepared vegetables, chopped tomatoes, and reserved tamarind water to the saucepan.",
+        "Step 7: Mix well, cover, and simmer until the vegetables are just tender, approximately 10 to 20 minutes, depending on the size of the vegetable pieces. Add another 1/2 cup water if needed.",
+        "Step 8: Just before serving, heat the extra oil in a small skillet and saut\u00e9 the finely sliced garlic and chopped cilantro for 30 seconds.",
+        "Step 9: Pour this mixture over the sambhar and gently mix through. Serve immediately."
+      ],
+      "duration": "1 hrs 10 mins",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/15u21btpcijer-m.webp",
+      "nutrition": {
+        "calories": 250,
+        "protein": 15,
+        "carbs": 40,
+        "fat": 8,
+        "fiber": 10,
+        "sugar": 5,
+        "sodium": 400
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of Sambhar, a richly colored South Indian lentil stew, centered on a rustic wooden table. Use soft, diffused natural light to emphasize the golden hues of turmeric and the earthy tones of lentils. Style with a colorful banana leaf underneath the bowl, garnished with fresh cilantro and a slice of lime on the side. Angle the shot slightly above to showcase the stew's texture, with a shallow depth of field that softly blurs the background, creating a warm and inviting mood.",
+      "image_filepath": "recipe_15u21btpcijer/main_image",
+      "video_script": {
+        "title": "Sambhar: Flavorful South Indian Lentil Stew",
+        "description": "Learn how to make the authentic and flavorful South Indian lentil stew, Sambhar, packed with vegetables and spices.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A bowl of finished Sambhar stew garnished with fresh cilantro and sliced garlic, served with rice and a side of papadam.",
+            "text": "Welcome to our Sambhar cooking tutorial!",
+            "voice_over": "In this video, we'll be making a delicious South Indian lentil stew called Sambhar. It's packed with flavors and nutritious ingredients.",
+            "scene_image_filename": "recipe_15u21btpcijer/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/15u21btpcijer-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "An organized display of all ingredients required: red lentils, mixed vegetables, tamarind, spices, and oils.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "For this recipe, we'll need red lentils, assorted vegetables, tamarind, and a blend of spices including sambhar powder, mustard seeds, and more.",
+            "scene_image_filename": "recipe_15u21btpcijer/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/15u21btpcijer-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A heatproof bowl filled with tamarind pulp and boiling water, set on a kitchen counter.",
+            "text": "Step 1: Soak the tamarind.",
+            "voice_over": "In a heatproof bowl, combine one inch of tamarind pulp with one cup of boiling water. Let it sit for 30 minutes to soften.",
+            "scene_image_filename": "recipe_15u21btpcijer/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/15u21btpcijer-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A hand squeezing tamarind pulp into a strainer over a bowl, filtering the mixture.",
+            "text": "Step 2: Extract tamarind water.",
+            "voice_over": "After 30 minutes, squeeze the tamarind in the water, strain it, and discard any fibrous residue. Reserve the tamarind water for later.",
+            "scene_image_filename": "recipe_15u21btpcijer/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/15u21btpcijer-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A saucepan on a stove with lentils, turmeric, and water being boiled.",
+            "text": "Step 3: Cook the lentils.",
+            "voice_over": "In a deep saucepan, add the washed red lentils, three cups of water, and half a teaspoon of turmeric. Bring to a boil, then reduce to a simmer.",
+            "scene_image_filename": "recipe_15u21btpcijer/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/15u21btpcijer-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A skillet showing mustard seeds, cumin seeds, and spices being saut\u00e9ed until golden brown.",
+            "text": "Step 5: Saut\u00e9 the spices.",
+            "voice_over": "In a small skillet, heat two tablespoons of oil, add mustard and cumin seeds, followed by sambhar powder, dried chilies, and other spices. Saut\u00e9 until the coconut is golden brown.",
+            "scene_image_filename": "recipe_15u21btpcijer/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/15u21btpcijer-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A large saucepan filled with cooked lentils, vegetables, and the saut\u00e9ed spice mixture stirring together.",
+            "text": "Step 6: Combine everything.",
+            "voice_over": "Once lentils are tender, combine them with the saut\u00e9ed spices, vegetables, chopped tomatoes, and reserved tamarind water. Mix thoroughly.",
+            "scene_image_filename": "recipe_15u21btpcijer/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/15u21btpcijer-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Two skillets showing sliced garlic and cilantro being saut\u00e9ed in oil.",
+            "text": "Step 8: Final touch.",
+            "voice_over": "Saut\u00e9 sliced garlic and chopped cilantro in extra oil for 30 seconds just before serving for added flavor.",
+            "scene_image_filename": "recipe_15u21btpcijer/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/15u21btpcijer-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A beautifully presented bowl of Sambhar served with rice and a side of papadam on a dining table.",
+            "text": "Enjoy your Sambhar!",
+            "voice_over": "Pour the saut\u00e9ed garlic and cilantro mixture over the Sambhar. Serve hot with rice or dosa for a perfect meal.",
+            "scene_image_filename": "recipe_15u21btpcijer/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/15u21btpcijer-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 50,
+      "total_time_minutes": 80,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "ingredient_tags": [
+        "Lentils",
+        "Vegetables",
+        "Coconut",
+        "Tomatoes",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Adjust the chili level to your taste for spiciness.",
+        "Feel free to use any seasonal vegetables.",
+        "Serve with rice or Indian bread for a complete meal."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/sambhar/recipe_15u21btpcijer/15u21btpcijer_main_image.jpg"
+    },
+    {
+      "id": "kdged6q1b0u9",
+      "name": "Delicious Sambhar",
+      "url": "http://www.food.com/recipe/awesome-sambhar-205523",
+      "ingredients": [
+        "2 cups dried red lentils, rinsed and drained",
+        "1 cup carrots, chopped",
+        "4 1/2 cups water",
+        "1 1/2 cups potatoes, peeled and medium-cubed",
+        "1 tablespoon olive oil",
+        "1 teaspoon mustard seeds",
+        "2 teaspoons ground coriander",
+        "3/4 to 1 teaspoon ground cumin",
+        "1/2 teaspoon ground turmeric",
+        "1/2 teaspoon crushed mild dried chili",
+        "3/4 to 1 teaspoon curry powder",
+        "1 tablespoon lemon juice",
+        "1/2 teaspoon salt"
+      ],
+      "directions": [
+        "Step 1: In a large pot, combine the rinsed lentils, water, and chopped carrots. Bring the mixture to a boil.",
+        "Step 2: Once boiling, reduce the heat to medium-low and partially cover the pot. Allow it to simmer for 20 minutes. (If preparing basmati rice, start it now.)",
+        "Step 3: Add the cubed potatoes to the pot and cook for an additional 15 to 20 minutes, or until the potatoes are tender.",
+        "Step 4: Check the consistency of the sambhar; if it appears too thick, stir in an additional 1/2 to 1 cup of water.",
+        "Step 5: Meanwhile, heat the olive oil in a small frying pan over medium-high heat. Add the mustard seeds and stir until they begin to pop, about 1 minute.",
+        "Step 6: Reduce the heat and stir in the ground coriander, cumin, turmeric, crushed chili, and curry powder. Saut\u00e9 the mixture for 1 minute, then remove from heat.",
+        "Step 7: When the potatoes and lentils are fully cooked, stir in the spice mixture along with the salt and lemon juice.",
+        "Step 8: Serve immediately, alongside chapatis or over rice with steamed collards or a salad."
+      ],
+      "duration": "1 hrs",
+      "serves": "7",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-m.webp",
+      "nutrition": {
+        "calories": "280",
+        "protein": "14",
+        "carbs": "43",
+        "fat": "7",
+        "fiber": "10",
+        "sugar": "4",
+        "sodium": "300"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up of a vibrant bowl of sambhar, showcasing its rich, earthy hues and chunky texture. Use natural light to illuminate the dish, emphasizing the glossy sheen of the lentils and the vibrant colors of the carrots and potatoes. Style with a rustic wooden table as the background, complemented by a sprig of fresh cilantro as garnish. Incorporate a spoon resting beside the bowl and a textured cloth for depth. Use a shallow depth of field to softly blur the background, drawing focus to the sambhar\u2019s inviting details. Aim for a warm, inviting mood that evokes comfort and home-cooked goodness.",
+      "image_filepath": "recipe_kdged6q1b0u9/main_image",
+      "video_script": {
+        "title": "Delicious Sambhar - A Comforting Lentil Stew",
+        "description": "Learn how to make a hearty and flavorful Sambhar with lentils and vegetables, perfect for serving with rice or chapatis.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated bowl of vibrant sambhar, garnished with fresh cilantro, served with rice and chapatis on the side.",
+            "text": "Welcome to our Sambhar tutorial!",
+            "voice_over": "Today, we will be making a delicious and nutritious Sambhar, a wholesome lentil stew packed with flavor.",
+            "scene_image_filename": "recipe_kdged6q1b0u9/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A collection of the key ingredients including dried red lentils, chopped carrots, cubed potatoes, spices, and olive oil on a wooden table.",
+            "text": "Ingredients you'll need.",
+            "voice_over": "For this recipe, gather 2 cups of dried red lentils, 1 cup of chopped carrots, 1 and a half cups of cubed potatoes, and various spices.",
+            "scene_image_filename": "recipe_kdged6q1b0u9/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A large pot filled with rinsed lentils and chopped carrots, water being poured in, steam rising.",
+            "text": "Start by boiling lentils and carrots.",
+            "voice_over": "In a large pot, combine 2 cups of rinsed lentils, 1 cup of chopped carrots, and 4 and a half cups of water. Bring this mixture to a boil.",
+            "scene_image_filename": "recipe_kdged6q1b0u9/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "The pot partially covered, simmering with bubbles gently rising, timer showing 20 minutes.",
+            "text": "Simmer for 20 minutes.",
+            "voice_over": "Once boiling, reduce the heat to medium-low, partially cover the pot, and let it simmer for 20 minutes.",
+            "scene_image_filename": "recipe_kdged6q1b0u9/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Cubes of potato being added to the pot, with vibrant colors of carrot and lentils visible.",
+            "text": "Add potatoes for more texture.",
+            "voice_over": "Now, add in 1 and a half cups of cubed potatoes and cook for an additional 15 to 20 minutes, until tender.",
+            "scene_image_filename": "recipe_kdged6q1b0u9/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up of the sambhar, a wooden spoon stirring it, with visible lentils and vegetables.",
+            "text": "Adjust consistency if needed.",
+            "voice_over": "Check the consistency; if it\u2019s too thick, stir in an extra half to one cup of water.",
+            "scene_image_filename": "recipe_kdged6q1b0u9/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Cooking spices in a frying pan, mustard seeds starting to pop, a vibrant mix of colors.",
+            "text": "Prepare the spice mixture.",
+            "voice_over": "In a small frying pan, heat a tablespoon of olive oil, add 1 teaspoon of mustard seeds, and stir until they pop. Then, add the ground spices.",
+            "scene_image_filename": "recipe_kdged6q1b0u9/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Spices beautifully displayed next to the frying pan, along with salt and lemon juice.",
+            "text": "Mix in spices with salt and lemon.",
+            "voice_over": "Stir in 2 teaspoons ground coriander, 3/4 teaspoon cumin, turmeric, crushed chili, curry powder, along with the salt and a tablespoon of lemon juice.",
+            "scene_image_filename": "recipe_kdged6q1b0u9/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Final mixing of the sambhar, vibrant colors emerging, served in a bowl with a spoon beside.",
+            "text": "Combine everything and serve!",
+            "voice_over": "Once cooked, stir in the spice mixture and serve the Sambhar hot, either over rice or with chapatis.",
+            "scene_image_filename": "recipe_kdged6q1b0u9/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A spread of sambhar, rice, chapatis, and a salad on a table ready to be enjoyed, warm colors highlighting the dish.",
+            "text": "Enjoy your homemade Sambhar!",
+            "voice_over": "Enjoy your delicious Sambhar with a side of salad or steamed collards. It\u2019s healthy and full of flavors!",
+            "scene_image_filename": "recipe_kdged6q1b0u9/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/kdged6q1b0u9-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 40,
+      "total_time_minutes": 60,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dinner",
+        "Lunch"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Lentils",
+        "Potatoes",
+        "Carrots"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Family Meal"
+      ],
+      "cooking_tips": [
+        "Adjust spiciness by varying the amount of crushed chili and curry powder according to your taste.",
+        "Add vegetables like zucchini or green beans for extra nutrition and flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/sambhar/recipe_kdged6q1b0u9/kdged6q1b0u9_main_image.jpg"
+    },
+    {
+      "id": "d36p249oj",
+      "name": "Andhra Sambhar",
+      "url": "http://keralarecipes.com/?recipe=andhra-sambhar",
+      "ingredients": [
+        "1 piece cucumber, diced",
+        "1 medium potato, cut into cubes",
+        "1 medium onion, sliced",
+        "3 green chillies, split lengthwise",
+        "1 medium tomato, chopped",
+        "2 drumsticks, cut into 2-inch pieces",
+        "8 dried red chillies",
+        "1 teaspoon coriander seeds",
+        "1 teaspoon urad dal",
+        "1 teaspoon chana dal",
+        "1 teaspoon cumin seeds (jeera)",
+        "1/4 teaspoon black pepper",
+        "1 lemon-sized piece of tamarind, soaked in warm water",
+        "3 tablespoons grated coconut",
+        "1 teaspoon poppy seeds (khus khus)",
+        "1 cup cooked split pigeon peas (dal)",
+        "1 pinch asafoetida",
+        "Salt, to taste"
+      ],
+      "directions": [
+        "Step 1: In a skillet, heat a small amount of oil over medium heat, then roast the dried red chillies, coriander seeds, urad dal, chana dal, cumin seeds, black pepper, and a pinch of fenugreek until aromatic.",
+        "Step 2: Remove from heat and grind the roasted ingredients into a fine powder. Grind the coconut and poppy seeds separately.",
+        "Step 3: In a large pot, bring a glass of water to a boil. Add the diced cucumber, split green chillies, sliced onion, and cubed potato.",
+        "Step 4: Cook these vegetables until they are half done, then add the chopped tomato and drumstick pieces.",
+        "Step 5: Once the vegetables are fully cooked, incorporate the cooked dal, ground coconut, poppy seeds, a pinch of turmeric, and asafoetida into the mixture.",
+        "Step 6: Stir in the powdered masala, soaked tamarind (along with its water), and salt. Allow the sambhar to boil until the gravy thickens.",
+        "Step 7: Optional: Season with fried fenugreek seeds and curry leaves for enhanced flavor before serving."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36p249oj-m.webp",
+      "nutrition": {
+        "calories": "200",
+        "protein": "8",
+        "carbs": "30",
+        "fat": "6",
+        "fiber": "7",
+        "sugar": "2",
+        "sodium": "500"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of Andhra Sambhar, showcasing its rich, earthy colors and diverse textures. Use natural light to accentuate the glossy surface of the curry and the vibrant green of the drumsticks and chillies. Style with a rustic wooden table as the background, complemented by a woven placemat. Garnish with fresh coriander for a pop of color. Shoot from a slightly elevated angle to emphasize the bowl's depth, using a shallow depth of field to softly blur the background while keeping the sambhar in sharp focus, evoking a warm, inviting mood.",
+      "image_filepath": "recipe_d36p249oj/main_image",
+      "video_script": {
+        "title": "Delicious Andhra Sambhar Recipe Tutorial",
+        "description": "Learn how to make traditional Andhra Sambhar with fresh vegetables and aromatic spices.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A bowl of freshly prepared Andhra Sambhar served with rice, garnished with coriander leaves and a lemon slice.",
+            "text": "Welcome to our Andhra Sambhar recipe tutorial!",
+            "voice_over": "Today, we will prepare a delicious Andhra Sambhar, a flavorful lentil stew packed with vegetables and spices.",
+            "scene_image_filename": "recipe_d36p249oj/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36p249oj-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "All ingredients laid out on a kitchen counter, grouped by type: vegetables, spices, and dal.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "For our Andhra Sambhar, we need cucumber, potato, onion, green chillies, tomato, drumsticks, spices, and cooked split pigeon peas.",
+            "scene_image_filename": "recipe_d36p249oj/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36p249oj-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A skillet on medium heat with dried red chillies and spices being roasted, releasing an aroma.",
+            "text": "Step 1: Roast spices.",
+            "voice_over": "In a skillet, heat a small amount of oil over medium heat. Roast dried red chillies, coriander seeds, urad dal, chana dal, cumin seeds, black pepper, and a pinch of fenugreek until aromatic.",
+            "scene_image_filename": "recipe_d36p249oj/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36p249oj-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A spice grinder with roasted spices being ground into a fine powder next to ground coconut and poppy seeds.",
+            "text": "Step 2: Grind the spices.",
+            "voice_over": "Remove from heat and grind the roasted ingredients into a fine powder. Grind the coconut and poppy seeds separately.",
+            "scene_image_filename": "recipe_d36p249oj/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36p249oj-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A large pot on the stove filled with boiling water and diced cucumber, green chillies, onion, and potato.",
+            "text": "Step 3: Boil vegetables.",
+            "voice_over": "In a large pot, bring a glass of water to a boil. Add diced cucumber, split green chillies, sliced onion, and cubed potato. Cook until half done.",
+            "scene_image_filename": "recipe_d36p249oj/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36p249oj-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "The pot now contains chopped tomatoes and drumstick pieces added to the softening vegetables.",
+            "text": "Step 4: Add more vegetables.",
+            "voice_over": "Once the vegetables are half cooked, add chopped tomato and drumstick pieces and continue cooking.",
+            "scene_image_filename": "recipe_d36p249oj/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36p249oj-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Showing the addition of cooked dal, ground coconut, and other spices into the pot for cooking.",
+            "text": "Step 5: Combine ingredients.",
+            "voice_over": "Once fully cooked, stir in the cooked dal, ground coconut, poppy seeds, turmeric, and asafoetida into the mixture.",
+            "scene_image_filename": "recipe_d36p249oj/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36p249oj-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "The pot containing sambhar with the addition of tamarind water, spices, and seasoning, bubbling on the stove.",
+            "text": "Step 6: Simmer and season.",
+            "voice_over": "Incorporate the powdered masala, soaked tamarind with its water, and salt. Allow the sambhar to boil until the gravy thickens.",
+            "scene_image_filename": "recipe_d36p249oj/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36p249oj-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Fried fenugreek seeds and curry leaves being added for seasoning in a frying pan.",
+            "text": "Step 7: Enhance flavor (Optional).",
+            "voice_over": "Optional: Season with fried fenugreek seeds and curry leaves for enhanced flavor before serving.",
+            "scene_image_filename": "recipe_d36p249oj/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36p249oj-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "A beautifully plated bowl of Andhra Sambhar with a side of rice, garnished with coriander, and served with a lemon wedge.",
+            "text": "Enjoy your Andhra Sambhar!",
+            "voice_over": "Your delicious Andhra Sambhar is ready. Serve hot with rice or idli for a perfect meal!",
+            "scene_image_filename": "recipe_d36p249oj/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36p249oj-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Cucumber",
+        "Potato",
+        "Onion",
+        "Green Chilies",
+        "Tomato",
+        "Drumsticks",
+        "Spices",
+        "Lentils",
+        "Coconut"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Comfort Food"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, allow the sambhar to rest for 15 minutes before serving.",
+        "Adjust the spice level by varying the number of green and red chillies used."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/sambhar/recipe_d36p249oj/d36p249oj_main_image.jpg"
+    },
+    {
+      "id": "fks5o6s9kftmfk",
+      "name": "Lemon Rice",
+      "url": "http://mytastycurry.com/lemon-rice-how-to-cook-lemon-rice",
+      "ingredients": [
+        "2 cups cooked basmati rice (or leftover rice)",
+        "2 tablespoons vegetable oil",
+        "1 teaspoon mustard seeds",
+        "3 sprigs curry leaves",
+        "2 green chilies, chopped",
+        "2 tablespoons cashew nuts",
+        "1 tablespoon chana dal (split Bengal gram)",
+        "1 teaspoon turmeric powder",
+        "2 tablespoons fresh lemon juice",
+        "Salt to taste",
+        "1.5 tablespoons ghee"
+      ],
+      "directions": [
+        "Step 1: Heat 1.5 tablespoons of ghee in a pan. Add the cashew nuts and fry until they turn golden brown, approximately 1 minute. Remove from the pan and set aside.",
+        "Step 2: In the same pan, add the mustard seeds. Once they start to crackle, add the chana dal, chopped green chilies, and curry leaves. Saut\u00e9 for about 2-3 minutes until fragrant.",
+        "Step 3: Add the turmeric powder and salt, mixing well. Gently fold in the cooked rice, taking care not to break the rice grains while ensuring that everything is evenly combined.",
+        "Step 4: Drizzle the fresh lemon juice over the rice and mix lightly. Serve hot, accompanied by Rasam, sambhar, or coconut chutney."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks5o6s9kftmfk-m.webp",
+      "nutrition": {
+        "calories": "250",
+        "protein": "6 grams",
+        "carbs": "37 grams",
+        "fat": "10 grams",
+        "fiber": "2 grams",
+        "sugar": "1 gram",
+        "sodium": "200 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of Lemon Rice, styled elegantly with a sprinkle of fresh cilantro on top, set against a rustic wooden table. Use natural light to enhance the golden hues of the turmeric and the bright green of the curry leaves, creating a warm and inviting mood. Position the dish at a slight angle to emphasize texture, with a shallow depth of field to softly blur the background. Add props like a small lemon half and a pair of chopsticks for an enticing composition.",
+      "image_filepath": "recipe_fks5o6s9kftmfk/main_image",
+      "video_script": {
+        "title": "Delicious Lemon Rice Recipe Tutorial",
+        "description": "Learn how to make flavorful Lemon Rice, a perfect dish to brighten up your meals with a zesty twist.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of lemon rice garnished with fresh coriander, accompanied by Rasam and coconut chutney on the side.",
+            "text": "Welcome to our Lemon Rice tutorial!",
+            "voice_over": "In this video, we will learn to make Lemon Rice, a tangy and delicious dish that's easy to prepare and full of flavor.",
+            "scene_image_filename": "recipe_fks5o6s9kftmfk/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5o6s9kftmfk-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "An overview of the ingredients displayed on a kitchen counter, including basmati rice, ghee, mustard seeds, and green chilies.",
+            "text": "Here are the ingredients you'll need.",
+            "voice_over": "For this recipe, you'll need 2 cups of cooked basmati rice, vegetable oil, mustard seeds, curry leaves, green chilies, cashew nuts, chana dal, turmeric powder, fresh lemon juice, and salt.",
+            "scene_image_filename": "recipe_fks5o6s9kftmfk/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5o6s9kftmfk-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A frying pan on the stove with ghee melting, cashew nuts ready to be added.",
+            "text": "Step 1: Fry the cashews in ghee.",
+            "voice_over": "Heat 1.5 tablespoons of ghee in a pan over medium heat. Add the cashew nuts and fry until they turn golden brown, approximately 1 minute. Remove and set aside.",
+            "scene_image_filename": "recipe_fks5o6s9kftmfk/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5o6s9kftmfk-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Mustard seeds crackling in the pan, with chana dal and green chilies prepared on a chopping board.",
+            "text": "Step 2: Add mustard seeds and saut\u00e9.",
+            "voice_over": "In the same pan, add the mustard seeds. Once they start to crackle, add the chana dal, chopped green chilies, and curry leaves. Saut\u00e9 for about 2-3 minutes until fragrant.",
+            "scene_image_filename": "recipe_fks5o6s9kftmfk/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5o6s9kftmfk-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Ingredients being added to the pan: turmeric powder, salt, and cooked basmati rice being folded in.",
+            "text": "Step 3: Mix in rice and season.",
+            "voice_over": "Add the turmeric powder and salt, mixing well. Gently fold in the cooked rice, ensuring everything is evenly combined and the rice grains remain intact.",
+            "scene_image_filename": "recipe_fks5o6s9kftmfk/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5o6s9kftmfk-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A hand drizzling fresh lemon juice over the rice in the pan, mixing the ingredients.",
+            "text": "Step 4: Add lemon juice.",
+            "voice_over": "Drizzle the fresh lemon juice over the rice and mix lightly. This adds a bright, tangy flavor that makes this dish special.",
+            "scene_image_filename": "recipe_fks5o6s9kftmfk/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5o6s9kftmfk-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "The lemon rice being served in a traditional bowl, garnished with coriander leaves and served with side dishes.",
+            "text": "Serve hot and enjoy!",
+            "voice_over": "Serve the Lemon Rice hot, accompanied by Rasam, sambhar, or coconut chutney for a complete meal.",
+            "scene_image_filename": "recipe_fks5o6s9kftmfk/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5o6s9kftmfk-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "A close-up of the finished lemon rice dish with a fork ready to dig in, highlighting its vibrant yellow color.",
+            "text": "Enjoy your Lemon Rice!",
+            "voice_over": "Enjoy your freshly made Lemon Rice, packed with flavor and perfect for any occasion!",
+            "scene_image_filename": "recipe_fks5o6s9kftmfk/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5o6s9kftmfk-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 20,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Rice",
+        "Lemon",
+        "Cashew Nuts",
+        "Chili"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Adjust the amount of green chilies based on your spice preference.",
+        "Use freshly cooked rice for the best texture and flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/sambhar/recipe_fks5o6s9kftmfk/fks5o6s9kftmfk_main_image.jpg"
+    },
+    {
+      "id": "d36867lh3",
+      "name": "Authentic Rava Idli",
+      "url": "http://chefdehome.com/Recipes/116/authentic-rava-idli",
+      "ingredients": [
+        "2 cups semolina (Rava/Sooji), dry",
+        "4 tablespoons yogurt, plain",
+        "1/2 teaspoon salt, fine",
+        "1 tablespoon canola oil, for greasing",
+        "1/4 teaspoon baking soda, or 1 sachet of Eno Fruit Salt",
+        "1 cup water, as needed"
+      ],
+      "directions": [
+        "1. In a mixing bowl, combine the semolina, yogurt, and salt. Mix thoroughly until well combined, but do not add baking soda or Eno yet.",
+        "2. Gradually add water to the dry mixture while stirring until a smooth, thick batter forms. If the mixture is too thick, add a small amount of water as needed.",
+        "3. Once the batter is smooth, gently fold in the baking soda or Eno. Mix quickly to incorporate without over-stirring.",
+        "4. Grease the idli maker tray generously with canola oil to prevent sticking.",
+        "5. Pour a small amount of the idli batter into each section of the idli tray. Place the tray in a steamer and cover. Steam for 5-7 minutes.",
+        "6. Once done, remove from the steamer and perform the toothpick test to check for doneness. If the toothpick comes out clean, the idlis are ready.",
+        "7. Use a spoon or idli scraper to gently remove the idlis from the tray. Serve hot with sambhar and chutney."
+      ],
+      "duration": "27 minutes ",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36867lh3-m.webp",
+      "nutrition": {
+        "calories": "120 per serving",
+        "protein": "3 grams per serving",
+        "carbs": "20 grams per serving",
+        "fat": "4 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "1 gram per serving",
+        "sodium": "150 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stunning overhead shot of fluffy, steaming Authentic Rava Idli arranged on a rustic wooden platter. Use soft, diffused natural light to enhance the idlis' texture and the creamy yogurt served alongside. Incorporate fresh coriander leaves and a small bowl of vibrant coconut chutney for color contrast. Select a light, textured linen backdrop to add warmth. Employ a shallow depth of field to keep the focus on the idlis, creating a cozy, inviting mood perfect for a food magazine spread.",
+      "image_filepath": "recipe_d36867lh3/main_image",
+      "video_script": {
+        "title": "Authentic Rava Idli Recipe Tutorial",
+        "description": "Learn how to make authentic Rava Idli, a delicious and fluffy South Indian dish, perfect for breakfast or snacks!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of soft and fluffy Rava Idlis served with colorful chutneys and steaming sambhar.",
+            "text": "Welcome to our Authentic Rava Idli tutorial!",
+            "voice_over": "In this video, we'll show you how to prepare the perfect Rava Idli, a delicious South Indian delicacy.",
+            "scene_image_filename": "recipe_d36867lh3/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "Ingredients laid out on a counter: semolina, yogurt, salt, canola oil, baking soda, and water.",
+            "text": "Ingredients: Semolina, Yogurt, Salt, Oil, Baking Soda, Water.",
+            "voice_over": "Here are the ingredients you'll need: 2 cups of semolina, 4 tablespoons of yogurt, 1/2 teaspoon of salt, and a few more items.",
+            "scene_image_filename": "recipe_d36867lh3/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A mixing bowl with semolina and yogurt being mixed.",
+            "text": "Mix semolina, yogurt, and salt.",
+            "voice_over": "In a mixing bowl, combine 2 cups of semolina, 4 tablespoons of yogurt, and 1/2 teaspoon of salt until well mixed.",
+            "scene_image_filename": "recipe_d36867lh3/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A thick batter being stirred in a bowl with water being added gradually.",
+            "text": "Add water to form a smooth batter.",
+            "voice_over": "Gradually add water while stirring until you have a smooth, thick batter. If it\u2019s too thick, add a little more water as needed.",
+            "scene_image_filename": "recipe_d36867lh3/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Baking soda being folded into the batter in a mixing bowl.",
+            "text": "Fold in baking soda or Eno quickly.",
+            "voice_over": "Gently fold in 1/4 teaspoon of baking soda or a sachet of Eno Fruit Salt, and mix quickly without over-stirring.",
+            "scene_image_filename": "recipe_d36867lh3/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Idli maker tray being greased with canola oil.",
+            "text": "Grease the idli maker tray.",
+            "voice_over": "Generously grease the idli maker tray with 1 tablespoon of canola oil to prevent sticking.",
+            "scene_image_filename": "recipe_d36867lh3/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Idli batter poured into the idli tray sections, ready to be steamed.",
+            "text": "Pour the batter into idli tray.",
+            "voice_over": "Pour a small amount of batter into each section of the greased tray. Place it in a steamer and cover.",
+            "scene_image_filename": "recipe_d36867lh3/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Steamer with idli tray steaming.",
+            "text": "Steam for 5-7 minutes.",
+            "voice_over": "Steam the idlis for 5-7 minutes. You can check the water level to ensure it doesn't dry out.",
+            "scene_image_filename": "recipe_d36867lh3/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Toothpick test being performed on an idli.",
+            "text": "Check for doneness with a toothpick.",
+            "voice_over": "Once done, remove the tray and check for doneness using a toothpick. If it comes out clean, your idlis are ready!",
+            "scene_image_filename": "recipe_d36867lh3/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Idlis being gently removed from the tray with a spoon.",
+            "text": "Remove idlis and serve hot.",
+            "voice_over": "Gently remove the idlis from the tray using a spoon. Serve them hot with sambhar and chutney.",
+            "scene_image_filename": "recipe_d36867lh3/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "A table setting with Rava Idlis, sambhar, and chutney beautifully arranged.",
+            "text": "Enjoy your delicious Rava Idlis!",
+            "voice_over": "And there you have it, delicious and fluffy Rava Idlis, perfect for any meal time. Enjoy!",
+            "scene_image_filename": "recipe_d36867lh3/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36867lh3-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 20,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Breakfast",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Semolina",
+        "Dairy",
+        "Canola Oil"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure that the batter is not too thin to keep the idli shape.",
+        "Serve idlis immediately after cooking for the best texture."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/sambhar/recipe_d36867lh3/d36867lh3_main_image.jpg"
+    },
+    {
+      "id": "d367ocdah",
+      "name": "Fermented Dosa",
+      "url": "http://chefdehome.com/Recipes/7/dosa",
+      "ingredients": [
+        "2 cups basmati rice, rinsed and soaked for 3-4 hours",
+        "1 cup toor dal (yellow pigeon peas), rinsed and soaked for 3-4 hours",
+        "1/2 teaspoon salt, to taste",
+        "1-2 tablespoons canola oil, for cooking"
+      ],
+      "directions": [
+        "Step 1: Rinse the basmati rice and toor dal separately under running water until the water runs clear, then soak them in ample water for 3-4 hours. After soaking, drain them thoroughly.",
+        "Step 2: Grind the soaked toor dal to a very fine paste. Grind the soaked basmati rice until it resembles fine semolina. Add water as needed to achieve the right consistency.",
+        "Step 3: Combine the ground rice and dal in a mixing bowl. Add salt and mix well. Cover the mixture and let it ferment for 4-5 hours, preferably overnight in a warm location. (Optionally, add 1/2 teaspoon of sodium bicarbonate to speed up fermentation.)",
+        "Step 4: Preheat an iron griddle over medium-high heat and add 1/4 teaspoon of oil to coat the surface lightly. Pour a ladleful of the fermented batter in the center and quickly spread it into a thin, round shape.",
+        "Step 5: Drizzle 1/2 teaspoon of oil around the edges of the dosa to prevent sticking. Cook until the bottom is golden brown, approximately 2-3 minutes, then flip and cook the other side on low heat for an additional 2 minutes.",
+        "Step 6: Serve the dosa hot with sambhar, tomato chutney, or onion chutney."
+      ],
+      "duration": "30 minutes ",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d367ocdah-m.webp",
+      "nutrition": {
+        "calories": "130 per serving",
+        "protein": "4 grams per serving",
+        "carbs": "25 grams per serving",
+        "fat": "4 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "0 grams per serving",
+        "sodium": "200 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up shot of a golden-brown fermented dosa, delicately folded and served on a rustic wooden board. Use natural light to enhance the dosa's crispy texture and warm hues. Surround it with colorful accompaniments like coconut chutney and sambar in small, handcrafted bowls. Incorporate fresh curry leaves and a sprinkle of coriander for garnish. Opt for a shallow depth of field to blur the background, focusing on the dosa, creating an inviting and homely mood.",
+      "image_filepath": "recipe_d367ocdah/main_image",
+      "video_script": {
+        "title": "Delicious Fermented Dosa Recipe",
+        "description": "Learn how to make traditional fermented dosa from scratch with this easy tutorial.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully plated dosa served with sambhar and chutneys, showcasing the golden brown color and crispy texture.",
+            "text": "Welcome to our Fermented Dosa tutorial!",
+            "voice_over": "In this video, we'll show you how to make delicious, crispy fermented dosas, perfect for any meal.",
+            "scene_image_filename": "recipe_d367ocdah/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367ocdah-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Close-up view of ingredients: basmati rice, toor dal, salt, and canola oil arranged neatly on a countertop.",
+            "text": "Ingredients for Fermented Dosa.",
+            "voice_over": "For this recipe, you'll need 2 cups of basmati rice, 1 cup of toor dal, salt to taste, and canola oil for cooking.",
+            "scene_image_filename": "recipe_d367ocdah/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367ocdah-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "Steps showing rinsing basmati rice and toor dal under running water until clear, followed by soaking them in bowls.",
+            "text": "Rinse and soak the rice and dal.",
+            "voice_over": "Begin by rinsing the basmati rice and toor dal under running water until clear. Soak them in ample water for 3 to 4 hours.",
+            "scene_image_filename": "recipe_d367ocdah/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367ocdah-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 7,
+            "image_prompt": "A blender grinding the soaked toor dal into a fine paste, with rice in a separate bowl being ground into a coarse texture.",
+            "text": "Grind the soaked ingredients.",
+            "voice_over": "After soaking, drain the rice and dal. Grind the toor dal to a fine paste and the rice until it resembles fine semolina, adjusting with water as needed.",
+            "scene_image_filename": "recipe_d367ocdah/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367ocdah-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A mixing bowl filled with the combined ground rice and dal mixture being seasoned with salt.",
+            "text": "Combine and ferment.",
+            "voice_over": "In a mixing bowl, combine the ground rice and dal, add salt, and mix well. Cover and let it ferment for 4 to 5 hours, or overnight for best results.",
+            "scene_image_filename": "recipe_d367ocdah/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367ocdah-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "An iron griddle preheating on the stove, oil being drizzled around the surface.",
+            "text": "Preheat the griddle.",
+            "voice_over": "Preheat an iron griddle over medium-high heat. Lightly coat it with 1/4 teaspoon of oil.",
+            "scene_image_filename": "recipe_d367ocdah/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367ocdah-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "A ladle of fermented dosa batter being poured onto the griddle and spread into a thin round shape.",
+            "text": "Spread the batter.",
+            "voice_over": "Pour a ladleful of fermented batter into the center of the griddle and quickly spread it into a thin round shape.",
+            "scene_image_filename": "recipe_d367ocdah/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367ocdah-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Dosa cooking on the griddle, edges getting crispy and golden brown.",
+            "text": "Cook until golden brown.",
+            "voice_over": "Drizzle 1/2 teaspoon of oil around the edges to prevent sticking. Cook until the bottom is golden brown, about 2 to 3 minutes, then flip and cook for an additional 2 minutes on low heat.",
+            "scene_image_filename": "recipe_d367ocdah/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367ocdah-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "A plate of freshly made dosa served with sambhar and chutney, with a sprinkle of fresh herbs on top.",
+            "text": "Serve hot and enjoy!",
+            "voice_over": "Serve the dosa hot with sambhar, tomato chutney, or onion chutney for a delightful treat.",
+            "scene_image_filename": "recipe_d367ocdah/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367ocdah-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 240,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 270,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Breakfast",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Rice",
+        "Legumes"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the griddle is hot enough before pouring the batter for a crispy dosa.",
+        "Adjust the consistency of the batter with water before cooking to ensure easy spreading.",
+        "Storing leftover batter in the refrigerator can extend its freshness for a day or two."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/sambhar/recipe_d367ocdah/d367ocdah_main_image.jpg"
+    }
+  ]
+}
