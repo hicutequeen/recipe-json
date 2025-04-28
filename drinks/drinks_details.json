@@ -1,0 +1,3372 @@
+{
+  "recipes": [
+    {
+      "id": "2s93nvurtq020",
+      "name": "Brazilian Pineapple-Orange Refresher",
+      "url": "http://www.food.com/recipe/pineapple-orange-drink-brazilian-456874",
+      "ingredients": [
+        "1/2 cup orange juice",
+        "1/2 cup pineapple juice",
+        "2 tablespoons crushed ice",
+        "2 tablespoons sparkling water or seltzer water"
+      ],
+      "directions": [
+        "Step 1: Combine the crushed ice and sparkling water or seltzer water in a large drinking glass.",
+        "Step 2: Add the orange juice and pineapple juice.",
+        "Step 3: Stir well.",
+        "Step 4: Serve immediately."
+      ],
+      "duration": "5 mins",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/2s93nvurtq020-m.webp",
+      "nutrition": {
+        "calories": "100-120 per serving",
+        "protein": "0-1 grams per serving",
+        "carbs": "25-30 grams per serving",
+        "fat": "0-1 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "20-25 grams per serving",
+        "sodium": "0-5 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a Brazilian Pineapple-Orange Refresher in a tall, slender glass with condensation, against a vibrant tropical backdrop. Use backlighting to highlight the effervescence and vibrant orange-yellow hues. Garnish with a small pineapple wedge and orange slice on the rim.  Focus sharply on the center of the beverage, with a shallow depth of field blurring the background. The mood should be refreshing and inviting, suggestive of a tropical getaway. Compose the shot from a slightly elevated angle, showcasing the drink's texture and ice.  Include a few droplets of condensation on the glass surface.",
+      "image_filepath": "recipe_2s93nvurtq020/main_image",
+      "video_script": {
+        "title": "Brazilian Pineapple-Orange Refresher",
+        "description": "A quick and easy tropical refresher perfect for a hot day.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up of a refreshing glass of Brazilian Pineapple-Orange Refresher, garnished with a pineapple wedge and orange slice. The drink is ice-cold with condensation on the glass. Bright, tropical background.",
+            "text": "Brazilian Pineapple-Orange Refresher",
+            "voice_over": "Beat the heat with this simple, 2-minute Brazilian Pineapple-Orange Refresher. It's the perfect blend of sweet and tangy, with a bubbly kick!",
+            "scene_image_filename": "recipe_2s93nvurtq020/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2s93nvurtq020-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients for the refresher displayed on a table: orange juice, pineapple juice, sparkling water, and crushed ice.  Focus on the freshness of the ingredients.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: half a cup of orange juice, half a cup of pineapple juice, two tablespoons of crushed ice, and two tablespoons of sparkling water or seltzer water.",
+            "scene_image_filename": "recipe_2s93nvurtq020/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2s93nvurtq020-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A large drinking glass being filled with crushed ice.",
+            "text": "Ice",
+            "voice_over": "First, fill a large glass with two tablespoons of crushed ice.",
+            "scene_image_filename": "recipe_2s93nvurtq020/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2s93nvurtq020-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Sparkling water or seltzer water being poured over the crushed ice in the glass.",
+            "text": "Sparkling Water",
+            "voice_over": "Add two tablespoons of sparkling water or seltzer water to the glass.",
+            "scene_image_filename": "recipe_2s93nvurtq020/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2s93nvurtq020-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Pineapple juice being poured into the glass with ice and sparkling water.",
+            "text": "Pineapple Juice",
+            "voice_over": "Next, pour in half a cup of pineapple juice.",
+            "scene_image_filename": "recipe_2s93nvurtq020/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2s93nvurtq020-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Orange juice being added to the glass with the other ingredients.",
+            "text": "Orange Juice",
+            "voice_over": "Now, add half a cup of orange juice.",
+            "scene_image_filename": "recipe_2s93nvurtq020/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2s93nvurtq020-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Stirring the contents of the glass with a spoon or stirrer.",
+            "text": "Stir",
+            "voice_over": "Stir everything together well to combine.",
+            "scene_image_filename": "recipe_2s93nvurtq020/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2s93nvurtq020-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The finished Brazilian Pineapple-Orange Refresher garnished with pineapple wedge and orange slice. In the background, blurred images of other serving suggestions: sliced fruit, berries, and small cookies.",
+            "text": "Enjoy!",
+            "voice_over": "Serve immediately and enjoy! This refreshing drink is around 100-120 calories, with less than a gram each of protein and fat, and about 25-30 grams of carbs per serving.  For an extra touch, garnish with a pineapple wedge and orange slice.  It's also delicious served with fresh fruit and cookies.",
+            "scene_image_filename": "recipe_2s93nvurtq020/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/2s93nvurtq020-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 2,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 2,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Beverage"
+      ],
+      "cuisine_type": "Brazilian",
+      "dietary_tags": [
+        "Vegan",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "ingredient_tags": [
+        "Pineapple",
+        "Orange"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a colder drink, chill the juices and sparkling water before mixing.",
+        "If you prefer a slushy consistency, blend all ingredients until smooth."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_2s93nvurtq020/2s93nvurtq020_main_image.jpg"
+    },
+    {
+      "id": "4ikv15cr0mtef",
+      "name": "Patriotic Layered Drink",
+      "url": "http://www.food.com/recipe/patriotic-drink-for-kids-175888",
+      "ingredients": [
+        "3 ounces cranberry juice (or fruit punch)",
+        "3 ounces blue Gatorade sports drink",
+        "3 ounces sugar-free 7-Up (or Sprite)",
+        "Ice cubes"
+      ],
+      "directions": [
+        "Step 1: Fill the bottom third of a tall 12-ounce clear glass with ice cubes.",
+        "Step 2: Pour in the cranberry juice (or fruit punch) to fill the bottom third of the glass. Add a few more ice cubes.",
+        "Step 3: Pour in the blue Gatorade to fill the glass two-thirds full. Add another layer of ice cubes.",
+        "Step 4: Pour in the sugar-free 7-Up (or Sprite) to fill the glass. Serve immediately and enjoy!"
+      ],
+      "duration": "10 mins",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/4ikv15cr0mtef-m.webp",
+      "nutrition": {
+        "calories": "100-150 per serving",
+        "protein": "0 grams per serving",
+        "carbs": "25-35 grams per serving",
+        "fat": "0 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "20-30 grams per serving",
+        "sodium": "20-30 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, layered Patriotic Drink in a tall, clear glass filled with ice.  Use backlighting to emphasize the red, white, and blue layers of cranberry juice, 7-Up, and blue Gatorade.  Garnish with fresh blueberries and cranberries on skewers. Compose against a rustic wooden backdrop with subtle American flag elements in the background, slightly out of focus.  A shallow depth of field should focus sharply on the middle of the drink, showcasing the bubbles and color gradient. Aim for a refreshing, festive mood.",
+      "image_filepath": "recipe_4ikv15cr0mtef/main_image",
+      "video_script": {
+        "title": "Patriotic Layered Drink",
+        "description": "A refreshing and visually appealing layered drink perfect for celebrating patriotic holidays.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished Patriotic Layered Drink in a tall clear glass with ice, showing the distinct red, white, and blue layers. Garnishes like small American flags or berries can be added.",
+            "text": "Patriotic Layered Drink",
+            "voice_over": "Beat the heat with this refreshing and festive Patriotic Layered Drink!  Perfect for any patriotic celebration, it's a simple recipe that looks impressive.",
+            "scene_image_filename": "recipe_4ikv15cr0mtef/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4ikv15cr0mtef-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Group shot featuring cranberry juice (or fruit punch), blue Gatorade, and 7-Up (or Sprite). Ice cubes are in a separate container beside these ingredients.",
+            "text": "Ingredients",
+            "voice_over": "You only need a few ingredients for this easy drink: cranberry juice for that vibrant red, blue Gatorade, and 7-Up for the fizzy white layer. You'll also need some ice.",
+            "scene_image_filename": "recipe_4ikv15cr0mtef/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4ikv15cr0mtef-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A tall clear glass being filled with ice cubes to the one-third mark.",
+            "text": "Ice",
+            "voice_over": "Start by filling a tall glass about a third of the way with ice.",
+            "scene_image_filename": "recipe_4ikv15cr0mtef/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4ikv15cr0mtef-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Cranberry juice being poured into the glass over the ice, filling the glass to the one-third mark.",
+            "text": "Cranberry Juice",
+            "voice_over": "Next, pour in your cranberry juice, filling the glass about another third of the way. Add a few more ice cubes on top.",
+            "scene_image_filename": "recipe_4ikv15cr0mtef/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4ikv15cr0mtef-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Blue Gatorade being poured into the glass, filling the glass to about the two-thirds mark. Some ice cubes are also shown.",
+            "text": "Blue Gatorade",
+            "voice_over": "Now, carefully pour in the blue Gatorade, bringing the drink level up to about two-thirds full. Add another layer of ice.",
+            "scene_image_filename": "recipe_4ikv15cr0mtef/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4ikv15cr0mtef-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "7-Up being poured gently into the glass, filling it to the top, creating a layered red, white, and blue effect. The bubbles and colors should be clearly visible.",
+            "text": "7-Up",
+            "voice_over": "Finally, top it off with the 7-Up.  Pour gently to maintain those distinct layers.",
+            "scene_image_filename": "recipe_4ikv15cr0mtef/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4ikv15cr0mtef-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The finished Patriotic Layered Drink in a tall glass with a straw. Small American flags and fresh berries are placed around the glass as garnish.  The background should be a festive setting.",
+            "text": "Enjoy!",
+            "voice_over": "Serve immediately and enjoy your refreshing Patriotic Layered Drink! It's perfect for barbecues, picnics, or any summer gathering.  Each serving has about 100-150 calories, 25-35 carbs and is fat and protein free.",
+            "scene_image_filename": "recipe_4ikv15cr0mtef/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4ikv15cr0mtef-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Beverage"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [
+        "Kid-Friendly"
+      ],
+      "ingredient_tags": [
+        "Cranberry Juice",
+        "Fruit Punch",
+        "Gatorade",
+        "7-Up",
+        "Sprite"
+      ],
+      "occasion_tags": [
+        "Holiday",
+        "Party",
+        "Summer"
+      ],
+      "cooking_tips": [
+        "For a more vibrant red layer, use cranberry juice instead of fruit punch.",
+        "If you don't have sugar-free soda, you can use regular 7-Up or Sprite, but the drink will be sweeter.",
+        "Adjust the amount of each ingredient to your liking. For a less intense flavor, use less of the fruit punch or sports drink.",
+        "Use a straw for easy sipping."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_4ikv15cr0mtef/4ikv15cr0mtef_main_image.jpg"
+    },
+    {
+      "id": "fks2brl9d2to95q",
+      "name": "Frosty Mocha",
+      "url": "http://www.tasteofhome.com/recipes/frosty-mocha-drink/",
+      "ingredients": [
+        "1 cup milk",
+        "3 tablespoons instant chocolate drink mix",
+        "2 tablespoons instant coffee granules",
+        "2 tablespoons honey",
+        "1 teaspoon vanilla extract",
+        "14-16 ice cubes"
+      ],
+      "directions": [
+        "Step 1: Combine all ingredients in a blender.",
+        "Step 2: Cover and blend until smooth.",
+        "Step 3: Pour into chilled glasses and serve immediately."
+      ],
+      "duration": "",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2brl9d2to95q-m.webp",
+      "nutrition": {
+        "calories": "143 kcal",
+        "protein": "3 g",
+        "carbs": "30 g",
+        "fat": "3 g",
+        "fiber": "0 g",
+        "sugar": "15 g",
+        "sodium": "0 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a frosty mocha in a tall, clear glass against a dark, moody backdrop.  Emphasize the drink's icy texture with condensed water droplets on the glass exterior. Use a shallow depth of field, focusing sharply on the swirling mocha mixture and ice cubes. Include a rustic wooden coaster and a small silver spoon as props. Garnish with a dusting of cocoa powder and a few coffee beans. Highlight the rich browns and creamy whites with soft, directional lighting, creating a cool, refreshing mood.  A slightly high angle shot will best showcase the drink's layers.",
+      "image_filepath": "recipe_fks2brl9d2to95q/main_image",
+      "video_script": {
+        "title": "Frosty Mocha Recipe",
+        "description": "A quick and easy recipe for a refreshing Frosty Mocha.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a frosty mocha in a tall glass with whipped cream and chocolate shavings, condensation on the glass. Background: a cozy kitchen setting.",
+            "text": "Frosty Mocha",
+            "voice_over": "Beat the heat with this frosty mocha! It's quick, easy, and oh-so-delicious.",
+            "scene_image_filename": "recipe_fks2brl9d2to95q/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2brl9d2to95q-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients arranged neatly on a countertop: milk, instant chocolate drink mix, instant coffee granules, honey, vanilla extract, and ice cubes in a container.  Warm lighting, focus on ingredients.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: milk, instant chocolate drink mix, instant coffee granules, honey, vanilla extract, and ice.",
+            "scene_image_filename": "recipe_fks2brl9d2to95q/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2brl9d2to95q-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Pouring milk, chocolate mix, coffee granules, honey, and vanilla extract into a blender.",
+            "text": "Combine Ingredients",
+            "voice_over": "Add one cup of milk, three tablespoons of instant chocolate drink mix, two tablespoons of instant coffee granules, two tablespoons of honey, and one teaspoon of vanilla extract to your blender.",
+            "scene_image_filename": "recipe_fks2brl9d2to95q/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2brl9d2to95q-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Adding ice cubes to the blender with other ingredients already inside. ",
+            "text": "Add Ice",
+            "voice_over": "Now, toss in about 14 to 16 ice cubes.",
+            "scene_image_filename": "recipe_fks2brl9d2to95q/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2brl9d2to95q-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Blender blending the frosty mocha ingredients. Show the mixture becoming smooth and frothy.",
+            "text": "Blend",
+            "voice_over": "Cover the blender and blend until the mixture is completely smooth, about 30-45 seconds.",
+            "scene_image_filename": "recipe_fks2brl9d2to95q/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2brl9d2to95q-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Pouring the blended frosty mocha into two chilled glasses. Close-up shot of the pouring process.",
+            "text": "Pour and Serve",
+            "voice_over": "Pour the frosty mocha into chilled glasses.",
+            "scene_image_filename": "recipe_fks2brl9d2to95q/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2brl9d2to95q-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Two glasses of frosty mocha on a table, garnished with whipped cream and chocolate shavings.  Soft, inviting lighting.",
+            "text": "Enjoy!",
+            "voice_over": "Serve immediately and enjoy! This frosty mocha is perfect for a quick pick-me-up or a sweet treat. It's only 143 calories with 3 grams of protein, 30 grams of carbs, and 3 grams of fat.",
+            "scene_image_filename": "recipe_fks2brl9d2to95q/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2brl9d2to95q-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Close up of a glass of frosty mocha with whipped cream and chocolate shavings, a straw in the glass. Background: blurred kitchen setting.",
+            "text": "Tips & Variations",
+            "voice_over": "For a richer flavor, use chocolate milk instead of regular milk.  You can also add a scoop of your favorite ice cream for an extra decadent treat. If you prefer a less sweet drink, adjust the honey to your taste. And don't forget to try different toppings, like whipped cream, chocolate shavings, or a drizzle of caramel.",
+            "scene_image_filename": "recipe_fks2brl9d2to95q/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2brl9d2to95q-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chocolate",
+        "Coffee",
+        "Milk"
+      ],
+      "occasion_tags": [
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "For a stronger coffee flavor, add an extra tablespoon of instant coffee granules.",
+        "If you prefer a sweeter drink, add more honey to taste.",
+        "For a thicker consistency, use fewer ice cubes."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_fks2brl9d2to95q/fks2brl9d2to95q_main_image.jpg"
+    },
+    {
+      "id": "fksrelqkp1obdp",
+      "name": "Frosty Orange Creamsicle",
+      "url": "http://www.tasteofhome.com/recipes/frosty-orange-drink/",
+      "ingredients": [
+        "1 cup water",
+        "1 cup 2% milk",
+        "1/2 cup orange breakfast drink mix",
+        "1/2 cup sugar",
+        "1 teaspoon vanilla extract",
+        "10-12 ice cubes"
+      ],
+      "directions": [
+        "Step 1: Combine all ingredients in a blender.",
+        "Step 2: Cover and blend until smooth.",
+        "Step 3: Serve immediately."
+      ],
+      "duration": "",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksrelqkp1obdp-m.webp",
+      "nutrition": {
+        "calories": "77 kcal",
+        "protein": "8 g",
+        "carbs": "16 g",
+        "fat": "0 g",
+        "fiber": "0 g",
+        "sugar": "15 g",
+        "sodium": "Not specified"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a frosty orange creamsicle in a tall, chilled glass against a light, airy backdrop of textured linen.  Use backlighting to highlight the icy texture and vibrant orange hue. Focus on the frost clinging to the glass with a shallow depth of field, blurring the simple orange slice garnish. Convey a refreshing, summertime mood with bright, natural light and a slightly overhead angle showcasing the creamy texture.  Include subtle condensation on the glass and a few scattered ice cubes on the linen.",
+      "image_filepath": "recipe_fksrelqkp1obdp/main_image",
+      "video_script": {
+        "title": "Frosty Orange Creamsicle",
+        "description": "A quick and easy recipe for a refreshing orange creamsicle treat.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a frosty orange creamsicle in a glass, garnished with an orange slice. The background is a bright summery setting.",
+            "text": "Frosty Orange Creamsicle",
+            "voice_over": "Beat the heat with this frosty orange creamsicle! It's creamy, dreamy, and ready in minutes.",
+            "scene_image_filename": "recipe_fksrelqkp1obdp/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksrelqkp1obdp-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients laid out on a table: 1 cup water, 1 cup milk, 1/2 cup orange breakfast drink mix, 1/2 cup sugar, 1 teaspoon vanilla extract, ice cubes in a bowl.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: water, milk, orange breakfast drink mix, sugar, vanilla extract, and ice.",
+            "scene_image_filename": "recipe_fksrelqkp1obdp/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksrelqkp1obdp-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Pouring all ingredients into a blender.",
+            "text": "Combine Ingredients",
+            "voice_over": "Add all ingredients - water, milk, orange drink mix, sugar, and vanilla - to a blender.",
+            "scene_image_filename": "recipe_fksrelqkp1obdp/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksrelqkp1obdp-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A blender blending the ingredients until smooth. Show the mixture becoming frothy.",
+            "text": "Blend",
+            "voice_over": "Cover and blend until the mixture is completely smooth and frothy. This should only take about 30 seconds.",
+            "scene_image_filename": "recipe_fksrelqkp1obdp/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksrelqkp1obdp-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Pouring the blended mixture into a glass filled with ice.",
+            "text": "Serve",
+            "voice_over": "Pour into a glass and serve immediately. For an extra chill, add a few more ice cubes to the glass before pouring.",
+            "scene_image_filename": "recipe_fksrelqkp1obdp/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksrelqkp1obdp-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A glass of frosty orange creamsicle, garnished with an orange slice, with a few extra orange slices and ice cubes on the side. Background is a summery table setting.",
+            "text": "Enjoy!",
+            "voice_over": "There you have it! A refreshing frosty orange creamsicle perfect for a hot day. Enjoy!  This recipe is easily customizable. Add more or less sugar to taste, or try using a different flavored breakfast drink mix for a variety of flavors.",
+            "scene_image_filename": "recipe_fksrelqkp1obdp/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksrelqkp1obdp-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Orange",
+        "Milk",
+        "Vanilla"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker consistency, use frozen orange juice concentrate instead of the breakfast drink mix.",
+        "Add a pinch of orange zest for an extra burst of flavor.",
+        "Garnish with a whipped cream topping and an orange slice."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_fksrelqkp1obdp/fksrelqkp1obdp_main_image.jpg"
+    },
+    {
+      "id": "306pdft1qpi1i",
+      "name": "Creamy Jello Delight",
+      "url": "http://www.food.com/recipe/jello-drink-324254",
+      "ingredients": [
+        "2 cups prepared gelatin (any flavor, sugar-free recommended)",
+        "1 cup 1% low-fat milk"
+      ],
+      "directions": [
+        "Step 1: Combine the prepared gelatin and milk in a blender.",
+        "Step 2: Blend for approximately 5 seconds until smooth.",
+        "Step 3: Pour the mixture into two glasses and serve immediately."
+      ],
+      "duration": "2 mins",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/306pdft1qpi1i-m.webp",
+      "nutrition": {
+        "calories": "100-150 per serving",
+        "protein": "2-3 grams per serving",
+        "carbs": "20-25 grams per serving",
+        "fat": "1-2 grams per serving",
+        "fiber": "0-1 grams per serving",
+        "sugar": "15-20 grams per serving",
+        "sodium": "50-100 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of Creamy Jello Delight in a clear glass dessert bowl, garnished with a few fresh berries and a sprig of mint. Use a shallow depth of field to focus sharply on the jiggly texture of the jello and the glistening berries, letting the background softly blur.  Employ bright, diffused natural light to showcase the vibrant color of the gelatin and the creamy white swirls from the milk.  A light, airy mood should be conveyed through a minimalist background of white linen and a few strategically placed silver utensils.",
+      "image_filepath": "recipe_306pdft1qpi1i/main_image",
+      "video_script": {
+        "title": "Creamy Jello Delight: A Quick and Healthy Treat",
+        "description": "Learn how to make a delicious and refreshing Creamy Jello Delight in just minutes! This simple recipe uses only two ingredients and is perfect for a light dessert or snack.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses of Creamy Jello Delight, garnished with fresh berries. The dessert looks light, airy, and refreshing.",
+            "text": "Creamy Jello Delight",
+            "voice_over": "Indulge in a guilt-free treat with this Creamy Jello Delight! It's quick, easy, and incredibly delicious.",
+            "scene_image_filename": "recipe_306pdft1qpi1i/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/306pdft1qpi1i-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Text-based graphic displaying the ingredients: 2 cups prepared gelatin (any flavor, sugar-free recommended), 1 cup 1% low-fat milk.",
+            "text": "Ingredients",
+            "voice_over": "For this delightful recipe, you'll need just two simple ingredients: two cups of prepared gelatin, any flavor you like - sugar-free is recommended - and one cup of 1% low-fat milk.",
+            "scene_image_filename": "recipe_306pdft1qpi1i/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/306pdft1qpi1i-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A blender containing prepared gelatin and milk.",
+            "text": "Combine Ingredients",
+            "voice_over": "First, combine the prepared gelatin and milk in a blender.",
+            "scene_image_filename": "recipe_306pdft1qpi1i/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/306pdft1qpi1i-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A blender blending the gelatin and milk mixture until smooth.",
+            "text": "Blend",
+            "voice_over": "Blend for about 5 seconds until the mixture is completely smooth.  Don't over-blend!",
+            "scene_image_filename": "recipe_306pdft1qpi1i/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/306pdft1qpi1i-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Pouring the blended mixture into two glasses.",
+            "text": "Pour and Serve",
+            "voice_over": "Carefully pour the creamy mixture into two glasses. You can chill them for a firmer texture if you'd like, or enjoy immediately!",
+            "scene_image_filename": "recipe_306pdft1qpi1i/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/306pdft1qpi1i-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Two glasses of Creamy Jello Delight, ready to be served, garnished with fresh mint leaves and a few berries on the side.",
+            "text": "Enjoy!",
+            "voice_over": "And that's it! Your Creamy Jello Delight is ready to be enjoyed. It's a perfect light dessert or snack. This recipe is approximately 100-150 calories per serving with 2-3 grams of protein, 20-25 grams of carbs, and only 1-2 grams of fat. Try it with your favorite gelatin flavor and garnish with fresh berries or mint.",
+            "scene_image_filename": "recipe_306pdft1qpi1i/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/306pdft1qpi1i-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Gelatin",
+        "Milk"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker consistency, use less milk. For a thinner consistency, use more milk.",
+        "Chill the glasses beforehand for an extra refreshing treat.",
+        "Garnish with whipped cream or fresh fruit for added flavor and presentation."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_306pdft1qpi1i/306pdft1qpi1i_main_image.jpg"
+    },
+    {
+      "id": "18pekc11obtq3",
+      "name": "Boomette's Tropical Punch",
+      "url": "http://www.food.com/recipe/boomettes-drink-281442",
+      "ingredients": [
+        "1 ounce white rum",
+        "1 ounce peach schnapps",
+        "1 ounce vodka",
+        "2 ounces pineapple juice",
+        "5 ounces orange juice",
+        "1/2 lime, juiced"
+      ],
+      "directions": [
+        "Step 1: Fill a cocktail shaker with ice.",
+        "Step 2: Add the white rum, peach schnapps, vodka, pineapple juice, orange juice, and lime juice to the shaker.",
+        "Step 3: Close the lid tightly and shake vigorously for 15-20 seconds.",
+        "Step 4: Strain the mixture into two cocktail glasses or one hurricane glass.",
+        "Step 5: Garnish with a lime slice, orange slice, or any other fruit of your choice."
+      ],
+      "duration": "2 mins",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/18pekc11obtq3-m.webp",
+      "nutrition": {
+        "calories": "250-300 per serving",
+        "protein": "0 grams per serving",
+        "carbs": "30-40 grams per serving",
+        "fat": "0 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "25-35 grams per serving",
+        "sodium": "5 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture Boomette's Tropical Punch in a vibrant, high-key setting with diffused natural light. Style the cocktail in a tall, elegant glass with a condensation-kissed surface, garnished with a thin pineapple wedge and a lime wheel.  Focus on the drink's surface, creating a shallow depth of field to blur the exotic floral background slightly.  Compose the shot with a slightly overhead angle, showcasing the vibrant orange hue and textured garnishes. Convey a refreshing, summery mood through bright colors and sparkling highlights.",
+      "image_filepath": "recipe_18pekc11obtq3/main_image",
+      "video_script": {
+        "title": "Boomette's Tropical Punch",
+        "description": "Learn how to make this refreshing and easy tropical punch cocktail perfect for any occasion.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up of two hurricane glasses filled with Boomette's Tropical Punch, garnished with lime and orange slices. The background is a tropical beach setting with palm trees and clear blue water.",
+            "text": "Boomette's Tropical Punch",
+            "voice_over": "Escape to paradise with Boomette's Tropical Punch! This vibrant cocktail is a delicious blend of fruity flavors and smooth spirits. It's perfect for parties or a relaxing evening at home. Let's get started!",
+            "scene_image_filename": "recipe_18pekc11obtq3/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/18pekc11obtq3-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display the ingredients: White rum, peach schnapps, vodka, pineapple juice, orange juice, and a half lime.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one ounce of white rum, one ounce of peach schnapps, one ounce of vodka, two ounces of pineapple juice, five ounces of orange juice, and the juice of half a lime.",
+            "scene_image_filename": "recipe_18pekc11obtq3/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/18pekc11obtq3-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A cocktail shaker filled with ice.",
+            "text": "Chill",
+            "voice_over": "First, fill your cocktail shaker with ice. This will ensure your drink is perfectly chilled.",
+            "scene_image_filename": "recipe_18pekc11obtq3/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/18pekc11obtq3-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Pouring the liquors and juices into the cocktail shaker filled with ice.",
+            "text": "Combine",
+            "voice_over": "Now, add the white rum, peach schnapps, vodka, pineapple juice, orange juice, and lime juice to the shaker.",
+            "scene_image_filename": "recipe_18pekc11obtq3/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/18pekc11obtq3-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A hand shaking a cocktail shaker vigorously.",
+            "text": "Shake",
+            "voice_over": "Secure the lid tightly and shake vigorously for about 15-20 seconds. This mixes the ingredients thoroughly and creates a nice frothy texture.",
+            "scene_image_filename": "recipe_18pekc11obtq3/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/18pekc11obtq3-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Straining the mixture from the cocktail shaker into two cocktail glasses filled with ice.",
+            "text": "Strain",
+            "voice_over": "Strain the mix into two cocktail glasses filled with ice, or one large hurricane glass.",
+            "scene_image_filename": "recipe_18pekc11obtq3/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/18pekc11obtq3-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Garnishing the cocktail with a lime and an orange slice. ",
+            "text": "Garnish",
+            "voice_over": "Finally, garnish your drink with a lime slice, an orange slice, or any other fruit you prefer.  Get creative!",
+            "scene_image_filename": "recipe_18pekc11obtq3/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/18pekc11obtq3-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Two hurricane glasses filled with Boomette's Tropical Punch, garnished with lime and orange slices. In the background, there's a platter of tropical fruits like pineapple, mango, and kiwi.",
+            "text": "Enjoy!",
+            "voice_over": "There you have it! Boomette's Tropical Punch, ready to enjoy. This refreshing cocktail pairs perfectly with fresh fruit and light snacks. Each serving contains approximately 250 to 300 calories, 30 to 40 grams of carbs, and zero fat or protein. Cheers!",
+            "scene_image_filename": "recipe_18pekc11obtq3/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/18pekc11obtq3-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Drink",
+        "Cocktail"
+      ],
+      "cuisine_type": "Tropical",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Rum",
+        "Peach Schnapps",
+        "Vodka",
+        "Pineapple Juice",
+        "Orange Juice",
+        "Lime"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Casual Gathering"
+      ],
+      "cooking_tips": [
+        "For a sweeter drink, add a splash of grenadine or simple syrup.",
+        "If you don't have a cocktail shaker, you can use a mason jar with a tight-fitting lid.",
+        "Adjust the amount of each ingredient to your liking."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_18pekc11obtq3/18pekc11obtq3_main_image.jpg"
+    },
+    {
+      "id": "40622b1f57mia",
+      "name": "Valentine's Day Kiss",
+      "url": "http://www.food.com/recipe/valentine-drink-177984",
+      "ingredients": [
+        "2 ounces banana liqueur",
+        "1 ounce vodka",
+        "3 ounces cranberry juice",
+        "Ice cubes"
+      ],
+      "directions": [
+        "Step 1: Fill a cocktail shaker with ice cubes.",
+        "Step 2: Add 2 ounces of banana liqueur, 1 ounce of vodka, and 3 ounces of cranberry juice to the shaker.",
+        "Step 3: Close the lid tightly and shake vigorously for 15-20 seconds.",
+        "Step 4: Strain the mixture into a chilled red wine glass."
+      ],
+      "duration": "5 mins",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/40622b1f57mia-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "0 grams per serving",
+        "carbs": "20-25 grams per serving",
+        "fat": "0 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "15-20 grams per serving",
+        "sodium": "5 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a Valentine's Day Kiss cocktail in a chilled coupe glass against a dark, romantic backdrop. Use soft, diffused lighting to highlight the deep red hue and ice glistening within.  Focus on the condensation on the glass, with a shallow depth of field blurring the background. Garnish with a single fresh cranberry and a delicate heart-shaped decoration on the rim.  Compose the shot from a slightly elevated angle, showcasing the elegant curve of the glass and the vibrant color of the drink.  Evoke a mood of intimacy and celebration.",
+      "image_filepath": "recipe_40622b1f57mia/main_image",
+      "video_script": {
+        "title": "Valentine's Day Kiss Cocktail",
+        "description": "Learn to make a delicious and romantic Valentine's Day Kiss cocktail with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a Valentine's Day Kiss cocktail in a chilled red wine glass, garnished with a heart-shaped strawberry slice. The background is romantically lit with candles and rose petals.",
+            "text": "Valentine's Day Kiss",
+            "voice_over": "Surprise your loved one with this delightful Valentine's Day Kiss cocktail. It's a perfect blend of fruity and sweet flavors with a touch of vodka kick.",
+            "scene_image_filename": "recipe_40622b1f57mia/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/40622b1f57mia-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients for the cocktail arranged on a table: a bottle of banana liqueur, a bottle of vodka, a bottle of cranberry juice, a small bowl of ice cubes, and a cocktail shaker.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: 2 ounces of banana liqueur, 1 ounce of vodka, 3 ounces of cranberry juice, and some ice cubes.",
+            "scene_image_filename": "recipe_40622b1f57mia/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/40622b1f57mia-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A cocktail shaker being filled with ice cubes.",
+            "text": "Chill",
+            "voice_over": "First, fill your cocktail shaker with ice.",
+            "scene_image_filename": "recipe_40622b1f57mia/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/40622b1f57mia-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Pouring banana liqueur, vodka, and cranberry juice into the cocktail shaker filled with ice.",
+            "text": "Combine",
+            "voice_over": "Add 2 ounces of banana liqueur, 1 ounce of vodka, and 3 ounces of cranberry juice to the shaker.",
+            "scene_image_filename": "recipe_40622b1f57mia/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/40622b1f57mia-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A hand holding a cocktail shaker and shaking it vigorously.",
+            "text": "Shake",
+            "voice_over": "Close the lid tightly and shake well for about 15-20 seconds.  This will chill and mix the drink perfectly.",
+            "scene_image_filename": "recipe_40622b1f57mia/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/40622b1f57mia-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Straining the cocktail mixture from the shaker into a chilled red wine glass.",
+            "text": "Strain",
+            "voice_over": "Strain the mixture into a chilled red wine glass.",
+            "scene_image_filename": "recipe_40622b1f57mia/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/40622b1f57mia-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The finished Valentine's Day Kiss cocktail in a red wine glass, garnished with a heart-shaped strawberry slice. In the background, two glasses are clinking together in a toast.",
+            "text": "Enjoy!",
+            "voice_over": "Garnish with a strawberry slice if desired. This romantic cocktail is perfect for a Valentine's Day celebration. Cheers!",
+            "scene_image_filename": "recipe_40622b1f57mia/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/40622b1f57mia-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Text overlay displaying nutritional information: 200-250 calories, 0g protein, 20-25g carbs, and 0g fat.",
+            "text": "Nutrition Facts",
+            "voice_over": "Each serving contains approximately 200 to 250 calories, 20 to 25 grams of carbs, and zero protein and fat.",
+            "scene_image_filename": "recipe_40622b1f57mia/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/40622b1f57mia-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Drink",
+        "Cocktail"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Banana",
+        "Vodka",
+        "Cranberry"
+      ],
+      "occasion_tags": [
+        "Valentine's Day",
+        "Party",
+        "Romantic"
+      ],
+      "cooking_tips": [
+        "For a sweeter drink, add a splash of grenadine.",
+        "Garnish with a fresh cranberry or a lime wedge.",
+        "If you don't have a cocktail shaker, you can use a mason jar with a tight-fitting lid."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_40622b1f57mia/40622b1f57mia_main_image.jpg"
+    },
+    {
+      "id": "7k457jhtbgh9q",
+      "name": "Fruitcake Cocktail",
+      "url": "http://www.food.com/recipe/fruitcake-the-drink-276089",
+      "ingredients": [
+        "1 ounce brandy",
+        "1/2 ounce Amaretto liqueur",
+        "1/2 ounce Cointreau liqueur",
+        "1/4 lemon, juiced",
+        "1 tablespoon sugar",
+        "1/2 teaspoon ground cloves",
+        "Candied fruit peel, for garnish",
+        "Crystallized ginger, for garnish"
+      ],
+      "directions": [
+        "Step 1: In a small saucer, combine the sugar and ground cloves.",
+        "Step 2: Moisten the rim of a chilled cocktail glass with a lemon wedge and dip it into the sugar-clove mixture.",
+        "Step 3: Fill a cocktail shaker with ice.",
+        "Step 4: Add the brandy, Amaretto, Cointreau, and lemon juice to the shaker.",
+        "Step 5: Close the lid tightly and shake well until the shaker is cold.",
+        "Step 6: Strain the mixture into the prepared cocktail glass.",
+        "Step 7: Garnish with candied fruit peel and crystallized ginger."
+      ],
+      "duration": "5 mins",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/7k457jhtbgh9q-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "0 grams per serving",
+        "carbs": "20-25 grams per serving",
+        "fat": "0 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "15-20 grams per serving",
+        "sodium": "5mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a Fruitcake Cocktail in a crystal coupe glass against a dark, moody backdrop.  Focus on the amber liquid, highlighting its viscosity. Garnish with a delicate spiral of candied orange peel and a sliver of crystallized ginger, catching the light. Use a shallow depth of field, focusing sharply on the garnish and the rim of the glass, letting the background softly blur.  Employ chiaroscuro lighting to accentuate the textures and rich colors of the drink and garnishes. Compose the shot with a slightly overhead, 45-degree angle to showcase both the surface and depth of the cocktail.  Suggest a sense of warmth and festive indulgence.",
+      "image_filepath": "recipe_7k457jhtbgh9q/main_image",
+      "video_script": {
+        "title": "Fruitcake Cocktail: A Festive Holiday Treat",
+        "description": "Learn how to make a delicious Fruitcake Cocktail, perfect for your holiday celebrations!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished Fruitcake Cocktail in a chilled glass, garnished with candied fruit peel and crystallized ginger. The cocktail has a rich amber color. The background is a festive holiday setting.",
+            "text": "Fruitcake Cocktail",
+            "voice_over": "Welcome! Today we're making a Fruitcake Cocktail \u2013 a warm, spiced, and festive drink perfect for the holidays.  It's easy to make and tastes delicious!",
+            "scene_image_filename": "recipe_7k457jhtbgh9q/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7k457jhtbgh9q-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients for the Fruitcake Cocktail arranged on a wooden table: a bottle of brandy, Amaretto, Cointreau, a lemon, sugar, and ground cloves. Candied fruit peel and crystallized ginger are placed in small bowls.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: brandy, Amaretto, Cointreau, lemon juice, sugar, ground cloves, candied fruit peel, and crystallized ginger for garnish.",
+            "scene_image_filename": "recipe_7k457jhtbgh9q/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7k457jhtbgh9q-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 4,
+            "image_prompt": "Close-up of a small saucer with sugar and ground cloves being mixed together.",
+            "text": "Sugar & Spice",
+            "voice_over": "First, combine the sugar and ground cloves in a saucer. This spiced sugar will rim our glass.",
+            "scene_image_filename": "recipe_7k457jhtbgh9q/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7k457jhtbgh9q-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A chilled cocktail glass being rimmed with a lemon wedge and then dipped into the sugar-clove mixture.",
+            "text": "Rim the Glass",
+            "voice_over": "Moisten the rim of a chilled cocktail glass with a lemon wedge and dip it into the sugar-clove mixture. Make sure the rim is evenly coated.",
+            "scene_image_filename": "recipe_7k457jhtbgh9q/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7k457jhtbgh9q-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A cocktail shaker being filled with ice. Brandy, Amaretto, Cointreau, and lemon juice are being added to the shaker.",
+            "text": "Mix the Liquids",
+            "voice_over": "Fill a cocktail shaker with ice. Add one ounce of brandy, half an ounce each of Amaretto and Cointreau, and a quarter ounce of fresh lemon juice.",
+            "scene_image_filename": "recipe_7k457jhtbgh9q/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7k457jhtbgh9q-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The cocktail shaker being closed tightly and shaken vigorously.",
+            "text": "Shake it Up!",
+            "voice_over": "Secure the lid and shake well for about 15-20 seconds until the shaker is cold.",
+            "scene_image_filename": "recipe_7k457jhtbgh9q/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7k457jhtbgh9q-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The cocktail being strained from the shaker into the prepared cocktail glass.",
+            "text": "Strain & Serve",
+            "voice_over": "Strain the mixture into the prepared glass.",
+            "scene_image_filename": "recipe_7k457jhtbgh9q/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7k457jhtbgh9q-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished Fruitcake Cocktail being garnished with candied fruit peel and crystallized ginger.",
+            "text": "Final Touches",
+            "voice_over": "Garnish with candied fruit peel and crystallized ginger. These add a festive touch and complement the flavors beautifully.",
+            "scene_image_filename": "recipe_7k457jhtbgh9q/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7k457jhtbgh9q-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "The finished Fruitcake Cocktail in the holiday setting, alongside a plate of fruitcake slices and other festive treats. Warm lighting and bokeh create a cozy atmosphere.",
+            "text": "Enjoy!",
+            "voice_over": "There you have it! Your delicious Fruitcake Cocktail is ready. It's perfect for holiday parties or a cozy night in. This cocktail has approximately 200-250 calories, 20-25 grams of carbs, and is fat and protein-free. Enjoy responsibly!",
+            "scene_image_filename": "recipe_7k457jhtbgh9q/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7k457jhtbgh9q-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Cocktail",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Brandy",
+        "Amaretto",
+        "Cointreau",
+        "Lemon",
+        "Sugar",
+        "Cloves",
+        "Candied Fruit",
+        "Ginger"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use aged brandy.",
+        "Adjust the sweetness by adding more or less sugar to the rim.",
+        "If you don't have candied fruit peel or crystallized ginger, try other garnishes like a maraschino cherry or an orange twist."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_7k457jhtbgh9q/7k457jhtbgh9q_main_image.jpg"
+    },
+    {
+      "id": "fks2kl19aikq9ps",
+      "name": "Peachy Vanilla Yogurt Smoothie",
+      "url": "http://www.tasteofhome.com/recipes/yogurt-breakfast-drink/",
+      "ingredients": [
+        "2 cups vanilla yogurt",
+        "2 cups peach yogurt",
+        "1/2 cup thawed orange juice concentrate",
+        "1/2 cup fat-free milk",
+        "2 cups ice cubes"
+      ],
+      "directions": [
+        "Step 1: Combine the vanilla yogurt, peach yogurt, thawed orange juice concentrate, and fat-free milk in a blender.",
+        "Step 2: Cover the blender and process until the mixture is smooth.",
+        "Step 3: Add the ice cubes to the blender.",
+        "Step 4: Cover the blender and process again until the mixture is smooth and the ice is fully blended.",
+        "Step 5: Pour the smoothie into glasses and serve immediately."
+      ],
+      "duration": "",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2kl19aikq9ps-m.webp",
+      "nutrition": {
+        "calories": "166 kcal",
+        "protein": "8 g",
+        "carbs": "30 g",
+        "fat": "2 g",
+        "fiber": null,
+        "sugar": "5 g",
+        "sodium": null
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a Peachy Vanilla Yogurt Smoothie in a tall, elegant glass with a gentle swirl visible.  Use backlighting to highlight the creamy texture and peachy hue. Garnish with a single fresh peach slice on the rim.  A rustic wooden background with a linen napkin complements the cool tones.  Shallow depth of field, focusing on the smoothie's surface. Aim for a bright, refreshing mood, suitable for a summer-themed food magazine.  Include scattered ice cubes and condensation on the glass for added realism.",
+      "image_filepath": "recipe_fks2kl19aikq9ps/main_image",
+      "video_script": {
+        "title": "Peachy Vanilla Yogurt Smoothie",
+        "description": "A quick and refreshing smoothie perfect for a hot day or a healthy snack.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up of a tall glass of peachy vanilla yogurt smoothie, garnished with a peach slice. The background is a bright kitchen setting with blurred fruits in the background.",
+            "text": "Peachy Vanilla Yogurt Smoothie",
+            "voice_over": "Beat the heat with this refreshing Peachy Vanilla Yogurt Smoothie! It's quick, easy, and packed with flavor.",
+            "scene_image_filename": "recipe_fks2kl19aikq9ps/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2kl19aikq9ps-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Two cups of vanilla yogurt and two cups of peach yogurt arranged next to each other. In the background, a half cup of thawed orange juice concentrate and a half cup of fat-free milk are visible.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: two cups of vanilla yogurt, two cups of peach yogurt, half a cup of thawed orange juice concentrate, half a cup of fat-free milk, and two cups of ice cubes.",
+            "scene_image_filename": "recipe_fks2kl19aikq9ps/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2kl19aikq9ps-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Vanilla yogurt, peach yogurt, orange juice concentrate, and milk being poured into a blender.",
+            "text": "Combine Ingredients",
+            "voice_over": "In a blender, combine the vanilla yogurt, peach yogurt, orange juice concentrate, and milk.",
+            "scene_image_filename": "recipe_fks2kl19aikq9ps/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2kl19aikq9ps-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A blender blending the yogurt mixture until smooth.",
+            "text": "Blend Until Smooth",
+            "voice_over": "Cover the blender and process until the mixture is smooth.",
+            "scene_image_filename": "recipe_fks2kl19aikq9ps/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2kl19aikq9ps-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Ice cubes being added to the blender with the yogurt mixture.",
+            "text": "Add Ice",
+            "voice_over": "Add the ice cubes to the blender.",
+            "scene_image_filename": "recipe_fks2kl19aikq9ps/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2kl19aikq9ps-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The blender blending the yogurt mixture with ice until smooth.",
+            "text": "Blend Again",
+            "voice_over": "Cover and blend again until the ice is fully incorporated and the smoothie is perfectly smooth.",
+            "scene_image_filename": "recipe_fks2kl19aikq9ps/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2kl19aikq9ps-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The peachy vanilla yogurt smoothie being poured into two glasses.",
+            "text": "Serve and Enjoy",
+            "voice_over": "Pour the smoothie into glasses and serve immediately. Enjoy!",
+            "scene_image_filename": "recipe_fks2kl19aikq9ps/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2kl19aikq9ps-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Two glasses of peachy vanilla yogurt smoothie, garnished with peach slices. In the background, some fresh peaches and a bowl of vanilla yogurt are visible.",
+            "text": "Peachy Keen!",
+            "voice_over": "This Peachy Vanilla Yogurt Smoothie is a delicious and healthy treat.  At only 166 calories per serving, with 8 grams of protein, it's the perfect way to cool down and recharge.  Enjoy!",
+            "scene_image_filename": "recipe_fks2kl19aikq9ps/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2kl19aikq9ps-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Breakfast",
+        "Dessert"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Yogurt",
+        "Peach",
+        "Orange Juice",
+        "Milk"
+      ],
+      "occasion_tags": [
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "For a thicker smoothie, use frozen yogurt instead of refrigerated yogurt. If using frozen yogurt, reduce the amount of ice or omit it entirely.",
+        "For a sweeter smoothie, add a drizzle of honey or maple syrup.",
+        "For a tangier smoothie, add a squeeze of fresh lemon juice.",
+        "Garnish with fresh peach slices or a sprig of mint before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_fks2kl19aikq9ps/fks2kl19aikq9ps_main_image.jpg"
+    },
+    {
+      "id": "fks2i2jo745bru7",
+      "name": "Rich and Creamy Hot Chocolate",
+      "url": "http://www.tasteofhome.com/recipes/heavenly-drinking-chocolate/",
+      "ingredients": [
+        "4 cups half-and-half cream",
+        "2 bars (3.5 ounces each) 70% cacao dark chocolate, chopped",
+        "2 ounces milk chocolate, chopped",
+        "1 teaspoon vanilla extract",
+        "1/4 teaspoon ground nutmeg",
+        "Pinch of salt",
+        "Sweetened whipped cream, for garnish"
+      ],
+      "directions": [
+        "Step 1: In a large saucepan, heat the half-and-half cream over medium heat until small bubbles form around the sides of the pan. Do not let the cream boil.",
+        "Step 2: Remove the saucepan from the heat. Whisk in the chopped dark chocolate, milk chocolate, vanilla extract, nutmeg, and salt until the chocolate is completely melted and the mixture is smooth.",
+        "Step 3: Return the saucepan to the heat and cook, stirring constantly, until the hot chocolate is heated through. Do not let it boil.",
+        "Step 4: Pour the hot chocolate into mugs and top with sweetened whipped cream."
+      ],
+      "duration": "10 minutes ",
+      "serves": "5",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2i2jo745bru7-m.webp",
+      "nutrition": {
+        "calories": "489 kcal",
+        "protein": "9 g",
+        "carbs": "37 g",
+        "fat": "32 g",
+        "fiber": null,
+        "sugar": "20 g",
+        "sodium": null
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a rich and creamy hot chocolate in a rustic, yet elegant mug, garnished with a swirl of sweetened whipped cream and a dusting of nutmeg. Use a dark, moody background with soft, diffused lighting to highlight the steam rising from the beverage. Focus on the creamy texture and deep chocolate color.  A shallow depth of field should emphasize the whipped cream, with the mug slightly blurred in the background. Include a subtly placed silver spoon and a few scattered chocolate shavings. Capture the image from a slightly overhead angle, showcasing the inviting warmth and decadent nature of the drink.",
+      "image_filepath": "recipe_fks2i2jo745bru7/main_image",
+      "video_script": {
+        "title": "Rich and Creamy Hot Chocolate",
+        "description": "Indulge in the ultimate winter warmer with this decadent hot chocolate recipe. Rich, creamy, and intensely chocolatey, it's the perfect treat for a cold night.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a steaming mug of rich and creamy hot chocolate, topped with a swirl of whipped cream and a dusting of nutmeg. The background is warm and inviting, with soft lighting and a cozy atmosphere.",
+            "text": "Rich and Creamy Hot Chocolate",
+            "voice_over": "Welcome! Today, we're making rich and creamy hot chocolate \u2013 perfect for a chilly evening.",
+            "scene_image_filename": "recipe_fks2i2jo745bru7/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i2jo745bru7-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a wooden table: half-and-half cream, dark chocolate bars, milk chocolate bar, vanilla extract, nutmeg, salt, and whipped cream.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: half-and-half cream, dark chocolate, milk chocolate, vanilla extract, nutmeg, a pinch of salt, and whipped cream for topping.",
+            "scene_image_filename": "recipe_fks2i2jo745bru7/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i2jo745bru7-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of half-and-half cream being heated in a saucepan over medium heat. Small bubbles are forming around the edges of the pan.",
+            "text": "Heating the Cream",
+            "voice_over": "In a saucepan, heat the half-and-half over medium heat. Don't let it boil; just heat it until small bubbles appear around the edges \u2013 this should take about 3-5 minutes.",
+            "scene_image_filename": "recipe_fks2i2jo745bru7/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i2jo745bru7-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "The saucepan is removed from the heat. Chopped dark and milk chocolate, vanilla extract, nutmeg, and salt are being whisked into the warm cream.",
+            "text": "Melting the Chocolate",
+            "voice_over": "Remove the pan from the heat and whisk in the chopped dark and milk chocolate, vanilla extract, nutmeg, and salt. Keep whisking until the chocolate melts completely and the mixture is smooth.",
+            "scene_image_filename": "recipe_fks2i2jo745bru7/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i2jo745bru7-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The saucepan is back on the stove over low heat. The hot chocolate is being stirred constantly as it heats through.",
+            "text": "Heating Through",
+            "voice_over": "Return the saucepan to low heat and stir constantly until the hot chocolate is heated through. Be careful not to let it boil \u2013 this should only take a couple of minutes.",
+            "scene_image_filename": "recipe_fks2i2jo745bru7/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i2jo745bru7-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Two mugs are being filled with hot chocolate. A generous dollop of whipped cream is added to each mug.",
+            "text": "Serve and Enjoy",
+            "voice_over": "Pour the hot chocolate into mugs and top with a generous swirl of whipped cream.",
+            "scene_image_filename": "recipe_fks2i2jo745bru7/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i2jo745bru7-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two mugs of hot chocolate, topped with whipped cream and a dusting of nutmeg. A few marshmallows are scattered around the mugs.",
+            "text": "Indulge!",
+            "voice_over": "Nutritional info per serving is 489 calories, 9 grams of protein, 37 grams of carbs and 32 grams of fat. Curl up and enjoy your rich and creamy hot chocolate!",
+            "scene_image_filename": "recipe_fks2i2jo745bru7/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i2jo745bru7-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 20,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chocolate",
+        "Cream",
+        "Nutmeg",
+        "Vanilla"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Winter",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use high-quality chocolate.",
+        "Adjust the amount of sugar in the whipped cream to your liking.",
+        "If the hot chocolate becomes too thick, add a splash of milk or cream to thin it out."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_fks2i2jo745bru7/fks2i2jo745bru7_main_image.jpg"
+    },
+    {
+      "id": "fks1nb3utkbntmg",
+      "name": "Spiced Cranberry Citrus Punch",
+      "url": "http://www.tasteofhome.com/recipes/rosy-citrus-drink/",
+      "ingredients": [
+        "2 cups cranberry juice",
+        "1 cup unsweetened grapefruit juice",
+        "1 cup orange juice",
+        "1/2 cup sugar",
+        "1/4 teaspoon ground allspice",
+        "Apple slices (optional)",
+        "Cinnamon sticks (optional)"
+      ],
+      "directions": [
+        "Step 1: In a large saucepan, combine cranberry juice, grapefruit juice, orange juice, sugar, and ground allspice.",
+        "Step 2: Bring the mixture to a boil over medium-high heat, stirring occasionally.",
+        "Step 3: Reduce heat and simmer for 5 minutes, allowing the flavors to meld.",
+        "Step 4: Pour into mugs and serve hot.",
+        "Step 5: Garnish with apple slices and cinnamon sticks, if desired."
+      ],
+      "duration": "",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1nb3utkbntmg-m.webp",
+      "nutrition": {
+        "calories": "206 kcal",
+        "protein": "1 g",
+        "carbs": "53 g",
+        "fat": "0 g",
+        "fiber": "0 g",
+        "sugar": "50 g",
+        "sodium": "2 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a spiced cranberry citrus punch in a crystal pitcher, garnished with a few thin apple slices and cinnamon sticks.  Use a dark, moody background with soft, diffused backlighting to highlight the rich crimson color. Focus on the pitcher's contents, creating a shallow depth of field to blur the background slightly. Capture the texture of the liquid and the vibrant garnishes. Shoot from a slightly elevated angle, showcasing the pitcher's elegant shape and the inviting steam rising from the warm punch.",
+      "image_filepath": "recipe_fks1nb3utkbntmg/main_image",
+      "video_script": {
+        "title": "Spiced Cranberry Citrus Punch",
+        "description": "Warm up with this festive and flavorful Spiced Cranberry Citrus Punch! It's easy to make and perfect for holiday gatherings or a cozy night in.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up of a steaming mug of Spiced Cranberry Citrus Punch, garnished with apple slices and a cinnamon stick. The background is a warm and inviting holiday setting.",
+            "text": "Spiced Cranberry Citrus Punch",
+            "voice_over": "Warm up with a delicious and festive Spiced Cranberry Citrus Punch! This easy recipe is perfect for the holidays or any chilly evening.",
+            "scene_image_filename": "recipe_fks1nb3utkbntmg/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1nb3utkbntmg-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients for the punch arranged on a table: cranberry juice, grapefruit juice, orange juice, sugar, and allspice.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: cranberry juice, grapefruit juice, orange juice, sugar, and a touch of allspice for that warm, comforting flavor.",
+            "scene_image_filename": "recipe_fks1nb3utkbntmg/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1nb3utkbntmg-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Combining all ingredients in a saucepan.",
+            "text": "Combine Ingredients",
+            "voice_over": "In a large saucepan, combine 2 cups of cranberry juice, 1 cup of unsweetened grapefruit juice, 1 cup of orange juice, 1/2 cup of sugar, and 1/4 teaspoon of ground allspice.",
+            "scene_image_filename": "recipe_fks1nb3utkbntmg/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1nb3utkbntmg-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 7,
+            "image_prompt": "The saucepan on a stovetop, with the punch mixture coming to a boil. Steam is rising from the pot.",
+            "text": "Bring to a Boil",
+            "voice_over": "Over medium-high heat, bring the mixture to a boil, stirring occasionally to dissolve the sugar.",
+            "scene_image_filename": "recipe_fks1nb3utkbntmg/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1nb3utkbntmg-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 7,
+            "image_prompt": "The saucepan on a stovetop, simmering gently. The punch has a rich, vibrant color.",
+            "text": "Simmer",
+            "voice_over": "Once boiling, reduce the heat and simmer for 5 minutes. This allows the flavors to meld beautifully.",
+            "scene_image_filename": "recipe_fks1nb3utkbntmg/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1nb3utkbntmg-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Pouring the hot punch into mugs.",
+            "text": "Serve",
+            "voice_over": "Carefully pour the hot punch into mugs.",
+            "scene_image_filename": "recipe_fks1nb3utkbntmg/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1nb3utkbntmg-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Two mugs of Spiced Cranberry Citrus Punch, garnished with apple slices and cinnamon sticks. The mugs are set on a cozy table with a holiday-themed background.",
+            "text": "Enjoy!",
+            "voice_over": "Garnish with apple slices and cinnamon sticks for an extra touch of festive flair.  This punch is delicious as is, but feel free to adjust the sweetness to your liking.  Enjoy!",
+            "scene_image_filename": "recipe_fks1nb3utkbntmg/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1nb3utkbntmg-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 5,
+      "total_time_minutes": 10,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Beverage"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Cranberry",
+        "Grapefruit",
+        "Orange",
+        "Allspice"
+      ],
+      "occasion_tags": [
+        "Holiday",
+        "Party",
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use fresh-squeezed citrus juices.",
+        "Adjust the sugar to your preference.",
+        "If you don't have allspice, you can substitute with a combination of cinnamon, cloves, and nutmeg."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_fks1nb3utkbntmg/fks1nb3utkbntmg_main_image.jpg"
+    },
+    {
+      "id": "fks1uprn13omimc",
+      "name": "Creamy Orange Dream",
+      "url": "http://www.tasteofhome.com/recipes/morning-orange-drink/",
+      "ingredients": [
+        "6 ounces frozen orange juice concentrate",
+        "1 cup cold water",
+        "1 cup whole milk",
+        "1/3 cup sugar",
+        "1 teaspoon vanilla extract",
+        "10 ice cubes"
+      ],
+      "directions": [
+        "Step 1: Combine the orange juice concentrate, cold water, whole milk, sugar, and vanilla extract in a blender.",
+        "Step 2: Process at high speed until well combined.",
+        "Step 3: Add ice cubes, a few at a time, blending until smooth.",
+        "Step 4: Serve immediately."
+      ],
+      "duration": "",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1uprn13omimc-m.webp",
+      "nutrition": {
+        "calories": "115 kcal",
+        "protein": "2 g",
+        "carbs": "24 g",
+        "fat": "1 g",
+        "fiber": "0 g",
+        "sugar": "21 g",
+        "sodium": "21 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of Creamy Orange Dream in a chilled glass, garnished with an orange wheel and a sprig of mint. Use a shallow depth of field, focusing on the creamy texture and vibrant orange hue. Backdrop should be a light, textured linen with subtle shadows.  Lighting should be bright and diffused, highlighting the frost on the glass. Aim for a refreshing, inviting mood with a touch of elegance.  Incorporate a vintage silver spoon resting on the linen beside the glass.",
+      "image_filepath": "recipe_fks1uprn13omimc/main_image",
+      "video_script": {
+        "title": "Creamy Orange Dream",
+        "description": "A quick and easy recipe for a refreshing orange treat.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a glass of creamy orange dream, garnished with an orange slice. The drink looks frosty and inviting.",
+            "text": "Creamy Orange Dream",
+            "voice_over": "Beat the heat with this creamy, dreamy orange delight! Ready in minutes, it's the perfect refresher.",
+            "scene_image_filename": "recipe_fks1uprn13omimc/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1uprn13omimc-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: frozen orange juice concentrate, cold water, whole milk, sugar, vanilla extract, and ice cubes.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: frozen orange juice concentrate, cold water, whole milk, sugar, vanilla extract, and ice cubes.",
+            "scene_image_filename": "recipe_fks1uprn13omimc/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1uprn13omimc-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Pouring the orange juice concentrate, water, milk, sugar, and vanilla extract into a blender.",
+            "text": "Combine Liquids",
+            "voice_over": "In your blender, combine the orange juice concentrate, cold water, whole milk, sugar, and vanilla extract.",
+            "scene_image_filename": "recipe_fks1uprn13omimc/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1uprn13omimc-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Blender blending the ingredients until smooth.",
+            "text": "Blend",
+            "voice_over": "Blend at high speed until everything is well combined. This should only take about 30 seconds.",
+            "scene_image_filename": "recipe_fks1uprn13omimc/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1uprn13omimc-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Adding ice cubes to the blender, a few at a time.",
+            "text": "Add Ice",
+            "voice_over": "Now, add the ice cubes, a few at a time, and continue blending until smooth. Be careful not to overload the blender.",
+            "scene_image_filename": "recipe_fks1uprn13omimc/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1uprn13omimc-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Pouring the creamy orange dream into a glass.",
+            "text": "Serve",
+            "voice_over": "Pour into a glass and serve immediately. This recipe makes one serving.",
+            "scene_image_filename": "recipe_fks1uprn13omimc/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1uprn13omimc-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "A glass of creamy orange dream garnished with an orange slice, with a few extra ice cubes on the side.",
+            "text": "Enjoy!",
+            "voice_over": "Enjoy your refreshing Creamy Orange Dream! It's a perfect treat for a hot day. For an extra touch, garnish with an orange slice. This creamy dream packs about 115 calories, 2 grams of protein, 24 grams of carbs, and 1 gram of fat.",
+            "scene_image_filename": "recipe_fks1uprn13omimc/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1uprn13omimc-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Orange",
+        "Milk"
+      ],
+      "occasion_tags": [
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "For a thicker smoothie, use frozen fruit such as bananas or strawberries.",
+        "Adjust the amount of sugar to your liking."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_fks1uprn13omimc/fks1uprn13omimc_main_image.jpg"
+    },
+    {
+      "id": "7p9blk1cndiei",
+      "name": "Homemade Horchata (Rice Milk Beverage)",
+      "url": "http://www.food.com/recipe/horchata-ground-rice-drink-164846",
+      "ingredients": [
+        "1 cup long grain rice",
+        "1/2 cup granulated sugar",
+        "5 cups water, divided",
+        "4 cups milk (whole or 2%)",
+        "1/2 teaspoon ground cinnamon",
+        "1 teaspoon vanilla extract"
+      ],
+      "directions": [
+        "Step 1: Rinse the rice under cold water until the water runs clear. Place the rice in a bowl and cover with enough hot water to submerge it completely. Let it soak at room temperature overnight or for at least 8 hours.",
+        "Step 2: Drain the rice and discard the soaking water. Transfer the rice to a high-powered blender. Add 1/2 cup of fresh water and 2 cups of milk.",
+        "Step 3: Blend on high speed until the rice is completely pulverized into a smooth, milky consistency.",
+        "Step 4: Add the sugar, cinnamon, and vanilla extract to the blender.",
+        "Step 5: Blend again for another minute to combine all the ingredients.",
+        "Step 6: Add the remaining 2 cups of milk and 4 1/2 cups of water to the blender.",
+        "Step 7: Blend for a final 30 seconds to ensure everything is thoroughly mixed.",
+        "Step 8: Strain the mixture through a cheesecloth-lined fine-mesh sieve into a large pitcher or container. You may need to strain it multiple times to remove all the rice particles. Avoid squeezing the cheesecloth to ensure a smooth horchata.",
+        "Step 9: Chill the horchata in the refrigerator for at least 2 hours before serving.  Stir well before serving.",
+        "Step 10: Serve chilled over ice. Optionally, add a sprinkle of cinnamon on top."
+      ],
+      "duration": "24 hrs",
+      "serves": "0",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/7p9blk1cndiei-m.webp",
+      "nutrition": {
+        "calories": "200 per serving",
+        "protein": "4 grams per serving",
+        "carbs": "40 grams per serving",
+        "fat": "4 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "20 grams per serving",
+        "sodium": "5 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a refreshing glass of homemade horchata, styled with a subtle rustic charm.  Use natural, soft light to highlight the creamy white beverage and a shallow depth of field to focus on the condensation on the glass.  Incorporate natural textures like a linen napkin and a wooden surface. Garnish with a sprinkle of cinnamon and a cinnamon stick. Compose the shot from a slightly elevated angle, showcasing the horchata's texture and a few grains of rice at the bottom of the glass.  Aim for a bright, inviting mood.",
+      "image_filepath": "recipe_7p9blk1cndiei/main_image",
+      "video_script": {
+        "title": "Homemade Horchata: Refreshing Rice Milk Beverage",
+        "description": "Learn how to make delicious and creamy horchata at home with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a glass of horchata filled with ice, garnished with a sprinkle of cinnamon. The background shows a pitcher of horchata and a plate of churros.",
+            "text": "Homemade Horchata",
+            "voice_over": "Welcome to our kitchen! Today we're making Horchata, a traditional rice milk beverage that's perfect for cooling down on a hot day. It's creamy, subtly sweet, and incredibly refreshing.",
+            "scene_image_filename": "recipe_7p9blk1cndiei/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7p9blk1cndiei-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients arranged neatly on a table: 1 cup long grain rice, 1/2 cup granulated sugar, 5 cups water, 4 cups milk, 1/2 teaspoon ground cinnamon, and 1 teaspoon vanilla extract.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one cup of long grain rice, half a cup of sugar, five cups of water, four cups of milk, half a teaspoon of ground cinnamon, and one teaspoon of vanilla extract.",
+            "scene_image_filename": "recipe_7p9blk1cndiei/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7p9blk1cndiei-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Rice being rinsed under cold water in a fine-mesh sieve. ",
+            "text": "Rinse & Soak",
+            "voice_over": "First, rinse the rice under cold water until it runs clear. This removes excess starch. Then, soak the rice in hot water for at least eight hours or overnight.",
+            "scene_image_filename": "recipe_7p9blk1cndiei/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7p9blk1cndiei-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Rice being blended in a high-powered blender with 1/2 cup fresh water and 2 cups milk.",
+            "text": "Blend",
+            "voice_over": "Drain the soaked rice and add it to a blender.  Add half a cup of fresh water and two cups of milk. Blend on high speed until completely smooth.",
+            "scene_image_filename": "recipe_7p9blk1cndiei/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7p9blk1cndiei-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up of sugar, cinnamon, and vanilla extract being added to the blender.",
+            "text": "Flavor Infusion",
+            "voice_over": "Now, add the sugar, cinnamon, and vanilla extract to the blender. Blend for another minute to combine.",
+            "scene_image_filename": "recipe_7p9blk1cndiei/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7p9blk1cndiei-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The remaining milk and water being added to the blender.",
+            "text": "Dilute & Combine",
+            "voice_over": "Add the remaining two cups of milk and four and a half cups of water. Blend for a final 30 seconds.",
+            "scene_image_filename": "recipe_7p9blk1cndiei/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7p9blk1cndiei-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "Straining the horchata mixture through a cheesecloth-lined fine-mesh sieve into a pitcher.",
+            "text": "Strain",
+            "voice_over": "Strain the mixture through a cheesecloth-lined sieve into a pitcher. This removes any remaining rice particles, leaving you with a smooth horchata.",
+            "scene_image_filename": "recipe_7p9blk1cndiei/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7p9blk1cndiei-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "A pitcher of horchata being placed in the refrigerator.",
+            "text": "Chill",
+            "voice_over": "Chill in the refrigerator for at least two hours to allow the flavors to meld.",
+            "scene_image_filename": "recipe_7p9blk1cndiei/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7p9blk1cndiei-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Two glasses of horchata filled with ice, garnished with cinnamon, served alongside churros.",
+            "text": "Serve & Enjoy",
+            "voice_over": "Serve your chilled horchata over ice.  A sprinkle of cinnamon on top adds an extra touch of flavor. It pairs perfectly with churros, or enjoy it on its own.  Enjoy!",
+            "scene_image_filename": "recipe_7p9blk1cndiei/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7p9blk1cndiei-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 5,
+      "total_time_minutes": 20,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Beverage"
+      ],
+      "cuisine_type": "Mexican",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Rice",
+        "Milk",
+        "Cinnamon",
+        "Vanilla"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a creamier horchata, use full-fat milk.",
+        "Adjust the amount of sugar to your liking.",
+        "Add a pinch of nutmeg for an extra layer of flavor.",
+        "Serve with crushed ice and a cinnamon stick for a visually appealing presentation.",
+        "If you don't have cheesecloth, a nut milk bag or a very fine-mesh sieve will also work for straining."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_7p9blk1cndiei/7p9blk1cndiei_main_image.jpg"
+    },
+    {
+      "id": "fksd87p1k8r4",
+      "name": "Spicy Cilantro Yogurt Drink",
+      "url": "http://www.playfulcooking.com/beverage/mattha-spicy-yogurt-drink/",
+      "ingredients": [
+        "2 cups plain yogurt",
+        "7 cups water",
+        "1 inch ginger, freshly grated",
+        "2 tablespoons roasted cumin powder",
+        "1 green chili, thinly sliced",
+        "1 tablespoon sugar",
+        "1/4 cup freshly chopped cilantro",
+        "Salt to taste"
+      ],
+      "directions": [
+        "Step 1: In a pitcher, combine the yogurt, water, grated ginger, cumin powder, sliced green chili, sugar, and chopped cilantro.",
+        "Step 2: Add salt to taste and stir well.",
+        "Step 3: Refrigerate for at least 2 hours to allow the flavors to meld.",
+        "Step 4: Strain the drink through a fine-mesh sieve or cheesecloth.",
+        "Step 5: Pour into glasses filled with ice.",
+        "Step 6: Garnish with fresh cilantro sprigs (optional) and serve chilled."
+      ],
+      "duration": "20 minutes ",
+      "serves": "9",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd87p1k8r4-m.webp",
+      "nutrition": {
+        "calories": "100-150 per serving",
+        "protein": "5-7 grams per serving",
+        "carbs": "15-20 grams per serving",
+        "fat": "2-3 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "10-15 grams per serving",
+        "sodium": "50-100 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of a chilled Spicy Cilantro Yogurt Drink in a tall, elegant glass.  Emphasize the vibrant green cilantro and flecks of chili against the creamy white yogurt. Use soft, diffused natural light to highlight the drink's texture.  A shallow depth of field should focus on the cilantro garnish, with the background featuring a rustic wooden surface and a linen napkin.  Convey a refreshing and invigorating mood through bright, clean styling. Include a small bowl of roasted cumin powder as a prop.",
+      "image_filepath": "recipe_fksd87p1k8r4/main_image",
+      "video_script": {
+        "title": "Spicy Cilantro Yogurt Drink - Refreshing and Flavorful!",
+        "description": "Learn how to make a delicious and healthy Spicy Cilantro Yogurt Drink. Perfect for a hot day!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a glass filled with chilled Spicy Cilantro Yogurt Drink, garnished with a fresh cilantro sprig. Condensation on the glass. In the background, other glasses and ingredients are subtly visible.",
+            "text": "Spicy Cilantro Yogurt Drink",
+            "voice_over": "Cool down with this refreshing Spicy Cilantro Yogurt Drink! It's healthy, flavorful, and perfect for a hot day.  Let's get started!",
+            "scene_image_filename": "recipe_fksd87p1k8r4/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87p1k8r4-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients arranged on a clean surface: plain yogurt, water, ginger, cumin powder, green chili, sugar, and cilantro.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: plain yogurt, water, fresh ginger, roasted cumin powder, a green chili, some sugar, and fresh cilantro.  Salt for seasoning, of course!",
+            "scene_image_filename": "recipe_fksd87p1k8r4/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87p1k8r4-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Yogurt being poured into a pitcher. Water is already inside.",
+            "text": "Combine Yogurt & Water",
+            "voice_over": "Start by adding two cups of plain yogurt and seven cups of water to a pitcher.",
+            "scene_image_filename": "recipe_fksd87p1k8r4/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87p1k8r4-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of grated ginger, cumin powder, sliced green chili, sugar, and chopped cilantro being added to the pitcher.",
+            "text": "Add Flavor Boosters",
+            "voice_over": "Next, add the freshly grated ginger, roasted cumin powder, thinly sliced green chili, sugar, and chopped cilantro.",
+            "scene_image_filename": "recipe_fksd87p1k8r4/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87p1k8r4-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "Salt being added to the pitcher, followed by stirring with a spoon.",
+            "text": "Season & Mix",
+            "voice_over": "Add salt to taste and stir everything together until well combined.",
+            "scene_image_filename": "recipe_fksd87p1k8r4/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87p1k8r4-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The pitcher covered with a lid and placed in the refrigerator.",
+            "text": "Chill",
+            "voice_over": "Cover the pitcher and refrigerate for at least two hours to allow the flavors to meld.  This step is important for the best taste!",
+            "scene_image_filename": "recipe_fksd87p1k8r4/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87p1k8r4-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The drink being strained through a fine-mesh sieve into a glass filled with ice.",
+            "text": "Strain & Serve",
+            "voice_over": "After chilling, strain the drink through a fine-mesh sieve or cheesecloth into glasses filled with ice.",
+            "scene_image_filename": "recipe_fksd87p1k8r4/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87p1k8r4-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two glasses filled with Spicy Cilantro Yogurt Drink, garnished with cilantro sprigs. A small bowl of chopped cilantro is next to the glasses.",
+            "text": "Garnish & Enjoy!",
+            "voice_over": "Garnish with fresh cilantro sprigs, if desired.  Your refreshing Spicy Cilantro Yogurt Drink is ready! It's about 100-150 calories per serving.",
+            "scene_image_filename": "recipe_fksd87p1k8r4/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87p1k8r4-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A glass of the yogurt drink next to a plate of spicy Indian snacks.",
+            "text": "Serving Suggestion",
+            "voice_over": "This drink pairs perfectly with spicy Indian snacks or any light meal. Enjoy!",
+            "scene_image_filename": "recipe_fksd87p1k8r4/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd87p1k8r4-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 130,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Beverage"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Yogurt",
+        "Ginger",
+        "Cumin",
+        "Cilantro",
+        "Green Chili"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a smoother drink, use Greek yogurt.",
+        "Adjust the amount of green chili to control the spice level.",
+        "If you prefer a sweeter drink, add more sugar or a touch of honey.",
+        "For a creamier texture, blend the strained drink with a few ice cubes before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_fksd87p1k8r4/fksd87p1k8r4_main_image.jpg"
+    },
+    {
+      "id": "qm0bnsrt2ube",
+      "name": "Capri Long Drink",
+      "url": "http://www.food.com/recipe/old-capri-long-drink-250280",
+      "ingredients": [
+        "2 ounces chilled Caravella Limoncello",
+        "Spinelli Asti Spumante Sparkling Wine (chilled)",
+        "Ice",
+        "1 lemon slice",
+        "1 sprig fresh mint"
+      ],
+      "directions": [
+        "Step 1: Fill a long drink glass with ice.",
+        "Step 2: Pour in 2 ounces of chilled Caravella Limoncello.",
+        "Step 3: Top with chilled Spinelli Asti Spumante Sparkling Wine.",
+        "Step 4: Garnish with a lemon slice and a sprig of fresh mint."
+      ],
+      "duration": "3 mins",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/qm0bnsrt2ube-m.webp",
+      "nutrition": {
+        "calories": "150-200",
+        "protein": "0g",
+        "carbs": "15-20g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "15-20g",
+        "sodium": "0mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a Capri Long Drink in a tall, elegant glass with condensation, filled with ice, the pale yellow limoncello blending with the bubbly Asti. A thin lemon slice rests on the rim, a sprig of fresh mint tucked behind it. Use a bright, airy background with hints of blue evocative of the Amalfi Coast.  Focus on the refreshing bubbles and the texture of the ice.  Shallow depth of field, highlighting the lemon slice and mint.  Bright, natural light creating a light and refreshing mood. Shoot from a slightly elevated angle, showcasing the drink's layers and garnishes.",
+      "image_filepath": "recipe_qm0bnsrt2ube/main_image",
+      "video_script": {
+        "title": "Capri Long Drink: A Refreshing Italian Escape",
+        "description": "Learn how to make a Capri Long Drink, a simple yet elegant Italian cocktail perfect for any occasion.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a Capri Long Drink in a tall, elegant glass filled with ice, garnished with a lemon slice and fresh mint sprig. The drink is bubbly and refreshing. The background is a blurred Italian coastal scene.",
+            "text": "Capri Long Drink",
+            "voice_over": "Escape to the Italian coast with the Capri Long Drink, a refreshing blend of limoncello and sparkling wine.",
+            "scene_image_filename": "recipe_qm0bnsrt2ube/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/qm0bnsrt2ube-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of the ingredients arranged on a marble countertop: a bottle of Caravella Limoncello, a bottle of Spinelli Asti Spumante, a bowl of ice, fresh mint, and lemons.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: chilled Caravella Limoncello, chilled Spinelli Asti Spumante, ice, a lemon, and fresh mint.",
+            "scene_image_filename": "recipe_qm0bnsrt2ube/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/qm0bnsrt2ube-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A long drink glass filled with ice.",
+            "text": "Ice",
+            "voice_over": "First, fill a long drink glass with ice.",
+            "scene_image_filename": "recipe_qm0bnsrt2ube/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/qm0bnsrt2ube-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Pouring 2 ounces of Caravella Limoncello into the glass filled with ice.",
+            "text": "Limoncello",
+            "voice_over": "Pour in two ounces of chilled Caravella Limoncello.",
+            "scene_image_filename": "recipe_qm0bnsrt2ube/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/qm0bnsrt2ube-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Topping the limoncello with chilled Spinelli Asti Spumante, the bubbles rising in the glass.",
+            "text": "Sparkling Wine",
+            "voice_over": "Top with chilled Spinelli Asti Spumante.",
+            "scene_image_filename": "recipe_qm0bnsrt2ube/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/qm0bnsrt2ube-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Garnishing the drink with a lemon slice and a fresh mint sprig.",
+            "text": "Garnish",
+            "voice_over": "Garnish with a lemon slice and a sprig of fresh mint.",
+            "scene_image_filename": "recipe_qm0bnsrt2ube/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/qm0bnsrt2ube-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The finished Capri Long Drink, garnished and ready to enjoy, with the Italian coast in the background.",
+            "text": "Enjoy!",
+            "voice_over": "Your Capri Long Drink is ready!  This refreshing cocktail is perfect as an aperitivo or a light afternoon drink. It's roughly 150-200 calories, with 15-20 grams of carbs, and zero fat or protein.  Salute!",
+            "scene_image_filename": "recipe_qm0bnsrt2ube/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/qm0bnsrt2ube-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Drink",
+        "Cocktail",
+        "Aperitif"
+      ],
+      "cuisine_type": "Italian",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Lemon",
+        "Mint",
+        "Wine",
+        "Liqueur"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Summer",
+        "Casual"
+      ],
+      "cooking_tips": [
+        "For a sweeter drink, add a splash of simple syrup or agave nectar.",
+        "Adjust the amount of limoncello to your liking.  Less limoncello will result in a lighter drink."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_qm0bnsrt2ube/qm0bnsrt2ube_main_image.jpg"
+    },
+    {
+      "id": "220ej8e1r5225",
+      "name": "Strega Sun Witch Cocktail",
+      "url": "http://www.food.com/recipe/strega-sun-witch-drink-100949",
+      "ingredients": [
+        "1 fluid ounce Strega liqueur",
+        "3/4 fluid ounce white cr\u00e8me de cacao",
+        "1 fluid ounce heavy whipping cream",
+        "3/4 fluid ounce orange juice",
+        "1 orange slice (for garnish)"
+      ],
+      "directions": [
+        "Step 1: Combine Strega liqueur, white cr\u00e8me de cacao, heavy whipping cream, and orange juice in a cocktail shaker filled with ice.",
+        "Step 2: Shake vigorously for 15-20 seconds until well chilled.",
+        "Step 3: Strain into a chilled cocktail glass.",
+        "Step 4: Garnish with an orange slice."
+      ],
+      "duration": "1 mins",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/220ej8e1r5225-m.webp",
+      "nutrition": {
+        "calories": "200-250",
+        "protein": "1-2 grams",
+        "carbs": "20-25 grams",
+        "fat": "5-7 grams",
+        "fiber": "0-1 gram",
+        "sugar": "15-20 grams",
+        "sodium": "10-20 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a Strega Sun Witch cocktail in a vintage coupe glass against a dark, moody backdrop. Style with a single, artfully placed orange slice garnish.  Focus sharply on the creamy surface of the cocktail, allowing the orange garnish and the back edge of the glass to softly blur. Utilize chiaroscuro lighting to highlight the rich golden hue and creamy texture.  Compose from a slightly elevated angle, showcasing the drink's enticing layers.  The overall mood should be sophisticated and mysterious.",
+      "image_filepath": "recipe_220ej8e1r5225/main_image",
+      "video_script": {
+        "title": "Strega Sun Witch Cocktail",
+        "description": "Learn how to make a Strega Sun Witch Cocktail: a vibrant, creamy, and citrusy cocktail perfect for any occasion.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up of a Strega Sun Witch Cocktail in a chilled coupe glass, garnished with an orange slice. The cocktail is a creamy, pale orange color. The background is a warm, inviting setting, perhaps a bar or a cozy living room.",
+            "text": "Strega Sun Witch Cocktail",
+            "voice_over": "Hello, cocktail enthusiasts! Today, we're crafting the Strega Sun Witch Cocktail\u2014a delightful blend of herbal liqueur, creamy cacao, and bright citrus.  It's a perfect balance of sweet, creamy, and subtly herbal flavors.",
+            "scene_image_filename": "recipe_220ej8e1r5225/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/220ej8e1r5225-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients for the Strega Sun Witch Cocktail arranged on a bar or table: a bottle of Strega liqueur, a bottle of white cr\u00e8me de cacao, heavy whipping cream, orange juice, and a fresh orange.",
+            "text": "Ingredients",
+            "voice_over": "Here\u2019s what you\u2019ll need: Strega liqueur, white cr\u00e8me de cacao, heavy whipping cream, orange juice, and an orange slice for garnish.",
+            "scene_image_filename": "recipe_220ej8e1r5225/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/220ej8e1r5225-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A cocktail shaker filled with ice, with Strega liqueur, white cr\u00e8me de cacao, heavy cream, and orange juice being poured into it.",
+            "text": "Combine Ingredients",
+            "voice_over": "In a cocktail shaker filled with ice, combine one ounce of Strega liqueur, three-quarters of an ounce of white cr\u00e8me de cacao, one ounce of heavy cream, and three-quarters of an ounce of orange juice. ",
+            "scene_image_filename": "recipe_220ej8e1r5225/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/220ej8e1r5225-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A hand vigorously shaking the cocktail shaker.",
+            "text": "Shake Well",
+            "voice_over": "Close the lid tightly and shake vigorously for about 15-20 seconds. This will chill and mix the ingredients thoroughly, creating a smooth, creamy texture.",
+            "scene_image_filename": "recipe_220ej8e1r5225/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/220ej8e1r5225-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The cocktail being strained from the shaker into a chilled coupe glass.",
+            "text": "Strain and Serve",
+            "voice_over": "Strain the mixture into a chilled cocktail glass. A coupe glass works best, but any chilled glass will do.",
+            "scene_image_filename": "recipe_220ej8e1r5225/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/220ej8e1r5225-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A hand garnishing the Strega Sun Witch Cocktail with an orange slice.",
+            "text": "Garnish",
+            "voice_over": "Garnish with a fresh orange slice. This adds a pop of color and a burst of citrus aroma.",
+            "scene_image_filename": "recipe_220ej8e1r5225/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/220ej8e1r5225-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The finished Strega Sun Witch Cocktail, garnished with an orange slice, sitting on a bar or table. The background could be a warm, inviting setting or a close-up of the drink itself.",
+            "text": "Enjoy!",
+            "voice_over": "There you have it! The Strega Sun Witch Cocktail, ready to enjoy. This vibrant and flavorful cocktail is perfect for any occasion.  It has roughly 200-250 calories, 1-2 grams of protein, 20-25 grams of carbs, and 5-7 grams of fat. Cheers!",
+            "scene_image_filename": "recipe_220ej8e1r5225/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/220ej8e1r5225-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 2,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 2,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Drink",
+        "Cocktail"
+      ],
+      "cuisine_type": "Italian",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Strega",
+        "Orange",
+        "Cream",
+        "Liqueur"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Cocktail Hour"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use fresh orange juice.",
+        "If you don't have heavy whipping cream, you can substitute half-and-half or milk, but the cocktail will be less creamy.",
+        "Chill your cocktail glass beforehand for a colder drink."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_220ej8e1r5225/220ej8e1r5225_main_image.jpg"
+    },
+    {
+      "id": "7esqipvogslpo",
+      "name": "Chamomile, Carrot, and Orange Refresher with Hummus Crispbread",
+      "url": "http://www.taste.com.au/recipes/12266/chamomile+carrot+and+orange+drink+with+hummus+crispbread",
+      "ingredients": [
+        "2 chamomile tea bags",
+        "250 ml boiling water",
+        "380 g carrots, chilled and cut into quarters",
+        "2 oranges, chilled, peeled, halved, wedges, and seeds removed",
+        "Ice cubes (optional)",
+        "4 multi-grain crispbreads",
+        "70 g reduced-fat hummus"
+      ],
+      "directions": [
+        "Step 1: Infuse the tea: Place the tea bags in a heatproof jug and add the boiling water. Set aside for 15 minutes to infuse and cool.",
+        "Step 2: Prepare the crispbread: Spread the multi-grain crispbreads with the hummus.",
+        "Step 3: Juice the produce: Process the carrots and oranges in a juice extractor.",
+        "Step 4: Combine ingredients: Pour the juice into a medium jug. Add the cooled chamomile tea and mix well.",
+        "Step 5: Serve: Add ice cubes, if desired. Pour into serving glasses and serve immediately with the hummus crispbread."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/7esqipvogslpo-m.webp",
+      "nutrition": {
+        "calories": "200 per serving",
+        "protein": "5 grams per serving",
+        "carbs": "40 grams per serving",
+        "fat": "5 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "25 grams per serving",
+        "sodium": "100 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, refreshing scene of a Chamomile, Carrot, and Orange Refresher.  Style the drink in a tall, elegant glass with visible carrot and orange pieces, garnished with a chamomile flower. Alongside, arrange multi-grain crispbreads topped with smooth hummus, perhaps garnished with a sprinkle of paprika. Use a bright, airy backdrop with natural textures like linen or wood. Employ a slightly overhead, 45-degree angle, focusing sharply on the drink and crispbreads with a shallow depth of field, creating a soft, inviting mood.  Highlight the vibrant orange and delicate yellow hues with natural, diffused light.",
+      "image_filepath": "recipe_7esqipvogslpo/main_image",
+      "video_script": {
+        "title": "Chamomile, Carrot, and Orange Refresher with Hummus Crispbread",
+        "description": "A refreshing and healthy juice paired with a flavorful crispbread.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a glass of vibrant orange juice with crispbread topped with hummus.  A few carrots and orange wedges are artfully arranged near the glass.  Focus on the color contrast and textures.",
+            "text": "Chamomile, Carrot, and Orange Refresher",
+            "voice_over": "This invigorating drink is not only delicious but also packed with vitamins and flavor.  Perfect for a light snack or a healthy pick-me-up.",
+            "scene_image_filename": "recipe_7esqipvogslpo/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7esqipvogslpo-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display the ingredients: two chamomile tea bags beside a kettle of boiling water, a pile of quartered carrots, and two whole oranges. Keep the background clean and bright.",
+            "text": "Ingredients",
+            "voice_over": "Let's gather our ingredients. We'll need chamomile tea bags, boiling water, fresh carrots, and oranges.  We will also need hummus and multi-grain crispbread for a tasty accompaniment.",
+            "scene_image_filename": "recipe_7esqipvogslpo/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7esqipvogslpo-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Pouring boiling water over chamomile tea bags in a jug. Steam gently rises from the jug.",
+            "text": "Infuse Tea",
+            "voice_over": "First, infuse the chamomile tea. Pour boiling water over the tea bags and let it steep for 15 minutes to release its calming aroma and flavor. This also allows the tea to cool.",
+            "scene_image_filename": "recipe_7esqipvogslpo/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7esqipvogslpo-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 4,
+            "image_prompt": "Close-up of spreading hummus on multi-grain crispbread. Focus on the smooth texture of the hummus against the crispbread.",
+            "text": "Prepare Crispbread",
+            "voice_over": "While the tea is infusing, prepare the hummus crispbread. Spread reduced-fat hummus evenly over the crispbreads.",
+            "scene_image_filename": "recipe_7esqipvogslpo/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7esqipvogslpo-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Carrots and oranges going through a juicer, with juice pouring out into a container. Emphasize the fresh juice extraction process.",
+            "text": "Juice Produce",
+            "voice_over": "Next, juice the carrots and oranges using a juice extractor.  This extracts the maximum amount of nutrients and flavor from the produce.",
+            "scene_image_filename": "recipe_7esqipvogslpo/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7esqipvogslpo-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Pouring carrot and orange juice into a jug with cooled chamomile tea. Show the two liquids mixing together.",
+            "text": "Combine Ingredients",
+            "voice_over": "Now, combine the freshly made juice with the cooled chamomile tea. Stir gently to mix well. This creates a delicious and refreshing blend.",
+            "scene_image_filename": "recipe_7esqipvogslpo/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7esqipvogslpo-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 4,
+            "image_prompt": "Pouring the refresher into a glass filled with ice. Show the vibrant color of the drink against the ice.",
+            "text": "Serve Chilled",
+            "voice_over": "Add ice cubes to the jug, if desired. Pour into serving glasses and enjoy immediately with the hummus crispbread.",
+            "scene_image_filename": "recipe_7esqipvogslpo/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7esqipvogslpo-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Final shot of two glasses of the Chamomile, Carrot, and Orange Refresher with two plates of hummus crispbread. Garnish with a few chamomile flowers. Close-up shot showcasing the vibrant color and textures. ",
+            "text": "Enjoy!",
+            "voice_over": "This Chamomile, Carrot, and Orange Refresher with Hummus Crispbread is a delightful and healthy treat.  Each serving contains approximately 200 calories, 5 grams of protein, 40 grams of carbs, and 5 grams of fat.  Enjoy!",
+            "scene_image_filename": "recipe_7esqipvogslpo/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7esqipvogslpo-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 20,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Beverage"
+      ],
+      "cuisine_type": "Healthy",
+      "dietary_tags": [
+        "Vegetarian",
+        "Vegan option"
+      ],
+      "ingredient_tags": [
+        "Chamomile",
+        "Carrot",
+        "Orange",
+        "Hummus"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Afternoon tea"
+      ],
+      "cooking_tips": [
+        "For a sweeter drink, use ripe, sweet oranges.",
+        "If you don't have a juice extractor, you can blend the carrots and oranges and then strain the mixture through a fine-mesh sieve.",
+        "Adjust the amount of chamomile tea to your liking. For a stronger chamomile flavor, use 3 tea bags or steep for a longer time."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_7esqipvogslpo/7esqipvogslpo_main_image.jpg"
+    },
+    {
+      "id": "1qhbf97c8i4du",
+      "name": "Miami Vice Frozen Cocktail",
+      "url": "http://www.food.com/recipe/miami-vice-frozen-drinks-8741",
+      "ingredients": [
+        "12 ounces frozen strawberry daiquiri concentrate",
+        "12 ounces frozen pi\u00f1a colada mix",
+        "2 ounces white rum (optional)",
+        "Fresh strawberries, for garnish",
+        "Shredded coconut, for garnish"
+      ],
+      "directions": [
+        "Step 1: In a blender, combine the frozen strawberry daiquiri concentrate and blend until smooth. Pour into a container and set aside.",
+        "Step 2: In the same blender (no need to wash), combine the frozen pi\u00f1a colada mix and blend until smooth. Pour into a separate container.",
+        "Step 3: If using rum, divide it equally between the two prepared mixes and stir gently.",
+        "Step 4: Take a tall glass and carefully pour the strawberry daiquiri mixture down one side of the glass and the pi\u00f1a colada mixture down the opposite side simultaneously, creating a layered effect.",
+        "Step 5: Garnish with fresh strawberries threaded onto a cocktail straw or skewer. Sprinkle shredded coconut on top."
+      ],
+      "duration": "10 mins",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/1qhbf97c8i4du-m.webp",
+      "nutrition": {
+        "calories": "250-350 per serving",
+        "protein": "1-2 grams per serving",
+        "carbs": "50-70 grams per serving",
+        "fat": "2-5 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "40-60 grams per serving",
+        "sodium": "20-50 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a Miami Vice frozen cocktail, half strawberry daiquiri, half pi\u00f1a colada, layered diagonally in a hurricane glass. Garnish with fresh strawberries and shredded coconut. Use a bright, airy background with tropical hints.  Focus on the layered swirls, capturing the icy texture. Shallow depth of field, highlighting the garnishes. Backlighting to enhance the vibrant colors and create a refreshing, summery mood. Shoot from a slightly elevated angle, showcasing the layered drink and garnishes.",
+      "image_filepath": "recipe_1qhbf97c8i4du/main_image",
+      "video_script": {
+        "title": "Miami Vice Frozen Cocktail Recipe",
+        "description": "Learn how to make the refreshing Miami Vice cocktail, a layered blend of frozen strawberry daiquiri and pi\u00f1a colada.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a Miami Vice cocktail in a tall glass, with the distinct layered swirl of pink strawberry daiquiri and creamy white pi\u00f1a colada. Garnish of fresh strawberries and shredded coconut. Backdrop of a tropical beach scene.",
+            "text": "Miami Vice Frozen Cocktail",
+            "voice_over": "Beat the heat with this iconic Miami Vice cocktail! A vibrant, layered drink that's as delicious as it looks.",
+            "scene_image_filename": "recipe_1qhbf97c8i4du/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1qhbf97c8i4du-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display frozen strawberry daiquiri concentrate and frozen pi\u00f1a colada mix packages alongside a bottle of white rum and garnishes: fresh strawberries and shredded coconut.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: 12 ounces of frozen strawberry daiquiri concentrate, 12 ounces of frozen pi\u00f1a colada mix, 2 ounces of white rum (optional), fresh strawberries, and shredded coconut for garnish.",
+            "scene_image_filename": "recipe_1qhbf97c8i4du/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1qhbf97c8i4du-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Blender blending the frozen strawberry daiquiri concentrate until smooth.",
+            "text": "Blend Strawberry Daiquiri",
+            "voice_over": "First, blend the frozen strawberry daiquiri concentrate until smooth. This should only take about 30 seconds. Pour into a container and set aside.",
+            "scene_image_filename": "recipe_1qhbf97c8i4du/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1qhbf97c8i4du-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Blender blending the frozen pi\u00f1a colada mix until smooth.",
+            "text": "Blend Pi\u00f1a Colada",
+            "voice_over": "Next, blend the frozen pi\u00f1a colada mix until smooth, about 30 seconds. Pour into a separate container.",
+            "scene_image_filename": "recipe_1qhbf97c8i4du/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1qhbf97c8i4du-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "Close-up of adding white rum to both the strawberry daiquiri and pi\u00f1a colada mixes, stirring gently.",
+            "text": "Add Rum (Optional)",
+            "voice_over": "If you're using rum, add 1 ounce to each of the mixes and stir gently.",
+            "scene_image_filename": "recipe_1qhbf97c8i4du/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1qhbf97c8i4du-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "Demonstrating the pouring technique, slowly and simultaneously pouring the strawberry daiquiri mixture down one side of the glass and the pi\u00f1a colada mixture down the opposite side to create a layered effect.",
+            "text": "Create the Layers",
+            "voice_over": "Now for the fun part! Take a tall glass and carefully pour the strawberry daiquiri mixture down one side and the pi\u00f1a colada mixture down the opposite side simultaneously, creating that beautiful layered effect.",
+            "scene_image_filename": "recipe_1qhbf97c8i4du/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1qhbf97c8i4du-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Close-up of garnishing the cocktail with fresh strawberries threaded onto a cocktail straw and sprinkled with shredded coconut.",
+            "text": "Garnish",
+            "voice_over": "Garnish with fresh strawberries and a sprinkle of shredded coconut. A cocktail umbrella adds a fun touch!",
+            "scene_image_filename": "recipe_1qhbf97c8i4du/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1qhbf97c8i4du-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Two finished Miami Vice cocktails in tall glasses, garnished with fresh strawberries and shredded coconut, placed on a table with a tropical beach background.  A few cocktail umbrellas are scattered around.",
+            "text": "Enjoy!",
+            "voice_over": "Your Miami Vice cocktail is ready!  Each serving has approximately 250-350 calories, 1-2 grams of protein, 50-70 grams of carbs, and 2-5 grams of fat. Enjoy responsibly!",
+            "scene_image_filename": "recipe_1qhbf97c8i4du/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1qhbf97c8i4du-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 10,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Beverage"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Strawberry",
+        "Coconut",
+        "Rum"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Summer"
+      ],
+      "cooking_tips": [
+        "For a virgin Miami Vice, omit the rum.",
+        "For a stronger flavor, use more frozen concentrate and less rum. For a weaker flavor, do the opposite.",
+        "If the layers start to mix too much, use a spoon to gently create a barrier between the two mixes as you pour.",
+        "Pre-chill your glasses for an extra frosty beverage."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_1qhbf97c8i4du/1qhbf97c8i4du_main_image.jpg"
+    },
+    {
+      "id": "fksd7gaqaoek",
+      "name": "Vegan Mayan Drinking Chocolate",
+      "url": "http://minimalistbaker.com/vegan-mayan-drinking-chocolate/",
+      "ingredients": [
+        "1 cup full-fat coconut milk",
+        "1 cup unsweetened almond milk",
+        "5 ounces (1 cup) dark chocolate (70% cacao), chopped",
+        "1/2 teaspoon vanilla extract",
+        "1/2 teaspoon ground cinnamon",
+        "1/8 teaspoon cayenne pepper (or more, to taste)",
+        "Pinch of ground nutmeg (optional)",
+        "1/4 teaspoon sea salt",
+        "1-2 tablespoons raw cane sugar or coconut sugar (optional)",
+        "Coconut whipped cream, for topping"
+      ],
+      "directions": [
+        "Step 1: In a small saucepan, combine the coconut milk and almond milk. Bring to a simmer over medium heat.",
+        "Step 2: Add the chopped dark chocolate and whisk constantly until melted and smooth.",
+        "Step 3: Add the ground cinnamon, cayenne pepper, nutmeg (if using), and sea salt. Whisk vigorously to combine.",
+        "Step 4: Remove the saucepan from the heat and stir in the vanilla extract.",
+        "Step 5: Taste the drinking chocolate and adjust the sweetness as needed, adding raw cane sugar or coconut sugar if desired. Add more cayenne pepper for extra heat.",
+        "Step 6: Pour into mugs and top with coconut whipped cream. Garnish with a dusting of cocoa or cacao powder and additional spices or chocolate, if desired."
+      ],
+      "duration": "15 minutes ",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd7gaqaoek-m.webp",
+      "nutrition": {
+        "calories": "250-300 per serving",
+        "protein": "5 grams per serving",
+        "carbs": "30-35 grams per serving",
+        "fat": "20-25 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "15-20 grams per serving",
+        "sodium": "100 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a styled image of Vegan Mayan Drinking Chocolate in a rustic, earthenware mug, steam gently rising.  Focus on the rich, dark chocolate color contrasted by the creamy coconut whipped topping and a dusting of cinnamon.  Use a shallow depth of field, focusing on the foreground, blurring the background of textured woven placemats and cacao nibs.  Soft, directional light from the side should highlight the drink's texture and create warmth.  Garnish with a cinnamon stick and a single star anise for visual interest.  Aim for a moody, inviting atmosphere.",
+      "image_filepath": "recipe_fksd7gaqaoek/main_image",
+      "video_script": {
+        "title": "Vegan Mayan Drinking Chocolate",
+        "description": "Rich, decadent, and dairy-free Mayan hot chocolate. Perfect for a cozy night in!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two mugs of vegan Mayan drinking chocolate, topped with coconut whipped cream, a dusting of cocoa powder, and a sprinkle of cinnamon. Steam curls enticingly from the mugs.  Warm lighting and a rustic background create a cozy atmosphere.",
+            "text": "Vegan Mayan Drinking Chocolate",
+            "voice_over": "Indulge in the rich and comforting flavors of Mayan hot chocolate, made vegan and even more delicious! This recipe is easy to follow and perfect for a chilly evening.",
+            "scene_image_filename": "recipe_fksd7gaqaoek/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gaqaoek-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of the ingredients arranged on a wooden table: full-fat coconut milk and almond milk in glass measuring cups, dark chocolate chunks, cinnamon sticks, cayenne pepper flakes, nutmeg, sea salt, raw cane sugar, and a bowl of coconut whipped cream. ",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: full-fat coconut milk, unsweetened almond milk, dark chocolate, vanilla extract, ground cinnamon, cayenne pepper, a pinch of nutmeg, sea salt, and some raw cane sugar or coconut sugar for optional sweetness. For topping, we'll use coconut whipped cream.",
+            "scene_image_filename": "recipe_fksd7gaqaoek/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gaqaoek-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Small saucepan on a stovetop. The coconut milk and almond milk are being combined in the saucepan. ",
+            "text": "Combine Milks",
+            "voice_over": "In a small saucepan, combine one cup of full-fat coconut milk and one cup of unsweetened almond milk. Place the saucepan over medium heat and bring the mixture to a gentle simmer.",
+            "scene_image_filename": "recipe_fksd7gaqaoek/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gaqaoek-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The chopped dark chocolate is being added to the simmering milk mixture in the saucepan. A whisk is shown nearby, ready to be used. ",
+            "text": "Melt Chocolate",
+            "voice_over": "Add five ounces of chopped dark chocolate to the simmering milk. Whisk constantly until the chocolate is completely melted and the mixture is smooth.",
+            "scene_image_filename": "recipe_fksd7gaqaoek/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gaqaoek-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the spices: ground cinnamon, cayenne pepper, nutmeg, and sea salt, being added to the chocolate mixture. ",
+            "text": "Spice It Up!",
+            "voice_over": "Now, for the signature Mayan flavors: add half a teaspoon of ground cinnamon, an eighth of a teaspoon of cayenne pepper, a pinch of nutmeg, and a quarter teaspoon of sea salt. Whisk vigorously to combine all the spices.",
+            "scene_image_filename": "recipe_fksd7gaqaoek/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gaqaoek-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 4,
+            "image_prompt": "The saucepan is being removed from the heat. Vanilla extract is being added to the chocolate mixture.",
+            "text": "Vanilla & Sweetener",
+            "voice_over": "Remove the saucepan from the heat and stir in half a teaspoon of vanilla extract. Now, taste the drinking chocolate and add one to two tablespoons of raw cane sugar or coconut sugar if you prefer it sweeter. For extra heat, add a pinch more cayenne pepper.",
+            "scene_image_filename": "recipe_fksd7gaqaoek/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gaqaoek-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Two mugs are being filled with the Mayan drinking chocolate. ",
+            "text": "Serve & Enjoy",
+            "voice_over": "Pour the decadent Mayan drinking chocolate into mugs and top with a generous dollop of coconut whipped cream. Garnish with a dusting of cocoa powder and a sprinkle of extra cinnamon, if desired.",
+            "scene_image_filename": "recipe_fksd7gaqaoek/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gaqaoek-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Final shot of the two mugs of Vegan Mayan Drinking Chocolate, beautifully styled and ready to be enjoyed, with a few chocolate chunks scattered around. ",
+            "text": "Vegan Mayan Delight!",
+            "voice_over": "There you have it - rich, creamy, and utterly delicious Vegan Mayan Drinking Chocolate! This treat is perfect for sharing with loved ones or savoring on your own. Enjoy!",
+            "scene_image_filename": "recipe_fksd7gaqaoek/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7gaqaoek-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 15,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Mexican",
+      "dietary_tags": [
+        "Vegan",
+        "Vegetarian",
+        "Dairy-Free",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Chocolate",
+        "Coconut Milk",
+        "Almond Milk",
+        "Cinnamon",
+        "Cayenne Pepper",
+        "Nutmeg"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Holiday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use high-quality dark chocolate with a cacao content of 70% or higher.",
+        "Adjust the amount of cayenne pepper to your preference. Start with a small amount and add more gradually until you reach the desired level of heat.",
+        "If you don't have coconut whipped cream, you can use another dairy-free whipped topping or simply omit it.",
+        "To make this recipe ahead of time, prepare the drinking chocolate and store it in the refrigerator for up to 3 days. Reheat gently before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_fksd7gaqaoek/fksd7gaqaoek_main_image.jpg"
+    },
+    {
+      "id": "4eoplps50ul11",
+      "name": "Acapulco Sunrise",
+      "url": "http://www.food.com/recipe/acapulco-sunrise-adult-drink-181386",
+      "ingredients": [
+        "2 ounces good quality tequila",
+        "1 tablespoon lime juice",
+        "1 tablespoon Triple Sec or other cura\u00e7ao",
+        "2 tablespoons cr\u00e8me de cassis",
+        "1 cup club soda",
+        "1 lime slice, for garnish"
+      ],
+      "directions": [
+        "Step 1: Fill a cocktail shaker with crushed ice.",
+        "Step 2: Add the tequila, lime juice, cura\u00e7ao, and cr\u00e8me de cassis to the shaker.",
+        "Step 3: Close the lid tightly and shake vigorously until well-chilled.",
+        "Step 4: Fill a tall glass halfway with ice.",
+        "Step 5: Strain the cocktail mixture from the shaker into the glass.",
+        "Step 6: Top with club soda.",
+        "Step 7: Stir gently.",
+        "Step 8: Garnish with a lime slice."
+      ],
+      "duration": "5 mins",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-m.webp",
+      "nutrition": {
+        "calories": "200 (estimated)",
+        "protein": "0 grams",
+        "carbs": "20 grams (estimated)",
+        "fat": "0 grams",
+        "fiber": "0 grams",
+        "sugar": "15 grams (estimated)",
+        "sodium": "10 mg (estimated)"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Acapulco Sunrise cocktail in a tall, elegant glass against a backdrop of warm, tropical hues.  Focus on the gradient of colors, from the deep red cassis at the bottom to the bright orange tequila sunrise effect. Use backlighting to emphasize the bubbles in the club soda and a shallow depth of field to highlight the lime wedge garnish perched on the rim.  Include condensation on the glass for a refreshing feel.  Compose with a slightly overhead angle showcasing the drink's layered beauty.  The mood should be bright, celebratory, and inviting.",
+      "image_filepath": "recipe_4eoplps50ul11/main_image",
+      "video_script": {
+        "title": "Acapulco Sunrise Cocktail Recipe",
+        "description": "Learn how to make a refreshing Acapulco Sunrise cocktail with tequila, cr\u00e8me de cassis, and a splash of club soda. This vibrant cocktail is perfect for any occasion.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished Acapulco Sunrise cocktail in a tall glass with ice, garnished with a lime slice. The drink has a gradient of colors, with the deep red of cr\u00e8me de cassis at the bottom and the lighter orange-yellow of the tequila mix in the middle, topped with clear club soda.",
+            "text": "Acapulco Sunrise",
+            "voice_over": "Welcome! Today we're making the Acapulco Sunrise, a vibrant and refreshing cocktail perfect for a warm day.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a bar counter: a bottle of tequila, lime, a bottle of Triple Sec, a bottle of cr\u00e8me de cassis, a tall glass, club soda, a cocktail shaker, jigger, and strainer.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: good quality tequila, fresh lime juice, Triple Sec or other cura\u00e7ao, cr\u00e8me de cassis, club soda, and a lime slice for garnish.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of a cocktail shaker being filled with crushed ice.",
+            "text": "Chill",
+            "voice_over": "First, fill your cocktail shaker with crushed ice.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of tequila, lime juice, Triple Sec, and cr\u00e8me de cassis being measured and poured into the shaker.",
+            "text": "Mix",
+            "voice_over": "Add 2 ounces of tequila, 1 tablespoon of lime juice, 1 tablespoon of Triple Sec, and 2 tablespoons of cr\u00e8me de cassis to the shaker.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up of the cocktail shaker being closed tightly and shaken vigorously.",
+            "text": "Shake",
+            "voice_over": "Secure the lid and shake well for about 15-20 seconds until the shaker is chilled.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A tall glass being filled halfway with ice.",
+            "text": "Ice",
+            "voice_over": "Fill a tall glass halfway with ice.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The cocktail mixture being strained from the shaker into the glass filled with ice.",
+            "text": "Strain",
+            "voice_over": "Strain the chilled cocktail mixture into the glass.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Club soda being poured into the glass, topping off the cocktail.",
+            "text": "Top",
+            "voice_over": "Top it off with club soda.  About a cup should do it.  Leave some space for the gradient effect of the layered drink.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The drink being gently stirred with a bar spoon.",
+            "text": "Stir",
+            "voice_over": "Stir gently to combine. Don't overmix.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A lime slice being placed on the rim of the glass as a garnish.",
+            "text": "Garnish",
+            "voice_over": "Garnish with a lime slice.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "The finished Acapulco Sunrise cocktail in a tall glass, garnished with a lime slice, placed on a bar counter with cocktail making tools in the background.  A few tortilla chips and a small bowl of salsa are visible in the background to suggest a pairing.",
+            "text": "Enjoy!",
+            "voice_over": "Your Acapulco Sunrise is ready! Enjoy this refreshing cocktail. It pairs perfectly with some light snacks like tortilla chips and salsa.  It has about 200 calories, so sip responsibly.",
+            "scene_image_filename": "recipe_4eoplps50ul11/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4eoplps50ul11-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Drink",
+        "Cocktail"
+      ],
+      "cuisine_type": "Mexican",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Tequila",
+        "Lime",
+        "Cura\u00e7ao",
+        "Cr\u00e8me de Cassis",
+        "Club Soda"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Celebration"
+      ],
+      "cooking_tips": [
+        "For a sweeter drink, use a cura\u00e7ao with a higher sugar content.",
+        "Adjust the amount of club soda to your liking.",
+        "Use fresh lime juice for the best flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_4eoplps50ul11/4eoplps50ul11_main_image.jpg"
+    },
+    {
+      "id": "3jcs649k0gs8s",
+      "name": "Bubblegum-Infused Vodka Cocktails",
+      "url": "http://www.food.com/recipe/bubblegum-infused-vodka-drinks-326180",
+      "ingredients": [
+        "16 pieces Bazooka bubblegum (or similar)",
+        "2 cups vodka",
+        "1 ounce Kahlua coffee liqueur",
+        "3 ounces milk",
+        "Ice cubes",
+        "1 1/2 ounces Godiva white chocolate liqueur",
+        "4 ounces milk",
+        "1 cup crushed ice",
+        "3 ounces frozen pink lemonade concentrate",
+        "6 ice cubes",
+        "6 ounces club soda",
+        "Lemon slice or wedge, for garnish"
+      ],
+      "directions": [
+        "Step 1: Infuse the Vodka: Quarter the bubblegum pieces and place them in a sealable glass jar. Add the vodka, seal the jar tightly, and store in a cool, dark place.",
+        "Step 2: Stir and Steep: Stir the mixture every 4 hours for 24 hours. ",
+        "Step 3: Filter: After 24 hours, strain the vodka through a paper coffee filter into a clean jar.",
+        "Step 4: Prepare the Russian Bubblegum: In a glass filled with ice, combine 1 ounce of bubblegum-infused vodka, 1 ounce of Kahlua, and 3 ounces of milk. Stir gently and serve.",
+        "Step 5: Prepare the Bazooka Frosty: Combine 1 ounce of bubblegum-infused vodka, 1 1/2 ounces of Godiva white chocolate liqueur, 4 ounces of milk, and 1 cup of crushed ice in a blender. Blend until smooth and pour into a glass.  ",
+        "Step 6: Prepare the Hard Bubblegum Lemonade: In a tall glass filled with ice, mix 1 1/2 ounces of bubblegum-infused vodka, 3 ounces of frozen pink lemonade concentrate, and 6 ounces of club soda. Garnish with a lemon slice or wedge."
+      ],
+      "duration": "24 hrs",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/3jcs649k0gs8s-m.webp",
+      "nutrition": {
+        "calories": "200-300 per serving (estimated)",
+        "protein": "1-2 grams per serving (estimated)",
+        "carbs": "20-30 grams per serving (estimated)",
+        "fat": "2-5 grams per serving (estimated)",
+        "fiber": "0-1 grams per serving (estimated)",
+        "sugar": "15-25 grams per serving (estimated)",
+        "sodium": "5-10 mg per serving (estimated)"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture two bubblegum-infused vodka cocktails in elegant, tall glasses against a softly lit, pastel pink backdrop.  Garnish with a single piece of unwrapped bubblegum draped over the rim and a dusting of powdered sugar on the frothy milk layer.  Focus on the condensation on the glasses and the vibrant pink hue of the cocktail.  Use a shallow depth of field, highlighting the garnishes and the texture of the crushed ice.  Employ a slightly overhead angle to showcase the layered drink, creating a dreamy, indulgent mood. Include a few scattered pieces of bubblegum in the foreground, slightly out of focus.",
+      "image_filepath": "recipe_3jcs649k0gs8s/main_image",
+      "video_script": {
+        "title": "Bubblegum Bliss: 3 Vodka Cocktails You Won't Believe!",
+        "description": "Learn to make three unique and delicious vodka cocktails infused with real bubblegum! From the creamy Bazooka Frosty to the refreshing Hard Bubblegum Lemonade, these drinks are a guaranteed party hit.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of all three finished cocktails: Russian Bubblegum, Bazooka Frosty, and Hard Bubblegum Lemonade, garnished and styled beautifully on a bar top. Soft, colorful lighting.",
+            "text": "Bubblegum Cocktails!",
+            "voice_over": "Get ready to relive your childhood with a boozy twist!  We're making three amazing bubblegum-infused vodka cocktails: the creamy, coffee-kissed Russian Bubblegum, the frosty and decadent Bazooka Frosty, and the tangy, refreshing Hard Bubblegum Lemonade.",
+            "scene_image_filename": "recipe_3jcs649k0gs8s/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3jcs649k0gs8s-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Pieces of Bazooka bubblegum, a bottle of vodka, a glass jar, and a knife on a wooden cutting board. ",
+            "text": "Ingredients for Infusion",
+            "voice_over": "Here's what you'll need for our bubblegum infusion: Bazooka bubblegum, your favorite vodka, and a jar for steeping.",
+            "scene_image_filename": "recipe_3jcs649k0gs8s/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3jcs649k0gs8s-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Hands cutting bubblegum pieces and placing them in a glass jar. Then, pouring vodka into the jar and sealing it tight.",
+            "text": "Infusing the Vodka",
+            "voice_over": "Quarter the bubblegum pieces and place them in your jar. Pour in the vodka, seal tightly, and let it infuse in a cool, dark place for 24 hours, stirring every 4 hours.",
+            "scene_image_filename": "recipe_3jcs649k0gs8s/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3jcs649k0gs8s-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Straining the bubblegum-infused vodka through a coffee filter into a clean jar. The pink vodka should be clearly visible.",
+            "text": "Filtering",
+            "voice_over": "After 24 hours, strain the vodka through a coffee filter to remove the gum.  See that beautiful pink hue? That's the magic happening!",
+            "scene_image_filename": "recipe_3jcs649k0gs8s/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3jcs649k0gs8s-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A glass filled with ice, Kahlua being poured in, followed by bubblegum vodka and milk. Finally, gently stirring the drink.",
+            "text": "Russian Bubblegum",
+            "voice_over": "For the Russian Bubblegum, combine ice, one ounce of bubblegum vodka, one ounce of Kahlua, and three ounces of milk. Stir gently.",
+            "scene_image_filename": "recipe_3jcs649k0gs8s/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3jcs649k0gs8s-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Ingredients for the Bazooka Frosty: bubblegum vodka, white chocolate liqueur, milk, and crushed ice being added to a blender.",
+            "text": "Bazooka Frosty",
+            "voice_over": "Now for the Bazooka Frosty! Combine one ounce of bubblegum vodka, one and a half ounces of Godiva white chocolate liqueur, four ounces of milk, and a cup of crushed ice in a blender.",
+            "scene_image_filename": "recipe_3jcs649k0gs8s/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3jcs649k0gs8s-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Blending the Bazooka Frosty ingredients until smooth and then pouring the frosty mixture into a glass.",
+            "text": "Blend It!",
+            "voice_over": "Blend until smooth and creamy. Pour into a glass, and get ready to indulge!",
+            "scene_image_filename": "recipe_3jcs649k0gs8s/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3jcs649k0gs8s-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "A tall glass filled with ice, pink lemonade concentrate being poured in, followed by bubblegum vodka and club soda. Finally, garnishing with a lemon slice.",
+            "text": "Hard Bubblegum Lemonade",
+            "voice_over": "Finally, the Hard Bubblegum Lemonade! In a tall glass with ice, mix one and a half ounces of bubblegum vodka, three ounces of frozen pink lemonade concentrate, and six ounces of club soda. Garnish with a lemon slice.",
+            "scene_image_filename": "recipe_3jcs649k0gs8s/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3jcs649k0gs8s-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "All three cocktails arranged beautifully on a bar, garnished and ready to serve, with colorful lighting. ",
+            "text": "Enjoy!",
+            "voice_over": "There you have it! Three incredible bubblegum vodka cocktails perfect for any occasion. Cheers!  Don't forget to check the description for the full recipe and nutrition information. Remember to drink responsibly.",
+            "scene_image_filename": "recipe_3jcs649k0gs8s/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3jcs649k0gs8s-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 2430,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Drink",
+        "Cocktail"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Vodka",
+        "Bubblegum",
+        "Milk",
+        "Lemonade",
+        "Coffee Liqueur",
+        "White Chocolate Liqueur"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Gathering"
+      ],
+      "cooking_tips": [
+        "For a stronger bubblegum flavor, let the vodka infuse for longer, up to 48 hours.",
+        "Adjust the sweetness of the cocktails by adding more or less of the liqueurs or concentrates.",
+        "Use different flavored bubblegum for unique variations."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_3jcs649k0gs8s/3jcs649k0gs8s_main_image.jpg"
+    },
+    {
+      "id": "fks1qk92m3l74c1",
+      "name": "Triple Citrus Refresher",
+      "url": "http://www.allrecipes.com/recipe/169409/triple-fruit-drink/?internalSource=hub+recipe",
+      "ingredients": [
+        "1 (12 ounce) can apricot nectar, chilled",
+        "1 1/2 cups orange juice, chilled",
+        "2 tablespoons lemon juice"
+      ],
+      "directions": [
+        "1. In a pitcher, combine the chilled apricot nectar, chilled orange juice, and lemon juice.",
+        "2. Stir gently to combine.",
+        "3. Serve immediately over ice."
+      ],
+      "duration": "5 minutes ",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1qk92m3l74c1-m.webp",
+      "nutrition": {
+        "calories": "91 kcal",
+        "protein": "1 g",
+        "carbs": "22 g",
+        "fat": "0 g",
+        "fiber": "0 g",
+        "sugar": "20 g",
+        "sodium": "10 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a Triple Citrus Refresher in a tall, elegant glass with condensation, garnished with a thin orange wheel and a sprig of mint. Use a bright, slightly high-key lighting setup emphasizing the vibrant orange hue. Focus on the condensation and garnish, with a shallow depth of field blurring the background.  The backdrop should be a light, textured linen cloth.  Compose the shot at a slightly elevated angle, showcasing the drink's refreshing nature against the backdrop. Aim for a bright, cheerful mood.",
+      "image_filepath": "recipe_fks1qk92m3l74c1/main_image",
+      "video_script": {
+        "title": "Triple Citrus Refresher",
+        "description": "A quick and easy refreshing citrus drink perfect for any occasion.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a glass of Triple Citrus Refresher, garnished with an orange slice and ice cubes. The drink is a vibrant orange-yellow color.",
+            "text": "Triple Citrus Refresher",
+            "voice_over": "Beat the heat with this Triple Citrus Refresher! It's a simple, refreshing blend of apricot, orange, and lemon, perfect for a hot day.",
+            "scene_image_filename": "recipe_fks1qk92m3l74c1/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qk92m3l74c1-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients shown in scene: chilled apricot nectar, chilled orange juice, lemon juice, ice. Background is a light wooden table.",
+            "text": "Ingredients",
+            "voice_over": "You'll need just a few simple ingredients: a can of chilled apricot nectar, some chilled orange juice, and a touch of lemon juice. Ice is essential for that extra chill.",
+            "scene_image_filename": "recipe_fks1qk92m3l74c1/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qk92m3l74c1-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Pouring apricot nectar, orange juice, and lemon juice into a pitcher.",
+            "text": "Combine Ingredients",
+            "voice_over": "In a pitcher, combine your chilled apricot nectar, orange juice, and lemon juice.  ",
+            "scene_image_filename": "recipe_fks1qk92m3l74c1/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qk92m3l74c1-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 4,
+            "image_prompt": "Stirring the ingredients gently in the pitcher.",
+            "text": "Stir Gently",
+            "voice_over": "Stir everything together gently. You don't want to create too much foam. ",
+            "scene_image_filename": "recipe_fks1qk92m3l74c1/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qk92m3l74c1-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Pouring the Triple Citrus Refresher into a glass filled with ice.",
+            "text": "Serve Over Ice",
+            "voice_over": "Pour your Triple Citrus Refresher into a glass filled with ice.",
+            "scene_image_filename": "recipe_fks1qk92m3l74c1/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qk92m3l74c1-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up of a glass of Triple Citrus Refresher garnished with an orange slice, with a pitcher of the drink in the background. ",
+            "text": "Enjoy!",
+            "voice_over": "Garnish with a slice of orange, if you like, and enjoy! This Triple Citrus Refresher is perfect for any occasion. It's quick, easy, and incredibly delicious.  ",
+            "scene_image_filename": "recipe_fks1qk92m3l74c1/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qk92m3l74c1-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Text overlay of the nutrition facts over a glass of Triple Citrus Refresher.",
+            "text": "Nutritional Information (per serving)",
+            "voice_over": "Each serving has approximately 91 calories, 1 gram of protein, 22 grams of carbs, and zero fat. It's a light and refreshing treat.",
+            "scene_image_filename": "recipe_fks1qk92m3l74c1/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qk92m3l74c1-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Two glasses of Triple Citrus Refresher, one garnished with an orange slice and the other with a lemon wedge, alongside a plate of cookies.",
+            "text": "Serving Suggestions",
+            "voice_over": "Try serving it with your favorite cookies or light snacks.  It's also a great non-alcoholic option for parties.  Enjoy your Triple Citrus Refresher!",
+            "scene_image_filename": "recipe_fks1qk92m3l74c1/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qk92m3l74c1-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 5,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Beverage"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Apricot",
+        "Orange",
+        "Lemon",
+        "Juice"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Summer"
+      ],
+      "cooking_tips": [
+        "For a sweeter drink, add a splash of simple syrup or agave nectar.",
+        "Garnish with a citrus slice or fresh mint leaves.",
+        "If you don't have apricot nectar, you can substitute peach nectar or a blend of apricot and peach juice."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_fks1qk92m3l74c1/fks1qk92m3l74c1_main_image.jpg"
+    },
+    {
+      "id": "fks1kuca5kd3fp1",
+      "name": "Iced Coffee with Sucralose",
+      "url": "http://www.allrecipes.com/recipe/220310/simple-coffee-drink/?internalSource=hub+recipe",
+      "ingredients": [
+        "1 cup milk",
+        "1/2 cup cold brew coffee",
+        "2 packets (1 gram each) granular sucralose sweetener (such as Splenda\u00ae)"
+      ],
+      "directions": [
+        "Step 1: In a glass, combine the milk, cold brew coffee, and sucralose sweetener."
+      ],
+      "duration": "5 minutes ",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1kuca5kd3fp1-m.webp",
+      "nutrition": {
+        "calories": "124 kcal",
+        "protein": "8 g",
+        "carbs": "12 g",
+        "fat": "4 g",
+        "fiber": "0 g",
+        "sugar": "0 g",
+        "sodium": "2 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of iced coffee with sucralose in a tall, condensation-covered glass against a dark, moody background. The rich brown coffee and white milk are clearly separated, with a gentle swirl just beginning to mix.  Focus on the ice cubes and the point where the coffee and milk meet. Use a shallow depth of field to highlight the textures.  Include a small bowl of sucralose granules and a silver spoon as props. Garnish with a single coffee bean resting on an ice cube. Emphasize the cool, refreshing qualities of the drink through lighting and color saturation.",
+      "image_filepath": "recipe_fks1kuca5kd3fp1/main_image",
+      "video_script": {
+        "title": "Iced Coffee with Sucralose",
+        "description": "A quick and easy recipe for a refreshing sugar-free iced coffee.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a tall glass of iced coffee with a straw. The coffee is a rich brown color with a layer of milk. Ice cubes are visible. In the background, coffee beans and sucralose packets are artfully arranged.",
+            "text": "Iced Coffee with Sucralose",
+            "voice_over": "Beat the heat with this refreshing iced coffee, perfectly sweetened with sucralose \u2013 a great sugar-free option. Let's get started!",
+            "scene_image_filename": "recipe_fks1kuca5kd3fp1/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1kuca5kd3fp1-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients are displayed on a clean surface: a carton of milk, a container of cold brew coffee, and two packets of sucralose sweetener.",
+            "text": "Ingredients",
+            "voice_over": "You'll need just a few things: one cup of milk, half a cup of cold brew coffee, and two packets of sucralose \u2013 I'm using Splenda, but any granular sucralose will do.",
+            "scene_image_filename": "recipe_fks1kuca5kd3fp1/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1kuca5kd3fp1-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A tall glass is shown. Milk is being poured into the glass.",
+            "text": "Combine Ingredients",
+            "voice_over": "First, pour one cup of milk into your glass.",
+            "scene_image_filename": "recipe_fks1kuca5kd3fp1/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1kuca5kd3fp1-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Cold brew coffee is being poured into the glass with milk.",
+            "text": "Add Cold Brew",
+            "voice_over": "Next, add half a cup of cold brew coffee.  You can adjust the coffee amount for your preference.",
+            "scene_image_filename": "recipe_fks1kuca5kd3fp1/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1kuca5kd3fp1-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Two packets of sucralose are being emptied into the glass with milk and coffee.",
+            "text": "Sweeten",
+            "voice_over": "Now add in the two packets of sucralose.",
+            "scene_image_filename": "recipe_fks1kuca5kd3fp1/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1kuca5kd3fp1-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A spoon stirs the contents of the glass to combine the milk, coffee, and sweetener.",
+            "text": "Mix",
+            "voice_over": "Stir well to combine all the ingredients and dissolve the sucralose.",
+            "scene_image_filename": "recipe_fks1kuca5kd3fp1/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1kuca5kd3fp1-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished iced coffee with a straw. Condensation is forming on the glass. Coffee beans and a sucralose packet are artfully arranged near the glass.",
+            "text": "Enjoy!",
+            "voice_over": "There you have it! A perfectly chilled, sugar-free iced coffee.  Perfect for a quick pick-me-up any time of day.",
+            "scene_image_filename": "recipe_fks1kuca5kd3fp1/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1kuca5kd3fp1-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The iced coffee is shown alongside serving suggestions: a plate of biscotti, a bowl of berries. The background is slightly blurred, creating a cozy atmosphere.",
+            "text": "Serving Suggestions",
+            "voice_over": "This iced coffee is delicious on its own, but you can also pair it with biscotti, fresh berries, or a light pastry. Enjoy!",
+            "scene_image_filename": "recipe_fks1kuca5kd3fp1/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1kuca5kd3fp1-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 2,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 2,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Beverage",
+        "Snack"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [
+        "Low-Calorie",
+        "Sugar-Free"
+      ],
+      "ingredient_tags": [
+        "Coffee",
+        "Milk",
+        "Sucralose"
+      ],
+      "occasion_tags": [
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "For a sweeter drink, add more sucralose to taste.",
+        "Adjust the coffee-to-milk ratio for desired strength.",
+        "If cold brew coffee is unavailable, substitute with strong chilled coffee or espresso."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_fks1kuca5kd3fp1/fks1kuca5kd3fp1_main_image.jpg"
+    },
+    {
+      "id": "7335ll62q829l",
+      "name": "Refreshing Apricot Citrus Cooler",
+      "url": "http://low-cholesterol.food.com/recipe/apricot-citrus-drink-209058",
+      "ingredients": [
+        "2 (12 ounce) cans chilled apricot nectar",
+        "1 tablespoon lemon juice",
+        "3 tablespoons lime juice",
+        "1/2 cup orange juice",
+        "1/8-1/4 cup sugar (optional)",
+        "Fresh mint sprig (optional)"
+      ],
+      "directions": [
+        "Step 1: In a 2-quart pitcher, combine the apricot nectar, lemon juice, lime juice, and orange juice.",
+        "Step 2: Stir the mixture well to combine.",
+        "Step 3: If desired, add sugar to taste and stir until dissolved.",
+        "Step 4: Chill thoroughly before serving.",
+        "Step 5: Pour into glasses filled with ice. Garnish with a fresh mint sprig, if desired."
+      ],
+      "duration": "5 mins",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/7335ll62q829l-m.webp",
+      "nutrition": {
+        "calories": "150-170 per serving",
+        "protein": "0 grams per serving",
+        "carbs": "35-40 grams per serving",
+        "fat": "0 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "30-35 grams per serving",
+        "sodium": "5 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a refreshing Apricot Citrus Cooler in a tall, elegant glass with condensation.  Backlight the glass to emphasize the vibrant orange hue and create a luminous glow.  Use a shallow depth of field, focusing sharply on the condensation and a single mint sprig garnish. Incorporate a blurred background of fresh apricots, sliced oranges, and limes on a rustic wooden surface. The overall mood should be bright, summery, and inviting, with a touch of elegance.  Include subtle highlights on the glass and ice cubes for added visual appeal.",
+      "image_filepath": "recipe_7335ll62q829l/main_image",
+      "video_script": {
+        "title": "Refreshing Apricot Citrus Cooler",
+        "description": "A quick and easy recipe for a refreshing summer cooler made with apricot nectar, citrus juices, and a hint of mint.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up of a glass of Apricot Citrus Cooler, garnished with a fresh mint sprig, condensation on the glass, ice cubes clinking. Background of a summer picnic setting.",
+            "text": "Refreshing Apricot Citrus Cooler",
+            "voice_over": "Beat the heat with this refreshing Apricot Citrus Cooler! It's a simple blend of fruity flavors, perfect for a summer picnic.",
+            "scene_image_filename": "recipe_7335ll62q829l/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7335ll62q829l-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients arranged on a table: two cans of apricot nectar, lemons, limes, oranges, a small bowl of sugar, and fresh mint sprigs. Bright, inviting lighting.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: two cans of chilled apricot nectar, fresh lemon and lime juice, orange juice, a little sugar if you like it sweeter, and fresh mint for garnish.",
+            "scene_image_filename": "recipe_7335ll62q829l/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7335ll62q829l-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Pouring apricot nectar, lemon juice, lime juice and orange juice into a pitcher.",
+            "text": "Combine Juices",
+            "voice_over": "In a pitcher, combine the apricot nectar, lemon juice, lime juice, and orange juice.",
+            "scene_image_filename": "recipe_7335ll62q829l/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7335ll62q829l-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Stirring the mixture in the pitcher.",
+            "text": "Mix Well",
+            "voice_over": "Stir everything together until it's well combined.",
+            "scene_image_filename": "recipe_7335ll62q829l/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7335ll62q829l-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "Adding sugar to the pitcher and stirring.",
+            "text": "Sweeten (Optional)",
+            "voice_over": "If you prefer a sweeter cooler, add sugar to taste and stir until it's dissolved.",
+            "scene_image_filename": "recipe_7335ll62q829l/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7335ll62q829l-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The pitcher of cooler in the refrigerator, chilling.",
+            "text": "Chill",
+            "voice_over": "Now, chill the cooler in the refrigerator for at least 30 minutes to let the flavors meld.  Chilling for longer, up to a few hours, is even better.",
+            "scene_image_filename": "recipe_7335ll62q829l/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7335ll62q829l-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Pouring the cooler into glasses filled with ice and garnishing with mint.",
+            "text": "Serve",
+            "voice_over": "Pour the chilled cooler into glasses filled with ice. Garnish with a fresh mint sprig for an extra touch of freshness.",
+            "scene_image_filename": "recipe_7335ll62q829l/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7335ll62q829l-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Close-up of two glasses of Apricot Citrus Cooler, garnished with mint, on a table with a pitcher of the cooler in the background. Summery setting.",
+            "text": "Enjoy!",
+            "voice_over": "Your refreshing Apricot Citrus Cooler is ready to enjoy!  It's about 150-170 calories per serving. Perfect for a hot day!  Cheers!",
+            "scene_image_filename": "recipe_7335ll62q829l/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/7335ll62q829l-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 5,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 15,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Beverage"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [
+        "Vegan",
+        "Gluten-Free",
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Apricot",
+        "Citrus",
+        "Lemon",
+        "Lime",
+        "Orange"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Summer"
+      ],
+      "cooking_tips": [
+        "For a sweeter drink, add the full 1/4 cup of sugar. For a tart flavor, reduce the sugar or omit it altogether.",
+        "Adjust the citrus juice amounts to your liking.  If you prefer a stronger lime flavor, for instance, add more lime juice.",
+        "If you don't have fresh mint, a small slice of orange or lime makes a nice garnish."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/drinks/recipe_7335ll62q829l/7335ll62q829l_main_image.jpg"
+    }
+  ]
+}
