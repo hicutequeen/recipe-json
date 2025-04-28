@@ -1,0 +1,1277 @@
+{
+  "recipes": [
+    {
+      "id": "fksui5rgu396vm",
+      "name": "Classic Indian Kulfi",
+      "url": "https://www.thespruceeats.com/kulfi-4800100",
+      "ingredients": [
+        "2 cups heavy cream, divided",
+        "1/4 teaspoon saffron threads",
+        "2 teaspoons granulated sugar",
+        "1 (14-ounce) can sweetened condensed milk",
+        "1 teaspoon ground cardamom",
+        "1/4 teaspoon rose water (optional)",
+        "1/3 cup coarsely chopped raw pistachios, divided"
+      ],
+      "directions": [
+        "Step 1: Combine 1 cup of heavy cream and saffron threads in a small saucepan. Heat over low heat until it reaches a gentle simmer. Remove from heat and let cool to room temperature.",
+        "Step 2: Transfer the saffron-infused cream to an airtight container and refrigerate until chilled.",
+        "Step 3: In a stand mixer fitted with the whisk attachment, combine the chilled saffron cream with the remaining 1 cup of heavy cream. Beat until soft peaks form. Gradually whisk in the sugar.",
+        "Step 4: Add the sweetened condensed milk, ground cardamom, rose water (if using), and 3 tablespoons of the chopped pistachios. Whisk to combine.",
+        "Step 5: Pour the mixture into flexible silicone popsicle molds or paper cups. If using paper cups, wrap the top of each cup in aluminum foil before inserting the popsicle sticks to help them stay upright.",
+        "Step 6: Sprinkle the remaining chopped pistachios over the kulfi mixture.",
+        "Step 7: Insert popsicle sticks into the molds and freeze until solid, approximately 6-12 hours.",
+        "Step 8: To serve, gently unmold the kulfi from the silicone molds, or if using paper cups, peel away the paper and enjoy."
+      ],
+      "duration": "15 m",
+      "serves": "8",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksui5rgu396vm-m.webp",
+      "nutrition": {
+        "calories": "453 per serving",
+        "protein": "8 grams per serving",
+        "carbs": "41 grams per serving",
+        "fat": "30 grams per serving",
+        "fiber": "N/A",
+        "sugar": "N/A",
+        "sodium": "N/A"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of creamy, molded Kulfi slices garnished with chopped pistachios and a few saffron threads. Use a dark, moody background with a shallow depth of field, focusing sharply on the Kulfi's texture. Incorporate subtle backlighting to highlight the creamy, cold appearance and the pistachios' green. Include a vintage silver serving spoon and a few whole pistachios scattered around.  Aim for a rich, luxurious feel, emphasizing the saffron's golden hue and the Kulfi's smooth, dense texture.",
+      "image_filepath": "recipe_fksui5rgu396vm/main_image",
+      "video_script": {
+        "title": "Classic Indian Kulfi",
+        "description": "Learn how to make creamy and delicious kulfi, a traditional frozen Indian dessert, with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of several kulfi popsicles, some partially bitten into, on a rustic wooden surface, garnished with chopped pistachios. Background slightly blurred, warm lighting.",
+            "text": "Classic Indian Kulfi",
+            "voice_over": "Cool down with this classic Indian treat! Today, we're making creamy and flavorful kulfi, a frozen dessert similar to ice cream, but denser and richer.",
+            "scene_image_filename": "recipe_fksui5rgu396vm/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksui5rgu396vm-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of the ingredients arranged neatly on a marble surface. Heavy cream, saffron threads, sugar, condensed milk, cardamom, rose water (optional), and pistachios are shown in separate bowls.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: heavy cream, saffron threads, sugar, sweetened condensed milk, ground cardamom, a touch of rose water (optional), and chopped pistachios for garnish and flavor.",
+            "scene_image_filename": "recipe_fksui5rgu396vm/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksui5rgu396vm-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Small saucepan with heavy cream and saffron threads simmering over low heat. Close-up shot of the saffron infusing the cream.",
+            "text": "Infuse Saffron",
+            "voice_over": "First, gently infuse the saffron. Combine one cup of heavy cream and the saffron threads in a small saucepan. Heat over low for about 5 minutes, or until it simmers. Remove from heat and let it cool completely.",
+            "scene_image_filename": "recipe_fksui5rgu396vm/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksui5rgu396vm-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Stand mixer with whipped cream, sugar being gradually added. Inset of chilled saffron-infused cream being added to the mixer.",
+            "text": "Whip the Cream",
+            "voice_over": "In a stand mixer, combine the chilled saffron cream and the remaining heavy cream. Whip until soft peaks form. Gradually add the sugar and continue whisking.",
+            "scene_image_filename": "recipe_fksui5rgu396vm/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksui5rgu396vm-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up shot of condensed milk, cardamom, rose water (optional), and pistachios being added to the whipped cream mixture in the stand mixer.",
+            "text": "Combine Ingredients",
+            "voice_over": "Now, add the sweetened condensed milk, ground cardamom, rose water (if using), and most of the chopped pistachios. Whisk until everything is well combined.",
+            "scene_image_filename": "recipe_fksui5rgu396vm/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksui5rgu396vm-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Kulfi mixture being poured into popsicle molds and paper cups. Close-up of aluminum foil being wrapped around the paper cups and popsicle sticks being inserted.",
+            "text": "Fill the Molds",
+            "voice_over": "Pour the mixture into popsicle molds. If using paper cups, cover the tops with foil before adding the popsicle sticks, so they stand upright. Sprinkle with the remaining pistachios.",
+            "scene_image_filename": "recipe_fksui5rgu396vm/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksui5rgu396vm-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Kulfi molds and paper cups placed in a freezer. Fast-forward animation to show the kulfi freezing.",
+            "text": "Freeze",
+            "voice_over": "Freeze for at least 6-12 hours, or until solid. I like to freeze them overnight.",
+            "scene_image_filename": "recipe_fksui5rgu396vm/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksui5rgu396vm-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Kulfi popsicles being unmolded from silicone molds and paper cups being peeled off. Some kulfi placed on serving plates with garnishes.",
+            "text": "Serve and Enjoy!",
+            "voice_over": "Gently unmold your kulfi or peel away the paper cups. Serve chilled and enjoy this rich and decadent Indian dessert! Kulfi is best enjoyed within a few days.",
+            "scene_image_filename": "recipe_fksui5rgu396vm/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksui5rgu396vm-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 5,
+      "total_time_minutes": 725,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Pistachios",
+        "Saffron",
+        "Cardamom",
+        "Heavy Cream"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use full-fat heavy cream.",
+        "If you don't have popsicle molds, small paper cups or ramekins work well.",
+        "Adjust the sweetness according to your preference by adding more or less sugar.",
+        "Garnish with additional chopped pistachios, rose petals, or a sprinkle of ground cardamom before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kulfi/recipe_fksui5rgu396vm/fksui5rgu396vm_main_image.jpg"
+    },
+    {
+      "id": "3n6huu60emrsi",
+      "name": "Gulkand Rose Petal Kulfi with Milk and Almonds",
+      "url": "http://www.chefdehome.com/Recipes/585/gulkand-milk-badam-kulfi",
+      "ingredients": [
+        "2 1/2 cups whole milk",
+        "1/4 cup almonds, soaked overnight",
+        "6 tablespoons sugar",
+        "1/2 cup evaporated milk",
+        "2 whole cardamom pods",
+        "2-4 teaspoons gulkand (rose petal spread)",
+        "1/4 cup sweetened condensed milk"
+      ],
+      "directions": [
+        "Step 1: Rinse and soak almonds overnight in clean water. Drain and peel the almonds, discarding the skins. Roughly chop the almonds.",
+        "Step 2: In a heavy-bottomed pot, combine the whole milk, cardamom pods, chopped almonds, and sugar.",
+        "Step 3: Bring the mixture to a rolling boil, then reduce heat to medium-low and simmer for 20-25 minutes, or until the milk thickens and reduces to about 1 1/2 cups.",
+        "Step 4: For Milk Badam: Stir in the evaporated milk and continue cooking for 2 minutes. Remove from heat and let cool completely.  Discard the cardamom pods. Chill the milk and serve.",
+        "Step 5: For Kulfi:  Stir in both the evaporated milk and sweetened condensed milk during step 3. Mix well and continue cooking as directed.",
+        "Step 6: Let the mixture cool to room temperature, then chill thoroughly.",
+        "Step 7: Add 1/2 teaspoon of gulkand to each kulfi mold.",
+        "Step 8: Fill each mold about 1/3 full with the chilled milk mixture (adjust the amount as needed to fill to just below the rim).",
+        "Step 9: Close the lids of the molds and freeze for 3-4 hours, or until the kulfi is solid.",
+        "Step 10: To serve, run the kulfi molds under warm water for about 30 seconds. Open the lids, invert the molds onto plates, and gently release the kulfi.",
+        "Step 11: Garnish with freshly chopped almonds and edible silver leaf (optional). Serve immediately."
+      ],
+      "duration": "40 minutes ",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-m.webp",
+      "nutrition": {
+        "calories": "250-300 per serving",
+        "protein": "8-10 grams per serving",
+        "carbs": "30-35 grams per serving",
+        "fat": "12-15 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "25-30 grams per serving",
+        "sodium": "50-70 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of Gulkand Rose Petal Kulfi, showcasing its creamy texture. The kulfi, molded in traditional matka or elegant stainless steel molds, is garnished with slivered almonds and a delicate rose petal. Use soft, diffused natural light to highlight the pale pink hue and the glistening gulkand swirl. A rustic wooden background with a linen napkin and scattered rose petals adds a touch of elegance. Shallow depth of field, focusing on the kulfi's surface, with a subtly blurred background creates a dreamy, romantic mood.",
+      "image_filepath": "recipe_3n6huu60emrsi/main_image",
+      "video_script": {
+        "title": "Gulkand Rose Petal Kulfi with Milk and Almonds",
+        "description": "Learn how to make delicious and aromatic Gulkand Rose Petal Kulfi, a perfect frozen dessert for any occasion.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two beautifully molded Gulkand Rose Petal Kulfis, garnished with chopped almonds and edible silver leaf, served on a decorative plate.",
+            "text": "Gulkand Rose Petal Kulfi",
+            "voice_over": "Indulge in the rich and floral flavors of Gulkand Rose Petal Kulfi. This delightful frozen treat is a perfect blend of creamy milk, crunchy almonds, and the aromatic essence of rose petals.",
+            "scene_image_filename": "recipe_3n6huu60emrsi/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display of the ingredients grouped together: whole milk, evaporated milk, sweetened condensed milk, almonds, sugar, cardamom pods, and gulkand.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: whole milk, evaporated milk, sweetened condensed milk, almonds, sugar, cardamom pods, and the star ingredient - gulkand, a sweet preserve of rose petals.",
+            "scene_image_filename": "recipe_3n6huu60emrsi/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Soaked almonds being peeled and chopped.",
+            "text": "Prep Almonds",
+            "voice_over": "Start by soaking almonds overnight, then peel and roughly chop them. This enhances their texture and flavor in the kulfi.",
+            "scene_image_filename": "recipe_3n6huu60emrsi/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Milk simmering in a pot with cardamom pods, chopped almonds, and sugar.",
+            "text": "Simmer Milk",
+            "voice_over": "In a heavy-bottomed pot, combine whole milk, cardamom pods, chopped almonds, and sugar. Bring to a boil, then simmer for 20-25 minutes until the milk thickens and reduces, creating a rich base for the kulfi.",
+            "scene_image_filename": "recipe_3n6huu60emrsi/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Adding evaporated and condensed milk to the simmering milk mixture.",
+            "text": "Add Milk & Sweetener",
+            "voice_over": "Now, stir in the evaporated and sweetened condensed milk. Continue cooking for another 2 minutes, ensuring everything is well combined.",
+            "scene_image_filename": "recipe_3n6huu60emrsi/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Gulkand being added to kulfi molds. ",
+            "text": "Layer with Gulkand",
+            "voice_over": "Once the mixture has cooled, add a spoonful of gulkand to the bottom of each kulfi mold. This adds a beautiful layer of rose flavor and color.",
+            "scene_image_filename": "recipe_3n6huu60emrsi/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Pouring the chilled milk mixture into the kulfi molds filled with gulkand.",
+            "text": "Fill the Molds",
+            "voice_over": "Carefully pour the chilled milk mixture into the molds, leaving a little space at the top. Close the lids tightly.",
+            "scene_image_filename": "recipe_3n6huu60emrsi/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Kulfi molds placed in the freezer.",
+            "text": "Freeze",
+            "voice_over": "Freeze the kulfi for 3-4 hours, or until solid. This allows the flavors to meld and the kulfi to set perfectly.",
+            "scene_image_filename": "recipe_3n6huu60emrsi/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Demolding the kulfi by running the mold under warm water.",
+            "text": "Serve",
+            "voice_over": "To serve, run the molds under warm water for a few seconds. Gently demold the kulfi onto a plate, garnish with chopped almonds and edible silver leaf, and enjoy!",
+            "scene_image_filename": "recipe_3n6huu60emrsi/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Final shot of the plated Gulkand Rose Petal Kulfi, garnished with almonds and silver leaf.",
+            "text": "Enjoy!",
+            "voice_over": "This Gulkand Rose Petal Kulfi is a truly decadent dessert. The creamy texture, the sweetness, the rose aroma, and the crunch of almonds make it an unforgettable treat.",
+            "scene_image_filename": "recipe_3n6huu60emrsi/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/3n6huu60emrsi-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 390,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Almonds",
+        "Milk",
+        "Cardamom",
+        "Rose",
+        "Sugar"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Special Occasion"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use whole milk and allow it to reduce slowly.",
+        "Adjust the amount of sugar and gulkand to your liking.",
+        "If you don't have kulfi molds, you can use small ramekins or even ice cube trays.",
+        "Garnish with chopped pistachios or a sprinkle of rosewater for an extra touch."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kulfi/recipe_3n6huu60emrsi/3n6huu60emrsi_main_image.jpg"
+    },
+    {
+      "id": "d367bg3b4",
+      "name": "Gulkand and Almond Kulfi",
+      "url": "http://chefdehome.com/Recipes/585/gulkand-milk-badam-kulfi",
+      "ingredients": [
+        "2 \u00bd cups whole milk",
+        "\u00bc cup almonds, soaked overnight",
+        "6 tablespoons sugar",
+        "\u00bd cup evaporated milk",
+        "2 whole cardamom pods",
+        "2-4 teaspoons gulkand (rose petal jam)",
+        "\u00bc cup sweetened condensed milk"
+      ],
+      "directions": [
+        "Step 1: Rinse and soak the almonds overnight in clean water. The next day, peel and roughly chop the almonds, discarding the skins.",
+        "Step 2: In a heavy-bottomed pot, combine the whole milk, cardamom pods, chopped almonds, and sugar. Bring to a rolling boil, then reduce heat to medium-low and simmer for 20-25 minutes, or until the milk has thickened and reduced to about 1 \u00bd cups.",
+        "Step 3: For Milk Badam: Stir in the evaporated milk and continue to cook for 2 minutes. Remove from heat and let cool completely. Discard the cardamom pods. Chill the milk and serve.",
+        "Step 4: For Kulfi:  Stir in the evaporated milk and sweetened condensed milk in step 3. Let the mixture cool to room temperature.",
+        "Step 5: Once the mixture is cold, add \u00bd teaspoon of gulkand to each kulfi mold. Fill each mold about \u2154 full with the milk mixture. Close the lids and freeze for 3-4 hours, or until the kulfi is solid.",
+        "Step 6: To serve, run the kulfi molds under warm water for 30 seconds. Unmold onto a plate. Garnish with chopped almonds and edible silver leaf (optional), and serve immediately."
+      ],
+      "duration": "40 minutes ",
+      "serves": "68",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d367bg3b4-m.webp",
+      "nutrition": {
+        "calories": "250 per serving",
+        "protein": "8 grams per serving",
+        "carbs": "30 grams per serving",
+        "fat": "12 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "25 grams per serving",
+        "sodium": "100 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of Gulkand and Almond Kulfi, styled in traditional Kulfi molds, against a dark, textured background.  Use soft, diffused lighting to highlight the creamy texture and delicate pink hue from the gulkand. Garnish with a few chopped almonds and a scattering of rose petals. Shallow depth of field, focusing on the foreground kulfi, with the background slightly blurred.  Create a mood of indulgence and coolness. Include a rustic wooden serving board and a small silver spoon as props.",
+      "image_filepath": "recipe_d367bg3b4/main_image",
+      "video_script": {
+        "title": "Gulkand & Almond Kulfi: A Floral Indian Ice Cream Treat",
+        "description": "Learn to make delicious and aromatic Gulkand and Almond Kulfi, a perfect frozen dessert for any occasion. This recipe combines the richness of almonds with the fragrant sweetness of rose petal jam.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two beautifully garnished kulfi slices on a plate.  One slice is partially eaten, showing the creamy texture inside. The background is slightly blurred, focusing on the kulfis. Garnishes include chopped almonds and a touch of edible silver leaf.",
+            "text": "Gulkand & Almond Kulfi",
+            "voice_over": "Welcome! Today, we're diving into a unique frozen dessert: Gulkand and Almond Kulfi.  A delightful blend of creamy milk, crunchy almonds, and fragrant rose petal jam, it's the perfect treat to cool down with.",
+            "scene_image_filename": "recipe_d367bg3b4/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367bg3b4-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a marble countertop.  Group like ingredients: whole milk and evaporated milk together, almonds and gulkand together, sugar and cardamom pods, and condensed milk separately.",
+            "text": "Ingredients",
+            "voice_over": "Let's gather our ingredients.  We'll need whole milk, evaporated milk, almonds, sugar, cardamom pods, gulkand (rose petal jam), and sweetened condensed milk.",
+            "scene_image_filename": "recipe_d367bg3b4/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367bg3b4-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of hands peeling soaked almonds. A bowl of water and whole almonds are visible in the background.",
+            "text": "Prep Almonds",
+            "voice_over": "First, we need to prepare our almonds. If you haven't already, soak them overnight. Now, peel and roughly chop them, discarding the skins.",
+            "scene_image_filename": "recipe_d367bg3b4/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367bg3b4-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 7,
+            "image_prompt": "Pot on stove with milk, almonds, cardamom, and sugar simmering. Steam is rising from the pot.",
+            "text": "Simmer Milk",
+            "voice_over": "In a heavy-bottomed pot, combine the whole milk, cardamom pods, chopped almonds, and sugar. Bring this to a rolling boil, then reduce the heat and simmer for 20-25 minutes until the milk thickens and reduces to about one and a half cups. This concentrates the almond flavor beautifully.",
+            "scene_image_filename": "recipe_d367bg3b4/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367bg3b4-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close up of evaporated and condensed milk being stirred into the almond milk mixture.",
+            "text": "Add Milk & Cool",
+            "voice_over": "Stir in the evaporated milk and sweetened condensed milk. For Milk Badam, skip the condensed milk. Now, take the mixture off the heat, discard the cardamom pods, and let it cool completely to room temperature.",
+            "scene_image_filename": "recipe_d367bg3b4/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367bg3b4-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up of gulkand being spooned into kulfi molds.",
+            "text": "Fill Kulfi Molds",
+            "voice_over": "Add half a teaspoon of gulkand to each kulfi mold.  This adds a burst of floral sweetness. Now, fill each mold about three-quarters full with the cooled milk mixture.",
+            "scene_image_filename": "recipe_d367bg3b4/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367bg3b4-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 4,
+            "image_prompt": "Kulfi molds arranged in a freezer, lids closed. ",
+            "text": "Freeze",
+            "voice_over": "Close the lids tightly and freeze for 3-4 hours, or until the kulfi is completely solid.",
+            "scene_image_filename": "recipe_d367bg3b4/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367bg3b4-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Kulfi mold being run under warm water.",
+            "text": "Unmold & Serve",
+            "voice_over": "To unmold, run the molds under warm water for about 30 seconds. Gently unmold onto a serving plate.",
+            "scene_image_filename": "recipe_d367bg3b4/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367bg3b4-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up of two kulfi slices on a plate, garnished with chopped almonds and edible silver leaf.  A small bowl of extra gulkand is on the side.",
+            "text": "Enjoy!",
+            "voice_over": "Garnish with chopped almonds and, if you're feeling fancy, some edible silver leaf. Serve immediately and enjoy the cool, creamy, and fragrant delight! Each serving has approximately 250 calories, 8g of protein, 30g of carbs, and 12g of fat.",
+            "scene_image_filename": "recipe_d367bg3b4/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367bg3b4-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 390,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Milk",
+        "Almonds",
+        "Sugar",
+        "Cardamom",
+        "Rose"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Summer"
+      ],
+      "cooking_tips": [
+        "Adjust the amount of gulkand and sugar to your preference.",
+        "If you don't have kulfi molds, you can use small ramekins or even ice cube trays.",
+        "For a smoother kulfi, blend the milk mixture before freezing."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kulfi/recipe_d367bg3b4/d367bg3b4_main_image.jpg"
+    },
+    {
+      "id": "fks1ac9b6u39",
+      "name": "Mango Kulfi",
+      "url": "http://www.myeaterspot.com/mango-kulfi-recipe",
+      "ingredients": [
+        "375 grams evaporated milk",
+        "300 ml heavy cream",
+        "450 grams mango puree",
+        "0.5 cup ground almonds",
+        "0.5 cup sugar",
+        "1 teaspoon ground cardamom powder",
+        "Ground pistachios, for garnish"
+      ],
+      "directions": [
+        "Step 1: In a non-stick pan, combine the evaporated milk and heavy cream. Place the pan over medium heat and stir for a couple of minutes.",
+        "Step 2: Add the ground almonds and sugar to the pan. Continue stirring for 7-8 minutes, or until the mixture thickens.",
+        "Step 3: Remove the pan from the heat and let the mixture cool completely. Stir occasionally to prevent a skin from forming.",
+        "Step 4: Once cooled, stir in the mango puree and cardamom powder.",
+        "Step 5: Pour the mixture into kulfi molds and freeze for at least 6 hours.",
+        "Step 6: Before serving, allow the kulfi to sit at room temperature for a few minutes to soften slightly, or place in the refrigerator to thaw for longer if preferred.",
+        "Step 7: Gently remove the kulfi from the molds and serve in bowls. Garnish with ground pistachios and serve immediately."
+      ],
+      "duration": "30 minutes ",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-m.webp",
+      "nutrition": {
+        "calories": "250 per serving",
+        "protein": "5 grams per serving",
+        "carbs": "25 grams per serving",
+        "fat": "15 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "20 grams per serving",
+        "sodium": "10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of creamy mango kulfi, styled in traditional kulfi molds, garnished with chopped pistachios. Use a dark, textured backdrop to contrast the vibrant yellow. Soft, diffused lighting should highlight the smooth texture and create a cool, inviting mood. Shallow depth of field, focused on the foreground kulfi, with a softly blurred background. Emphasize the rich color and delicate pistachio garnish.  The composition should evoke a sense of indulgence and exotic flavor.",
+      "image_filepath": "recipe_fks1ac9b6u39/main_image",
+      "video_script": {
+        "title": "Mango Kulfi: A Creamy, Dreamy Indian Dessert",
+        "description": "Learn how to make delicious and refreshing mango kulfi at home with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of two beautifully plated mango kulfi slices, garnished with pistachios, on a wooden table. The kulfi is a vibrant yellow-orange color. The background is slightly blurred, with a few mango slices visible.",
+            "text": "Mango Kulfi",
+            "voice_over": "Cool off this summer with homemade mango kulfi! This creamy Indian ice cream is bursting with fresh mango flavor and a hint of cardamom.",
+            "scene_image_filename": "recipe_fks1ac9b6u39/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a marble countertop: cans of evaporated milk and heavy cream, fresh mango puree, ground almonds, sugar, ground cardamom, and pistachios.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: evaporated milk, heavy cream, mango puree, ground almonds, sugar, cardamom powder, and pistachios for garnish.",
+            "scene_image_filename": "recipe_fks1ac9b6u39/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Non-stick pan on a stovetop with evaporated milk and heavy cream being stirred together over medium heat.",
+            "text": "Combine Milk & Cream",
+            "voice_over": "In a non-stick pan, combine the evaporated milk and heavy cream. Cook over medium heat for a couple of minutes, stirring constantly.",
+            "scene_image_filename": "recipe_fks1ac9b6u39/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Close-up of sugar and ground almonds being added to the milk and cream mixture in the pan, while being stirred continuously.",
+            "text": "Add Almonds & Sugar",
+            "voice_over": "Add the ground almonds and sugar. Stir continuously for 7-8 minutes, or until the mixture thickens slightly.",
+            "scene_image_filename": "recipe_fks1ac9b6u39/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The pan with the thickened milk mixture removed from the stovetop, with a whisk resting on the side. Steam rises from the mixture.",
+            "text": "Cool Down",
+            "voice_over": "Remove from the heat and let the mixture cool completely. Stir occasionally to prevent a skin from forming.",
+            "scene_image_filename": "recipe_fks1ac9b6u39/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Mango puree and cardamom powder being mixed into the cooled milk mixture in a bowl, with a spatula.",
+            "text": "Flavor Infusion",
+            "voice_over": "Once cooled, gently stir in the mango puree and cardamom powder until well combined.",
+            "scene_image_filename": "recipe_fks1ac9b6u39/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The kulfi mixture being poured into kulfi molds.",
+            "text": "Molding the Kulfi",
+            "voice_over": "Pour the mixture into kulfi molds. You can use traditional kulfi molds or any freezer-safe container.",
+            "scene_image_filename": "recipe_fks1ac9b6u39/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Kulfi molds inside a freezer, demonstrating freezing process.",
+            "text": "Freeze",
+            "voice_over": "Freeze for at least 6 hours, or preferably overnight, until solid.",
+            "scene_image_filename": "recipe_fks1ac9b6u39/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A kulfi being gently removed from its mold. Showing a few kulfi on a plate, garnished with pistachios.",
+            "text": "Serve & Enjoy",
+            "voice_over": "Let the kulfi sit at room temperature for a few minutes to soften slightly before removing from the molds. Garnish with ground pistachios and enjoy!",
+            "scene_image_filename": "recipe_fks1ac9b6u39/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Two kulfi served in bowls, with some chopped mango and a sprinkle of pistachios as garnish. A few whole kulfi on sticks are visible in the background.",
+            "text": "Serving Suggestions",
+            "voice_over": "Serve your mango kulfi as is, or get creative with your toppings! Chopped mangoes, a drizzle of honey, or a sprinkle of rose petals would be delicious additions.",
+            "scene_image_filename": "recipe_fks1ac9b6u39/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac9b6u39-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 30,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Almonds",
+        "Cardamom",
+        "Pistachios",
+        "Milk",
+        "Cream"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Summer"
+      ],
+      "cooking_tips": [
+        "For a smoother kulfi, blend the mixture with an immersion blender before freezing.",
+        "If you don't have kulfi molds, you can use small plastic cups or ramekins.",
+        "To easily remove the kulfi from the molds, dip the molds briefly in warm water."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kulfi/recipe_fks1ac9b6u39/fks1ac9b6u39_main_image.jpg"
+    },
+    {
+      "id": "fks2i8amsbgv9uu",
+      "name": "Malai Kulfi (Indian Ice Cream)",
+      "url": "https://www.allrecipes.com/recipe/210541/easy-malai-kulfi/",
+      "ingredients": [
+        "2 cups whole milk",
+        "\u00bd cup condensed milk",
+        "\u00bc cup dry milk powder",
+        "2 teaspoons white sugar (optional)",
+        "\u00bd teaspoon ground cardamom",
+        "1 pinch saffron threads",
+        "\u00bd cup chopped pistachios"
+      ],
+      "directions": [
+        "Step 1: In a heavy-bottomed pan, combine the whole milk, condensed milk, and dry milk powder.",
+        "Step 2: Bring the mixture to a boil over medium-high heat, stirring constantly to prevent sticking.",
+        "Step 3: Once boiling, add the sugar (if using), cardamom, and saffron threads.",
+        "Step 4: Reduce the heat to low and simmer for 10 minutes, stirring frequently.",
+        "Step 5: Remove the pan from the heat and let the mixture cool to room temperature.",
+        "Step 6: Gently fold in the chopped pistachios.",
+        "Step 7: Pour the mixture into popsicle molds or small individual containers.",
+        "Step 8: Freeze for at least 6-8 hours, or until solid."
+      ],
+      "duration": "1 h 25 m",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-m.webp",
+      "nutrition": {
+        "calories": "194 per serving",
+        "protein": "7 grams per serving",
+        "carbs": "23 grams per serving",
+        "fat": "9 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "23 grams per serving",
+        "sodium": "70 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of Malai Kulfi slices arranged artfully on a rustic wooden board.  Use soft, diffused natural light to highlight the creamy texture and subtle yellow hue.  Garnish with chopped pistachios, a few saffron threads, and a dusting of cardamom. The background should be a dark, textured surface with a shallow depth of field, focusing sharply on the kulfi's surface and pistachios, creating a warm, inviting mood.  Incorporate a small silver kulfi mold in the background, slightly out of focus.",
+      "image_filepath": "recipe_fks2i8amsbgv9uu/main_image",
+      "video_script": {
+        "title": "Malai Kulfi (Indian Ice Cream)",
+        "description": "Learn how to make delicious and creamy Malai Kulfi, a traditional Indian ice cream, with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of several Malai Kulfi popsicles, garnished with chopped pistachios, on a decorative plate. The background is slightly blurred, emphasizing the creamy texture and vibrant green pistachios.",
+            "text": "Malai Kulfi",
+            "voice_over": "Welcome! Today, we're making Malai Kulfi, a rich and creamy Indian ice cream. It's incredibly easy and requires just a few ingredients.",
+            "scene_image_filename": "recipe_fks2i8amsbgv9uu/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table: whole milk in a jug, condensed milk in a can, dry milk powder in a bowl, sugar in a small bowl, cardamom pods and ground cardamom in separate bowls, saffron threads in a small dish, and chopped pistachios in a bowl.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: whole milk, condensed milk, dry milk powder, sugar, ground cardamom, saffron threads, and chopped pistachios.",
+            "scene_image_filename": "recipe_fks2i8amsbgv9uu/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A heavy-bottomed pan on a stovetop. Whole milk, condensed milk, and dry milk powder are being combined in the pan.",
+            "text": "Combine Milk, Condensed Milk, & Milk Powder",
+            "voice_over": "In a heavy-bottomed pan, combine the whole milk, condensed milk, and dry milk powder.",
+            "scene_image_filename": "recipe_fks2i8amsbgv9uu/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 7,
+            "image_prompt": "The milk mixture in the pan is brought to a boil over medium-high heat. A whisk is shown stirring constantly to prevent sticking. Steam rises from the pan.",
+            "text": "Boil and Stir",
+            "voice_over": "Bring the mixture to a boil over medium-high heat, stirring constantly to prevent sticking.",
+            "scene_image_filename": "recipe_fks2i8amsbgv9uu/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Sugar, cardamom, and saffron threads are added to the boiling milk mixture.",
+            "text": "Add Flavorings",
+            "voice_over": "Once boiling, add the sugar, cardamom, and saffron threads.",
+            "scene_image_filename": "recipe_fks2i8amsbgv9uu/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "The milk mixture is simmering on low heat. A spoon is stirring frequently.",
+            "text": "Simmer",
+            "voice_over": "Reduce the heat to low and simmer for 10 minutes, stirring frequently.",
+            "scene_image_filename": "recipe_fks2i8amsbgv9uu/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The pan is removed from the heat. The mixture is cooling in the pan.",
+            "text": "Cool",
+            "voice_over": "Remove the pan from the heat and let the mixture cool to room temperature.",
+            "scene_image_filename": "recipe_fks2i8amsbgv9uu/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 4,
+            "image_prompt": "Chopped pistachios are being gently folded into the cooled milk mixture.",
+            "text": "Fold in Pistachios",
+            "voice_over": "Gently fold in the chopped pistachios.",
+            "scene_image_filename": "recipe_fks2i8amsbgv9uu/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The kulfi mixture is being poured into popsicle molds.",
+            "text": "Pour & Freeze",
+            "voice_over": "Pour the mixture into popsicle molds or small individual containers. Freeze for at least 6-8 hours, or until solid.",
+            "scene_image_filename": "recipe_fks2i8amsbgv9uu/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Close-up shot of beautifully plated Malai Kulfi popsicles, garnished with extra pistachios and a sprinkle of saffron. Some popsicles have been removed from their molds, while some are still in, showing the mold shapes. A few whole pistachios are scattered around.",
+            "text": "Enjoy!",
+            "voice_over": "And there you have it! Creamy, delicious Malai Kulfi. Perfect for a hot day or any occasion. Enjoy!",
+            "scene_image_filename": "recipe_fks2i8amsbgv9uu/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2i8amsbgv9uu-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 30,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Milk",
+        "Pistachios",
+        "Cardamom",
+        "Saffron"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use full-fat milk and condensed milk.",
+        "Adjust the amount of sugar according to your preference.",
+        "If you don't have popsicle molds, you can use small ramekins or teacups.",
+        "Garnish with extra chopped pistachios and a pinch of saffron before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kulfi/recipe_fks2i8amsbgv9uu/fks2i8amsbgv9uu_main_image.jpg"
+    },
+    {
+      "id": "rk6df33pbmk1",
+      "name": "Easy No-Churn Kulfi",
+      "url": "http://www.food.com/recipe/easy-kulfi-ice-cream-without-an-ice-cream-freezer-36229",
+      "ingredients": [
+        "1 (14 ounce) can fat-free evaporated milk",
+        "1 cup light cream or half-and-half",
+        "1 (14 ounce) can low-fat sweetened condensed milk",
+        "1/2 teaspoon ground cinnamon (or other flavoring to taste, such as cocoa powder, cardamom, or rosewater)"
+      ],
+      "directions": [
+        "Step 1: In a large bowl, thoroughly whisk together the evaporated milk, light cream (or half-and-half), sweetened condensed milk, and chosen flavoring.",
+        "Step 2: Pour the mixture into popsicle molds, Indian kulfi molds, or a small, freezer-safe container.",
+        "Step 3: Freeze for at least 6-8 hours, or preferably overnight, until solid.",
+        "Step 4: To unmold, briefly dip the bottom of the molds in warm water. Avoid immersing for too long to prevent melting."
+      ],
+      "duration": "12 hrs",
+      "serves": "8",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/rk6df33pbmk1-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "5-7 grams per serving",
+        "carbs": "30-35 grams per serving",
+        "fat": "4-6 grams per serving",
+        "fiber": "0-1 grams per serving",
+        "sugar": "25-30 grams per serving",
+        "sodium": "100-150 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of creamy, no-churn kulfi scooped into rustic clay bowls, garnished with a sprinkle of cinnamon and a few chopped pistachios. Use a shallow depth of field, focusing on the textured surface of the kulfi.  Employ soft, diffused natural light to highlight the creamy white color and subtle spice hues. A dark, textured wooden background and linen napkin will create a moody, inviting atmosphere.  Include a few whole cardamom pods scattered around the bowls for visual interest.",
+      "image_filepath": "recipe_rk6df33pbmk1/main_image",
+      "video_script": {
+        "title": "Easy No-Churn Kulfi",
+        "description": "Learn how to make delicious and creamy no-churn kulfi with just 4 ingredients! This simple recipe is perfect for a refreshing summer treat.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of several kulfi popsicles, some partially unwrapped, on a decorative plate. Focus on the creamy texture and inviting appearance.",
+            "text": "Easy No-Churn Kulfi",
+            "voice_over": "Beat the heat with this incredibly easy and delicious no-churn kulfi recipe. It's the perfect frozen dessert, ready in just a few simple steps.",
+            "scene_image_filename": "recipe_rk6df33pbmk1/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/rk6df33pbmk1-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a countertop: a can of evaporated milk, a carton of light cream, a can of sweetened condensed milk, and a small bowl of ground cinnamon.",
+            "text": "Ingredients",
+            "voice_over": "You'll need just 4 ingredients: a can of evaporated milk, one cup of light cream or half-and-half, a can of sweetened condensed milk, and your choice of flavoring. We're using cinnamon today, but cardamom, cocoa powder, or rosewater are also fantastic options.",
+            "scene_image_filename": "recipe_rk6df33pbmk1/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/rk6df33pbmk1-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A large bowl with evaporated milk, light cream, and sweetened condensed milk being whisked together. Cinnamon is being sprinkled in.",
+            "text": "Combine Ingredients",
+            "voice_over": "In a large bowl, whisk together the evaporated milk, light cream, sweetened condensed milk, and cinnamon until well combined.  Make sure everything is thoroughly mixed.",
+            "scene_image_filename": "recipe_rk6df33pbmk1/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/rk6df33pbmk1-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The kulfi mixture being poured into popsicle molds.",
+            "text": "Fill the Molds",
+            "voice_over": "Pour the mixture into popsicle molds, kulfi molds, or even a small freezer-safe container.  Leave a little space at the top if using traditional kulfi molds, as the mixture will expand slightly as it freezes.",
+            "scene_image_filename": "recipe_rk6df33pbmk1/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/rk6df33pbmk1-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The filled popsicle molds being placed in a freezer.",
+            "text": "Freeze",
+            "voice_over": "Place the molds in the freezer for at least 6-8 hours, or preferably overnight, to allow the kulfi to solidify completely.",
+            "scene_image_filename": "recipe_rk6df33pbmk1/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/rk6df33pbmk1-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A popsicle mold being briefly dipped into warm water to unmold the kulfi.",
+            "text": "Unmold and Serve",
+            "voice_over": "To unmold, quickly dip the bottom of the mold in warm water for a few seconds.  Don't immerse for too long, as this will cause the kulfi to melt.",
+            "scene_image_filename": "recipe_rk6df33pbmk1/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/rk6df33pbmk1-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Several kulfi popsicles plated on a decorative platter, garnished with a sprinkle of cinnamon and a few chopped nuts.",
+            "text": "Enjoy!",
+            "voice_over": "And there you have it, delicious no-churn kulfi! Each serving contains approximately 200-250 calories, 5-7 grams of protein, 30-35 grams of carbs, and 4-6 grams of fat. Garnish with chopped nuts or an extra sprinkle of your chosen flavoring, and enjoy this refreshing treat!",
+            "scene_image_filename": "recipe_rk6df33pbmk1/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/rk6df33pbmk1-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 480,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Milk",
+        "Cream",
+        "Cinnamon"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use full-fat evaporated and condensed milk, and heavy cream.",
+        "If using traditional kulfi molds, secure the lids tightly to prevent freezer burn.",
+        "Get creative with your flavorings! Try mango puree, pistachio paste, or saffron for an authentic touch."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kulfi/recipe_rk6df33pbmk1/rk6df33pbmk1_main_image.jpg"
+    },
+    {
+      "id": "ebruc34sppt0",
+      "name": "Easy and Delicious Falooda",
+      "url": "http://www.food.com/recipe/falooda-easy-and-delicious-120560",
+      "ingredients": [
+        "1 cup milk (skim to full)",
+        "1-2 ounces falooda sev (or Chinese vermicelli noodles)",
+        "1 1/2 teaspoons rose water (or Rooh Afza)",
+        "1/2 teaspoon takmaria seeds (optional, soaked in water for at least 1 hour)",
+        "Ice",
+        "Pista Kulfi ice cream, or plain Kulfi ice cream (for topping)"
+      ],
+      "directions": [
+        "Step 1: Cook the falooda sev/noodles: If using vermicelli noodles, boil them in water for about 15 minutes, then drain.  If using falooda sev, skip the initial boiling.  Simmer the noodles/sev in a little milk for about 5-10 minutes on low heat, ensuring they do not burn.",
+        "Step 2: Chill the noodles/sev: Remove from heat and add a generous amount of ice to the pot to cool the noodles quickly for about 10 minutes. Stir occasionally.",
+        "Step 3: Assemble the Falooda: Place the cooked and chilled noodles/sev in a serving glass.",
+        "Step 4: Add flavor: Add the rose water or Rooh Afza to the glass.",
+        "Step 5: Pour in the milk: Fill the glass with the remaining milk.",
+        "Step 6: Add ice: Add some crushed ice to the glass and stir gently.",
+        "Step 7: Top and serve: Finish by adding a scoop or two of Pista Kulfi ice cream or plain Kulfi ice cream. Serve immediately."
+      ],
+      "duration": "30 mins",
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-m.webp",
+      "nutrition": {
+        "calories": "300-400 per serving",
+        "protein": "10-15 grams per serving",
+        "carbs": "50-60 grams per serving",
+        "fat": "10-15 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "30-40 grams per serving",
+        "sodium": "50-100 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of a chilled glass of Falooda.  The translucent noodles and takmaria seeds are suspended in the milky rose-tinted liquid, with a shallow depth of field emphasizing the textures.  A scoop of Pista Kulfi crowns the drink, garnished with chopped pistachios.  Use soft, diffused lighting to highlight the cool, refreshing feel. Compose the shot against a dark, moody background with subtle props like a vintage spoon and a few rose petals, enhancing the elegant, indulgent mood. Focus on the kulfi and the top layer of the Falooda, letting the rest softly fade into the background.",
+      "image_filepath": "recipe_ebruc34sppt0/main_image",
+      "video_script": {
+        "title": "Easy & Delicious Falooda Recipe",
+        "description": "Learn how to make a refreshing and flavorful Falooda in minutes!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a vibrant glass of Falooda, layered with colorful noodles, creamy kulfi, and a sprinkle of pistachios. Focus on the textures and inviting appearance.",
+            "text": "Easy & Delicious Falooda",
+            "voice_over": "Beat the heat with this simple Falooda recipe! It's a cool and creamy delight, perfect for any occasion.",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Group shot of the main ingredients: milk, falooda sev/vermicelli noodles, rose water/Rooh Afza, and Kulfi ice cream.  Arrange them attractively on a table.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: milk, falooda sev or vermicelli noodles, rose water or Rooh Afza, and Kulfi ice cream for the perfect topping.",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Pot of water boiling vigorously, with vermicelli noodles being added.",
+            "text": "Prep the Noodles",
+            "voice_over": "If you are using vermicelli noodles, start by boiling them for about 15 minutes. For falooda sev just simmer in milk",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of vermicelli noodles / falooda sev simmering in milk in a pot on the stove.",
+            "text": "Simmer in Milk",
+            "voice_over": "Now, simmer the noodles/sev in a little milk for 5-10 minutes on low heat. Be sure to stir occasionally to prevent burning.",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "The cooked noodles/sev being cooled with ice in the pot, being stirred gently.",
+            "text": "Chill Quickly",
+            "voice_over": "Add ice to the noodles to cool them down quickly. Stir for about 10 minutes for optimal chilling.",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Chilled noodles/sev being placed into a tall serving glass.",
+            "text": "Assemble the Falooda",
+            "voice_over": "Place the chilled noodles/sev in a serving glass.",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 4,
+            "image_prompt": "Rose water or Rooh Afza being added to the glass with noodles/sev.",
+            "text": "Add Flavor",
+            "voice_over": "Now, add rose water or Rooh Afza for a delightful floral aroma and taste.",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 4,
+            "image_prompt": "Milk being poured into the glass over the noodles/sev and flavoring.",
+            "text": "Pour in Milk",
+            "voice_over": "Fill the glass with your choice of milk.",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 4,
+            "image_prompt": "Crushed ice being added to the Falooda.",
+            "text": "Add Ice",
+            "voice_over": "Add some crushed ice for an extra chill.",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Scoops of Kulfi ice cream being added to the Falooda, garnished with pistachios (optional).",
+            "text": "Top with Kulfi",
+            "voice_over": "Top it off with a generous scoop of Pista Kulfi or plain Kulfi ice cream. You can also garnish it with chopped pistachios if desired.",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "Final shot of two beautifully garnished Falooda glasses, with spoons, ready to be served.",
+            "text": "Enjoy!",
+            "voice_over": "Your delicious Falooda is ready! Enjoy this refreshing treat.",
+            "scene_image_filename": "recipe_ebruc34sppt0/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/ebruc34sppt0-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 25,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 50,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Milk",
+        "Noodles",
+        "Rose Water",
+        "Ice Cream"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use whole milk.",
+        "Adjust the amount of rose water or Rooh Afza to your liking.",
+        "If you don't have takmaria seeds, you can substitute chia seeds or basil seeds."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kulfi/recipe_ebruc34sppt0/ebruc34sppt0_main_image.jpg"
+    },
+    {
+      "id": "fks4sono3p5ff3",
+      "name": "Eggless Mango Cake with Mango Cream Frosting",
+      "url": "http://anshusfoododyssey.blogspot.com/2018/05/eggless-mango-cake-without-oven.html",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 1/2 cups powdered sugar",
+        "2 ripe safeda mangoes, chopped and pureed",
+        "1/4 cup + 2 tablespoons vegetable oil",
+        "1 cup milk (room temperature)",
+        "1/2 cup yogurt (room temperature)",
+        "1/2 teaspoon vanilla extract",
+        "Pinch of salt",
+        "2 teaspoons baking powder",
+        "1/4 teaspoon baking soda",
+        "1/2 cup sweetened non-dairy whipping cream",
+        "2-3 tablespoons mango glaze",
+        "2-3 tablespoons chopped fresh mangoes/cherries (optional)",
+        "Sugar syrup (3 tablespoons sugar combined with 3 tablespoons water)"
+      ],
+      "directions": [
+        "1. Preheat oven to 350\u00b0F (175\u00b0C). Grease and flour a 9-inch round cake pan.",
+        "2. Prepare the mango puree: Wash, peel, and roughly chop the mangoes. Blend them into a smooth puree. Cook the puree in a pan over medium heat until it thickens and darkens slightly. Set aside to cool completely.",
+        "3. Make the cake batter: In a large bowl, whisk together the milk, yogurt, sugar, and oil until well combined. Add the vanilla extract and 1/4 cup + 2 tablespoons of the cooled mango puree. Mix well.",
+        "4. In a separate bowl, sift together the flour, baking powder, baking soda, and salt. Gradually add the dry ingredients to the wet ingredients, mixing gently with a spatula until just combined. Do not overmix.",
+        "5. Pour the batter into the prepared cake pan and spread evenly. Bake for 35-40 minutes, or until a wooden skewer inserted into the center comes out clean.",
+        "6. Let the cake cool in the pan for 10 minutes before inverting it onto a wire rack to cool completely.",
+        "7. Prepare the mango cream frosting: In a chilled bowl, beat the non-dairy whipping cream with an electric mixer until soft peaks form. Gently fold in 3-4 tablespoons of the remaining mango puree. (Optional: Add a pinch of yellow food coloring.)",
+        "8. Once the cake is completely cool, brush it with the sugar syrup. Frost the cake with the mango cream and decorate with chopped mangoes and/or cherries, if desired. Chill for at least 30 minutes before serving."
+      ],
+      "duration": null,
+      "serves": "1",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-m.webp",
+      "nutrition": {
+        "calories": "350 per serving",
+        "protein": "4 grams per serving",
+        "carbs": "60 grams per serving",
+        "fat": "15 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "40 grams per serving",
+        "sodium": "150 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a slice of eggless mango cake with mango cream frosting on a rustic wooden cake stand. Use a slightly dark, moody background with soft, directional natural light highlighting the cake's texture. Garnish with fresh mango slices and a dusting of powdered sugar.  Focus on the moist crumb and creamy frosting, using a shallow depth of field to blur the background.  Compose the shot from a slightly elevated angle, showcasing the cake's height and layers. Aim for a vibrant, yet elegant mood that emphasizes the rich, golden hues of the mango.",
+      "image_filepath": "recipe_fks4sono3p5ff3/main_image",
+      "video_script": {
+        "title": "Eggless Mango Cake with Mango Cream Frosting",
+        "description": "Learn how to make a delicious and moist eggless mango cake with a creamy mango frosting. Perfect for any occasion!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A close-up shot of a slice of the finished eggless mango cake, showcasing the moist crumb and the smooth, vibrant mango frosting. A few fresh mango slices are artfully arranged on top.",
+            "text": "Eggless Mango Cake",
+            "voice_over": "Indulge in the tropical flavors of this eggless mango cake, complete with a luscious mango cream frosting. It's moist, fluffy, and incredibly easy to make!",
+            "scene_image_filename": "recipe_fks4sono3p5ff3/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Text-based overlay displaying the ingredients grouped by category: Dry Ingredients (flour, powdered sugar, baking powder, baking soda, salt), Wet Ingredients (milk, yogurt, oil, vanilla extract), Mango Puree, and Frosting Ingredients (non-dairy whipping cream, mango glaze).",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: For the cake, gather your dry ingredients: all-purpose flour, powdered sugar, baking powder, baking soda, and a pinch of salt. For the wet ingredients, you'll need milk, yogurt, oil, and vanilla extract.  We'll also be using fresh mango puree for flavor and color, and for the frosting we'll use a non-dairy whipping cream, and a mango glaze for garnish.",
+            "scene_image_filename": "recipe_fks4sono3p5ff3/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A shot of two ripe safeda mangoes being peeled and chopped, followed by blending them into a smooth puree.",
+            "text": "Mango Puree",
+            "voice_over": "Start by making the mango puree. Peel and chop two ripe safeda mangoes. Blend them until smooth. Cook the puree in a pan until slightly thickened, which will intensify the flavor. Set aside to cool.",
+            "scene_image_filename": "recipe_fks4sono3p5ff3/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A bowl with milk, yogurt, sugar, and oil being whisked together. Then, vanilla extract and mango puree are added and mixed.",
+            "text": "Wet Ingredients",
+            "voice_over": "In a bowl, combine the milk, yogurt, sugar, and oil. Whisk until well combined. Add the vanilla extract and the cooled mango puree. Mix thoroughly.",
+            "scene_image_filename": "recipe_fks4sono3p5ff3/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Dry ingredients being sifted together into a bowl, then gradually added to the wet ingredients and gently mixed with a spatula.",
+            "text": "Dry Ingredients",
+            "voice_over": "In a separate bowl, sift together the flour, baking powder, baking soda, and salt. Gently fold the dry ingredients into the wet ingredients until just combined. Be careful not to overmix.",
+            "scene_image_filename": "recipe_fks4sono3p5ff3/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Cake batter being poured into a greased and floured 9-inch round cake pan and spread evenly. The pan is then placed into a preheated oven.",
+            "text": "Bake",
+            "voice_over": "Pour the batter into a greased and floured 9-inch cake pan. Bake in a preheated oven at 350\u00b0F (175\u00b0C) for 35-40 minutes, or until a toothpick inserted comes out clean.",
+            "scene_image_filename": "recipe_fks4sono3p5ff3/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The baked cake cooling in the pan, then being inverted onto a wire rack to cool completely.",
+            "text": "Cooling",
+            "voice_over": "Let the cake cool in the pan for 10 minutes before inverting it onto a wire rack to cool completely.",
+            "scene_image_filename": "recipe_fks4sono3p5ff3/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Non-dairy whipping cream being beaten in a chilled bowl until soft peaks form. Mango puree is then gently folded in.",
+            "text": "Mango Frosting",
+            "voice_over": "While the cake cools, prepare the frosting. Beat the non-dairy whipping cream in a chilled bowl until soft peaks form. Gently fold in the remaining mango puree.",
+            "scene_image_filename": "recipe_fks4sono3p5ff3/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The cooled cake being brushed with sugar syrup, then frosted with the mango cream and decorated with chopped mangoes.",
+            "text": "Frost and Decorate",
+            "voice_over": "Brush the cooled cake with sugar syrup. Frost the cake with the mango cream and decorate with fresh mango slices or cherries.",
+            "scene_image_filename": "recipe_fks4sono3p5ff3/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "The finished eggless mango cake, beautifully frosted and decorated, placed on a cake stand. Slices of cake are served on plates.",
+            "text": "Enjoy!",
+            "voice_over": "Chill for at least 30 minutes before serving. Enjoy your delicious eggless mango cake! This recipe makes about 8 servings, each with approximately 350 calories, 4 grams of protein, 60 grams of carbs, and 15 grams of fat.",
+            "scene_image_filename": "recipe_fks4sono3p5ff3/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks4sono3p5ff3-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 40,
+      "total_time_minutes": 70,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Eggless"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Flour",
+        "Sugar",
+        "Yogurt",
+        "Whipping Cream"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Birthday",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use Alphonso mangoes.",
+        "Adjust the amount of sugar in the frosting to your preference.",
+        "If using dairy whipping cream, add icing sugar, vanilla extract, and mango glaze after whipping to soft peaks."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kulfi/recipe_fks4sono3p5ff3/fks4sono3p5ff3_main_image.jpg"
+    }
+  ]
+}
