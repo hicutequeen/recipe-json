@@ -1,0 +1,1702 @@
+{
+  "recipes": [
+    {
+      "id": "fks1qvls19eb8r2",
+      "name": "Gulab Jamun",
+      "url": "https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/",
+      "ingredients": [
+        "200 grams khoya (mawa)",
+        "100 grams paneer, grated",
+        "3 tablespoons all-purpose flour",
+        "2 tablespoons fine sooji (rava or semolina)",
+        "1/2 teaspoon cardamom powder (or 4 green cardamoms, powdered)",
+        "1 tablespoon milk (or as needed)",
+        "1/2 teaspoon baking powder",
+        "Oil for deep frying",
+        "250 grams sugar",
+        "1 cup water",
+        "1 tablespoon rose water",
+        "1 tablespoon milk (optional)",
+        "1 cup milk powder",
+        "1/2 cup all-purpose flour",
+        "1 teaspoon oil or 1/2 teaspoon ghee",
+        "1 pinch salt (optional)",
+        "1 pinch baking soda",
+        "1 to 2 tablespoons curd (yogurt)",
+        "Blanched pistachios or almond slices, for garnish",
+        "1 cup water",
+        "1 1/2 cups sugar",
+        "1/2 teaspoon cardamom powder (or 3 to 4 green cardamoms, crushed)",
+        "Pinch of saffron (optional)",
+        "1 tablespoon rose water (optional)"
+      ],
+      "directions": [
+        "Step 1: In a bowl, mash the khoya until smooth and lump-free. Grate the khoya first if needed.",
+        "Step 2: Add the grated paneer, sooji, all-purpose flour, baking powder, and cardamom powder to the mashed khoya.",
+        "Step 3: Mix well. Gradually add milk until a soft dough forms. Do not knead.",
+        "Step 4: Cover the dough and let it rest for 30 minutes.",
+        "Step 5: Roll the dough into small, smooth balls. Cover and set aside.",
+        "Step 6: Prepare the sugar syrup: In a saucepan, combine the sugar and 1 cup of water. Heat over medium heat, stirring until the sugar dissolves.",
+        "Step 7: Bring the syrup to a simmer, but do not let it reach a thread consistency. Remove from heat and stir in 1 tablespoon of rose water.",
+        "Step 8: If the syrup crystallizes upon cooling, add 2-3 tablespoons of water and reheat until liquid.",
+        "Step 9: Heat oil for deep frying in a wide pan over medium heat.",
+        "Step 10: Gently slide the dough balls into the hot oil. Fry in batches, ensuring they do not overcrowd the pan.",
+        "Step 11: Rotate the balls frequently while frying until they develop a golden-brown color.",
+        "Step 12: Remove the fried gulab jamun and drain on paper towels.",
+        "Step 13: Transfer the hot gulab jamun to the warm sugar syrup. Let them soak for at least 1-2 hours, or until softened.",
+        "Step 14: If the jamun are not absorbing the syrup well, gently warm the syrup with the jamun on low heat for a few minutes.",
+        "Step 15: Garnish with pistachios or almond slices and serve warm or at room temperature."
+      ],
+      "duration": "45 m ",
+      "serves": "20",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1qvls19eb8r2-m.webp",
+      "nutrition": {
+        "calories": "126 per serving",
+        "protein": "3 grams per serving",
+        "carbs": "17 grams per serving",
+        "fat": "5 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "10 grams per serving",
+        "sodium": "5 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of golden-brown Gulab Jamun glistening in light syrup, served in a rustic ceramic bowl.  Use a shallow depth of field, focusing on the frontmost jamun, highlighting its textured surface.  A dark, moody background with subtle backlighting will emphasize the warm tones. Garnish with a few pistachios and a single, delicate rose petal.  Include a vintage silver spoon partially submerged in the syrup.  Aim for a rich, inviting mood.",
+      "image_filepath": "recipe_fks1qvls19eb8r2/main_image",
+      "video_script": {
+        "title": "Gulab Jamun: Delicious Indian Dessert Recipe",
+        "description": "Learn to make melt-in-your-mouth Gulab Jamun with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of golden-brown gulab jamun soaked in syrup, garnished with pistachios, syrup dripping from one, served in a decorative bowl.",
+            "text": "Gulab Jamun",
+            "voice_over": "Welcome! Today, we're making Gulab Jamun, a classic Indian dessert. Soft, spongy balls of dough, deep-fried to golden perfection and soaked in a fragrant rose-flavored syrup.",
+            "scene_image_filename": "recipe_fks1qvls19eb8r2/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qvls19eb8r2-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Grouped ingredients: Khoya, paneer, flour, sooji, cardamom powder, baking powder.",
+            "text": "Ingredients for Dough",
+            "voice_over": "For the dough, we'll need 200g khoya, 100g paneer, 3 tbsp all-purpose flour, 2 tbsp sooji, \u00bd tsp cardamom powder, and \u00bd tsp baking powder.",
+            "scene_image_filename": "recipe_fks1qvls19eb8r2/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qvls19eb8r2-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Sugar, water and rose water in separate containers, arranged neatly.",
+            "text": "Ingredients for Syrup",
+            "voice_over": "For the syrup, gather 250g sugar, 1 cup water, and 1 tbsp rose water.",
+            "scene_image_filename": "recipe_fks1qvls19eb8r2/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qvls19eb8r2-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Hands mashing the khoya in a bowl until smooth and lump-free.",
+            "text": "Prepare the Dough",
+            "voice_over": "Mash the khoya until smooth. Add the grated paneer, sooji, flour, baking powder, and cardamom powder. Mix well. Gradually add milk, just enough to form a soft dough. Don\u2019t knead. Cover and let rest for 30 minutes.",
+            "scene_image_filename": "recipe_fks1qvls19eb8r2/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qvls19eb8r2-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Rolling small portions of the dough into smooth balls.",
+            "text": "Shape the Jamun",
+            "voice_over": "Roll the dough into small smooth balls.  Cover and set them aside.",
+            "scene_image_filename": "recipe_fks1qvls19eb8r2/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qvls19eb8r2-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A saucepan on a stovetop. Sugar and water being combined and heated, stirring until sugar dissolves. Inset showcasing desired syrup consistency.",
+            "text": "Make the Syrup",
+            "voice_over": "Combine sugar and water in a pan. Heat and stir until the sugar dissolves. Simmer but do not let it thicken too much. Remove from heat and stir in rose water. If it crystallizes, add water and reheat.",
+            "scene_image_filename": "recipe_fks1qvls19eb8r2/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qvls19eb8r2-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Dough balls being gently slid into hot oil, frying in batches, with close up of rotating golden brown gulab jamuns.",
+            "text": "Fry to Golden Brown",
+            "voice_over": "Heat oil in a wide pan over medium heat. Gently slide the dough balls into the hot oil, frying in batches so they don't overcrowd. Rotate them frequently until golden brown.",
+            "scene_image_filename": "recipe_fks1qvls19eb8r2/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qvls19eb8r2-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Hot, fried gulab jamun being transferred to warm sugar syrup.",
+            "text": "Soak in Syrup",
+            "voice_over": "Drain the fried gulab jamun and transfer them directly into the warm sugar syrup. Let them soak for at least 1-2 hours to soften and absorb the syrup. Gently warm the syrup with the jamun for a few minutes if needed.",
+            "scene_image_filename": "recipe_fks1qvls19eb8r2/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qvls19eb8r2-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Final shot of garnished gulab jamun served in a bowl, some with bite marks to show the texture, with a spoon serving them.",
+            "text": "Serve and Enjoy!",
+            "voice_over": "Garnish with chopped pistachios or almond slices. Serve warm or at room temperature. Enjoy your delicious homemade Gulab Jamun!",
+            "scene_image_filename": "recipe_fks1qvls19eb8r2/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qvls19eb8r2-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 45,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 135,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Khoya",
+        "Paneer",
+        "Sugar",
+        "Cardamom",
+        "Flour"
+      ],
+      "occasion_tags": [
+        "Holiday",
+        "Party",
+        "Celebration"
+      ],
+      "cooking_tips": [
+        "Ensure the khoya and paneer are lump-free for a smooth texture.",
+        "Do not overcrowd the pan while frying, as this will lower the oil temperature and result in oily gulab jamun.",
+        "Allow the gulab jamun to soak in the syrup for at least 1-2 hours for optimal sweetness and softness."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/gulab_jamun/recipe_fks1qvls19eb8r2/fks1qvls19eb8r2_main_image.jpg"
+    },
+    {
+      "id": "1a02vdon2oi70",
+      "name": "Easy Gulab Jamun with Milk Powder",
+      "url": "http://www.chefdehome.com/Recipes/534/easy-indian-gulab-jamun-with-milk-powder",
+      "ingredients": [
+        "2 cups milk powder",
+        "1 tablespoon unsalted butter (or ghee)",
+        "1/2 teaspoon baking powder",
+        "2 tablespoons all-purpose flour (maida)",
+        "2 tablespoons fine semolina",
+        "6 tablespoons milk",
+        "1 tablespoon canola oil (plus more for frying)",
+        "Crushed pistachios, for garnish",
+        "1/2 teaspoon rose water",
+        "1 1/2 cups sugar",
+        "2 cups water",
+        "1 teaspoon lime juice"
+      ],
+      "directions": [
+        "Step 1: Soak the semolina in 1-2 tablespoons of water and set aside for 10 minutes.",
+        "Step 2: In a saucepan, combine the sugar and water for the rose syrup.",
+        "Step 3: Add the lime juice to the syrup.",
+        "Step 4: Heat the syrup over medium heat until the sugar dissolves completely.",
+        "Step 5: Stir in the rose water and set the syrup aside.",
+        "Step 6: In a wide bowl, combine the milk powder, butter (or ghee), and canola oil.",
+        "Step 7: Rub the mixture with your hands until the fat is evenly distributed in the milk powder.",
+        "Step 8: Add the baking powder, soaked semolina, and all-purpose flour to the bowl.",
+        "Step 9: Rub the dry ingredients into the milk powder mixture until it resembles pea-sized granules.",
+        "Step 10: Gradually add the milk, a little at a time, mixing gently until the dough comes together. Do not knead.",
+        "Step 11: Cover the dough with a kitchen towel and let it rest for 10 minutes.",
+        "Step 12: Divide the rested dough into 20 equal portions and arrange them on a plate.",
+        "Step 13: Roll each portion into a smooth ball, ensuring there are no cracks.",
+        "Step 14: If the dough sticks to your hands, wash and dry them before continuing to roll.",
+        "Step 15: Cover the rolled balls with a kitchen towel.",
+        "Step 16: Heat the canola oil for deep frying in a deep pot or pan. The oil should be hot, but not smoking.",
+        "Step 17: To test the oil temperature, drop a small piece of dough into the oil. It should rise to the surface in about 5 seconds.",
+        "Step 18: Carefully place the gulab jamun balls into the hot oil, working in batches to avoid overcrowding.",
+        "Step 19: Fry the gulab jamun for 8-10 minutes, turning occasionally, until they are golden brown and cooked through.",
+        "Step 20: Remove the cooked gulab jamun from the oil and place them on a plate lined with paper towels to drain excess oil.",
+        "Step 21: While the rest of the jamun are frying, gently drop the cooked ones into the warm rose syrup.",
+        "Step 22: Allow the gulab jamun to soak in the syrup for at least 25 minutes, or until they have absorbed most of the liquid and are moist and spongy.",
+        "Step 23: Serve the gulab jamun warm, garnished with crushed pistachios and a drizzle of the leftover syrup."
+      ],
+      "duration": "40 minutes ",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "5-7 grams per serving",
+        "carbs": "35-40 grams per serving",
+        "fat": "10-12 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "25-30 grams per serving",
+        "sodium": "5-10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of golden-brown Gulab Jamun glistening in light syrup, garnished with crushed pistachios. Use a dark, moody background with a shallow depth of field, focusing sharply on the foreground jamun. Highlight the syrup's viscosity and the jamun's texture. Incorporate subtle backlighting to create a warm, inviting glow.  A rustic brass spoon partially submerged in the syrup adds a touch of elegance. Compose with negative space for a sophisticated, minimalist feel.",
+      "image_filepath": "recipe_1a02vdon2oi70/main_image",
+      "video_script": {
+        "title": "Easy Gulab Jamun with Milk Powder",
+        "description": "Learn how to make soft, spongy, and delicious gulab jamun at home with this easy milk powder recipe!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of several golden-brown gulab jamun, glistening with syrup, garnished with chopped pistachios, and served in a decorative bowl.",
+            "text": "Easy Gulab Jamun",
+            "voice_over": "Welcome! Today, we're making melt-in-your-mouth gulab jamun using milk powder. This recipe is quick, easy, and perfect for any occasion.",
+            "scene_image_filename": "recipe_1a02vdon2oi70/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display all ingredients neatly arranged on a table: milk powder, butter, baking powder, flour, semolina, milk, oil, pistachios, rose water, sugar, water, and lime juice.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: milk powder, butter, baking powder, flour, semolina, milk, oil, pistachios, rose water, sugar, water, and lime juice.",
+            "scene_image_filename": "recipe_1a02vdon2oi70/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show semolina soaking in water, a saucepan with sugar and water heating up, and lime juice being added to the syrup.",
+            "text": "Syrup Prep",
+            "voice_over": "First, soak the semolina in water for 10 minutes. Meanwhile, make the syrup by dissolving sugar in water. Add lime juice and let it simmer. Stir in rose water and set aside.",
+            "scene_image_filename": "recipe_1a02vdon2oi70/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Show milk powder, butter, and oil being combined in a bowl.  Then, show hands rubbing the mixture until it resembles breadcrumbs.",
+            "text": "Dough Base",
+            "voice_over": "In a bowl, combine milk powder, butter, and oil. Rub the mixture with your hands until the fat is evenly distributed.",
+            "scene_image_filename": "recipe_1a02vdon2oi70/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Show the dry ingredients (baking powder, semolina, flour) being added to the milk powder mixture.  Then, show the mixture being rubbed together to form pea-sized granules.",
+            "text": "Dry Ingredients",
+            "voice_over": "Add the baking powder, soaked semolina, and flour.  Combine until it resembles pea-sized granules.",
+            "scene_image_filename": "recipe_1a02vdon2oi70/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "Show milk being gradually added to the dough, mixing gently.  Show the final dough consistency - soft and not sticky.",
+            "text": "Forming the Dough",
+            "voice_over": "Gradually add milk, mixing until a soft dough forms.  Do not knead. Cover and let it rest for 10 minutes.",
+            "scene_image_filename": "recipe_1a02vdon2oi70/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show the dough being divided into small portions, rolled into smooth balls, and covered with a kitchen towel.",
+            "text": "Rolling",
+            "voice_over": "Divide the dough into 20 portions. Roll each into a smooth ball. Cover and set aside.",
+            "scene_image_filename": "recipe_1a02vdon2oi70/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Show hot oil in a pan, a small piece of dough being dropped in to test the temperature, and gulab jamun balls being carefully placed in the oil.",
+            "text": "Frying",
+            "voice_over": "Heat oil for frying. It should be hot, but not smoking. Fry the gulab jamun in batches for 8-10 minutes, turning occasionally, until golden brown.",
+            "scene_image_filename": "recipe_1a02vdon2oi70/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Show the fried gulab jamun being transferred to a plate lined with paper towels and then added to the warm rose syrup.",
+            "text": "Syrup Soak",
+            "voice_over": "Drain excess oil. Then, gently place the hot gulab jamun into the warm rose syrup. Let them soak for at least 25 minutes.",
+            "scene_image_filename": "recipe_1a02vdon2oi70/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished gulab jamun served in a bowl, garnished with crushed pistachios, and drizzled with syrup. A spoon is placed beside the bowl, ready to serve.",
+            "text": "Serve & Enjoy",
+            "voice_over": "Serve warm, garnished with pistachios and a drizzle of syrup. Enjoy your delicious homemade gulab jamun!",
+            "scene_image_filename": "recipe_1a02vdon2oi70/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/1a02vdon2oi70-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Milk Powder",
+        "Semolina",
+        "Flour",
+        "Sugar",
+        "Pistachios",
+        "Rose Water"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Holiday",
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is not too hot, or the gulab jamun will brown too quickly on the outside while remaining uncooked inside.",
+        "Soaking the semolina helps to soften it and create a smoother texture.",
+        "Allowing the dough to rest helps to develop the gluten and prevent the gulab jamun from cracking while frying.",
+        "Adjust the soaking time in the syrup depending on your desired level of sweetness."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/gulab_jamun/recipe_1a02vdon2oi70/1a02vdon2oi70_main_image.jpg"
+    },
+    {
+      "id": "fks64j2hm37lc0",
+      "name": "Gulab Jamun",
+      "url": "https://www.thespruceeats.com/gulab-jamun-dessert-1957825",
+      "ingredients": [
+        "6 cups water",
+        "3 cups granulated sugar",
+        "1 tablespoon ground cardamom",
+        "2 tablespoons rose water",
+        "3 cups powdered milk",
+        "1 1/2 cups all-purpose flour",
+        "1 1/2 teaspoons baking powder",
+        "1 cup heavy cream or double cream, thickened",
+        "Vegetable oil, canola oil, or sunflower oil, for frying"
+      ],
+      "directions": [
+        "Step 1: In a large saucepan, combine the water and sugar. Bring to a boil over high heat, stirring occasionally until the sugar dissolves.",
+        "Step 2: Remove from heat and stir in the ground cardamom and rose water. Set the syrup aside.",
+        "Step 3: In a large bowl, combine the powdered milk, flour, and baking powder.",
+        "Step 4: Gradually add the heavy cream to the dry ingredients, kneading until a medium-soft, non-sticky dough forms. You may not need all of the cream.",
+        "Step 5: Lightly oil your palms.",
+        "Step 6: Divide the dough into walnut-sized portions. Roll each portion between your palms until smooth.",
+        "Step 7: Heat the oil in a wide pan over medium heat to 350-360\u00b0F (175-180\u00b0C).",
+        "Step 8: Carefully add the gulab jamun to the hot oil, frying in batches to avoid overcrowding. Turn frequently until golden brown on all sides.",
+        "Step 9: Remove the fried gulab jamun with a slotted spoon and drain excess oil.",
+        "Step 10: Immediately transfer the drained gulab jamun to the rose syrup.",
+        "Step 11: Allow the gulab jamun to soak in the syrup for at least 2 hours before serving."
+      ],
+      "duration": "50 m",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-m.webp",
+      "nutrition": {
+        "calories": "1116 per serving",
+        "protein": "18 grams per serving",
+        "carbs": "145 grams per serving",
+        "fat": "54 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "Not specified",
+        "sodium": "Not specified"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of golden-brown Gulab Jamun glistening in light syrup. Focus on the texture of one jamun in the foreground, with a shallow depth of field blurring the background. Use a dark, moody background with subtle hints of gold and deep red. Garnish with a sprinkle of chopped pistachios and a single edible rose petal. Soft, directional lighting should highlight the syrup's viscosity and the jamun's delicate texture. Compose the shot with a few jamun nestled together, emphasizing their round shape and creating a sense of indulgence.",
+      "image_filepath": "recipe_fks64j2hm37lc0/main_image",
+      "video_script": {
+        "title": "Gulab Jamun: Delicious Indian Dessert",
+        "description": "Learn to make Gulab Jamun, a classic Indian dessert, with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of golden brown gulab jamun soaked in rose-flavored syrup, garnished with chopped pistachios. Soft lighting and shallow depth of field to emphasize the texture and syrup.",
+            "text": "Gulab Jamun",
+            "voice_over": "Indulge in the rich, sweet flavors of Gulab Jamun, a beloved Indian dessert. These soft, spongy milk balls, soaked in fragrant rose syrup, are a perfect treat for any occasion.",
+            "scene_image_filename": "recipe_fks64j2hm37lc0/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a marble countertop. Include powdered milk, flour, baking powder, heavy cream, sugar, water, cardamom, and rose water.  Label each ingredient clearly.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: powdered milk, all-purpose flour, baking powder, heavy cream, sugar, water, cardamom, and rose water. For frying, use vegetable oil, canola, or sunflower oil.",
+            "scene_image_filename": "recipe_fks64j2hm37lc0/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of hands combining the powdered milk, flour, and baking powder in a large bowl. ",
+            "text": "Dry Ingredients",
+            "voice_over": "In a large bowl, combine the powdered milk, flour, and baking powder. Mix well to ensure even distribution.",
+            "scene_image_filename": "recipe_fks64j2hm37lc0/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of hands gradually adding heavy cream to the dry ingredients and kneading until a soft, non-sticky dough forms. Show the texture of the dough clearly.",
+            "text": "Dough Making",
+            "voice_over": "Gradually add the heavy cream, kneading until a medium-soft dough forms.  Don't add all the cream at once; stop when the dough is no longer sticky. This might take a few minutes of kneading.",
+            "scene_image_filename": "recipe_fks64j2hm37lc0/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "Close-up of oiled hands rolling small portions of dough into smooth balls. Show the process of rolling the dough into walnut-sized portions.",
+            "text": "Rolling",
+            "voice_over": "Lightly oil your palms to prevent sticking. Divide the dough into walnut-sized portions and roll each portion between your palms until smooth.",
+            "scene_image_filename": "recipe_fks64j2hm37lc0/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Wide shot of a pan with hot oil on the stove, with a thermometer showing the temperature between 350-360\u00b0F (175-180\u00b0C). Show gulab jamun balls being carefully added to the hot oil.",
+            "text": "Frying",
+            "voice_over": "Heat oil in a wide pan to 350-360\u00b0F (175-180\u00b0C). Carefully add the gulab jamun balls, ensuring not to overcrowd the pan. Fry in batches for even cooking.",
+            "scene_image_filename": "recipe_fks64j2hm37lc0/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Close-up of gulab jamun being fried in hot oil, turning golden brown and being turned gently with a slotted spoon.  Focus on the color change and the even frying.",
+            "text": "Golden Brown",
+            "voice_over": "Fry, turning frequently, until golden brown on all sides.  This should take approximately 3-4 minutes.",
+            "scene_image_filename": "recipe_fks64j2hm37lc0/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Shot of fried gulab jamun being transferred from the slotted spoon to the rose syrup.  Show the syrup bubbling slightly as the hot gulab jamun are added.",
+            "text": "Syrup Soaking",
+            "voice_over": "Remove the fried gulab jamun with a slotted spoon, draining excess oil, and immediately transfer them into the warm rose syrup.",
+            "scene_image_filename": "recipe_fks64j2hm37lc0/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up shot of gulab jamun soaking in the rose syrup, gradually absorbing the syrup and expanding in size.",
+            "text": "Resting",
+            "voice_over": "Allow the gulab jamun to soak in the syrup for at least 2 hours. This allows them to absorb the syrup and become soft and juicy.",
+            "scene_image_filename": "recipe_fks64j2hm37lc0/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "Final plated shot of the gulab jamun, garnished with chopped pistachios and a sprinkle of cardamom. Show the dish presented in a decorative bowl with a serving spoon.",
+            "text": "Enjoy!",
+            "voice_over": "Serve warm and enjoy the deliciousness!  Gulab Jamun is best served slightly warm. You can garnish it with chopped nuts or a sprinkle of cardamom powder. Enjoy this delightful treat!",
+            "scene_image_filename": "recipe_fks64j2hm37lc0/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks64j2hm37lc0-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Milk",
+        "Flour",
+        "Sugar",
+        "Cardamom",
+        "Rose Water"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Holiday",
+        "Special Occasion"
+      ],
+      "cooking_tips": [
+        "Use a candy thermometer to ensure the oil temperature is accurate.",
+        "Do not overcrowd the pan while frying, as this will lower the oil temperature and result in soggy gulab jamun.",
+        "For a richer flavor, infuse the syrup with saffron strands.",
+        "If the dough is too sticky, add a little more flour. If it's too dry, add a little more cream.",
+        "Gulab jamun can be stored in an airtight container in the refrigerator for up to a week."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/gulab_jamun/recipe_fks64j2hm37lc0/fks64j2hm37lc0_main_image.jpg"
+    },
+    {
+      "id": "d3682e7rl",
+      "name": "Easy Gulab Jamun with Milk Powder",
+      "url": "http://chefdehome.com/Recipes/534/easy-indian-gulab-jamun-with-milk-powder",
+      "ingredients": [
+        "2 cups milk powder",
+        "1 tablespoon unsalted butter (or ghee)",
+        "1/2 teaspoon baking powder",
+        "2 tablespoons all-purpose flour (maida)",
+        "2 tablespoons fine semolina, soaked in 2 tablespoons water for 10 minutes",
+        "6 tablespoons milk",
+        "1 tablespoon canola oil, plus more for frying",
+        "Crushed pistachios, for garnish",
+        "1/2 teaspoon rose water",
+        "1 1/2 cups sugar",
+        "2 cups water",
+        "1 teaspoon lime juice"
+      ],
+      "directions": [
+        "Step 1: Prepare the Rose Syrup: In a saucepan, combine the sugar and water. Add the lime juice. Heat over medium heat, stirring constantly, until the sugar dissolves completely. Remove from heat and stir in the rose water. Set aside.",
+        "Step 2: Combine Dry Ingredients: In a wide bowl, combine the milk powder, butter (or ghee), and canola oil. Rub the mixture with your hands until the fat is evenly distributed and the milk powder resembles coarse crumbs.",
+        "Step 3: Add Remaining Dry Ingredients: Add the baking powder, soaked semolina, and all-purpose flour to the bowl. Rub with your hands until the mixture resembles pea-sized granules.",
+        "Step 4: Form the Dough: Gradually add the milk, a little at a time, mixing gently until the dough comes together. Do not knead. Cover the bowl with a kitchen towel and let the dough rest for 10 minutes.",
+        "Step 5: Shape the Gulab Jamun: Divide the dough into 20 equal portions. Roll each portion between your palms to form smooth balls. Ensure there are no cracks. If the dough sticks to your hands, wash and dry them before continuing.",
+        "Step 6: Fry the Gulab Jamun: Heat the canola oil for deep frying in a deep pot or skillet over medium heat. The oil should not be too hot. To test the oil temperature, drop a small piece of dough into the oil. It should rise to the surface within 5 seconds. If it browns too quickly, the oil is too hot. If it sinks and stays at the bottom, the oil is not hot enough.",
+        "Step 7: Fry in Batches: Carefully place a batch of the gulab jamun balls into the hot oil. Fry for 8-10 minutes, turning occasionally, until golden brown and cooked through. Do not overcrowd the pot. After the first 4 minutes, the gulab jamun should not appear brown.",
+        "Step 8: Drain and Soak: Remove the cooked gulab jamun from the oil using a slotted spoon and place them on a plate lined with paper towels to drain excess oil. Immediately transfer the drained gulab jamun to the rose syrup. Repeat steps 6-8 with the remaining dough.",
+        "Step 9: Soak and Serve: Allow the gulab jamun to soak in the syrup for at least 25 minutes, or until they have absorbed most of the syrup and become moist and spongy. Serve warm, garnished with crushed pistachios and a drizzle of the remaining syrup."
+      ],
+      "duration": "40 minutes ",
+      "serves": "20",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d3682e7rl-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "5-7 grams per serving",
+        "carbs": "35-40 grams per serving",
+        "fat": "8-10 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "20-25 grams per serving",
+        "sodium": "20-30 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of golden-brown Gulab Jamun nestled in a shallow, rustic ceramic bowl.  Focus on the glistening syrup and texture of one jamun in the foreground, with a shallow depth of field blurring the background. Use warm, diffused lighting to enhance the rich color and highlight the crushed pistachio garnish.  Incorporate a dark, textured background and a small silver spoon to add a touch of elegance and contrast.  The overall mood should be warm, inviting, and indulgent.",
+      "image_filepath": "recipe_d3682e7rl/main_image",
+      "video_script": {
+        "title": "Easy Gulab Jamun with Milk Powder",
+        "description": "Learn how to make delicious, melt-in-your-mouth Gulab Jamun with this easy recipe using milk powder.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of several golden-brown gulab jamun soaked in rose syrup, garnished with crushed pistachios. The syrup should be glistening, and the gulab jamun should look soft and spongy.",
+            "text": "Gulab Jamun",
+            "voice_over": "Indulge in the sweet delight of homemade Gulab Jamun! This recipe uses milk powder for a quick and easy version of this classic Indian dessert.",
+            "scene_image_filename": "recipe_d3682e7rl/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d3682e7rl-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Show grouped ingredients: milk powder, butter, canola oil, baking powder, flour, semolina in separate bowls.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: milk powder, butter, canola oil, baking powder, all-purpose flour, fine semolina, milk, sugar, water, lime juice, rose water, and pistachios for garnish.",
+            "scene_image_filename": "recipe_d3682e7rl/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d3682e7rl-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A saucepan with sugar and water dissolving on the stove. Lime juice being added.",
+            "text": "Rose Syrup",
+            "voice_over": "First, make the rose syrup. Combine sugar and water in a saucepan. Add lime juice and heat until the sugar dissolves. Remove from heat and stir in rose water. Set aside.",
+            "scene_image_filename": "recipe_d3682e7rl/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d3682e7rl-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Hands combining milk powder, butter, and oil in a bowl, rubbing until crumbly.",
+            "text": "Combine & Crumble",
+            "voice_over": "In a bowl, combine milk powder, butter, and canola oil. Rub the mixture with your hands until it resembles coarse crumbs.",
+            "scene_image_filename": "recipe_d3682e7rl/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d3682e7rl-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Adding dry ingredients to the bowl and mixing.",
+            "text": "Dry Ingredients",
+            "voice_over": "Add baking powder, soaked semolina, and flour to the bowl. Mix well.",
+            "scene_image_filename": "recipe_d3682e7rl/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d3682e7rl-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Gradually adding milk to the dry ingredients and gently mixing to form a dough.",
+            "text": "Dough",
+            "voice_over": "Gradually add milk, mixing gently until a soft dough forms. Do not knead. Cover and let it rest for 10 minutes.",
+            "scene_image_filename": "recipe_d3682e7rl/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d3682e7rl-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Rolling the dough into small, smooth balls.",
+            "text": "Shape",
+            "voice_over": "Divide the dough into 20 portions and roll each into smooth balls.",
+            "scene_image_filename": "recipe_d3682e7rl/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d3682e7rl-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Frying gulab jamun balls in hot oil until golden brown.",
+            "text": "Fry",
+            "voice_over": "Heat canola oil for frying. Fry the gulab jamun in batches over medium heat for 8-10 minutes, until golden brown.",
+            "scene_image_filename": "recipe_d3682e7rl/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d3682e7rl-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Draining fried gulab jamun on paper towels and then transferring them to the rose syrup.",
+            "text": "Soak",
+            "voice_over": "Drain the fried gulab jamun and immediately transfer them to the rose syrup. Let them soak for at least 25 minutes.",
+            "scene_image_filename": "recipe_d3682e7rl/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d3682e7rl-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A bowl of gulab jamun soaked in rose syrup, garnished with crushed pistachios. A spoon is drizzling extra syrup on top.",
+            "text": "Serve",
+            "voice_over": "Serve warm, garnished with crushed pistachios and a drizzle of syrup. Enjoy your homemade Gulab Jamun!",
+            "scene_image_filename": "recipe_d3682e7rl/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d3682e7rl-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 25,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Milk Powder",
+        "Ghee",
+        "Semolina",
+        "Pistachios",
+        "Rose Water"
+      ],
+      "occasion_tags": [
+        "Holiday",
+        "Party",
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "Use ghee for a richer flavor.",
+        "Ensure the oil temperature is correct for even cooking.",
+        "Do not overcrowd the pot while frying.",
+        "Soak the gulab jamun for at least 25 minutes for optimal flavor and texture."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/gulab_jamun/recipe_d3682e7rl/d3682e7rl_main_image.jpg"
+    },
+    {
+      "id": "fksd351urtvs",
+      "name": "Gulab Jamun (Milk Bread)",
+      "url": "http://www.sharmispassions.com/2013/10/gulab-jamun-recipe-easy-bread-jamun.html",
+      "ingredients": [
+        "7 slices milk bread, crusts trimmed",
+        "2 tablespoons milk powder",
+        "1/2 cup milk",
+        "2 drops rose essence",
+        "1/8 teaspoon baking soda (optional)",
+        "Oil for deep frying",
+        "1/2 cup sugar",
+        "1/2 cup water",
+        "Pinch of saffron strands",
+        "1/8 teaspoon cardamom powder"
+      ],
+      "directions": [
+        "Step 1: Prepare the Sugar Syrup: In a saucepan, combine the sugar, water, saffron strands, and cardamom powder. Heat over medium heat, stirring until the sugar dissolves completely.  Continue simmering until the syrup slightly thickens. Remove from heat, stir in the rose essence, and set aside.",
+        "Step 2: Make the Dough: Trim the crusts from the bread slices. Dip each slice into the milk, gently squeeze out excess milk, and place in a blender. Add the milk powder to the blender. Pulse until a smooth paste forms. Add the baking soda (if using) and mix well.",
+        "Step 3: Shape and Fry the Gulab Jamun: Heat the oil in a deep pan or kadai over medium heat. Divide the dough into small portions and roll them into smooth balls. Avoid applying too much pressure. Gently drop the balls into the hot oil, a few at a time, and fry over low to medium heat until golden brown, turning occasionally for even cooking.",
+        "Step 4: Soak the Gulab Jamun: Using a slotted spoon, transfer the fried gulab jamun directly into the warm sugar syrup. Cover and let them soak for at least 2 hours, or until they have absorbed the syrup and become soft and spongy."
+      ],
+      "duration": "25 minutes ",
+      "serves": "15",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd351urtvs-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "2-3 grams per serving",
+        "carbs": "40-45 grams per serving",
+        "fat": "8-10 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "25-30 grams per serving",
+        "sodium": "10-15 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of golden-brown Gulab Jamun, glistening with syrup, nestled in a rustic ceramic bowl.  Use warm, diffused lighting to highlight the texture of the milk bread dumplings and the richness of the saffron-infused syrup.  Garnish with a few saffron strands and chopped pistachios.  A shallow depth of field, focused on the front-most Gulab Jamun, should blur the background, which could be a dark, textured surface.  Create a mood of indulgence and warmth.  Include a small silver serving spoon partially submerged in the syrup.",
+      "image_filepath": "recipe_fksd351urtvs/main_image",
+      "video_script": {
+        "title": "Easy Gulab Jamun (Milk Bread)",
+        "description": "A quick and simple recipe for delicious Gulab Jamun using milk bread.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of golden brown gulab jamun soaked in glistening sugar syrup, garnished with saffron strands. A few pieces are cut open to reveal the soft, spongy inside.",
+            "text": "Gulab Jamun: Quick & Easy",
+            "voice_over": "Indulge in the sweet delight of Gulab Jamun, made surprisingly easy with milk bread. Soft, spongy, and soaked in fragrant syrup, it's a dessert everyone will love.",
+            "scene_image_filename": "recipe_fksd351urtvs/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351urtvs-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Milk bread slices, milk powder, and a small bowl of milk arranged on a wooden table. ",
+            "text": "Ingredients for Dough",
+            "voice_over": "For the dough, you'll need milk bread slices with crusts trimmed, milk powder, and milk. Optionally, a pinch of baking soda can be added.",
+            "scene_image_filename": "recipe_fksd351urtvs/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351urtvs-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Sugar, water, saffron strands, cardamom powder and rose essence, arranged in separate bowls on a table.",
+            "text": "Ingredients for Syrup",
+            "voice_over": "For the syrup, gather sugar, water, saffron strands, cardamom powder, and rose essence.",
+            "scene_image_filename": "recipe_fksd351urtvs/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351urtvs-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A saucepan on a stovetop, with sugar, water, saffron, and cardamom powder simmering inside. A close-up of the syrup thickening.",
+            "text": "Sugar Syrup Preparation",
+            "voice_over": "Combine sugar, water, saffron, and cardamom powder in a saucepan. Heat over medium, stirring until sugar dissolves. Simmer until slightly thickened, about 5-7 minutes. Stir in rose essence and set aside.",
+            "scene_image_filename": "recipe_fksd351urtvs/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351urtvs-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Milk bread slices being dipped in milk, a blender with the soaked bread and milk powder, and a smooth dough being formed.",
+            "text": "Dough Making",
+            "voice_over": "Dip bread slices in milk, squeeze out excess, and blend with milk powder until a smooth paste forms. Add baking soda if using.",
+            "scene_image_filename": "recipe_fksd351urtvs/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351urtvs-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Small portions of dough being rolled into smooth balls. Close up on the balls, highlighting their shape and texture.",
+            "text": "Shape into Balls",
+            "voice_over": "Divide the dough and roll into small, smooth balls. Avoid applying too much pressure.",
+            "scene_image_filename": "recipe_fksd351urtvs/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351urtvs-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Gulab jamun balls being deep-fried in hot oil, turning golden brown. ",
+            "text": "Frying Gulab Jamun",
+            "voice_over": "Fry in medium-hot oil until golden brown, turning occasionally for even cooking. This should take about 3-4 minutes.",
+            "scene_image_filename": "recipe_fksd351urtvs/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351urtvs-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Fried gulab jamun being transferred into warm sugar syrup. Close-up shot of syrup being absorbed into the gulab jamun.",
+            "text": "Soaking in Syrup",
+            "voice_over": "Transfer the fried gulab jamun directly to the warm syrup. Cover and let soak for at least 2 hours.",
+            "scene_image_filename": "recipe_fksd351urtvs/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351urtvs-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A serving bowl filled with soaked gulab jamun, garnished with chopped nuts and saffron strands.  A spoon is placed next to the bowl, ready to serve.",
+            "text": "Ready to Serve!",
+            "voice_over": "Serve warm, garnished with your favorite toppings like chopped nuts. Enjoy!",
+            "scene_image_filename": "recipe_fksd351urtvs/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351urtvs-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Milk Bread",
+        "Sugar",
+        "Saffron",
+        "Cardamom"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Holiday",
+        "Special Occasion"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is not too hot, or the gulab jamun will brown too quickly without cooking through.",
+        "For a richer flavor, use full-fat milk and bread.",
+        "Do not overcrowd the pan while frying, as this can lower the oil temperature and result in soggy gulab jamun.",
+        "The longer the gulab jamun soak in the syrup, the softer and more flavorful they will become."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/gulab_jamun/recipe_fksd351urtvs/fksd351urtvs_main_image.jpg"
+    },
+    {
+      "id": "fksd351vb29n",
+      "name": "Paneer Gulab Jamun",
+      "url": "http://www.sharmispassions.com/2013/12/gulab-jamun-recipe-paneer-gulab-jamun.html",
+      "ingredients": [
+        "1 cup Paneer, crumbled",
+        "2.5 tablespoons Maida (all-purpose flour)",
+        "1/8 teaspoon Baking Soda",
+        "2 drops Rose Essence",
+        "1/2 tablespoon Pistachios, chopped (for garnish)",
+        "Oil, for deep frying",
+        "1 cup Sugar",
+        "1 cup Water",
+        "5 strands Saffron"
+      ],
+      "directions": [
+        "Step 1: Prepare the Sugar Syrup: In a saucepan, combine the sugar, water, and saffron. Heat over medium heat, stirring until the sugar dissolves.",
+        "Step 2: Make the Dough: While the sugar syrup heats, prepare the paneer. If refrigerated, bring it to room temperature. Crumble the paneer and knead it until smooth.",
+        "Step 3: Combine Ingredients: Add the maida and baking soda to the paneer. Mix well.",
+        "Step 4: Add Water: Gradually add water to the paneer mixture, mixing until a smooth dough forms. Do not over-knead. Cover and let rest for 10 minutes.",
+        "Step 5: Shape the Jamuns: Divide the dough into small portions. Roll each portion into a smooth ball without applying too much pressure.",
+        "Step 6: Fry the Jamuns: Heat oil in a kadai over medium-low heat. Once hot, gently drop a few jamuns into the oil. Do not overcrowd the kadai.",
+        "Step 7: Cook and Drain: Fry the jamuns, turning occasionally, until golden brown. Remove and drain on paper towels.",
+        "Step 8: Soak in Syrup: Immediately transfer the fried jamuns to the warm sugar syrup. Add rose essence, cover, and let them soak for at least 2 hours.",
+        "Step 9: Garnish and Serve: Garnish with chopped pistachios before serving."
+      ],
+      "duration": "25 minutes ",
+      "serves": "15",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd351vb29n-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "5-7 grams per serving",
+        "carbs": "30-35 grams per serving",
+        "fat": "10-12 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "20-25 grams per serving",
+        "sodium": "5-10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of golden-brown Paneer Gulab Jamun drizzled with glistening sugar syrup infused with saffron.  Use a dark, moody background with subtle textures.  A few individual jamuns should be strategically placed around a small, rustic bowl containing more syrup, garnished with chopped pistachios. Soft, diffused lighting should highlight the paneer's texture and the syrup's viscosity. Shallow depth of field with the foreground jamuns in sharp focus, creating a sense of indulgence and warmth.",
+      "image_filepath": "recipe_fksd351vb29n/main_image",
+      "video_script": {
+        "title": "Paneer Gulab Jamun: A Delicious Indian Dessert",
+        "description": "Learn how to make soft and spongy Paneer Gulab Jamun at home with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a plate of golden-brown Paneer Gulab Jamun, garnished with chopped pistachios, syrup glistening. Show a few jamuns cut in half to reveal the soft, spongy texture inside.",
+            "text": "Paneer Gulab Jamun",
+            "voice_over": "Welcome! Today, we're making a delightful Indian dessert: Paneer Gulab Jamun. Soft, spongy, and soaked in fragrant rose-flavored syrup, these melt-in-your-mouth treats are perfect for any occasion.",
+            "scene_image_filename": "recipe_fksd351vb29n/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351vb29n-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display the crumbled paneer, maida, and baking soda arranged neatly on a wooden surface.",
+            "text": "Ingredients for Dough",
+            "voice_over": "For the dough, we'll need: one cup crumbled paneer, two and a half tablespoons of maida, and one-eighth teaspoon of baking soda.",
+            "scene_image_filename": "recipe_fksd351vb29n/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351vb29n-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show sugar, water and saffron in a saucepan. ",
+            "text": "Syrup Ingredients",
+            "voice_over": "For the syrup, gather: one cup of sugar, one cup of water, and a pinch of saffron strands.",
+            "scene_image_filename": "recipe_fksd351vb29n/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351vb29n-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Show hands kneading the paneer until smooth, then mixing in the maida and baking soda, followed by gradually adding water until a smooth dough forms.",
+            "text": "Making the Dough",
+            "voice_over": "Knead the paneer until smooth. Mix in the maida and baking soda, gradually adding water until a soft dough forms. Don't over-knead. Cover and rest for 10 minutes.",
+            "scene_image_filename": "recipe_fksd351vb29n/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351vb29n-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Show the process of making the sugar syrup: sugar and water dissolving in a pan on the stovetop over medium heat, with saffron strands infused in the syrup.",
+            "text": "Preparing Syrup",
+            "voice_over": "Combine sugar, water, and saffron in a saucepan. Heat over medium heat, stirring until the sugar dissolves. Maintain a gentle simmer.",
+            "scene_image_filename": "recipe_fksd351vb29n/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351vb29n-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Show rolling small portions of the dough into smooth balls.",
+            "text": "Shaping Jamuns",
+            "voice_over": "Divide the dough and roll into small, smooth balls without applying too much pressure.",
+            "scene_image_filename": "recipe_fksd351vb29n/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351vb29n-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show frying the jamuns in hot oil until golden brown, turning them for even cooking. The oil should be at medium-low heat.",
+            "text": "Frying",
+            "voice_over": "Fry in medium-low heat until golden brown, turning occasionally. Avoid overcrowding the pan. This should take about 5-7 minutes.",
+            "scene_image_filename": "recipe_fksd351vb29n/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351vb29n-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Show transferring the fried jamuns into the warm sugar syrup.",
+            "text": "Soaking",
+            "voice_over": "Transfer the fried jamuns to the warm syrup. Add two drops of rose essence. Cover and soak for at least 2 hours.",
+            "scene_image_filename": "recipe_fksd351vb29n/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351vb29n-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Show a close-up of the finished Paneer Gulab Jamun garnished with chopped pistachios, syrup glistening.",
+            "text": "Ready to Serve!",
+            "voice_over": "Garnish with chopped pistachios. Serve warm or chilled. Enjoy your homemade Paneer Gulab Jamun! Each serving contains approximately 200-250 calories, 5-7g protein, 30-35g carbs, and 10-12g fat.",
+            "scene_image_filename": "recipe_fksd351vb29n/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351vb29n-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Paneer",
+        "Sugar",
+        "Saffron",
+        "Pistachios"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Holiday",
+        "Special Occasion"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is not too hot to prevent the jamuns from burning.",
+        "Soaking the jamuns in warm syrup allows them to absorb the sweetness evenly.",
+        "For a richer flavor, add a pinch of cardamom powder to the sugar syrup."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/gulab_jamun/recipe_fksd351vb29n/fksd351vb29n_main_image.jpg"
+    },
+    {
+      "id": "fksd8a8r32ab",
+      "name": "Khoya Gulab Jamun",
+      "url": "http://www.blendwithspices.com/2013/10/khoya-gulab-jamun.html",
+      "ingredients": [
+        "1 cup unsweetened khoya / mawa, crumbled",
+        "2 1/2 tablespoons all-purpose flour (maida)",
+        "1/8 teaspoon baking soda",
+        "1/4 teaspoon ground cardamom, divided",
+        "Oil or ghee, for deep frying",
+        "2 cups granulated sugar",
+        "2 cups water",
+        "2 drops rose water (optional)",
+        "A few strands saffron (optional)"
+      ],
+      "directions": [
+        "Step 1: Prepare the Khoya: If using frozen khoya, bring it to room temperature. In a mixing bowl, crumble the khoya.",
+        "Step 2: Make the Dough: Add the all-purpose flour and baking soda to the crumbled khoya. Mix well. Gradually sprinkle a little water and combine until a smooth and firm dough forms. Do not knead. Cover the dough and set aside.",
+        "Step 3: Prepare the Sugar Syrup: In a saucepan, combine the sugar, water, 1/4 teaspoon of cardamom powder, and saffron (if using). Stir until the sugar dissolves completely. Bring the mixture to a boil and cook for 7-8 minutes. Remove from heat and stir in the rose water (if using). Set aside.",
+        "Step 4: Shape the Gulab Jamun: Divide the dough into small, equal-sized portions. Roll each portion gently between your palms to form smooth balls without any cracks. Avoid applying too much pressure. Cover and set aside.",
+        "Step 5: Fry the Gulab Jamun: Heat oil or ghee in a deep pan over medium heat. Once hot (but not smoking), reduce the heat to low. Carefully drop the dough balls into the hot oil, a few at a time, ensuring not to overcrowd the pan. Gently roll the jamuns while frying to ensure even browning. Fry until they turn a deep golden brown.",
+        "Step 6: Soak the Gulab Jamun: Remove the fried gulab jamuns from the oil using a slotted spoon and drain on a paper towel-lined plate. Immediately transfer the hot jamuns to the warm sugar syrup. Let them soak for at least 3-4 hours.",
+        "Step 7: Serve: Serve the gulab jamuns warm or cold."
+      ],
+      "duration": "20 minutes ",
+      "serves": "1720",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd8a8r32ab-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "2-3 grams per serving",
+        "carbs": "30-35 grams per serving",
+        "fat": "10-12 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "20-25 grams per serving",
+        "sodium": "5-10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of golden-brown Khoya Gulab Jamun glistening in a shallow pool of light syrup, garnished with a few saffron strands. Use a dark, moody background to contrast the vibrant dessert.  A rustic brass spoon should rest gently against the bowl, partially submerged in the syrup. Soft, directional lighting should highlight the texture of the jamun and the translucency of the syrup. Achieve a shallow depth of field, focusing sharply on the foreground jamun, creating a soft bokeh effect.",
+      "image_filepath": "recipe_fksd8a8r32ab/main_image",
+      "video_script": {
+        "title": "Khoya Gulab Jamun: Melt-in-Your-Mouth Delight",
+        "description": "Learn how to make delicious, soft, and spongy Khoya Gulab Jamuns at home with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of golden-brown gulab jamuns soaked in light sugar syrup, garnished with a few strands of saffron. Focus on the syrup-soaked texture and glistening surface.",
+            "text": "Khoya Gulab Jamun",
+            "voice_over": "Indulge in the heavenly sweetness of Khoya Gulab Jamun \u2013 a classic Indian dessert that's sure to impress. Today, we'll guide you through a simple recipe to create these melt-in-your-mouth delights at home.",
+            "scene_image_filename": "recipe_fksd8a8r32ab/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8a8r32ab-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display the measured ingredients: crumbled khoya, all-purpose flour, baking soda, and ground cardamom, arranged neatly in bowls.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one cup of crumbled khoya, two and a half tablespoons of all-purpose flour, one-eighth teaspoon of baking soda, and one-quarter teaspoon of ground cardamom.",
+            "scene_image_filename": "recipe_fksd8a8r32ab/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8a8r32ab-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show sugar, water, saffron strands, and cardamom powder in separate containers, with a saucepan in the background.",
+            "text": "Syrup Ingredients",
+            "voice_over": "For the sugar syrup: two cups of sugar, two cups of water, a few saffron strands (optional), and the remaining cardamom powder.",
+            "scene_image_filename": "recipe_fksd8a8r32ab/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8a8r32ab-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "Hands gently mixing the khoya, flour, and baking soda in a bowl, followed by sprinkling water and combining until a smooth dough forms.",
+            "text": "Making the Dough",
+            "voice_over": "Combine the khoya, flour, and baking soda. Gradually add water and mix until a soft, non-sticky dough forms. Do not knead. Cover and let it rest.",
+            "scene_image_filename": "recipe_fksd8a8r32ab/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8a8r32ab-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Sugar and water being heated in a saucepan, dissolving and forming a syrup. Saffron strands infused in the syrup.",
+            "text": "Preparing the Syrup",
+            "voice_over": "In a saucepan, combine sugar, water, cardamom, and saffron. Heat until the sugar dissolves, then boil for 7-8 minutes. Remove from heat and add rose water (optional).",
+            "scene_image_filename": "recipe_fksd8a8r32ab/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8a8r32ab-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Demonstrate rolling small portions of dough into smooth, crack-free balls.",
+            "text": "Shaping",
+            "voice_over": "Divide the dough into small portions and roll them into smooth balls. Avoid cracks. Cover and set aside.",
+            "scene_image_filename": "recipe_fksd8a8r32ab/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8a8r32ab-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Gulab jamun balls being gently dropped into hot oil and frying until golden brown, with the focus on even browning and gentle turning.",
+            "text": "Frying",
+            "voice_over": "Heat oil or ghee over medium heat. Reduce to low and gently fry the jamuns in batches, turning occasionally, until golden brown. This should take about 5-7 minutes.",
+            "scene_image_filename": "recipe_fksd8a8r32ab/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8a8r32ab-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Fried gulab jamuns being transferred to the warm sugar syrup using a slotted spoon.",
+            "text": "Soaking",
+            "voice_over": "Drain the fried jamuns and immediately transfer them to the warm sugar syrup. Let them soak for at least 3-4 hours or preferably overnight.",
+            "scene_image_filename": "recipe_fksd8a8r32ab/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8a8r32ab-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A serving dish filled with soaked gulab jamuns, garnished with chopped pistachios and a drizzle of syrup. A spoon is placed beside the dish.",
+            "text": "Serving",
+            "voice_over": "Serve warm or chilled. Garnish with chopped nuts, if desired. Enjoy your homemade Khoya Gulab Jamuns!",
+            "scene_image_filename": "recipe_fksd8a8r32ab/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd8a8r32ab-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Khoya",
+        "Flour",
+        "Sugar",
+        "Cardamom",
+        "Saffron"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Holiday",
+        "Special Occasion"
+      ],
+      "cooking_tips": [
+        "Do not knead the dough, as this will make the gulab jamuns tough.",
+        "Fry the gulab jamuns over low heat to ensure they cook through evenly.",
+        "The sugar syrup should be warm when you add the fried gulab jamuns, as this will help them absorb the syrup better."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/gulab_jamun/recipe_fksd8a8r32ab/fksd8a8r32ab_main_image.jpg"
+    },
+    {
+      "id": "fks1b3m5cc67fp",
+      "name": "Gulab Jamun (Indian Fried Milk Balls)",
+      "url": "https://www.allrecipes.com/recipe/246739/gulab-jamun-or-kala-jam-waffle-balls/",
+      "ingredients": [
+        "2 cups water",
+        "2 cups white sugar",
+        "\u00bd teaspoon ground cardamom",
+        "2 drops rose water (optional)",
+        "1 pinch saffron (optional)",
+        "\u00bd cup instant dry milk powder",
+        "2 tablespoons all-purpose flour",
+        "\u00bc teaspoon baking soda",
+        "1 tablespoon unsalted butter",
+        "2 tablespoons plain yogurt",
+        "2 cups vegetable oil for frying"
+      ],
+      "directions": [
+        "Step 1: In a saucepan, combine water, sugar, cardamom, rose water, and saffron. Bring to a boil, then reduce heat and simmer for 5-10 minutes, or until the syrup thickens.",
+        "Step 2: In a bowl, whisk together the milk powder, flour, and baking soda. Mix in the butter and yogurt until a dough forms. Let the dough rest for 5 minutes.",
+        "Step 3: Shape the dough into small, smooth balls, about the size of a penny.",
+        "Step 4: Heat vegetable oil in a deep fryer or large saucepan to 350\u00b0F (175\u00b0C). To test the oil temperature, drop a small piece of dough into the oil. The oil is ready when the dough sits at the bottom for about a minute before rising to the surface.",
+        "Step 5: Fry the gulab jamun in batches of 4, stirring gently, until they are golden brown on all sides (about 2 minutes). Remove with a slotted spoon and drain on a paper towel-lined plate.",
+        "Step 6: Bring the syrup back to a simmer. Add the fried gulab jamun to the syrup. Remove from heat, cover, and let them soak for 45 minutes to 1 hour before serving."
+      ],
+      "duration": "1 h 17 m",
+      "serves": "12",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-m.webp",
+      "nutrition": {
+        "calories": "187 per serving",
+        "protein": "1 gram per serving",
+        "carbs": "36 grams per serving",
+        "fat": "5 grams per serving",
+        "fiber": "0 grams per serving",
+        "sugar": "30 grams per serving",
+        "sodium": "5mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture glistening, golden-brown Gulab Jamun nestled in a shallow, ornate brass bowl against a dark, moody background.  Focus sharply on the front-most jamun, highlighting its textured, syrup-soaked surface. Use a shallow depth of field to softly blur the background. Incorporate a few saffron strands and a single cardamom pod as garnish. Light from the side to create deep shadows and emphasize the rich syrup, evoking a sense of warmth and indulgence. Compose with negative space for a sophisticated, magazine-worthy image.",
+      "image_filepath": "recipe_fks1b3m5cc67fp/main_image",
+      "video_script": {
+        "title": "Gulab Jamun: Irresistible Indian Fried Milk Balls",
+        "description": "Learn how to make delicious, melt-in-your-mouth Gulab Jamun with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of several glistening golden-brown gulab jamun soaked in a light cardamom-infused syrup, garnished with a few strands of saffron. The background is slightly blurred, emphasizing the texture and color of the dessert.",
+            "text": "Gulab Jamun",
+            "voice_over": "Indulge in the sweet symphony of Gulab Jamun, a classic Indian dessert. These soft, spongy milk balls, fried to golden perfection and soaked in fragrant syrup, are a true delicacy.",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display of the dry ingredients: instant dry milk powder, all-purpose flour, and baking soda arranged neatly in separate bowls. Next to them, another small bowl containing unsalted butter. A small bowl of plain yogurt sits beside it.",
+            "text": "Ingredients for Dough",
+            "voice_over": "For the dough, we'll need instant dry milk powder, all-purpose flour, baking soda, butter, and yogurt.",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Ingredients for Syrup:  Close-up of the ingredients arranged in small bowls: water, sugar, green cardamom pods, a small bottle of rose water, and a pinch of saffron threads.",
+            "text": "Ingredients for Syrup",
+            "voice_over": "The fragrant syrup requires water, sugar, cardamom, a touch of rose water, and a pinch of saffron for that beautiful golden hue.",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A saucepan on a stove with water, sugar, cardamom, rose water, and saffron simmering. Steam rises from the pan, creating a sense of warmth.",
+            "text": "Making the Syrup",
+            "voice_over": "Combine the syrup ingredients in a saucepan and simmer for 5-10 minutes until it thickens slightly.",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A bowl with the dry ingredients being whisked together, then the butter and yogurt being incorporated, resulting in a soft dough.",
+            "text": "Making the Dough",
+            "voice_over": "In a bowl, combine the dry ingredients. Add the softened butter and yogurt to form a smooth dough. Let it rest for 5 minutes.",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Hands gently shaping the dough into small, smooth balls about the size of a large marble or penny.",
+            "text": "Shaping the Dough",
+            "voice_over": "Shape the dough into small, uniform balls. The smoother the balls, the better the texture of the final product.",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "A deep fryer or large saucepan with hot oil, with a small piece of dough being dropped in to test the temperature. The dough should sizzle gently and rise to the surface.",
+            "text": "Oil Test",
+            "voice_over": "Heat vegetable oil to 350\u00b0F (175\u00b0C). Test the temperature by dropping a small piece of dough. It should sizzle and rise to the surface after a minute.",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The gulab jamun balls being gently fried in batches in hot oil, turning golden brown.",
+            "text": "Frying Gulab Jamun",
+            "voice_over": "Gently fry the gulab jamun in batches for about 2 minutes, until golden brown. Avoid overcrowding the pan.",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The golden-brown gulab jamun being transferred from the fryer to a plate lined with paper towels to drain excess oil.",
+            "text": "Draining",
+            "voice_over": "Remove the fried gulab jamun and drain them on paper towels to absorb excess oil.",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "The fried gulab jamun being gently placed into the warm syrup. Close-up of the syrup being absorbed into the milk balls.",
+            "text": "Soaking in Syrup",
+            "voice_over": "Place the fried gulab jamun into the warm syrup. Let them soak for at least 45 minutes to an hour. This allows the syrup to penetrate the gulab jamun, making them incredibly soft and flavorful.",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "A serving dish filled with the finished gulab jamun generously coated in syrup, garnished with chopped nuts and a sprinkle of saffron. A spoon is placed next to the dish, ready to serve. Close-up shot to showcase the syrup.",
+            "text": "Ready to Serve",
+            "voice_over": "Serve warm and enjoy the rich, syrupy goodness of homemade Gulab Jamun!",
+            "scene_image_filename": "recipe_fks1b3m5cc67fp/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1b3m5cc67fp-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 60,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Milk",
+        "Flour",
+        "Sugar",
+        "Cardamom",
+        "Saffron"
+      ],
+      "occasion_tags": [
+        "Party",
+        "Holiday",
+        "Special Occasion"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use ghee instead of vegetable oil for frying.",
+        "If the dough is too sticky, add a little more flour.",
+        "Make sure the oil temperature is correct for even cooking.",
+        "Do not overcrowd the pan while frying.",
+        "Soaking the gulab jamun in warm syrup allows them to absorb the syrup and become soft and juicy."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/gulab_jamun/recipe_fks1b3m5cc67fp/fks1b3m5cc67fp_main_image.jpg"
+    },
+    {
+      "id": "fks1f5jfi8rfmpg",
+      "name": "Jamun (Black Plum) Ice Cream",
+      "url": "http://www.binjalsvegkitchen.com/jamun-ice-cream-black-plum/",
+      "ingredients": [
+        "1 cup pitted Jamun (Black Plum), coarsely chopped",
+        "1 (14 ounce) can sweetened condensed milk",
+        "\u00bd cup heavy whipping cream",
+        "\u00bd cup milk",
+        "2 tablespoons white corn flour/starch",
+        "1 teaspoon vanilla extract",
+        "\u00bd cup shaved dark chocolate"
+      ],
+      "directions": [
+        "Step 1: In a blender, combine the chopped jamun and pulse until coarsely ground. Do not puree. Set aside.",
+        "Step 2: In a small saucepan, whisk together the milk and corn flour until smooth. Cook over medium heat, stirring constantly, until the mixture comes to a boil and thickens. Remove from heat and set aside to cool.",
+        "Step 3: In a mixing bowl, beat the heavy whipping cream with an electric mixer until soft peaks form. Add the condensed milk, vanilla extract, cooled milk mixture, and the coarsely ground jamun. Mix until well combined.",
+        "Step 4: Pour the mixture into a freezer-safe container, cover, and freeze for 2-3 hours.",
+        "Step 5: After 2-3 hours, remove the ice cream from the freezer and let it soften slightly. Beat with an electric mixer or whisk until smooth. Stir in the shaved chocolate.",
+        "Step 6: Return the ice cream to the freezer and freeze until solid.",
+        "Step 7: Scoop and serve chilled."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-m.webp",
+      "nutrition": {
+        "calories": "250 per serving",
+        "protein": "4 grams per serving",
+        "carbs": "40 grams per serving",
+        "fat": "10 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "30 grams per serving",
+        "sodium": "50 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant close-up of Jamun ice cream, styled in a rustic ceramic bowl with a slightly off-center composition. Soft, diffused natural light from the side should highlight the deep purple hue and creamy texture. Garnish with a few fresh Jamun slices and shaved dark chocolate.  A shallow depth of field, focusing on the ice cream's surface, will create a dreamy, inviting mood. The background should be a dark, textured surface, enhancing the ice cream's richness. Incorporate a vintage silver spoon, partially submerged, to add a touch of elegance.",
+      "image_filepath": "recipe_fks1f5jfi8rfmpg/main_image",
+      "video_script": {
+        "title": "Homemade Jamun (Black Plum) Ice Cream",
+        "description": "Learn how to make delicious and refreshing Jamun Ice Cream with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A close-up shot of a scoop of vibrant purple jamun ice cream, garnished with shaved dark chocolate, in a bowl. Focus on the creamy texture and rich color.",
+            "text": "Jamun Ice Cream",
+            "voice_over": "Beat the summer heat with homemade Jamun Ice Cream! This vibrant, flavorful dessert is surprisingly easy to make.",
+            "scene_image_filename": "recipe_fks1f5jfi8rfmpg/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display all ingredients: fresh jamuns, sweetened condensed milk, heavy cream, milk, cornstarch, vanilla extract, and dark chocolate shavings.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: fresh jamuns, sweetened condensed milk, heavy cream, milk, a little cornstarch for thickening, vanilla extract, and some dark chocolate for an extra touch.",
+            "scene_image_filename": "recipe_fks1f5jfi8rfmpg/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Coarsely chopped jamuns in a blender being pulsed until coarsely ground. Show the texture, but not pureed.",
+            "text": "Prep the Jamuns",
+            "voice_over": "First, coarsely chop the jamuns and pulse them in a blender. Don't puree them, we want some texture.",
+            "scene_image_filename": "recipe_fks1f5jfi8rfmpg/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Milk and cornstarch being whisked together in a saucepan over medium heat, gradually thickening. Steam should be visible.",
+            "text": "Thicken the Milk",
+            "voice_over": "In a saucepan, whisk together milk and cornstarch. Cook over medium heat, stirring constantly until the mixture thickens. This will take about 5-7 minutes. Then, set it aside to cool.",
+            "scene_image_filename": "recipe_fks1f5jfi8rfmpg/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Whipping cream being beaten with an electric mixer until soft peaks form, then condensed milk and vanilla extract being added and mixed.",
+            "text": "Whip the Cream",
+            "voice_over": "Whip the heavy cream until soft peaks form. Now, gently fold in the condensed milk and vanilla extract.",
+            "scene_image_filename": "recipe_fks1f5jfi8rfmpg/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The cooled milk mixture and ground jamuns being added to the whipped cream mixture and folded in until combined. Show the purple color swirling into the cream.",
+            "text": "Combine the Mixture",
+            "voice_over": "Add the cooled milk mixture and the ground jamuns to the whipped cream. Mix until everything is well combined.",
+            "scene_image_filename": "recipe_fks1f5jfi8rfmpg/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The ice cream mixture being poured into a freezer-safe container, covered, and placed in the freezer.",
+            "text": "Freeze",
+            "voice_over": "Pour the mixture into a freezer-safe container, cover, and freeze for about 2-3 hours.",
+            "scene_image_filename": "recipe_fks1f5jfi8rfmpg/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The partially frozen ice cream being taken out of the freezer and beaten with an electric mixer until smooth. Shaved chocolate being stirred in.",
+            "text": "Churn & Chocolate",
+            "voice_over": "After a few hours, take the ice cream out and give it a good churn. This will make it extra creamy. Now, stir in those dark chocolate shavings.",
+            "scene_image_filename": "recipe_fks1f5jfi8rfmpg/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The ice cream being returned to the freezer.",
+            "text": "Freeze Again",
+            "voice_over": "Return the ice cream to the freezer until it's completely solid.",
+            "scene_image_filename": "recipe_fks1f5jfi8rfmpg/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Scoops of finished jamun ice cream served in bowls, garnished with fresh jamuns and extra chocolate shavings. A few whole jamuns scattered around.",
+            "text": "Enjoy!",
+            "voice_over": "Scoop and serve your delicious homemade Jamun Ice Cream! It's the perfect refreshing treat. You can garnish it with some fresh jamuns and extra chocolate if you like. Enjoy!",
+            "scene_image_filename": "recipe_fks1f5jfi8rfmpg/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1f5jfi8rfmpg-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 5,
+      "total_time_minutes": 180,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Jamun",
+        "Black Plum",
+        "Condensed Milk",
+        "Heavy Cream",
+        "Milk",
+        "Corn Flour",
+        "Chocolate"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a smoother ice cream, pass the jamun mixture through a fine-mesh sieve after blending.",
+        "Adjust the sweetness by adding more or less condensed milk.",
+        "If you don't have shaved chocolate, you can use chopped chocolate or chocolate chips.",
+        "To prevent ice crystals from forming, make sure your ice cream is well-sealed in the freezer."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/gulab_jamun/recipe_fks1f5jfi8rfmpg/fks1f5jfi8rfmpg_main_image.jpg"
+    },
+    {
+      "id": "fksd7qqpibm2",
+      "name": "Mango Lassi (Aam Ki Lassi)",
+      "url": "http://www.flavorsofmumbai.com/mango-lassi-recipe/",
+      "ingredients": [
+        "2 ripe Alphonso mangoes (or other good variety), peeled and cubed",
+        "1 1/2 cups hung yogurt (or plain yogurt)",
+        "1/2 teaspoon cardamom powder",
+        "Pinch of saffron strands (optional), infused in 2 tablespoons hot milk",
+        "1 teaspoon rose water (optional)",
+        "3 tablespoons sugar (adjust to taste and mango sweetness)",
+        "Ice cubes (optional)"
+      ],
+      "directions": [
+        "Step 1: Peel and cube the mangoes.",
+        "Step 2: In a blender, combine the chopped mangoes and sugar.",
+        "Step 3: Blend until smooth.",
+        "Step 4: Add the hung yogurt (or plain yogurt), cardamom powder, saffron-infused milk (if using), and rose water (if using) to the blender.",
+        "Step 5: Blend again until well combined, but avoid over-blending.",
+        "Step 6: If using ice cubes, add them now and blend briefly until incorporated.",
+        "Step 7: Pour the lassi into tall glasses. Garnish with a pinch of saffron strands (optional)."
+      ],
+      "duration": "13 minutes ",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-m.webp",
+      "nutrition": {
+        "calories": "250 per serving",
+        "protein": "10 grams per serving",
+        "carbs": "50 grams per serving",
+        "fat": "5 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "40 grams per serving",
+        "sodium": "10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant close-up of a chilled Mango Lassi in a tall, elegant glass, garnished with a few saffron strands and a sprig of mint against a rustic wooden backdrop. Use soft, diffused natural light to highlight the creamy texture and golden hue.  Focus on the condensation on the glass and the swirls of mango pulp.  Shallow depth of field with the foreground lassi sharply in focus, subtly blurring the background. Aim for a bright, refreshing, and inviting mood. Consider incorporating a few sliced mango pieces artfully arranged nearby.",
+      "image_filepath": "recipe_fksd7qqpibm2/main_image",
+      "video_script": {
+        "title": "Mango Lassi (Aam Ki Lassi) - Refreshing Summer Treat",
+        "description": "Learn how to make a creamy and delicious Mango Lassi, a popular Indian yogurt drink, perfect for a hot day!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a tall glass of vibrant yellow Mango Lassi, garnished with a few strands of saffron.  A few chunks of fresh mango and some ice cubes are visible. The background is slightly blurred with some fresh mangoes and yogurt.",
+            "text": "Mango Lassi",
+            "voice_over": "Beat the heat with this refreshing Mango Lassi! It's creamy, flavorful, and incredibly easy to make.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table. Two ripe Alphonso mangoes, a bowl of hung yogurt, a small bowl of sugar, cardamom powder, saffron strands, and rose water (optional).",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: Two ripe Alphonso mangoes, hung yogurt, sugar, cardamom powder, a pinch of saffron, and optionally, some rose water for an extra floral touch.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 4,
+            "image_prompt": "Close-up shot of hands peeling and cubing the mangoes. The knife should be sharp and the mango should be ripe and juicy.",
+            "text": "Prepare Mangoes",
+            "voice_over": "Start by peeling and cubing two ripe mangoes. Alphonso mangoes are ideal for their sweetness, but you can use any good variety.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of mango chunks and sugar being added to a blender.",
+            "text": "Blend Mango & Sugar",
+            "voice_over": "Add the mango pieces and sugar to a blender. I'm using about 3 tablespoons of sugar, but adjust this according to your mango's sweetness and your preference.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "Close-up shot of the mango and sugar mixture being blended until smooth.",
+            "text": "Blend",
+            "voice_over": "Blend until you have a smooth mango puree. This should take about 30 seconds.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up shot of yogurt, cardamom powder, saffron (if using), and rose water (if using) being added to the blender with the mango puree.",
+            "text": "Add Yogurt & Spices",
+            "voice_over": "Now, add the hung yogurt, about one and a half cups.  If you don't have hung yogurt, plain yogurt works too. Next, add half a teaspoon of cardamom powder, and if using, the saffron infused milk and rose water.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 4,
+            "image_prompt": "Close-up of blender blending the lassi ingredients until smooth.",
+            "text": "Blend Again",
+            "voice_over": "Blend again until everything is well combined. Be careful not to over-blend.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 4,
+            "image_prompt": "Close-up shot of ice cubes being added to the blender. ",
+            "text": "Add Ice (Optional)",
+            "voice_over": "If you prefer a chilled lassi, add a few ice cubes and blend briefly until they're crushed.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up shot of lassi being poured into two tall glasses, garnished with saffron strands.",
+            "text": "Serve",
+            "voice_over": "Pour the lassi into tall glasses. Garnish with a pinch of saffron for that extra touch of flavor and color.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "Two tall glasses of Mango Lassi, garnished with saffron, served on a table with some fresh mangoes and a bowl of yogurt in the background. ",
+            "text": "Enjoy!",
+            "voice_over": "And there you have it! A refreshing and delicious Mango Lassi, perfect for any occasion. Enjoy!",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 10,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dessert",
+        "Beverage"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Cardamom",
+        "Saffron"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use Greek yogurt or hung yogurt.",
+        "Adjust the amount of sugar according to the sweetness of the mangoes.",
+        "If you don't have fresh mangoes, you can use canned mango pulp.",
+        "For a richer flavor, add a pinch of saffron."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/gulab_jamun/recipe_fksd7qqpibm2/fksd7qqpibm2_main_image.jpg"
+    }
+  ]
+}
