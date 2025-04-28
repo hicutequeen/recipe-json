@@ -1,0 +1,152 @@
+{
+  "recipes": [
+    {
+      "id": "fks5jg9k897vuq",
+      "name": "Spicy Papaya Salad with Seared Sirloin",
+      "url": "http://www.sahabatnestle.co.id/content/resep/salad-pepaya-pedas.html",
+      "ingredients": [
+        "200g sirloin steak",
+        "2 teaspoons ground black pepper",
+        "1/2 tablespoon olive oil",
+        "300g unripe papaya, shredded",
+        "100g cherry tomatoes, halved",
+        "3 tablespoons roasted peanuts",
+        "Salt to taste",
+        "2 cloves garlic, minced",
+        "1 red chili pepper, minced",
+        "1 tablespoon fish sauce",
+        "2 tablespoons soy sauce",
+        "2 tablespoons lime juice",
+        "5 teaspoons palm sugar",
+        "3 tablespoons olive oil",
+        "2 sprigs cilantro, thinly sliced"
+      ],
+      "directions": [
+        "Step 1: Season the sirloin steak with salt, ground black pepper, and 1/2 tablespoon of olive oil. Sear the steak in a pan over medium-high heat until it reaches your desired level of doneness. Let it rest for a few minutes, then thinly slice against the grain and set aside.",
+        "Step 2: In a small bowl, whisk together the minced garlic, minced red chili pepper, fish sauce, soy sauce, lime juice, palm sugar, and 3 tablespoons of olive oil to make the dressing. Stir in the sliced cilantro.",
+        "Step 3: Arrange the shredded papaya, halved cherry tomatoes, and sliced sirloin on a serving platter. Drizzle the dressing over the salad and top with the roasted peanuts. Serve immediately."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks5jg9k897vuq-m.webp",
+      "nutrition": {
+        "calories": "450 per serving",
+        "protein": "25 grams per serving",
+        "carbs": "30 grams per serving",
+        "fat": "25 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "20 grams per serving",
+        "sodium": "800mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of Spicy Papaya Salad with Seared Sirloin. Style the shredded papaya salad with halved cherry tomatoes, roasted peanuts, and chili flakes on a dark slate plate. Position the perfectly seared sirloin, glistening with juices, atop the salad. Use a shallow depth of field, focusing on the sirloin's texture. Incorporate dark, moody lighting with a subtle backlight to highlight the vibrant colors and textures. Garnish with fresh cilantro sprigs and lime wedges. Shoot from a slightly overhead angle to showcase the dish's layered components.",
+      "image_filepath": "recipe_fks5jg9k897vuq/main_image",
+      "video_script": {
+        "title": "Spicy Papaya Salad with Seared Sirloin",
+        "description": "Learn to make this vibrant and flavorful Thai-inspired salad with tender seared sirloin, crunchy papaya, and a spicy kick!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished spicy papaya salad with seared sirloin. Show the vibrant colors of the salad, the glistening sirloin slices, and the sprinkle of roasted peanuts. The salad is arranged beautifully on a platter.",
+            "text": "Spicy Papaya Salad",
+            "voice_over": "Get ready to tantalize your taste buds with this Spicy Papaya Salad and perfectly seared sirloin steak!",
+            "scene_image_filename": "recipe_fks5jg9k897vuq/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5jg9k897vuq-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display all ingredients for the recipe neatly arranged on a wooden table: sirloin steak, ground black pepper, olive oil, shredded papaya, cherry tomatoes, roasted peanuts, salt, garlic, red chili pepper, fish sauce, soy sauce, lime juice, palm sugar, and cilantro.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need for this zesty creation.",
+            "scene_image_filename": "recipe_fks5jg9k897vuq/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5jg9k897vuq-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of the sirloin being seasoned with salt, pepper, and olive oil.",
+            "text": "Prepare & Sear Sirloin",
+            "voice_over": "Season your sirloin generously with salt, pepper, and olive oil. Sear in a pan over medium-high heat for about 3-4 minutes per side for medium-rare, or until your desired doneness.",
+            "scene_image_filename": "recipe_fks5jg9k897vuq/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5jg9k897vuq-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 4,
+            "image_prompt": "Sliced sirloin steak resting on a cutting board.",
+            "text": "Rest & Slice",
+            "voice_over": "Let the steak rest for a few minutes before slicing it thinly against the grain. This will help it retain its juiciness.",
+            "scene_image_filename": "recipe_fks5jg9k897vuq/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5jg9k897vuq-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Show the ingredients for the dressing in a small bowl: minced garlic, minced chili, fish sauce, soy sauce, lime juice, palm sugar, olive oil, and cilantro. Then, show whisking the ingredients together.",
+            "text": "Make the Dressing",
+            "voice_over": "Whisk together the minced garlic, chili, fish sauce, soy sauce, lime juice, palm sugar, olive oil, and cilantro in a small bowl to create a vibrant and flavorful dressing.",
+            "scene_image_filename": "recipe_fks5jg9k897vuq/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5jg9k897vuq-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Show the shredded papaya, halved cherry tomatoes, and sliced sirloin beautifully arranged on a serving platter.",
+            "text": "Assemble the Salad",
+            "voice_over": "Now, artfully arrange the shredded papaya, halved cherry tomatoes, and sliced sirloin on your serving platter. This salad is all about textures and colors.",
+            "scene_image_filename": "recipe_fks5jg9k897vuq/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5jg9k897vuq-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show the dressing being drizzled over the salad and the roasted peanuts being sprinkled on top. Focus on the even distribution of the dressing and peanuts.",
+            "text": "Dress & Garnish",
+            "voice_over": "Drizzle the dressing generously over the salad, ensuring everything is coated. Finish by sprinkling those crunchy roasted peanuts on top.",
+            "scene_image_filename": "recipe_fks5jg9k897vuq/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5jg9k897vuq-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 7,
+            "image_prompt": "Close-up shot of the finished Spicy Papaya Salad with Seared Sirloin. Garnish with a lime wedge and some extra cilantro. Show it being served with chopsticks.",
+            "text": "Serve & Enjoy",
+            "voice_over": "Serve this Spicy Papaya Salad with Seared Sirloin immediately. It's a fantastic dish for lunch or a light dinner. Enjoy!",
+            "scene_image_filename": "recipe_fks5jg9k897vuq/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5jg9k897vuq-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 35,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Salad"
+      ],
+      "cuisine_type": "Southeast Asian",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Beef",
+        "Papaya",
+        "Tomato",
+        "Peanut"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a spicier salad, add more chili pepper to the dressing.",
+        "If you don't have palm sugar, you can substitute brown sugar or granulated sugar.",
+        "Make sure the papaya is unripe for the best texture and flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/peda/recipe_fks5jg9k897vuq/fks5jg9k897vuq_main_image.jpg"
+    }
+  ]
+}
