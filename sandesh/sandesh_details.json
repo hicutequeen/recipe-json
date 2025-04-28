@@ -1,0 +1,366 @@
+{
+  "recipes": [
+    {
+      "id": "fksd3520hkv2",
+      "name": "Sandesh - Indian Soft Cheese Dessert",
+      "url": "http://www.sharmispassions.com/2011/10/kesar-sandesh-sandesh-recipe-easy.html",
+      "ingredients": [
+        "1 liter full cream milk",
+        "1.5 tablespoons lemon juice",
+        "1/8 cup powdered sugar (heaped)",
+        "1 tablespoon pistachios, powdered coarsely (for garnishing)",
+        "A few strands of saffron"
+      ],
+      "directions": [
+        "Step 1: Bring the full cream milk to a boil in a large saucepan over medium heat.",
+        "Step 2: Once the milk begins to boil, add the lemon juice and stir gently. The milk will start to curdle, separating the curds from the whey. Continue stirring to prevent burning at the bottom until the whey has completely separated. Then, turn off the heat.",
+        "Step 3: Collect the curds (paneer) and transfer them to a muslin cloth. Tie the cloth securely and hang it for at least 30 minutes to drain any remaining whey.",
+        "Step 4: Once drained, rinse the paneer under cool water to remove the sour lemon flavor. Squeeze out any excess water.",
+        "Step 5: In a mixing bowl, combine the paneer and powdered sugar. Use a food processor to grind this mixture into a smooth paste. Although the recipe suggests kneading, grinding results in a finer texture.",
+        "Step 6: Transfer the smooth mixture to a nonstick pan (tawa) and cook over low heat for about 10 minutes. Initially, the mixture will be sticky, but will gradually become non-sticky.",
+        "Step 7: As the mixture starts to turn non-sticky, add the saffron strands and mix well. When the saffron is absorbed and the mixture has a creamy texture, turn off the heat.",
+        "Step 8: Let the mixture cool slightly; this is called \"Makha,\" which is the unformed Sandesh. While still warm, shape small balls and flatten them slightly with your palms.",
+        "Step 9: Make a small indentation in the center of each piece and garnish with powdered pistachios. The Sandesh will firm up as it cools."
+      ],
+      "duration": "20 minutes ",
+      "serves": "10",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "5",
+        "carbs": "18",
+        "fat": "7",
+        "fiber": "0",
+        "sugar": "10",
+        "sodium": "50"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up shot of Sandesh, showcasing its smooth, creamy texture, garnished with coarsely powdered pistachios and delicate saffron strands. Use natural light to illuminate the dish, enhancing the soft white color against a rustic wooden surface. Incorporate a textured, muted backdrop to add depth. Style with a vintage silver spoon and a small bowl of powdered sugar nearby. Achieve a shallow depth of field to keep the focus on the Sandesh while softly blurring the background, creating an inviting, warm mood.",
+      "image_filepath": "recipe_fksd3520hkv2/main_image",
+      "video_script": {
+        "title": "How to Make Sandesh - A Delicious Indian Soft Cheese Dessert",
+        "description": "Join us in this tutorial where we create Sandesh, a delightful Indian dessert made from soft cheese, perfect for any occasion!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dessert of Sandesh, garnished with powdered pistachios and saffron strands, presented in an elegant manner with a fork aside.",
+            "text": "Delicious Sandesh - An Indian Dessert",
+            "voice_over": "Welcome to our kitchen! Today, we\u2019re making Sandesh, a soft cheese dessert that's rich in flavor and tradition.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A layout of all the ingredients needed for the recipe, neatly arranged on a kitchen countertop.",
+            "text": "Ingredients",
+            "voice_over": "For this recipe, you\u2019ll need 1 liter of full cream milk, 1.5 tablespoons of lemon juice, 1/8 cup of powdered sugar, pistachios for garnish, and a few strands of saffron.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A saucepan of boiling full cream milk on a stove, with steam rising.",
+            "text": "Boil the Milk",
+            "voice_over": "First, bring 1 liter of full cream milk to a boil over medium heat.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A hand stirring the boiling milk, with the lemon juice being added from a small container.",
+            "text": "Add Lemon Juice",
+            "voice_over": "Once it\u2019s boiling, gently stir in 1.5 tablespoons of lemon juice. The milk will start to curdle.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Curds forming as the milk separates, with a wooden spoon preventing it from burning.",
+            "text": "Curdle the Milk",
+            "voice_over": "Keep stirring to ensure it doesn't burn until the whey completely separates from the curds.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Muslin cloth hanging in the kitchen with curds inside, dripping whey into a bowl below.",
+            "text": "Drain the Curds",
+            "voice_over": "Transfer the curds into a muslin cloth, tie it securely, and hang it for about 30 minutes to drain the whey.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A hand rinsing the curds under cool water in a sink, removing excess water.",
+            "text": "Rinse & Squeeze",
+            "voice_over": "Rinse the paneer under cool water to eliminate the sour lemon flavor, then squeeze out any excess water.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A mixing bowl with paneer and powdered sugar, a food processor ready to blend them.",
+            "text": "Blend the Paneer",
+            "voice_over": "In a mixing bowl, combine the paneer with 1/8 cup of powdered sugar and blend until smooth.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A nonstick pan with the creamy mixture cooking over low heat, steam rising.",
+            "text": "Cook the Mixture",
+            "voice_over": "Transfer to a nonstick pan and cook over low heat for about 10 minutes until it becomes non-sticky.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A hand stirring saffron strands into the warm mixture in the pan.",
+            "text": "Add Saffron",
+            "voice_over": "As it thickens, add the saffron strands and mix well until absorbed.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "The warm mixture being shaped into small balls on a kitchen counter.",
+            "text": "Shape the Sandesh",
+            "voice_over": "Let it cool slightly, then shape into small, flat discs and make indentations in the centers.",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          },
+          {
+            "scene_number": 12,
+            "duration": 6,
+            "image_prompt": "The finished Sandesh dessert garnished with powdered pistachios on a decorative plate.",
+            "text": "Garnish & Serve",
+            "voice_over": "Garnish with powdered pistachios and let them firm up. Serve chilled and enjoy this delightful treat!",
+            "scene_image_filename": "recipe_fksd3520hkv2/scene_12_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3520hkv2-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 40,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Milk",
+        "Lemon Juice",
+        "Sugar",
+        "Pistachios",
+        "Saffron"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Celebration",
+        "Festive"
+      ],
+      "cooking_tips": [
+        "Use full cream milk for a richer texture.",
+        "Ensure to rinse the paneer thoroughly to avoid a sour taste from the lemon juice.",
+        "Adjust the amount of sugar based on your sweetness preference."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/sandesh/recipe_fksd3520hkv2/fksd3520hkv2_main_image.jpg"
+    },
+    {
+      "id": "fks25f1nocd9ngh",
+      "name": "Saffron Sandesh",
+      "url": "https://www.thespruceeats.com/sandesh-mishti-bengali-dessert-1957842",
+      "ingredients": [
+        "14 ounces fresh paneer, drained completely",
+        "10 to 12 almonds, slivered",
+        "8 to 10 pistachios, slivered",
+        "4 saffron strands",
+        "1 tablespoon warm milk (to soak saffron)",
+        "2 teaspoons dry milk powder",
+        "1/2 cup powdered sugar",
+        "1/2 teaspoon pistachio extract",
+        "1/2 teaspoon ground cardamom",
+        "1 tablespoon ghee (for greasing molds)"
+      ],
+      "directions": [
+        "Step 1: Gather all ingredients in a clean working area.",
+        "Step 2: In a small bowl, soak the slivered almonds, slivered pistachios, and saffron strands in the warm milk. Set the mixture aside to use as topping. If the nuts do not absorb all the milk, drain them before using.",
+        "Step 3: In a pan, combine the drained paneer and dry milk powder. Cook on medium flame, stirring continuously for 3 to 4 minutes until mixed well.",
+        "Step 4: Remove the pan from heat and allow the mixture to cool slightly.",
+        "Step 5: Once cooled, add the powdered sugar, pistachio extract, and ground cardamom. Mix until a smooth dough forms.",
+        "Step 6: Lightly grease the molds with ghee to prevent sticking.",
+        "Step 7: Place a small amount of the soaked nut mixture into each mold, ensuring a portion is at the bottom.",
+        "Step 8: Press some of the prepared paneer mixture over the nut topping in each mold to shape it.",
+        "Step 9: Chill the filled molds in the refrigerator for a few hours. Once set, carefully unmold the sandesh and serve."
+      ],
+      "duration": "15 m",
+      "serves": "10",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-m.webp",
+      "nutrition": {
+        "calories": "140",
+        "protein": "7 grams",
+        "carbs": "7 grams",
+        "fat": "9 grams",
+        "fiber": "0 grams",
+        "sugar": "5 grams",
+        "sodium": "10 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stunning image of Saffron Sandesh arranged elegantly on a rustic wooden board. Use soft, diffused natural light from the side to highlight the vibrant yellow hues of the sandesh, emphasizing the delicate textures created by the slivered almonds and pistachios. Incorporate a backdrop of muted earth tones to enhance the dish\u2019s richness. Garnish with a few whole saffron strands and a sprinkle of cardamom. Utilize a shallow depth of field to keep the focus on the sandesh, creating a warm, inviting mood.",
+      "image_filepath": "recipe_fks25f1nocd9ngh/main_image",
+      "video_script": {
+        "title": "Saffron Sandesh Recipe Tutorial",
+        "description": "Learn how to make Saffron Sandesh, a delightful Bengali sweet made with fresh paneer, almonds, and saffron!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "Show the finished Saffron Sandesh plated elegantly, garnished with slivered almonds and pistachios, with a light backdrop.",
+            "text": "Welcome to our Saffron Sandesh tutorial!",
+            "voice_over": "In this video, we'll create a delicious Bengali dessert known as Saffron Sandesh, featuring fresh paneer and fragrant saffron.",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Organize the ingredients on a clean countertop, with labels for each, highlighting fresh paneer, nuts, and spices.",
+            "text": "Let's gather our ingredients!",
+            "voice_over": "You will need 14 ounces of fresh paneer, slivered almonds, pistachios, saffron strands, and more. Ensure you have everything ready.",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A bowl filled with slivered almonds, pistachios, and saffron strands soaking in warm milk.",
+            "text": "Soak the nuts and saffron.",
+            "voice_over": "In a small bowl, soak the slivered almonds, slivered pistachios, and 4 saffron strands in 1 tablespoon of warm milk. Let this sit to absorb the flavors.",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A pan on the stove with paneer and dry milk powder, being stirred by a wooden spoon.",
+            "text": "Cook the paneer mixture.",
+            "voice_over": "Combine the drained paneer and 2 teaspoons of dry milk powder in a pan. Cook on medium flame, stirring continuously for 3 to 4 minutes until well mixed.",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Remove the pan from the heat, showing the mixture cooling slightly with steam rising.",
+            "text": "Let it cool slightly.",
+            "voice_over": "Once cooked, remove the pan from heat and allow the mixture to cool slightly before adding other ingredients.",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "Mixing the cooled paneer mixture with sugar, pistachio extract, and cardamom in a bowl until a smooth dough forms.",
+            "text": "Mix in sugar and spices.",
+            "voice_over": "Add 1/2 cup of powdered sugar, 1/2 teaspoon of pistachio extract, and 1/2 teaspoon of ground cardamom to the mixture. Stir until a smooth dough forms.",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Greasing molds with ghee, using a brush to ensure even coating.",
+            "text": "Grease your molds.",
+            "voice_over": "Lightly grease your molds with 1 tablespoon of ghee to prevent sticking when unmolding.",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Filling each mold with soaked nut mixture, making sure to layer it at the bottom.",
+            "text": "Layer the nut topping.",
+            "voice_over": "Place a small amount of the soaked nut mixture into each mold, creating a base for your Saffron Sandesh.",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "Pressing the paneer mixture into the molds, ensuring it's compact and filling.",
+            "text": "Shape the sandesh.",
+            "voice_over": "Next, press some of the prepared paneer mixture over the nut topping in each mold to shape it. Pack it tightly.",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Molds placed in the refrigerator, with a timer in the background, showing the setting process.",
+            "text": "Chill to set.",
+            "voice_over": "Chill the filled molds in the refrigerator for a few hours. This will help the Saffron Sandesh to set properly.",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "Beautifully unmolded Saffron Sandesh on a plate, garnished and ready to serve.",
+            "text": "Serve and enjoy!",
+            "voice_over": "Once set, carefully unmold your Saffron Sandesh. Serve chilled as a delicious treat!",
+            "scene_image_filename": "recipe_fks25f1nocd9ngh/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks25f1nocd9ngh-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 5,
+      "total_time_minutes": 125,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Paneer",
+        "Almonds",
+        "Pistachios",
+        "Saffron",
+        "Sugar"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Holiday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the paneer is well-drained for a smoother texture.",
+        "For a vibrant color and aroma, make sure to use high-quality saffron.",
+        "Allow the sandesh to chill sufficiently for easier unmolding."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/sandesh/recipe_fks25f1nocd9ngh/fks25f1nocd9ngh_main_image.jpg"
+    }
+  ]
+}
