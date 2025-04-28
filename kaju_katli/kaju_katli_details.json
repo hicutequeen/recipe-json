@@ -1,0 +1,1715 @@
+{
+  "recipes": [
+    {
+      "id": "fksd352220bp",
+      "name": "Kaju Katli (Cashew Fudge)",
+      "url": "http://www.sharmispassions.com/2010/11/kaju-katli-cashew-burfi-for-diwali.html",
+      "ingredients": [
+        "1 cup raw cashews",
+        "1/2 cup granulated sugar",
+        "5 tablespoons water",
+        "1 teaspoon ghee",
+        "Ghee for greasing"
+      ],
+      "directions": [
+        "Step 1: Ensure your mixer is completely dry and free of any moisture. Grind the cashews into a fine powder.",
+        "Step 2: Lightly grease a flat plate or tray and a rolling pin with ghee. Set aside.",
+        "Step 3: In a thick, wide-bottomed pan (preferably non-stick), combine the sugar and water. Mix well until the sugar dissolves completely.",
+        "Step 4: Place the pan over medium heat and bring the mixture to a simmer, stirring occasionally. Continue to cook the syrup, monitoring it closely.",
+        "Step 5: To check the consistency of the syrup, perform a thread test.  Drop a small amount of syrup into a bowl of cold water. It should form a soft, pliable thread that doesn't dissolve immediately. The desired consistency for Kaju Katli is just before the single-thread consistency.",
+        "Step 6: Once the syrup reaches the correct consistency, reduce the heat to low and add the cashew powder. Mix vigorously to ensure there are no lumps. Continue to stir for 2-3 minutes.",
+        "Step 7: The mixture will start to thicken and come together. It should be non-sticky and form a soft, pliable ball when you take a small portion and roll it between your fingers.",
+        "Step 8: Remove the pan from the heat and let the mixture cool for about 5 minutes.",
+        "Step 9: Transfer the mixture to the greased plate. Using the greased rolling pin, roll it evenly to a thickness of about 1/4 inch.",
+        "Step 10: Cut the rolled dough into diamond shapes. Allow to set and harden slightly before storing in an airtight container."
+      ],
+      "duration": "20 minutes ",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd352220bp-m.webp",
+      "nutrition": {
+        "calories": "200 per serving",
+        "protein": "5 grams per serving",
+        "carbs": "25 grams per serving",
+        "fat": "12 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "15 grams per serving",
+        "sodium": "10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stack of diamond-shaped Kaju Katli pieces on a rustic wooden board, dusted with powdered sugar.  Use a slightly overhead angle with a shallow depth of field, focusing on the front edge of the stack.  Soft, directional light should highlight the smooth texture and warm golden hue. Incorporate a small silver bowl of cashews in the background, slightly blurred. The mood should be warm, inviting, and celebratory.  Garnish with a few edible silver leaves on top.",
+      "image_filepath": "recipe_fksd352220bp/main_image",
+      "video_script": {
+        "title": "Easy Kaju Katli (Cashew Fudge)",
+        "description": "Learn how to make delicious and melt-in-your-mouth Kaju Katli at home with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a plate of diamond-shaped Kaju Katli pieces, garnished with silver leaf. The background is slightly blurred and warm.",
+            "text": "Kaju Katli: Cashew Fudge",
+            "voice_over": "Indulge in the rich, creamy, and melt-in-your-mouth goodness of Kaju Katli, a classic Indian sweet. Today, we'll show you how to make it from scratch with just a few simple ingredients.",
+            "scene_image_filename": "recipe_fksd352220bp/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd352220bp-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients arranged neatly on a wooden surface: raw cashews, sugar, and a small bowl of water. A small bowl of ghee, a greased plate and rolling pin are to the side.",
+            "text": "Ingredients",
+            "voice_over": "You'll need one cup of raw cashews, half a cup of granulated sugar, five tablespoons of water, and one teaspoon plus extra ghee for greasing.",
+            "scene_image_filename": "recipe_fksd352220bp/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd352220bp-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A mixer grinding cashews into a fine powder.",
+            "text": "Grind Cashews",
+            "voice_over": "Ensure your mixer is completely dry. Grind the cashews into a fine powder.",
+            "scene_image_filename": "recipe_fksd352220bp/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd352220bp-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A pan with sugar and water dissolving over medium heat.",
+            "text": "Make Sugar Syrup",
+            "voice_over": "In a non-stick pan, combine sugar and water. Mix well until the sugar dissolves completely. Place over medium heat and bring to a simmer.",
+            "scene_image_filename": "recipe_fksd352220bp/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd352220bp-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Close-up of syrup dropping from a spoon into cold water, forming a soft thread.",
+            "text": "Thread Test",
+            "voice_over": "Cook the syrup until it reaches a soft-thread consistency, meaning it forms a soft, pliable thread when dropped into cold water. Be careful not to overcook.",
+            "scene_image_filename": "recipe_fksd352220bp/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd352220bp-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Cashew powder being vigorously mixed into the sugar syrup.",
+            "text": "Combine & Mix",
+            "voice_over": "Once the syrup is ready, reduce heat to low and add cashew powder. Mix vigorously until the mixture thickens and comes together, about 2-3 minutes.",
+            "scene_image_filename": "recipe_fksd352220bp/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd352220bp-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The cashew mixture being transferred onto the greased plate.",
+            "text": "Transfer & Roll",
+            "voice_over": "Remove from heat and let the mixture cool slightly. Transfer it to the greased plate and roll it evenly with the greased rolling pin to about 1/4 inch thickness.",
+            "scene_image_filename": "recipe_fksd352220bp/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd352220bp-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The rolled dough being cut into diamond shapes.",
+            "text": "Cut & Serve",
+            "voice_over": "Cut the rolled dough into diamond shapes. Allow it to set before serving.",
+            "scene_image_filename": "recipe_fksd352220bp/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd352220bp-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A plate of beautifully arranged Kaju Katli diamonds, garnished with chopped pistachios and served alongside a cup of hot chai. The background is a festive and colorful Indian setting.",
+            "text": "Enjoy!",
+            "voice_over": "Your homemade Kaju Katli is ready! Each serving contains approximately 200 calories, 5 grams of protein, 25 grams of carbs, and 12 grams of fat. Enjoy this delightful treat with a cup of tea or coffee.",
+            "scene_image_filename": "recipe_fksd352220bp/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd352220bp-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 40,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Cashews",
+        "Sugar",
+        "Ghee"
+      ],
+      "occasion_tags": [
+        "Holiday",
+        "Party",
+        "Special Occasion"
+      ],
+      "cooking_tips": [
+        "Use a good quality non-stick pan to prevent sticking.",
+        "Make sure the cashews are finely ground for a smooth texture.",
+        "Do not overcook the sugar syrup, as it will make the Katli hard.",
+        "Allow the Katli to cool completely before storing."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kaju_katli/recipe_fksd352220bp/fksd352220bp_main_image.jpg"
+    },
+    {
+      "id": "fks1qs69i1slfd",
+      "name": "Cashew Fudge (Kaju Barfi)",
+      "url": "https://www.vegrecipesofindia.com/kaju-katli-recipe-kaju-katli/",
+      "ingredients": [
+        "1 cup (160 grams) whole cashews, at room temperature",
+        "\u00bd cup (100 grams) granulated sugar",
+        "5 tablespoons water",
+        "1 tablespoon ghee, coconut oil, or neutral-tasting oil (optional)",
+        "1 teaspoon chopped rose petals, 1 teaspoon rose water, or 8-9 strands saffron (optional)"
+      ],
+      "directions": [
+        "Step 1: Finely powder the cashews in a coffee grinder, blender, or dry grinder, ensuring they do not become pasty or oily.",
+        "Step 2: In a thick-bottomed or non-stick pan or kadai, combine the sugar and water. Heat over low flame.",
+        "Step 3: Meanwhile, grease a plate or tray and set aside, or prepare butter paper.",
+        "Step 4: Once the sugar has completely dissolved in the water, add the powdered cashews. No specific sugar syrup consistency is required.",
+        "Step 5: Continuously stir the cashew mixture over low flame.",
+        "Step 6: Cook for approximately 7-9 minutes, stirring constantly, until the mixture thickens and comes together as a dough.",
+        "Step 7: Remove the cashew dough from the pan and place it on a clean work surface, bowl, or plate.",
+        "Step 8: Add the ghee/oil and rose petals/rose water/saffron (if using) to the cashew dough.",
+        "Step 9: Once the dough is cool enough to handle, knead it lightly.",
+        "Step 10: Flatten the dough and place it on a butter paper-lined or greased plate or tray. Cover with another sheet of butter paper.",
+        "Step 11: Using a rolling pin, gently roll the dough to a thickness of 3-5 mm.",
+        "Step 12: Remove the top butter paper and let the rolled dough cool completely.",
+        "Step 13: Once cooled, cut the cashew dough into square or diamond shapes using a sharp knife.",
+        "Step 14: Gently remove the kaju barfi pieces using a butter knife.",
+        "Step 15: Serve immediately or store in an airtight container."
+      ],
+      "duration": "20 m ",
+      "serves": "14",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-m.webp",
+      "nutrition": {
+        "calories": "200-250 per serving",
+        "protein": "4-5 grams per serving",
+        "carbs": "25-30 grams per serving",
+        "fat": "12-15 grams per serving",
+        "fiber": "1-2 grams per serving",
+        "sugar": "20-25 grams per serving",
+        "sodium": "5-10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of diamond-shaped cashew fudge (kaju barfi) arranged on a rustic wooden board.  Use soft, diffused natural light to highlight the creamy texture and warm, golden hue.  A shallow depth of field focuses on a piece with visible cashew fragments. Garnish with a few scattered rose petals and chopped cashews. The backdrop should be a dark, moody surface with hints of warm brown tones to create a rich, inviting atmosphere.",
+      "image_filepath": "recipe_fks1qs69i1slfd/main_image",
+      "video_script": {
+        "title": "Easy Cashew Fudge (Kaju Barfi)",
+        "description": "Learn how to make delicious and melt-in-your-mouth Cashew Fudge (Kaju Barfi) at home with this simple recipe!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a plate of beautifully cut Kaju Barfi, garnished with chopped pistachios and a sprinkle of edible silver foil. The background is slightly blurred, emphasizing the texture and richness of the barfi.",
+            "text": "Cashew Fudge (Kaju Barfi)",
+            "voice_over": "Welcome! Today, we're making a classic Indian sweet, Kaju Barfi.  This fudge-like treat is rich, creamy, and incredibly easy to make with just a few ingredients.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients arranged neatly on a wooden board: whole cashews next to powdered cashews, sugar in a bowl, water in a measuring cup, a small bowl of ghee and saffron.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: whole cashews, sugar, water, ghee or coconut oil (optional), and rose petals, rose water, or saffron for flavoring (also optional).",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Cashews being ground in a coffee grinder. Inset: Blender blitzing cashews.",
+            "text": "Grind Cashews",
+            "voice_over": "First, grind the cashews into a fine powder using a coffee grinder, blender, or dry grinder. Make sure they don't become a paste.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Sugar and water in a non-stick pan on a low flame. The sugar is dissolving in the water.",
+            "text": "Make Sugar Syrup",
+            "voice_over": "Next, combine sugar and water in a pan. Heat over low flame and stir until the sugar dissolves completely.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A greased plate, butter paper, and another plate with a sheet of butter paper being set aside.",
+            "text": "Prep the Plate",
+            "voice_over": "While the sugar dissolves, grease a plate or prepare butter paper for setting the barfi.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "Cashew powder being added to the sugar syrup and stirred continuously over low flame.",
+            "text": "Combine & Cook",
+            "voice_over": "Add the powdered cashews to the sugar syrup. Stir continuously over low flame for 7-9 minutes until the mixture thickens and forms a dough-like consistency.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Cashew dough being transferred to a work surface with ghee and saffron being added. ",
+            "text": "Knead & Flavor",
+            "voice_over": "Transfer the cashew dough to a clean surface. Add ghee/oil and your chosen flavoring (rose petals, rose water, or saffron) and knead lightly once it's cool enough to handle.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The cashew dough being flattened and rolled out between two sheets of butter paper.",
+            "text": "Roll & Shape",
+            "voice_over": "Place the dough on a butter paper-lined surface, cover it with another sheet, and roll it out to a thickness of 3-5 mm.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Rolled out Kaju Barfi being cut into diamond shapes.",
+            "text": "Cut & Cool",
+            "voice_over": "Remove the top butter paper and let the barfi cool completely. Once cooled, cut into desired shapes - squares or diamonds.",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Close-up shot of Kaju Barfi pieces being served on a plate, garnished with chopped pistachios and silver foil.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Gently separate the barfi pieces. Serve immediately or store in an airtight container. Enjoy your homemade Kaju Barfi!",
+            "scene_image_filename": "recipe_fks1qs69i1slfd/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1qs69i1slfd-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 30,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Nut-based"
+      ],
+      "ingredient_tags": [
+        "Cashews",
+        "Sugar",
+        "Ghee",
+        "Rose",
+        "Saffron"
+      ],
+      "occasion_tags": [
+        "Holiday",
+        "Party",
+        "Everyday"
+      ],
+      "cooking_tips": [
+        "Ensure cashews are at room temperature for optimal grinding.",
+        "Do not overgrind cashews, as they may release oil and become pasty.",
+        "Stir continuously to prevent sticking and burning.",
+        "Adjust sweetness by slightly altering the sugar quantity.",
+        "Use a sharp knife to get clean cuts for the barfi."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kaju_katli/recipe_fks1qs69i1slfd/fks1qs69i1slfd_main_image.jpg"
+    },
+    {
+      "id": "fks2g6ub6fvrdap",
+      "name": "Kit Kat Stuffed Brownies",
+      "url": "https://www.delish.com/cooking/recipe-ideas/a22391568/kit-kat-stuffed-brownies-recipe/",
+      "ingredients": [
+        "1 box brownie mix",
+        "Ingredients called for on brownie mix box (e.g., eggs, oil, water)",
+        "1 (13.5 oz) can cooking spray",
+        "24 full-size Kit Kat bars"
+      ],
+      "directions": [
+        "Step 1: Preheat oven to 350\u00b0F (175\u00b0C). Line an 8\" x 8\" baking dish with parchment paper, leaving an overhang on the sides to lift the finished brownies out. Grease the parchment paper with cooking spray.",
+        "Step 2: Prepare the brownie batter according to the package instructions.",
+        "Step 3: Pour half of the brownie batter into the prepared pan. Evenly space 18 Kit Kat bars over the batter, pressing down gently.",
+        "Step 4: Pour the remaining brownie batter over the Kit Kat bars, ensuring they are fully covered.",
+        "Step 5: Bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean or with just a few moist crumbs attached.  Do not overbake.",
+        "Step 6: Let the brownies cool completely in the pan before frosting.",
+        "Step 7: Make the frosting (recipe below).",
+        "Step 8: Once the brownies are cool, spread the frosting evenly over the top.",
+        "Step 9: Roughly chop the remaining 6 Kit Kat bars and sprinkle them over the frosting.",
+        "Step 10: Lift the cooled brownies out of the pan using the parchment paper overhang. Cut into squares and serve."
+      ],
+      "duration": "45 m",
+      "serves": "16",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-m.webp",
+      "nutrition": {
+        "calories": "250 (estimate)",
+        "protein": "3g (estimate)",
+        "carbs": "40g (estimate)",
+        "fat": "15g (estimate)",
+        "fiber": "1g (estimate)",
+        "sugar": "30g (estimate)",
+        "sodium": "150mg (estimate)"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stack of three Kit Kat stuffed brownies on a rustic wooden board, dusted with powdered sugar.  A slightly overhead, 45-degree angle showcases the gooey brownie and crisp Kit Kat layers.  Use warm, natural light with a shallow depth of field, focusing on the center brownie's exposed Kit Kat filling.  The background should be a dark, moody blur.  Garnish with a single, artfully broken Kit Kat bar and a small scoop of vanilla ice cream melting enticingly.  Emphasize the contrasting textures and rich colors for a decadent feel.",
+      "image_filepath": "recipe_fks2g6ub6fvrdap/main_image",
+      "video_script": {
+        "title": "Kit Kat Stuffed Brownies - Recipe Tutorial",
+        "description": "Learn how to make decadent Kit Kat Stuffed Brownies with this easy-to-follow recipe!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a perfectly cut square of Kit Kat Stuffed Brownie, showing the fudgy brownie, layers of Kit Kat, and the frosting with Kit Kat crumbles on top. The brownie is placed on a plate with a glass of milk.",
+            "text": "Kit Kat Stuffed Brownies",
+            "voice_over": "Indulge in the ultimate chocolate experience with these Kit Kat Stuffed Brownies! Gooey, rich, and loaded with Kit Kats, these are perfect for satisfying any sweet craving.",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Show all ingredients neatly arranged: brownie mix box, eggs, oil, water, cooking spray, and Kit Kat bars.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: a box of brownie mix, the ingredients listed on the box (like eggs, oil, and water), cooking spray, and two dozen full-size Kit Kat bars.",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show an 8x8 baking dish lined with parchment paper, being sprayed with cooking spray.",
+            "text": "Prep the Pan",
+            "voice_over": "Preheat your oven to 350\u00b0F (175\u00b0C). Line an 8x8 baking dish with parchment paper, leaving some overhang. Grease the parchment paper with cooking spray. This makes removing the brownies later a breeze.",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Show a bowl with brownie batter being mixed according to package directions.",
+            "text": "Mix the Batter",
+            "voice_over": "Prepare your brownie batter as directed on the box. Make sure everything is well combined.",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Show the process of pouring half of the brownie batter into the prepared pan and spreading it evenly.",
+            "text": "First Brownie Layer",
+            "voice_over": "Pour half of your brownie batter into the prepared pan, and spread it out evenly.",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Show 18 Kit Kat bars being evenly spaced and pressed gently into the brownie batter.",
+            "text": "Kit Kat Time!",
+            "voice_over": "Now for the fun part! Arrange 18 Kit Kat bars over the batter. Press them in gently so they're nestled in nicely.",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show the remaining brownie batter being poured over the Kit Kat bars, covering them completely.",
+            "text": "Second Brownie Layer",
+            "voice_over": "Pour the remaining brownie batter over the Kit Kats, making sure they're fully covered.  This creates a delicious chocolatey surprise in every bite.",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Brownies baking in the oven.",
+            "text": "Bake",
+            "voice_over": "Bake for 20-25 minutes. To check for doneness, insert a toothpick into the center. It should come out clean or with a few moist crumbs. Be careful not to overbake!",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up of frosting being spread evenly over cooled brownies.",
+            "text": "Frosting",
+            "voice_over": "Let the brownies cool completely before frosting. Then, spread your favorite frosting evenly over the top.  I've included my go-to frosting recipe in the description box below.",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Show chopped Kit Kat bars being sprinkled over the frosting.",
+            "text": "Kit Kat Crumble",
+            "voice_over": "Chop the remaining 6 Kit Kat bars and sprinkle them generously over the frosting. This adds an extra layer of crunch and chocolatey goodness.",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "Finished Kit Kat Stuffed Brownies being lifted out of the pan with parchment paper, cut into squares and served on a plate.",
+            "text": "Serve and Enjoy!",
+            "voice_over": "Lift the brownies out of the pan using the parchment paper overhang. Cut into squares and serve. These are fantastic on their own, or with a scoop of ice cream and a glass of milk. Enjoy!",
+            "scene_image_filename": "recipe_fks2g6ub6fvrdap/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2g6ub6fvrdap-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 45,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chocolate",
+        "Candy",
+        "Brownies"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For a richer chocolate flavor, use dark chocolate brownie mix.",
+        "If you prefer a thicker brownie, reduce the baking time by a few minutes. Check for doneness with a toothpick.",
+        "Score the brownies before baking for cleaner cuts."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kaju_katli/recipe_fks2g6ub6fvrdap/fks2g6ub6fvrdap_main_image.jpg"
+    },
+    {
+      "id": "fksd797gt8np",
+      "name": "Mughlai Chicken Korma",
+      "url": "http://www.flavorsofmumbai.com/mughlai-chicken-korma/",
+      "ingredients": [
+        "1 kg Chicken, bone-in or boneless",
+        "2 tablespoons Butter",
+        "2 tablespoons Oil",
+        "1 1/2 tablespoons Ginger-garlic paste",
+        "1 tablespoon Turmeric powder",
+        "3 Onions, julienned",
+        "1 Bay leaf",
+        "1 teaspoon Caraway seeds",
+        "250 g Plain Yogurt",
+        "1 Potato, diced (optional)",
+        "1 tablespoon Garam masala powder",
+        "1 teaspoon Garam masala powder, for garnish",
+        "1 tablespoon Red chili powder, or to taste",
+        "6 Green cardamom pods",
+        "1 Black cardamom pod",
+        "1 tablespoon Sugar",
+        "2 tablespoons Melon seeds",
+        "1 tablespoon White sesame seeds",
+        "8 Almonds",
+        "8 Cashews",
+        "2 tablespoons Desiccated coconut flakes or dry coconut powder",
+        "1/2 cup Coriander leaves, finely chopped",
+        "1 teaspoon Mace powder",
+        "Salt, to taste"
+      ],
+      "directions": [
+        "Step 1: Marinate the chicken with turmeric powder and salt for 5 minutes.",
+        "Step 2: Grind the melon seeds, almonds, desiccated coconut (or dry coconut powder), sesame seeds, and cashews into a smooth paste with a little water.",
+        "Step 3: In a deep pot or Dutch oven, heat the butter and oil over medium heat. Add the marinated chicken and fry until golden brown.",
+        "Step 4: Remove the chicken from the pot and set aside. Drain any excess oil.",
+        "Step 5: In the same pot, add the julienned onions and fry until dark brown.",
+        "Step 6: Add the bay leaf, caraway seeds, green cardamom pods, black cardamom pod, and sugar. Saut\u00e9 for a minute.",
+        "Step 7: Add the ginger-garlic paste and saut\u00e9 until the raw smell disappears.",
+        "Step 8: Add half of the yogurt and cook until the water evaporates.",
+        "Step 9: Add the diced potatoes (if using) and 1 tablespoon of garam masala powder.",
+        "Step 10: Return the chicken to the pot, cover, and simmer for 10 minutes.",
+        "Step 11: Add the remaining yogurt and cook until the potatoes are tender.",
+        "Step 12: Add the melon-almond-coconut paste and cook for 3-4 minutes.",
+        "Step 13: Season with salt to taste. Stir in the chopped coriander leaves. Sprinkle with the remaining garam masala powder and mace powder.",
+        "Step 14: Remove from heat and serve hot with naan, roti, or rice."
+      ],
+      "duration": "40 minutes ",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-m.webp",
+      "nutrition": {
+        "calories": "550 per serving",
+        "protein": "40 grams per serving",
+        "carbs": "30 grams per serving",
+        "fat": "30 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "10 grams per serving",
+        "sodium": "600 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stunning, overhead shot of Mughlai Chicken Korma in a brass karahi, garnished with fresh coriander and slivered almonds.  Use dark, textured background and warm, directional lighting to highlight the creamy sauce and tender chicken.  Shallow depth of field, focusing on a piece of chicken draped in sauce. The mood should be rich, inviting, and evocative of traditional Indian cuisine.  Include a naan bread partially torn, revealing its fluffy interior, placed beside the karahi.",
+      "image_filepath": "recipe_fksd797gt8np/main_image",
+      "video_script": {
+        "title": "Mughlai Chicken Korma: A Royal Feast",
+        "description": "Learn to make the creamy and decadent Mughlai Chicken Korma, a rich and flavorful Indian dish perfect for special occasions.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a beautifully garnished Mughlai Chicken Korma served with naan bread. Steam gently rises from the dish, highlighting the creamy texture and rich colors.",
+            "text": "Mughlai Chicken Korma",
+            "voice_over": "Welcome! Today, we're diving into the world of Mughlai cuisine with a truly royal dish: Chicken Korma. This creamy, nutty, and aromatic curry is a feast for the senses.",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients neatly arranged: chicken pieces, ginger-garlic paste, turmeric powder, yogurt, red chili powder, salt.",
+            "text": "Ingredients - Part 1",
+            "voice_over": "Let's start with our star ingredient: 1 kg of chicken, bone-in or boneless. We'll also need ginger-garlic paste, turmeric powder, yogurt, red chili powder, and salt for marination and the base of our korma.",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Ingredients neatly arranged: onions, butter, oil, bay leaf, caraway seeds, cardamom pods, sugar.",
+            "text": "Ingredients - Part 2",
+            "voice_over": "For the aromatics, we'll use onions, butter, oil, bay leaf, caraway seeds, green and black cardamom pods, and a touch of sugar for caramelization.",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Ingredients neatly arranged: melon seeds, sesame seeds, almonds, cashews, desiccated coconut, garam masala, coriander leaves, mace powder.",
+            "text": "Ingredients - Part 3",
+            "voice_over": "The secret to the korma's rich flavor lies in this blend: melon seeds, sesame seeds, almonds, cashews, desiccated coconut, garam masala, a sprinkle of mace powder, and fresh coriander leaves for garnish.",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Chicken marinating in a bowl with turmeric powder and salt.",
+            "text": "Marinate Chicken",
+            "voice_over": "Marinate the chicken with turmeric powder and salt for at least 5 minutes. This allows the chicken to absorb the flavors and tenderize.",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "Chicken browning in a pot with butter and oil.",
+            "text": "Sear Chicken",
+            "voice_over": "Heat butter and oil in a pot over medium heat. Add the marinated chicken and fry until golden brown. This searing process helps to seal in the juices and develop a rich flavor.",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "Onions frying until golden brown in the same pot.",
+            "text": "Saut\u00e9 Onions",
+            "voice_over": "Remove the chicken and in the same pot, fry the julienned onions until they turn a beautiful dark brown. This will add a deep, caramelized flavor to our korma.",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "Yogurt being whisked into the pot with the spice mixture.",
+            "text": "Yogurt Base",
+            "voice_over": "Add half of the yogurt and cook until the water evaporates, creating a creamy base for the korma.",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 7,
+            "image_prompt": "Chicken added back to the pot with potatoes and garam masala.",
+            "text": "Simmer Chicken",
+            "voice_over": "Return the chicken to the pot, add diced potatoes if using, and 1 tablespoon of garam masala. Cover and simmer for 10 minutes, allowing the chicken to cook through and absorb the flavors.",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 7,
+            "image_prompt": "The ground nut paste being stirred into the korma.",
+            "text": "Nut Paste Magic",
+            "voice_over": "Add the remaining yogurt, and cook until the potatoes are tender. Now, stir in the ground melon-almond-coconut paste. Cook for 3-4 minutes, letting the korma thicken and the flavors meld together.",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          },
+          {
+            "scene_number": 12,
+            "duration": 5,
+            "image_prompt": "Final shot of Mughlai Chicken Korma, garnished, served with naan bread or rice.",
+            "text": "Serve & Enjoy",
+            "voice_over": "Finally, season with salt, stir in the chopped coriander leaves, and sprinkle with garam masala and mace powder. Serve hot with naan, roti, or rice. Enjoy your royal Mughlai Chicken Korma!",
+            "scene_image_filename": "recipe_fksd797gt8np/scene_12_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd797gt8np-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 45,
+      "total_time_minutes": 65,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Chicken",
+        "Onion",
+        "Yogurt",
+        "Potato",
+        "Garam Masala",
+        "Cardamom",
+        "Nuts",
+        "Coconut"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Special Occasion"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use bone-in chicken.",
+        "Adjust the amount of chili powder to your preference.",
+        "Soaking the nuts and seeds for 30 minutes before grinding can make the paste smoother.",
+        "If using dry coconut powder, adjust the amount of water added to the paste accordingly."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kaju_katli/recipe_fksd797gt8np/fksd797gt8np_main_image.jpg"
+    },
+    {
+      "id": "fksf0psefrln0p",
+      "name": "Kashi Halwa (Ash Gourd Dessert)",
+      "url": "https://www.vegrecipesofindia.com/ash-gourd-halwa-recipe-kashi-halwa/",
+      "ingredients": [
+        "2-3 tablespoons Ghee",
+        "12-15 Cashews, halved",
+        "1/2 tablespoon Raisins",
+        "315 grams Ash Gourd (about 1 cup grated)",
+        "1/2 cup Water (optional)",
+        "225 grams Sugar (about 1/2 cup)",
+        "18-20 Saffron Strands",
+        "1/2 teaspoon Green Cardamom Powder"
+      ],
+      "directions": [
+        "Step 1: Rinse, peel, deseed, and coarsely chop the ash gourd. Grate using a grater and set aside approximately 1 cup of grated ash gourd.",
+        "Step 2: Heat 1 tablespoon of ghee in a thick-bottomed pan. Add cashews and saut\u00e9 until light golden. Add raisins and saut\u00e9 until they swell and puff up. Remove cashews and raisins and set aside.",
+        "Step 3: In the same pan, add the grated ash gourd and mix well. Cover and cook on low heat for 10-15 minutes, or until the raw aroma disappears. Check every 4-5 minutes, adding 1/2 cup of water if the mixture becomes too dry.",
+        "Step 4: Add sugar and saffron strands. Mix well and continue to saut\u00e9 on low heat, stirring frequently.",
+        "Step 5: Once the mixture thickens and starts leaving the sides of the pan, add 1-2 tablespoons of ghee. Mix well and continue saut\u00e9ing for another 2-4 minutes.",
+        "Step 6: Remove from heat and stir in cardamom powder, cashews, and raisins. Let cool slightly before serving."
+      ],
+      "duration": "40 m ",
+      "serves": "3",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksf0psefrln0p-m.webp",
+      "nutrition": {
+        "calories": "440 per serving",
+        "protein": "2 grams per serving",
+        "carbs": "81 grams per serving",
+        "fat": "13 grams per serving",
+        "fiber": "Not available",
+        "sugar": "Not available",
+        "sodium": "Not available"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of Kashi Halwa in a shallow, ornate brass bowl, garnished with a few saffron strands and halved cashews. The background should be a dark, textured surface with a subtly patterned linen napkin partially underneath. Use soft, diffused lighting to highlight the glistening ghee and the translucence of the halwa.  A shallow depth of field should focus sharply on the foreground texture, with the background gently blurred. Aim for a warm, inviting mood that evokes comfort and indulgence.",
+      "image_filepath": "recipe_fksf0psefrln0p/main_image",
+      "video_script": {
+        "title": "Kashi Halwa (Ash Gourd Dessert)",
+        "description": "Learn how to make delicious and easy Kashi Halwa, a sweet Indian dessert made with ash gourd. This recipe is perfect for any occasion and is sure to impress your friends and family.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished Kashi Halwa garnished with cashews and raisins in a decorative bowl.",
+            "text": "Kashi Halwa",
+            "voice_over": "Welcome! Today, we're making Kashi Halwa, a melt-in-your-mouth Indian dessert made with ash gourd. It's easy to make and perfect for any celebration.",
+            "scene_image_filename": "recipe_fksf0psefrln0p/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksf0psefrln0p-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients neatly arranged on a table: Grated Ash Gourd in a bowl, sugar, ghee in small bowl, saffron strands, green cardamom powder and another small bowl with measured cashews and raisins.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: ash gourd, ghee, sugar, cashews, raisins, saffron strands, and green cardamom powder.",
+            "scene_image_filename": "recipe_fksf0psefrln0p/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksf0psefrln0p-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A person grating the ash gourd after it has been peeled and deseeded.",
+            "text": "Prep the Ash Gourd",
+            "voice_over": "First, rinse, peel, deseed, and grate the ash gourd.  We'll need about one cup of grated ash gourd.",
+            "scene_image_filename": "recipe_fksf0psefrln0p/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksf0psefrln0p-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Cashews and raisins being saut\u00e9ed in ghee in a pan.",
+            "text": "Saut\u00e9 Cashews & Raisins",
+            "voice_over": "Heat one tablespoon of ghee in a thick-bottomed pan. Saut\u00e9 the cashews until light golden, then add raisins and saut\u00e9 until they puff up. Set aside.",
+            "scene_image_filename": "recipe_fksf0psefrln0p/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksf0psefrln0p-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 7,
+            "image_prompt": "Grated Ash Gourd cooking in a pan, covered with a lid.",
+            "text": "Cook Ash Gourd",
+            "voice_over": "Add the grated ash gourd to the same pan. Cover and cook on low heat for 10-15 minutes, until the raw aroma disappears. Check every few minutes and add water if the mixture gets too dry.",
+            "scene_image_filename": "recipe_fksf0psefrln0p/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksf0psefrln0p-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Sugar and saffron being added to the cooking Ash Gourd, stirring gently to combine.",
+            "text": "Add Sugar & Saffron",
+            "voice_over": "Now, add the sugar and saffron strands. Mix well and continue to cook on low heat, stirring frequently.",
+            "scene_image_filename": "recipe_fksf0psefrln0p/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksf0psefrln0p-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Ghee being drizzled over the thickening halwa and being stirred continuously. The halwa is starting to leave the sides of the pan.",
+            "text": "Finishing Touches",
+            "voice_over": "Once the mixture thickens and starts leaving the sides, add another tablespoon or two of ghee. Saut\u00e9 for another 2-4 minutes.",
+            "scene_image_filename": "recipe_fksf0psefrln0p/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksf0psefrln0p-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Cardamom powder, cashews, and raisins being stirred into the cooked halwa.",
+            "text": "Mix in Spices & Dry Fruits",
+            "voice_over": "Remove from heat and stir in the cardamom powder, cashews, and raisins.",
+            "scene_image_filename": "recipe_fksf0psefrln0p/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksf0psefrln0p-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Two bowls of Kashi Halwa garnished with cashews and raisins, one with a spoon digging in.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Let the halwa cool slightly before serving.  Kashi Halwa is delicious on its own or with a side of puri. Enjoy!",
+            "scene_image_filename": "recipe_fksf0psefrln0p/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksf0psefrln0p-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Ash Gourd",
+        "Sugar",
+        "Ghee",
+        "Cashews",
+        "Raisins",
+        "Cardamom",
+        "Saffron"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Holiday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Use a thick-bottomed pan to prevent sticking and ensure even cooking.",
+        "Adjust the amount of sugar according to your preference.",
+        "If saffron strands are unavailable, a pinch of turmeric powder can be used for color.",
+        "Allow the halwa to cool slightly before serving, as the sugar syrup can be very hot."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kaju_katli/recipe_fksf0psefrln0p/fksf0psefrln0p_main_image.jpg"
+    },
+    {
+      "id": "fksd7qt2oq3p",
+      "name": "Crispy Poha Chivda (Flattened Rice Snack)",
+      "url": "http://www.flavorsofmumbai.com/poha-chivda-recipe/",
+      "ingredients": [
+        "2 cups thick white poha (flattened rice)",
+        "2 cups + 1 teaspoon vegetable oil, for frying and tempering",
+        "\u2153 cup peanuts",
+        "\u2153 cup cashew nuts",
+        "\u2153 cup roasted chickpeas (optional)",
+        "3 tablespoons green raisins",
+        "\u2153 cup curry leaves",
+        "2 tablespoons dried coconut slices (optional)",
+        "3-4 green chilies, thinly sliced",
+        "1 tablespoon ginger, julienned",
+        "\u00bd teaspoon mustard seeds",
+        "1 teaspoon cumin seeds",
+        "\u00bd teaspoon red chili powder",
+        "\u00bd teaspoon turmeric powder",
+        "\u00bd teaspoon asafetida powder",
+        "2 teaspoons sugar",
+        "Salt, to taste"
+      ],
+      "directions": [
+        "Step 1: Prepare Ingredients and Heat Oil: Gather all ingredients. Heat 2 cups of oil in a deep pan or kadai over medium-high heat.",
+        "Step 2: Fry Poha: Using a fine-mesh sieve or slotted spoon, carefully lower small batches of poha into the hot oil. Fry until crisp and puffed up, about 1-2 minutes. Remove and drain on paper towels.",
+        "Step 3: Fry Nuts and Raisins: Fry the peanuts, cashews, and raisins separately in the same oil until golden and crisp.  Be careful not to burn the cashews. Remove and drain on paper towels. If using roasted chickpeas and dried coconut, fry them until lightly golden.",
+        "Step 4: Fry Aromatics: Fry the curry leaves, sliced green chilies, and julienned ginger in the hot oil until fragrant and slightly crisp. Remove and drain.",
+        "Step 5: Temper Spices: In the same pan, heat 1 teaspoon of oil over medium heat. Add mustard seeds and cumin seeds. Once they splutter, add turmeric powder, asafetida powder, red chili powder, sugar, and salt. Saut\u00e9 for a few seconds.",
+        "Step 6: Combine and Cool: Add all the fried ingredients (poha, nuts, raisins, curry leaves, chilies, ginger, and optional chickpeas and coconut) to the pan with the tempered spices. Mix well and cook for 2 minutes, stirring gently.",
+        "Step 7: Cool and Store: Remove from heat and let the chivda cool completely. Once cooled, store in an airtight container."
+      ],
+      "duration": "40 minutes ",
+      "serves": "67",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-m.webp",
+      "nutrition": {
+        "calories": "Approximately 200 per serving",
+        "protein": "4 grams per serving",
+        "carbs": "25 grams per serving",
+        "fat": "12 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "5 grams per serving",
+        "sodium": "150 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of crispy Poha Chivda in a rustic, earthenware bowl against a dark, textured backdrop.  Emphasize the golden-brown hue and crunchy texture with soft, directional light from the side.  Garnish with fresh curry leaves and a few scattered peanuts.  A shallow depth of field should focus sharply on the poha in the foreground, blurring the background slightly.  The mood should be warm, inviting, and appetizing.  Include a vintage brass spoon casually placed beside the bowl.",
+      "image_filepath": "recipe_fksd7qt2oq3p/main_image",
+      "video_script": {
+        "title": "Crispy Poha Chivda: The Perfect Crunchy Snack",
+        "description": "Learn how to make delicious and crispy Poha Chivda, a popular Indian snack, with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a bowl of golden-brown, crispy Poha Chivda, garnished with green curry leaves and chopped nuts. Focus on the texture and vibrant colors.",
+            "text": "Crispy Poha Chivda",
+            "voice_over": "Welcome! Today we're making crispy and flavorful Poha Chivda, a perfect teatime snack or party treat. It's easy to make and incredibly addictive!",
+            "scene_image_filename": "recipe_fksd7qt2oq3p/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a clean surface. Group related items together: thick poha, oil; peanuts, cashews, roasted chickpeas; raisins, curry leaves, coconut flakes; green chilies, ginger; mustard seeds, cumin seeds; spices (turmeric, red chili, asafetida powder); sugar, salt.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: thick poha, oil for frying, peanuts, cashews, roasted chickpeas, green raisins, curry leaves, dried coconut flakes. We'll also use green chilies, ginger, mustard seeds, cumin seeds, turmeric powder, red chili powder, asafetida powder, sugar, and salt.",
+            "scene_image_filename": "recipe_fksd7qt2oq3p/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A deep pan or kadai on a stovetop with oil heating up. Inset: Small batches of poha being carefully lowered into the hot oil using a sieve.",
+            "text": "Frying the Poha",
+            "voice_over": "Heat 2 cups of oil in a deep pan over medium-high heat. Once hot, carefully fry the poha in small batches for about 1-2 minutes until puffed up and crisp.  Don't overcrowd the pan.",
+            "scene_image_filename": "recipe_fksd7qt2oq3p/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Peanuts, cashews, and raisins frying in hot oil, turning golden brown. Inset: Roasted chickpeas and coconut flakes frying until lightly golden.",
+            "text": "Frying Nuts & Raisins",
+            "voice_over": "Fry the peanuts, cashews, and raisins separately until golden. Be careful not to burn the cashews! If using, lightly fry the roasted chickpeas and coconut flakes until golden as well.",
+            "scene_image_filename": "recipe_fksd7qt2oq3p/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "Curry leaves, green chilies, and ginger frying in hot oil until fragrant.",
+            "text": "Frying Aromatics",
+            "voice_over": "Fry the curry leaves, green chilies, and ginger until fragrant and slightly crisp. This adds a wonderful aroma to the chivda.",
+            "scene_image_filename": "recipe_fksd7qt2oq3p/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A pan with oil, mustard and cumin seeds spluttering, followed by the addition of spices and sugar.",
+            "text": "Tempering Spices",
+            "voice_over": "In the same pan, heat 1 teaspoon of oil. Add mustard and cumin seeds. Once they splutter, add turmeric powder, asafetida powder, red chili powder, sugar, and salt. Saut\u00e9 for a few seconds until fragrant.",
+            "scene_image_filename": "recipe_fksd7qt2oq3p/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "All fried ingredients being combined in the pan with the tempered spices, gently mixed together.",
+            "text": "Combine & Cook",
+            "voice_over": "Now, add all the fried ingredients to the pan with the tempered spices. Mix well and cook for 2 minutes, stirring gently to combine all the flavors.",
+            "scene_image_filename": "recipe_fksd7qt2oq3p/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished Poha Chivda cooling on a plate. Steam rising slightly.",
+            "text": "Cooling",
+            "voice_over": "Remove from heat and let the chivda cool completely.  This will help it stay crispy.",
+            "scene_image_filename": "recipe_fksd7qt2oq3p/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up shot of crispy Poha Chivda stored in an airtight container.",
+            "text": "Storing",
+            "voice_over": "Once cooled, store the Poha Chivda in an airtight container to maintain its crispiness for several days.",
+            "scene_image_filename": "recipe_fksd7qt2oq3p/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "A bowl of Poha Chivda with a cup of tea or coffee in the background.  Alternative: a plate of chivda served alongside other snacks and dips.",
+            "text": "Enjoy!",
+            "voice_over": "Your crispy, flavorful Poha Chivda is ready! Enjoy it as a snack with a cup of tea or coffee, or serve it as part of a festive spread.  It\u2019s approximately 200 calories per serving.",
+            "scene_image_filename": "recipe_fksd7qt2oq3p/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qt2oq3p-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 35,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Rice",
+        "Peanuts",
+        "Cashews",
+        "Raisins"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Use a fine-mesh sieve or slotted spoon for easy frying and draining of the poha and other ingredients.",
+        "Fry the ingredients in small batches to ensure even cooking and crispness.",
+        "Adjust the amount of sugar and spices to your preference.",
+        "Allow the chivda to cool completely before storing to prevent it from becoming soggy."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kaju_katli/recipe_fksd7qt2oq3p/fksd7qt2oq3p_main_image.jpg"
+    },
+    {
+      "id": "fksd7rjicqnk",
+      "name": "Mushroom Fried Rice",
+      "url": "http://www.flavorsofmumbai.com/mushroom-fried-rice-recipe/",
+      "ingredients": [
+        "2 cups cooked basmati rice (or any long grain rice)",
+        "1.5 tablespoons oil or butter",
+        "1 tablespoon finely chopped ginger",
+        "2 tablespoons finely chopped white, spring, or regular onion",
+        "1 tablespoon finely chopped garlic",
+        "12-14 cashews (optional)",
+        "1 teaspoon sugar",
+        "\u00bd cup finely diced capsicum (optional)",
+        "\u00bd cup diagonally sliced French beans (optional)",
+        "200 grams button mushrooms, chopped into chunks",
+        "\u00bd cup finely chopped carrots (optional)",
+        "3-4 green or red chilies, diagonally sliced",
+        "1 tablespoon tomato sauce",
+        "1 tablespoon soy sauce",
+        "1 teaspoon vinegar",
+        "1 tablespoon Sichuan pepper powder (optional)",
+        "1 tablespoon pepper powder, or to taste",
+        "1 teaspoon red chili powder",
+        "Salt to taste",
+        "1-2 celery leaves (optional)"
+      ],
+      "directions": [
+        "Step 1: Cook the rice according to package directions until tender. Drain and set aside.",
+        "Step 2: Heat the oil or butter in a wide-bottomed pan or wok over high heat.",
+        "Step 3: Add the chopped garlic and ginger and saut\u00e9 until fragrant (about 30 seconds).",
+        "Step 4: Add the cashews (if using) and onions. Saut\u00e9 until the onions turn translucent (about 2 minutes).",
+        "Step 5: Add the carrots, French beans, and capsicum (if using). Stir-fry for 2-3 minutes until slightly softened.",
+        "Step 6: Add the mushrooms and continue to stir-fry until they release their moisture and brown slightly (about 3-4 minutes).",
+        "Step 7: Stir in the tomato sauce, pepper powder, soy sauce, vinegar, red chili powder, sugar, salt, and Sichuan pepper (if using).",
+        "Step 8: Gently add the cooked rice to the pan and mix thoroughly, ensuring not to break the rice grains.",
+        "Step 9: Add the chilies. Cover the pan and cook for 1 minute over low heat, or stir-fry for another minute over high heat.",
+        "Step 10: Remove from heat and serve hot."
+      ],
+      "duration": "25 minutes ",
+      "serves": "45",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-m.webp",
+      "nutrition": {
+        "calories": "350 per serving",
+        "protein": "10 grams per serving",
+        "carbs": "60 grams per serving",
+        "fat": "12 grams per serving",
+        "fiber": "5 grams per serving",
+        "sugar": "5 grams per serving",
+        "sodium": "600 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of mushroom fried rice with a shallow depth of field, focusing on the glistening mushrooms. Use soft, diffused natural light to highlight the texture of the rice and vegetables.  A rustic wooden table background with a dark linen napkin and scattered cashews adds depth. Garnish with chopped scallions and consider a slightly overhead angle to showcase the dish's colorful ingredients in a cast iron skillet.  Aim for a warm, inviting mood.",
+      "image_filepath": "recipe_fksd7rjicqnk/main_image",
+      "video_script": {
+        "title": "Mushroom Fried Rice: A Flavorful Vegetarian Meal",
+        "description": "Learn to make delicious and easy mushroom fried rice at home with this step-by-step video tutorial. This recipe is perfect for a quick weeknight dinner or a satisfying lunch.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a steaming plate of mushroom fried rice, garnished with chopped celery leaves. The rice is fluffy and has a mix of brown and white colors from the mushrooms and rice. Some vibrant green chilies are visible.",
+            "text": "Mushroom Fried Rice",
+            "voice_over": "Craving a flavorful and easy vegetarian meal? Look no further than this mushroom fried rice! It's packed with umami, spices, and textures. Let's get started!",
+            "scene_image_filename": "recipe_fksd7rjicqnk/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a wooden table. Group related items: cooked rice in a bowl, chopped vegetables in separate bowls, spices in small dishes, and oil/butter in a small container.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: Cooked basmati rice, mushrooms, onions, garlic, ginger, optional veggies like carrots, beans, capsicum, and green chilies. For flavor, we'll use soy sauce, tomato sauce, vinegar, chili powder, pepper, and optionally Sichuan pepper. Cashews add a nice crunch.",
+            "scene_image_filename": "recipe_fksd7rjicqnk/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A wide-bottomed pan or wok on a stovetop with oil heating up. Show chopped ginger and garlic about to be added.",
+            "text": "Saut\u00e9 Aromatics",
+            "voice_over": "Heat oil or butter in a wok or pan over high heat. Add chopped garlic and ginger. Saut\u00e9 for about 30 seconds until fragrant.",
+            "scene_image_filename": "recipe_fksd7rjicqnk/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "The pan with onions and cashews (if using) being added to the saut\u00e9ed garlic and ginger. ",
+            "text": "Add Onions & Cashews",
+            "voice_over": "Now, add the onions and cashews (if using). Saut\u00e9 for about 2 minutes until onions turn translucent.",
+            "scene_image_filename": "recipe_fksd7rjicqnk/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The pan with optional vegetables (carrots, beans, and capsicum) being stir-fried. Show the vegetables getting slightly softened.",
+            "text": "Stir-fry Vegetables",
+            "voice_over": "Add your optional veggies: carrots, French beans, and capsicum. Stir-fry for 2-3 minutes until slightly softened.",
+            "scene_image_filename": "recipe_fksd7rjicqnk/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Chopped mushrooms being added to the pan. Focus on mushrooms browning slightly and releasing moisture.",
+            "text": "Cook Mushrooms",
+            "voice_over": "It's time for the star of the show - mushrooms! Add them to the pan and stir-fry for 3-4 minutes until they brown slightly and release their moisture.",
+            "scene_image_filename": "recipe_fksd7rjicqnk/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "Sauces and spices being added to the pan. Show a good mix of all ingredients.",
+            "text": "Add Sauces & Spices",
+            "voice_over": "Now for the flavor bomb! Stir in the tomato sauce, soy sauce, vinegar, chili powder, pepper, sugar, salt, and Sichuan pepper if using.",
+            "scene_image_filename": "recipe_fksd7rjicqnk/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Cooked rice being gently mixed into the pan with the other ingredients. Emphasize not breaking the rice grains.",
+            "text": "Combine with Rice",
+            "voice_over": "Gently add the cooked rice. Mix everything thoroughly, being careful not to break the rice grains.",
+            "scene_image_filename": "recipe_fksd7rjicqnk/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 4,
+            "image_prompt": "Sliced green chilies being added to the pan. The pan is covered with a lid.",
+            "text": "Simmer",
+            "voice_over": "Add the green chilies. Cover and cook for 1 minute on low heat, or stir-fry for another minute on high heat.",
+            "scene_image_filename": "recipe_fksd7rjicqnk/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A plate of finished mushroom fried rice, garnished with celery leaves. A bowl of soup and some salad on the side are suggested as serving options.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Your delicious mushroom fried rice is ready! Serve hot with a side of soup or salad. Enjoy!",
+            "scene_image_filename": "recipe_fksd7rjicqnk/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7rjicqnk-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indo-Chinese",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Rice",
+        "Mushrooms",
+        "Vegetables",
+        "Soy Sauce"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight Dinner",
+        "Potluck"
+      ],
+      "cooking_tips": [
+        "For best results, use day-old rice as it tends to fry better and doesn't become mushy.",
+        "Adjust the amount of chili powder to control the spice level.",
+        "Feel free to add other vegetables like peas, corn, or broccoli."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kaju_katli/recipe_fksd7rjicqnk/fksd7rjicqnk_main_image.jpg"
+    },
+    {
+      "id": "fksmicivnv7dk0",
+      "name": "Easy Kalakand (Indian Milk Cake)",
+      "url": "https://www.vegrecipesofindia.com/kalakand-recipe-quick-kalakand-recipe/",
+      "ingredients": [
+        "1 (400g) can sweetened condensed milk",
+        "250-300g paneer, grated or crumbled",
+        "\u00bd teaspoon cardamom powder",
+        "1 tablespoon sugar (optional)",
+        "1 teaspoon rose water (optional)",
+        "10-12 pistachios, coarsely crushed",
+        "10-12 cashews or almonds, coarsely crushed",
+        "7-8 strands saffron (optional)"
+      ],
+      "directions": [
+        "Step 1: Grease a pan or tray with ghee or oil.",
+        "Step 2: Coarsely crush the pistachios, cashews (or almonds), and saffron (if using) using a mortar and pestle or by chopping.",
+        "Step 3: Grate or crumble the paneer. Ensure there are no large chunks.",
+        "Step 4: In a thick-bottomed pan or kadai, combine the sweetened condensed milk and the grated or crumbled paneer. Mix well.",
+        "Step 5: If desired, add sugar to taste.",
+        "Step 6: Cook the mixture over low heat, stirring frequently to prevent sticking.",
+        "Step 7: Continue cooking until the mixture thickens and starts to leave the sides of the pan (approximately 12-16 minutes). The mixture should be moist but not runny.",
+        "Step 8: Remove the pan from the heat and stir in the cardamom powder and rose water.",
+        "Step 9: Pour the mixture into the greased pan or tray and spread evenly.",
+        "Step 10: Sprinkle the crushed nuts over the top and gently press them in.",
+        "Step 11: Cover and let the kalakand cool to room temperature, then refrigerate for at least 2 hours to set.",
+        "Step 12: Slice and serve the kalakand once set. If it doesn't slice cleanly, serve it like halwa with a spoon."
+      ],
+      "duration": "30 m ",
+      "serves": "16",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-m.webp",
+      "nutrition": {
+        "calories": "137 per serving",
+        "protein": "4g per serving",
+        "carbs": "15g per serving",
+        "fat": "6g per serving",
+        "fiber": "0g per serving",
+        "sugar": "15g per serving",
+        "sodium": "Not provided, estimate needed"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a styled image of Easy Kalakand on a rustic wooden board against a dark, moody backdrop. Use soft, diffused lighting to highlight the creamy texture and golden hue. Garnish with crushed pistachios, cashews, and saffron strands.  Employ a slightly overhead angle, showcasing the diamond or square-shaped pieces.  Shallow depth of field, focusing on the front piece, with blurred background elements.  Convey a sense of richness and indulgence.",
+      "image_filepath": "recipe_fksmicivnv7dk0/main_image",
+      "video_script": {
+        "title": "Easy Kalakand: Indian Milk Cake Recipe",
+        "description": "Learn how to make delicious and easy Kalakand at home with this simple recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a beautifully garnished kalakand sliced into squares, served on a plate.",
+            "text": "Easy Kalakand",
+            "voice_over": "Welcome! Today, we're making a simple yet delightful Indian sweet, Kalakand, a rich milk cake that melts in your mouth. It's surprisingly easy and requires just a few ingredients.",
+            "scene_image_filename": "recipe_fksmicivnv7dk0/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all the ingredients neatly arranged on a table: a can of sweetened condensed milk, grated paneer, cardamom powder, sugar, rose water, chopped pistachios, cashews, and saffron strands.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: a can of sweetened condensed milk, paneer, cardamom powder, some sugar, rose water, pistachios, cashews, and a touch of saffron for that beautiful golden hue. You can adjust the nuts and saffron to your liking.",
+            "scene_image_filename": "recipe_fksmicivnv7dk0/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of a pan being greased with ghee or oil.",
+            "text": "Prep the Pan",
+            "voice_over": "First, grease a pan or tray with ghee or oil and set it aside.  This will prevent the kalakand from sticking.",
+            "scene_image_filename": "recipe_fksmicivnv7dk0/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Show the paneer being grated and nuts being chopped or crushed using a mortar and pestle.",
+            "text": "Crumble & Crush",
+            "voice_over": "Next, crumble the paneer and coarsely crush your nuts and saffron. Ensure there are no large chunks in the paneer for a smooth texture.",
+            "scene_image_filename": "recipe_fksmicivnv7dk0/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Show the condensed milk and paneer being combined in a pan and mixed well.",
+            "text": "Combine Ingredients",
+            "voice_over": "In a thick-bottomed pan, combine the sweetened condensed milk and crumbled paneer. Mix thoroughly until well combined.",
+            "scene_image_filename": "recipe_fksmicivnv7dk0/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "Show the mixture being cooked over low heat while continuously stirring. Steam should be visible, indicating the cooking process.",
+            "text": "Cook on Low Heat",
+            "voice_over": "Cook the mixture over low heat for about 12-16 minutes, stirring continuously to avoid burning. This step is crucial, as it helps the kalakand thicken.",
+            "scene_image_filename": "recipe_fksmicivnv7dk0/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show the thickened mixture pulling away from the sides of the pan.",
+            "text": "Thickening Stage",
+            "voice_over": "You'll know it's ready when the mixture thickens and starts leaving the sides of the pan.  It should be moist but not runny.",
+            "scene_image_filename": "recipe_fksmicivnv7dk0/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Show the cardamom powder, rose water being added to the mixture off the heat, then transferring the mixture into the greased pan.",
+            "text": "Flavor & Set",
+            "voice_over": "Remove from heat and stir in the cardamom powder and rose water for a fragrant touch.  Transfer the mixture to your greased pan and spread evenly.",
+            "scene_image_filename": "recipe_fksmicivnv7dk0/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 4,
+            "image_prompt": "Show the crushed nuts being sprinkled and lightly pressed onto the kalakand surface.",
+            "text": "Garnish & Chill",
+            "voice_over": "Garnish with those crushed nuts, pressing them in gently. Now, cover and let it cool to room temperature before refrigerating for at least 2 hours to set completely.",
+            "scene_image_filename": "recipe_fksmicivnv7dk0/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Show the set kalakand being sliced into squares and plated with a serving suggestion.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Once set, slice into squares and serve. If it's too soft to slice neatly, serve it like halwa.  Each serving packs about 137 calories, 4g protein, 15g carbs, and 6g of fat. Enjoy your homemade Kalakand!",
+            "scene_image_filename": "recipe_fksmicivnv7dk0/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksmicivnv7dk0-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 40,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Paneer",
+        "Condensed Milk",
+        "Nuts",
+        "Cardamom",
+        "Saffron"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use full-fat paneer.",
+        "Adjust the amount of sugar according to your preference.",
+        "If the kalakand is too soft after setting, refrigerate for a longer time.",
+        "Garnish with edible silver foil (vark) for a festive look."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kaju_katli/recipe_fksmicivnv7dk0/fksmicivnv7dk0_main_image.jpg"
+    },
+    {
+      "id": "fks18ggcbnvjjfb",
+      "name": "Suji Halwa (Semolina Pudding)",
+      "url": "https://www.vegrecipesofindia.com/sooji-halwa-recipe-rava-sheera/",
+      "ingredients": [
+        "\u00bd cup fine semolina (suji, rava, or cream of wheat)",
+        "\u2153 cup sugar",
+        "\u2153 cup ghee",
+        "\u00bd teaspoon cardamom powder (ground from 4-5 green cardamoms)",
+        "10-12 cashews, halved or whole",
+        "2 tablespoons golden raisins",
+        "1 teaspoon chironji (optional)",
+        "1\u00bc cups water",
+        "1 pinch edible camphor (optional)"
+      ],
+      "directions": [
+        "Step 1: In a mortar and pestle, grind the green cardamom pods (discarding the husks) into a fine powder. Set aside.",
+        "Step 2: In a heavy-bottomed pan or kadai, heat the ghee over low heat.",
+        "Step 3: While the ghee is heating, combine the sugar and water in a separate saucepan. Bring to a boil over medium-high heat, then reduce heat and simmer.",
+        "Step 4: Once the ghee is hot, add the semolina and cashews to the pan. Stir constantly, ensuring the semolina doesn't stick and toasts evenly.",
+        "Step 5: Continue roasting the semolina and cashews for 7-8 minutes, until they turn a light golden color and the ghee separates. The semolina should not brown. A fragrant aroma will indicate proper roasting.",
+        "Step 6: Add the cardamom powder, chironji (if using), raisins, and edible camphor (if using) to the roasted semolina mixture. Stir well.",
+        "Step 7: Carefully pour the hot sugar syrup into the semolina mixture, stirring continuously. The mixture will splutter, so proceed with caution.",
+        "Step 8: Continue stirring until the halwa thickens and begins to pull away from the sides of the pan.",
+        "Step 9: Serve the suji halwa hot, warm, or at room temperature."
+      ],
+      "duration": "15 m",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-m.webp",
+      "nutrition": {
+        "calories": "344 per serving",
+        "protein": "4 grams per serving",
+        "carbs": "40 grams per serving",
+        "fat": "20 grams per serving",
+        "fiber": "N/A",
+        "sugar": "N/A",
+        "sodium": "N/A"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of Suji Halwa in a shallow brass bowl, garnished with toasted cashews, golden raisins, and a dusting of cardamom powder. Use warm, diffused lighting to highlight the pudding's golden texture and the glistening ghee.  A dark, textured background and a shallow depth of field, focusing on the center of the halwa, will create a rich, inviting mood.  Include a few scattered cardamom pods and a small silver spoon as props.",
+      "image_filepath": "recipe_fks18ggcbnvjjfb/main_image",
+      "video_script": {
+        "title": "Suji Halwa (Semolina Pudding) - Easy & Delicious Recipe",
+        "description": "Learn how to make delicious and creamy Suji Halwa, a classic Indian dessert, with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A close-up shot of a bowl of perfectly cooked Suji Halwa, garnished with cashews and raisins. The halwa is a light golden color and has a smooth, creamy texture.",
+            "text": "Suji Halwa",
+            "voice_over": "Welcome! Today, we'll be making Suji Halwa, a rich and flavorful Indian dessert. It's quick, easy, and perfect for any occasion.",
+            "scene_image_filename": "recipe_fks18ggcbnvjjfb/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Grouped ingredients: Fine semolina in a bowl, sugar in a bowl, ghee in a small bowl, green cardamom pods, and cashews and raisins in a small dish.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: semolina, sugar, ghee, cardamom pods, cashews, raisins, optional chironji, and a pinch of edible camphor if you like.",
+            "scene_image_filename": "recipe_fks18ggcbnvjjfb/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 4,
+            "image_prompt": "A mortar and pestle grinding green cardamom pods into a fine powder.",
+            "text": "Cardamom Magic",
+            "voice_over": "First, grind 4-5 green cardamom pods into a fine powder. This aromatic spice is key to the halwa's flavor.",
+            "scene_image_filename": "recipe_fks18ggcbnvjjfb/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Ghee heating in a heavy-bottomed pan or kadai over low heat.",
+            "text": "Heating Ghee",
+            "voice_over": "In a heavy-bottomed pan, heat \u2153 cup of ghee over low heat.",
+            "scene_image_filename": "recipe_fks18ggcbnvjjfb/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Sugar and water simmering in a saucepan on the stove. The sugar has dissolved completely.",
+            "text": "Sugar Syrup",
+            "voice_over": "While the ghee heats, make the sugar syrup. Combine \u2154 cup sugar with 1 \u00bc cups water in a saucepan. Bring to a boil, then simmer.",
+            "scene_image_filename": "recipe_fks18ggcbnvjjfb/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "Semolina and cashews roasting in ghee, being stirred constantly with a spatula. The semolina and cashews are turning a light golden color.",
+            "text": "Roasting Semolina",
+            "voice_over": "Add the semolina and cashews to the hot ghee. Roast for 7-8 minutes over low heat, stirring constantly, until light golden and fragrant.",
+            "scene_image_filename": "recipe_fks18ggcbnvjjfb/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Cardamom powder, chironji (optional), raisins, and edible camphor (optional) being added to the roasted semolina and cashew mixture.",
+            "text": "Flavor Boost",
+            "voice_over": "Add the cardamom powder, chironji (if using), raisins, and camphor (if using). Stir well.",
+            "scene_image_filename": "recipe_fks18ggcbnvjjfb/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Hot sugar syrup being carefully poured into the semolina mixture while stirring continuously. The mixture is spluttering.",
+            "text": "Syrup Infusion",
+            "voice_over": "Carefully pour the hot sugar syrup into the semolina mixture. Stir continuously to prevent lumps. It will splutter, so be cautious.",
+            "scene_image_filename": "recipe_fks18ggcbnvjjfb/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Suji Halwa thickening and pulling away from the sides of the pan as it's stirred.",
+            "text": "Thickening",
+            "voice_over": "Keep stirring until the halwa thickens and pulls away from the sides of the pan. This should take a few minutes.",
+            "scene_image_filename": "recipe_fks18ggcbnvjjfb/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A bowl of Suji Halwa garnished with cashews and raisins. A spoon is placed next to the bowl, ready to serve.",
+            "text": "Ready to Serve",
+            "voice_over": "Serve your delicious Suji Halwa hot, warm, or at room temperature. It's a delightful treat any time of day!",
+            "scene_image_filename": "recipe_fks18ggcbnvjjfb/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks18ggcbnvjjfb-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 30,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Semolina",
+        "Ghee",
+        "Sugar",
+        "Cardamom",
+        "Cashews",
+        "Raisins"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Holiday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the semolina is roasted properly to a light golden color, as this is crucial for the texture and flavor of the halwa.",
+        "Be cautious when adding the hot sugar syrup to the semolina mixture, as it will splutter.",
+        "Adjust the amount of sugar according to your preference.",
+        "For a richer flavor, use high-quality ghee.",
+        "Suji halwa can be stored in an airtight container at room temperature for a day or two."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kaju_katli/recipe_fks18ggcbnvjjfb/fks18ggcbnvjjfb_main_image.jpg"
+    },
+    {
+      "id": "fks1ibut63osr67",
+      "name": "Rainbow Cake",
+      "url": "http://www.yemek-tarifleri.com/gokkusagi-kek",
+      "ingredients": [
+        "1/2 cup (113g) unsalted butter, melted",
+        "1 1/2 cups (300g) brown sugar",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 1/2 cups (190g) all-purpose flour",
+        "1 teaspoon vanilla extract",
+        "2 large eggs",
+        "Assorted organic fruit-based food coloring gels"
+      ],
+      "directions": [
+        "Step 1: Preheat oven to 350\u00b0F (175\u00b0C). Grease and flour a 9x13 inch baking pan.",
+        "Step 2: In a large bowl, cream together the melted butter, brown sugar, and vanilla extract until light and fluffy.",
+        "Step 3: Beat in the eggs one at a time, mixing well after each addition.",
+        "Step 4: In a separate bowl, whisk together the flour, baking powder, and salt.",
+        "Step 5: Gradually add the dry ingredients to the wet ingredients, mixing until just combined. Do not overmix.",
+        "Step 6: Divide the batter evenly into several small bowls. Add a different color of food coloring gel to each bowl, starting with a small amount and adding more until the desired color is achieved.",
+        "Step 7: Layer the different colored batters into the prepared pan, swirling them together slightly for a marbled effect.",
+        "Step 8: Bake for 25-30 minutes, or until a wooden skewer inserted into the center comes out clean.",
+        "Step 9: Let the cake cool completely in the pan before slicing and serving."
+      ],
+      "duration": "30 minutes ",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1ibut63osr67-m.webp",
+      "nutrition": {
+        "calories": "250 per serving",
+        "protein": "3g per serving",
+        "carbs": "40g per serving",
+        "fat": "10g per serving",
+        "fiber": "1g per serving",
+        "sugar": "25g per serving",
+        "sodium": "150mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant slice of rainbow cake on a rustic wooden board, adorned with fresh berries and a dusting of powdered sugar. Use a slightly elevated side angle, showcasing the layered colors and moist crumb.  Natural, diffused light should highlight the textures and create a bright, cheerful mood.  Shallow depth of field, focusing on the cake's layers, with a blurred background of colorful sprinkles. Aim for a magazine-quality image with rich, saturated colors and impeccable styling.",
+      "image_filepath": "recipe_fks1ibut63osr67/main_image",
+      "video_script": {
+        "title": "Rainbow Cake Recipe",
+        "description": "Learn how to make a vibrant and delicious Rainbow Cake with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a slice of perfectly baked rainbow cake, showcasing the vibrant layers and moist texture. The cake is placed on a cake stand, with a few forks and napkins beside it. The background is slightly blurred and aesthetically pleasing with some colorful sprinkles scattered around.",
+            "text": "Rainbow Cake",
+            "voice_over": "Today, we're making a colorful and delicious Rainbow Cake! It's perfect for birthdays or any celebration.",
+            "scene_image_filename": "recipe_fks1ibut63osr67/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ibut63osr67-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Ingredients are arranged neatly on a table. Show butter, brown sugar, eggs, and vanilla extract. Group dry ingredients together: flour, baking powder, and salt.  Include the food coloring gels arranged like a rainbow arc.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: butter, brown sugar, eggs, vanilla extract, flour, baking powder, salt, and assorted food coloring gels.",
+            "scene_image_filename": "recipe_fks1ibut63osr67/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ibut63osr67-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Butter and brown sugar are being creamed together in a large bowl using an electric mixer.",
+            "text": "Cream Butter & Sugar",
+            "voice_over": "Preheat your oven to 350\u00b0F (175\u00b0C). Grease and flour a 9x13 inch baking pan. Cream together the butter, brown sugar, and vanilla extract until light and fluffy.",
+            "scene_image_filename": "recipe_fks1ibut63osr67/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ibut63osr67-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 4,
+            "image_prompt": "Eggs being cracked into the butter-sugar mixture one at a time.",
+            "text": "Beat in Eggs",
+            "voice_over": "Beat in the eggs one at a time, mixing well after each addition.",
+            "scene_image_filename": "recipe_fks1ibut63osr67/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ibut63osr67-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "image_prompt": "Flour, baking powder and salt whisked together in a bowl. Dry ingredients are gradually added to the wet ingredients using a spatula.",
+            "text": "Combine Wet & Dry",
+            "voice_over": "In a separate bowl, whisk together flour, baking powder, and salt. Gradually add the dry ingredients to the wet ingredients, mixing until just combined. Don't overmix.",
+            "scene_image_filename": "recipe_fks1ibut63osr67/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ibut63osr67-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Batter divided into separate bowls and each bowl is being mixed with a different food color.",
+            "text": "Color the Batter",
+            "voice_over": "Divide the batter evenly into bowls. Add a different food coloring gel to each bowl. Start with a small amount of color and add more until you get your desired shade.",
+            "scene_image_filename": "recipe_fks1ibut63osr67/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ibut63osr67-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Different colored batters being carefully layered into the prepared pan, slightly swirling together with a toothpick.",
+            "text": "Layer Batter",
+            "voice_over": "Layer the colored batters into the pan, swirling them together slightly for a marbled effect.",
+            "scene_image_filename": "recipe_fks1ibut63osr67/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ibut63osr67-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Cake baking in the preheated oven.",
+            "text": "Bake",
+            "voice_over": "Bake for 25-30 minutes, or until a skewer comes out clean.",
+            "scene_image_filename": "recipe_fks1ibut63osr67/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ibut63osr67-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The baked rainbow cake, cooled, and sliced, served on plates with a scoop of ice cream on top.",
+            "text": "Serve & Enjoy",
+            "voice_over": "Let it cool completely before slicing and serving. This cake is delicious on its own, or you can serve it with a scoop of ice cream.  Each serving has about 250 calories, 3g of protein, 40g of carbs, and 10g of fat. Enjoy!",
+            "scene_image_filename": "recipe_fks1ibut63osr67/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ibut63osr67-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Dessert"
+      ],
+      "cuisine_type": "American",
+      "dietary_tags": [],
+      "ingredient_tags": [
+        "Butter",
+        "Sugar",
+        "Eggs",
+        "Flour",
+        "Vanilla"
+      ],
+      "occasion_tags": [
+        "Birthday",
+        "Party",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "Use gel food coloring for more vibrant colors. Start with a small amount of food coloring and add more as needed.",
+        "Do not overmix the batter, as this can result in a tough cake.",
+        "Let the cake cool completely before frosting or serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/kaju_katli/recipe_fks1ibut63osr67/fks1ibut63osr67_main_image.jpg"
+    }
+  ]
+}
