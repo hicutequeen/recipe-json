@@ -1,0 +1,315 @@
+{
+  "updated_at": "2025-04-29 00:05:16",
+  "categories": {
+    "barfi": {
+      "name": "barfi",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/barfi/barfi_details.json",
+      "list_file": null
+    },
+    "biryani": {
+      "name": "biryani",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/biryani/biryani_details.json",
+      "list_file": null
+    },
+    "breakfast2": {
+      "name": "breakfast2",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/breakfast2/breakfast_details.json",
+      "list_file": null
+    },
+    "brown_rice": {
+      "name": "brown_rice",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/brown_rice/brown_rice_details.json",
+      "list_file": null
+    },
+    "burger": {
+      "name": "burger",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/burger/burger_details.json",
+      "list_file": null
+    },
+    "butter_chicken": {
+      "name": "butter_chicken",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/butter_chicken/butter_chicken_details.json",
+      "list_file": null
+    },
+    "chicken": {
+      "name": "chicken",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/chicken/chicken_details.json",
+      "list_file": null
+    },
+    "chicken_stew": {
+      "name": "chicken_stew",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/chicken_stew/chicken_stew_details.json",
+      "list_file": null
+    },
+    "chole_bhature": {
+      "name": "chole_bhature",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/chole_bhature/chole_bhature_details.json",
+      "list_file": null
+    },
+    "chutneys": {
+      "name": "chutneys",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/chutneys/chutneys_details.json",
+      "list_file": null
+    },
+    "coffee": {
+      "name": "coffee",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/coffee/coffee_details.json",
+      "list_file": null
+    },
+    "cookies": {
+      "name": "cookies",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/cookies/cookies_details.json",
+      "list_file": null
+    },
+    "curries": {
+      "name": "curries",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/curries/curries_details.json",
+      "list_file": null
+    },
+    "dal": {
+      "name": "dal",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/dal/dal_details.json",
+      "list_file": null
+    },
+    "dessert": {
+      "name": "dessert",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/dessert/dessert_details.json",
+      "list_file": null
+    },
+    "dosa": {
+      "name": "dosa",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/dosa/dosa_details.json",
+      "list_file": null
+    },
+    "drinks": {
+      "name": "drinks",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/drinks/drinks_details.json",
+      "list_file": null
+    },
+    "egg_roll": {
+      "name": "egg_roll",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/egg_roll/egg_roll_details.json",
+      "list_file": null
+    },
+    "fish": {
+      "name": "fish",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/fish/fish_details.json",
+      "list_file": null
+    },
+    "fried_rice": {
+      "name": "fried_rice",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/fried_rice/fried_rice_details.json",
+      "list_file": null
+    },
+    "fries": {
+      "name": "fries",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/fries/fries_details.json",
+      "list_file": null
+    },
+    "grill_and_bbq": {
+      "name": "grill_and_bbq",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/grill_and_bbq/grill_and_bbq_details.json",
+      "list_file": null
+    },
+    "gulab_jamun": {
+      "name": "gulab_jamun",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/gulab_jamun/gulab_jamun_details.json",
+      "list_file": null
+    },
+    "halwa": {
+      "name": "halwa",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/halwa/halwa_details.json",
+      "list_file": null
+    },
+    "ice_cream": {
+      "name": "ice_cream",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/ice_cream/ice_cream_details.json",
+      "list_file": null
+    },
+    "idli": {
+      "name": "idli",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/idli/idli_details.json",
+      "list_file": null
+    },
+    "indian_bread": {
+      "name": "indian_bread",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/indian_bread/indian_bread_details.json",
+      "list_file": null
+    },
+    "indian_chicken": {
+      "name": "indian_chicken",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/indian_chicken/indian_chicken_details.json",
+      "list_file": null
+    },
+    "indian_fish": {
+      "name": "indian_fish",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/indian_fish/indian_fish_details.json",
+      "list_file": null
+    },
+    "jalebi": {
+      "name": "jalebi",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/jalebi/jalebi_details.json",
+      "list_file": null
+    },
+    "kaju_katli": {
+      "name": "kaju_katli",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/kaju_katli/kaju_katli_details.json",
+      "list_file": null
+    },
+    "kheer": {
+      "name": "kheer",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/kheer/kheer_details.json",
+      "list_file": null
+    },
+    "kids": {
+      "name": "kids",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/kids/kids_details.json",
+      "list_file": null
+    },
+    "kulfi": {
+      "name": "kulfi",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/kulfi/kulfi_details.json",
+      "list_file": null
+    },
+    "ladoo": {
+      "name": "ladoo",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/ladoo/ladoo_details.json",
+      "list_file": null
+    },
+    "lassi": {
+      "name": "lassi",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/lassi/lassi_details.json",
+      "list_file": null
+    },
+    "launch": {
+      "name": "launch",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/launch/launch_details.json",
+      "list_file": null
+    },
+    "main_dish": {
+      "name": "main_dish",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/main_dish/main_dish_details.json",
+      "list_file": null
+    },
+    "mysore_pak": {
+      "name": "mysore_pak",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/mysore_pak/mysore_pak_details.json",
+      "list_file": null
+    },
+    "pancake": {
+      "name": "pancake",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/pancake/pancake_details.json",
+      "list_file": null
+    },
+    "paneer_roll": {
+      "name": "paneer_roll",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/paneer_roll/paneer_roll_details.json",
+      "list_file": null
+    },
+    "paneer_tikka": {
+      "name": "paneer_tikka",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/paneer_tikka/paneer_tikka_details.json",
+      "list_file": null
+    },
+    "peda": {
+      "name": "peda",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/peda/peda_details.json",
+      "list_file": null
+    },
+    "pizza": {
+      "name": "pizza",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/pizza/pizza_details.json",
+      "list_file": null
+    },
+    "rajma_chawal": {
+      "name": "rajma_chawal",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/rajma_chawal/rajma_chawal_details.json",
+      "list_file": null
+    },
+    "rasam": {
+      "name": "rasam",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/rasam/rasam_details.json",
+      "list_file": null
+    },
+    "rasgulla": {
+      "name": "rasgulla",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/rasgulla/rasgulla_details.json",
+      "list_file": null
+    },
+    "rasmalai": {
+      "name": "rasmalai",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/rasmalai/rasmalai_details.json",
+      "list_file": null
+    },
+    "rice": {
+      "name": "rice",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/rice/rice_details.json",
+      "list_file": null
+    },
+    "rice_chicken": {
+      "name": "rice_chicken",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/rice_chicken/rice_chicken_details.json",
+      "list_file": null
+    },
+    "salads": {
+      "name": "salads",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/salads/salads_details.json",
+      "list_file": null
+    },
+    "sambhar": {
+      "name": "sambhar",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/sambhar/sambhar_details.json",
+      "list_file": null
+    },
+    "sandesh": {
+      "name": "sandesh",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/sandesh/sandesh_details.json",
+      "list_file": null
+    },
+    "sandwich": {
+      "name": "sandwich",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/sandwich/sandwich_details.json",
+      "list_file": null
+    },
+    "side_dishes": {
+      "name": "side_dishes",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/side_dishes/side_dishes_details.json",
+      "list_file": null
+    },
+    "smoothies": {
+      "name": "smoothies",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/smoothies/smoothies_details.json",
+      "list_file": null
+    },
+    "snacks": {
+      "name": "snacks",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/snacks/snacks_details.json",
+      "list_file": null
+    },
+    "tea": {
+      "name": "tea",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/tea/tea_details.json",
+      "list_file": null
+    },
+    "tofu": {
+      "name": "tofu",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/tofu/tofu_details.json",
+      "list_file": null
+    },
+    "uttapam": {
+      "name": "uttapam",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/uttapam/uttapam_details.json",
+      "list_file": null
+    },
+    "vada": {
+      "name": "vada",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/vada/vada_details.json",
+      "list_file": null
+    },
+    "veg": {
+      "name": "veg",
+      "details_file": "https://raw.githubusercontent.com/hicutequeen/recipe-json/main/veg/veg_details.json",
+      "list_file": null
+    }
+  }
+}
