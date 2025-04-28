@@ -1,0 +1,2192 @@
+{
+  "recipes": [
+    {
+      "id": "fks2fuduelskpav",
+      "name": "Sabudana Vada (Sago Patties)",
+      "url": "https://www.vegrecipesofindia.com/sabudana-vada-recipe-how-to-make-sabudana-vada-recipe/",
+      "ingredients": [
+        "1 cup sabudana (sago or tapioca pearls), soaked overnight and drained",
+        "4 medium-sized potatoes, peeled and boiled",
+        "\u00bd cup peanuts, roasted and coarsely ground",
+        "1 teaspoon cumin seeds, optional",
+        "1 to 2 green chillies, finely chopped",
+        "1 teaspoon ginger, finely chopped",
+        "2 teaspoons lemon juice, optional",
+        "2 tablespoons chopped coriander leaves, optional",
+        "1.5 teaspoons sugar, or to taste",
+        "1 to 2 tablespoons buckwheat flour or amaranth flour, optional",
+        "Rock salt (sendha namak), to taste",
+        "Oil, for deep frying"
+      ],
+      "directions": [
+        "Step 1: Start by soaking 1 cup of sabudana (sago) in water for 5 hours or overnight until it becomes soft.",
+        "Step 2: After soaking, ensure the sago pearls are tender without any hard center. Drain all excess water thoroughly to prevent soggy patties.",
+        "Step 3: Scrub and rinse 4 medium-sized potatoes. Boil the potatoes in a pressure cooker for 10 to 12 minutes or until tender. Alternatively, boil in a pan or an Instant Pot until fork-tender. Drain and let cool.",
+        "Step 4: Once the potatoes are cool, peel and mash them thoroughly.",
+        "Step 5: In a skillet, roast \u00bd cup of peanuts until crisp. Allow them to cool, then coarsely crush them using a mortar-pestle or grinder.",
+        "Step 6: In a mixing bowl, combine the soaked sabudana, mashed potatoes, coarsely ground peanuts, cumin seeds (if using), sugar, ginger, green chillies, coriander leaves, lemon juice, and rock salt. Mix thoroughly until well combined.",
+        "Step 7: Shape the mixture into flat round vadas or patties and set them aside.",
+        "Step 8: Heat oil in a deep frying pan over medium heat. Test the oil with a small piece of the mixture; if it sizzles, it's ready.",
+        "Step 9: Gently place the vadas into the hot oil, without overcrowding. Fry them until golden and crisp, turning when necessary.",
+        "Step 10: Once cooked, remove the vadas with a slotted spoon and drain excess oil on paper towels.",
+        "Step 11: Serve the sabudana vada hot or warm."
+      ],
+      "duration": "5 hr 30 m ",
+      "serves": "18",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-m.webp",
+      "nutrition": {
+        "calories": "107",
+        "protein": "2",
+        "carbs": "17",
+        "fat": "4",
+        "fiber": "1",
+        "sugar": "1",
+        "sodium": "15"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant plate of golden-brown Sabudana Vada arranged artfully with a sprinkle of fresh coriander and a side of green chutney in a rustic wooden bowl. Use soft, diffused natural light to enhance the textures of the crispy patties, highlighting the glossy sheen of the chutney. Position the shot at a 45-degree angle to emphasize the layers and colors, with a shallow depth of field to softly blur the background. Incorporate a light, neutral linen tablecloth and a few scattered peanuts for added interest.",
+      "image_filepath": "recipe_fks2fuduelskpav/main_image",
+      "video_script": {
+        "title": "How to Make Delicious Sabudana Vada (Sago Patties)",
+        "description": "Learn to make crispy and flavorful Sabudana Vada, perfect for snacks or fasting days. This step-by-step tutorial will guide you through the process with easy ingredients and instructions.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of golden brown Sabudana Vada served with green chutney and garnished with fresh coriander on a colorful plate.",
+            "text": "Crispy Sabudana Vada",
+            "voice_over": "Welcome to our kitchen! Today, we're making crispy and delicious Sabudana Vada, perfect for any occasion.",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "A selection of ingredients neatly arranged on a tabletop: sabudana, potatoes, peanuts, spices, and fresh herbs, with measuring cups.",
+            "text": "Gather Your Ingredients",
+            "voice_over": "For this recipe, you will need soaked sabudana, boiled potatoes, roasted peanuts, and a mix of spices and herbs.",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of soaked sabudana pearls in a bowl, showing their transformation from hard to soft.",
+            "text": "Soak the Sabudana",
+            "voice_over": "Start by soaking 1 cup of sabudana in water for at least 5 hours or overnight until soft and tender.",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A pot of boiled potatoes being drained, with a fork testing the tenderness of the potatoes.",
+            "text": "Boil the Potatoes",
+            "voice_over": "Next, boil 4 medium potatoes for 10 to 12 minutes until fork-tender. Let them cool before peeling.",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Roasting peanuts in a skillet until they are golden brown and crisp.",
+            "text": "Roast the Peanuts",
+            "voice_over": "Roast half a cup of peanuts until crispy, then coarsely crush them using a mortar or grinder.",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "A mixing bowl filled with sabudana, mashed potatoes, roasted peanuts, and chopped vegetables, being mixed together.",
+            "text": "Mix Everything Together",
+            "voice_over": "In a bowl, combine the soaked sabudana, mashed potatoes, crushed peanuts, spices, and herbs. Mix until well combined.",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Hands shaping the mixture into flat, round vadas on a clean surface.",
+            "text": "Shape the Vadas",
+            "voice_over": "Shape the mixture into flat round patties, setting them aside for frying.",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A saucepan with oil heating up on the stove, with a small patty being tested for doneness.",
+            "text": "Heat the Oil",
+            "voice_over": "Heat oil in a deep frying pan over medium heat. Test with a small piece; if it sizzles, it's ready to fry.",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "Frying vadas in hot oil, showing them bubbling and turning golden brown.",
+            "text": "Fry Until Golden",
+            "voice_over": "Gently place the vadas in hot oil, frying until golden brown and crisp, turning as needed.",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "Removing the fried vadas from oil with a slotted spoon and draining on paper towels.",
+            "text": "Drain Excess Oil",
+            "voice_over": "Once crispy, remove the vadas with a slotted spoon and drain excess oil on paper towels.",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "A final serving of Sabudana Vada on a plate, with a side of green chutney and a sprinkle of fresh coriander.",
+            "text": "Serve Hot",
+            "voice_over": "Serve the Sabudana Vada hot or warm with your favorite chutney. Enjoy!",
+            "scene_image_filename": "recipe_fks2fuduelskpav/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fuduelskpav-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Potatoes",
+        "Peanuts",
+        "Sago",
+        "Herbs"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure that the sago is well-soaked to prevent bursting in hot oil.",
+        "Fry the vadas in batches to avoid overcrowding the pan."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fks2fuduelskpav/fks2fuduelskpav_main_image.jpg"
+    },
+    {
+      "id": "60476d1a1js1",
+      "name": "Medu Vada",
+      "url": "http://www.food.com/recipe/medu-vada-511912",
+      "ingredients": [
+        "1 cup split washed urad dal, soaked in water for 4-6 hours",
+        "1 pinch asafoetida (hing)",
+        "1 tablespoon green chili, chopped",
+        "1 medium onion, finely chopped",
+        "2 tablespoons fresh cilantro, chopped",
+        "1 teaspoon salt",
+        "Oil, for frying"
+      ],
+      "directions": [
+        "Step 1: Wash and soak the urad dal in about 3 cups of water for 4-6 hours.",
+        "Step 2: Drain the soaked dal and grind it into a smooth paste.",
+        "Step 3: Transfer the dal batter to a wide bowl and add the chopped cilantro, green chili, onion, salt, and asafoetida. Mix well.",
+        "Step 4: Beat the mixture vigorously for 2-3 minutes to make the batter light and fluffy and to ensure the right consistency.",
+        "Step 5: Ensure that the batter holds its shape when placed on your palm.",
+        "Step 6: Prepare the batter just before frying. Heat oil in a frying pan over medium-high heat, allowing about 1 inch of oil.",
+        "Step 7: To test if the oil is ready, drop a small amount of batter into it; it should sizzle and rise to the surface without changing color immediately.",
+        "Step 8: Wet your palms, take a golf ball-sized portion of batter, flatten it in your palm, and make a hole in the center using your other hand's fingers.",
+        "Step 9: Slowly slide the vada into the hot oil and fry until golden brown on both sides.",
+        "Step 10: Remove the vadas and place them on paper towels to drain excess oil. Serve hot with coconut chutney or tomato ketchup."
+      ],
+      "duration": "1 hrs",
+      "serves": "8",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-m.webp",
+      "nutrition": {
+        "calories": "120",
+        "protein": "6",
+        "carbs": "14",
+        "fat": "5",
+        "fiber": "3",
+        "sugar": "1",
+        "sodium": "200"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a stunning close-up of Medu Vada, showcasing the golden-brown, crispy exterior and soft, fluffy interior. Use natural light from a side window to highlight the textures and vibrant green flecks of cilantro. Style the dish on a rustic wooden board, garnished with fresh cilantro and a small bowl of coconut chutney. Incorporate a blurred background of colorful spices in small bowls for depth. Focus on the vada with a shallow depth of field to create an inviting, warm mood.",
+      "image_filepath": "recipe_60476d1a1js1/main_image",
+      "video_script": {
+        "title": "How to Make Medu Vada: A South Indian Delight",
+        "description": "Learn how to make crispy and fluffy Medu Vada, a popular South Indian snack perfect for any occasion!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Medu Vada stacked on a banana leaf, garnished with fresh cilantro and served with coconut chutney and a bowl of tomato ketchup.",
+            "text": "Delicious Medu Vada",
+            "voice_over": "Welcome! Today, we'll be making the famous South Indian snack, Medu Vada, known for its crispy texture and amazing flavor!",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "All the ingredients neatly arranged on a wooden countertop: urad dal, green chilies, onions, cilantro, salt, and a small bowl of asafoetida, with a frying pan and oil in the background.",
+            "text": "Ingredients Needed",
+            "voice_over": "For this recipe, we need 1 cup of soaked urad dal, a pinch of asafoetida, chopped green chili, finely chopped onion, fresh cilantro, and salt. Don't forget the oil for frying!",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A bowl of soaking urad dal in water, with a timer set to 6 hours in the background.",
+            "text": "Soak Urad Dal",
+            "voice_over": "First, wash and soak the urad dal in 3 cups of water for 4 to 6 hours to soften it.",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A blender filled with soaked urad dal, being blended into a smooth paste.",
+            "text": "Grind to Paste",
+            "voice_over": "Next, drain the dal and grind it into a smooth paste. This creates the base for our vada.",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A wide bowl with ground urad dal paste, being mixed with chopped cilantro, green chili, onion, salt, and asafoetida.",
+            "text": "Mix Ingredients",
+            "voice_over": "Transfer the dal batter to a bowl and add chopped cilantro, green chili, onion, salt, and a pinch of asafoetida. Mix thoroughly.",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A person vigorously beating the batter in the bowl to make it fluffy, showing the texture changing.",
+            "text": "Beat for Fluffiness",
+            "voice_over": "Beat the mixture vigorously for 2 to 3 minutes. This aerates the batter, making it light and fluffy.",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A frying pan with hot oil, and a small piece of batter dropped into it to test the temperature.",
+            "text": "Prepare to Fry",
+            "voice_over": "Heat oil in a frying pan over medium-high heat, about 1 inch deep. Test the oil by dropping a small batter ball; it should sizzle.",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A hand wetting palms and forming a vada in the shape of a donut, with the hole perfectly centered.",
+            "text": "Shape the Vada",
+            "voice_over": "Wet your palms and take a golf ball-sized portion of the batter. Flatten it and make a hole in the center.",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "The shaped vada carefully sliding into the hot oil, with bubbles forming around it.",
+            "text": "Fry Until Golden",
+            "voice_over": "Gently slide the shaped vada into the hot oil and fry until golden brown on both sides, about 3-4 minutes.",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Golden brown Medu Vadas being removed from hot oil and placed on paper towels to drain excess oil.",
+            "text": "Drain Excess Oil",
+            "voice_over": "Once golden, remove the vadas and place them on paper towels to drain excess oil.",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "A beautifully arranged serving platter with Medu Vada, coconut chutney, and tomato ketchup as dips.",
+            "text": "Serve Hot",
+            "voice_over": "Serve your hot and crispy Medu Vada with coconut chutney or tomato ketchup for a delightful snack!",
+            "scene_image_filename": "recipe_60476d1a1js1/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/60476d1a1js1-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 40,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack",
+        "Breakfast"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Dal",
+        "Vegetables",
+        "Spices",
+        "Oil"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the batter is not too thick or too thin for optimal frying.",
+        "Using fresh ingredients enhances the flavor of the vadas."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_60476d1a1js1/60476d1a1js1_main_image.jpg"
+    },
+    {
+      "id": "d36osrgvn",
+      "name": "Dahi Vada",
+      "url": "http://keralarecipes.com/?recipe=dahi-vada",
+      "ingredients": [
+        "1/2 cup urad dal, soaked for 4 hours",
+        "1/2 cup moong dal, soaked for 4 hours",
+        "1 cup plain yogurt, beaten",
+        "1/2 cup milk, for thinning the yogurt",
+        "2 teaspoons cumin seeds (jeera), toasted and crushed, adjust to taste",
+        "Oil for deep frying, as needed"
+      ],
+      "directions": [
+        "Step 1: Soak the urad dal and moong dal in water for 4 hours, then drain.",
+        "Step 2: Blend the soaked dals in a blender on medium speed, adding minimal water to achieve a smooth paste.",
+        "Step 3: Add salt to taste to the dal mixture and heat oil in a deep frying pan.",
+        "Step 4: Once the oil is hot, drop spoonfuls of the batter into the oil, frying until they are golden brown on all sides.",
+        "Step 5: Remove the fried vadas and place them in a bowl of water to soak until ready to serve.",
+        "Step 6: In a separate bowl, beat the yogurt with the milk to achieve a smooth consistency, adding crushed cumin seeds and adjusting spice levels as desired.",
+        "Step 7: Gently squeeze the soaked vadas to remove excess water, then layer them on a serving platter and top with the yogurt mixture. Serve immediately."
+      ],
+      "duration": null,
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36osrgvn-m.webp",
+      "nutrition": {
+        "calories": "150 per serving",
+        "protein": "7 grams per serving",
+        "carbs": "20 grams per serving",
+        "fat": "6 grams per serving",
+        "fiber": "3 grams per serving",
+        "sugar": "3 grams per serving",
+        "sodium": "250 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a high-quality image of Dahi Vada with a soft-focus background to highlight the dish's creamy yogurt and golden-brown vadas. Use natural light from the side to enhance textures, emphasizing the contrast between the crispy exterior and the soft interior. Style with a rustic wooden table and a slate backdrop, garnished with fresh cilantro and a sprinkle of crushed cumin. Shoot at a 45-degree angle with a shallow depth of field to draw attention to the vadas, creating a warm, inviting mood.",
+      "image_filepath": "recipe_d36osrgvn/main_image",
+      "video_script": {
+        "title": "Delicious Dahi Vada Recipe Tutorial",
+        "description": "Learn how to make the classic Indian snack, Dahi Vada, with this easy-to-follow recipe tutorial!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Dahi Vada with yogurt, spices, and garnishes, displaying its vibrant colors and textures.",
+            "text": "Welcome to our Dahi Vada tutorial!",
+            "voice_over": "Today, we're making a delicious and refreshing Dahi Vada, a popular Indian snack that's perfect for any occasion.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "All the ingredients laid out on a kitchen countertop, including urad dal, moong dal, yogurt, and spices.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "For this recipe, we need 1/2 cup of soaked urad dal, 1/2 cup of soaked moong dal, 1 cup of beaten yogurt, and some spices.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A blender filled with soaked urad and moong dal, ready for blending.",
+            "text": "Blend the soaked dals.",
+            "voice_over": "Start by blending the soaked urad and moong dal in a blender on medium speed, adding minimal water to create a smooth paste.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A bowl of the blended dal mixture with spices being added, showing salt and crushed cumin seeds.",
+            "text": "Add salt and spices.",
+            "voice_over": "Add salt to taste, and sprinkle in some toasted and crushed cumin seeds for extra flavor.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A frying pan filled with hot oil, illustrating the frying process of the vadas.",
+            "text": "Fry the vadas until golden.",
+            "voice_over": "Heat oil in a deep frying pan. Once hot, drop spoonfuls of the batter and fry until golden brown on all sides, about 4-5 minutes.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Fried vadas placed in a bowl of water, soaking.",
+            "text": "Soak the fried vadas.",
+            "voice_over": "Remove the fried vadas and place them in a bowl of water to soak until you're ready to serve.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A bowl of yogurt being beaten with milk, displaying a smooth consistency.",
+            "text": "Prepare the yogurt mixture.",
+            "voice_over": "In a separate bowl, beat the yogurt with milk to achieve a smooth consistency, then mix in the crushed cumin seeds.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 7,
+            "image_prompt": "Soaked vadas being gently squeezed and layered on a serving platter, topped with yogurt.",
+            "text": "Assemble the Dahi Vada.",
+            "voice_over": "Gently squeeze the soaked vadas to remove excess water. Layer them on a serving platter and generously top with the yogurt mixture.",
+            "scene_image_filename": "recipe_d36osrgvn/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "The final plated Dahi Vada, garnished with spices and served with a side of chutney.",
+            "text": "Enjoy your Dahi Vada!",
+            "voice_over": "Serve the Dahi Vada immediately, garnished with spices, and enjoy this refreshing snack!",
+            "scene_image_filename": "recipe_d36osrgvn/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36osrgvn-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Appetizer",
+        "Snack",
+        "Side Dish"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Lentils",
+        "Dairy",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Celebration"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is adequately heated before frying to achieve a crispy texture.",
+        "You can add tamarind chutney or mint chutney for additional flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_d36osrgvn/d36osrgvn_main_image.jpg"
+    },
+    {
+      "id": "fksd3522c0rq",
+      "name": "Masala Vada - Spicy Lentil Fritters",
+      "url": "http://www.sharmispassions.com/2010/10/masala-vadai-paruppu-vadai.html",
+      "ingredients": [
+        "1 cup chana dal (soaked for 2 to 3 hours and drained)",
+        "10 small onions or 1 large onion (finely chopped)",
+        "1 tablespoon rice flour or semolina (rava)",
+        "3 to 4 tablespoons fresh coriander leaves (finely chopped)",
+        "Oil for deep frying",
+        "Salt to taste",
+        "1 teaspoon fennel seeds (sombu)",
+        "2 red chillies",
+        "5 cloves garlic (finely chopped)",
+        "1/2 inch piece of ginger (grated)"
+      ],
+      "directions": [
+        "Step 1: Wash and soak the chana dal in water for 2 to 3 hours, then drain the water and set aside.",
+        "Step 2: In a blender, grind the ginger, garlic, red chillies, and fennel seeds into a coarse paste.",
+        "Step 3: Grind the soaked chana dal into a coarse mixture, ensuring that some pieces remain whole. Transfer to a mixing bowl.",
+        "Step 4: Add the chopped onions, rice flour or semolina, coriander leaves, salt, and the ground spice paste to the chana dal mixture. Mix thoroughly without adding water. The mixture should be crumbly but should hold together when formed into balls.",
+        "Step 5: Form the mixture into lemon-sized balls and gently flatten them to form thick patties.",
+        "Step 6: Arrange the patties on a plate, ready for frying.",
+        "Step 7: Heat oil in a kadai (deep frying pan) over medium heat. Once hot, carefully drop the patties into the oil in batches.",
+        "Step 8: Deep fry the patties until they are golden brown, turning them halfway to ensure even cooking. Drain on paper towels before serving."
+      ],
+      "duration": "25 minutes ",
+      "serves": "20",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "7",
+        "carbs": "20",
+        "fat": "5",
+        "fiber": "5",
+        "sugar": "1",
+        "sodium": "200"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant overhead shot of crispy Masala Vada arranged artfully on a rustic wooden platter, garnished with fresh coriander leaves and accompanied by a small bowl of tangy green chutney. Use natural light to accentuate the golden-brown textures and deep colors of the fritters. Incorporate a soft-focus background of textured fabric in warm earth tones to enhance warmth. Use a shallow depth of field to draw attention to the vadas, creating a cozy, inviting mood that evokes the essence of traditional Indian street food.",
+      "image_filepath": "recipe_fksd3522c0rq/main_image",
+      "video_script": {
+        "title": "Masala Vada - Spicy Lentil Fritters Recipe",
+        "description": "Learn how to make delicious and crispy Masala Vada, a popular Indian snack made from lentils. Perfect for tea time!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of golden-brown Masala Vada with a sprinkle of coriander and a side of coconut chutney.",
+            "text": "Welcome to our Masala Vada recipe!",
+            "voice_over": "Today we're making Masala Vada - crispy, spicy lentil fritters that are perfect for snacking.",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "A countertop filled with the ingredients for Masala Vada including chana dal, onions, herbs, and spices.",
+            "text": "Ingredients for Masala Vada",
+            "voice_over": "You'll need chana dal, onions, fresh coriander, and spices including garlic, ginger, and red chillies.",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "Close-up shot of chana dal soaking in water with a timer showing 2 to 3 hours.",
+            "text": "Soak chana dal for 2 hours.",
+            "voice_over": "Step one: Wash and soak 1 cup of chana dal in water for 2 to 3 hours. Then, drain and set aside.",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A blender with a mixture of ginger, garlic, red chillies, and fennel seeds, ready to be blended.",
+            "text": "Make a spice paste.",
+            "voice_over": "Step two: In a blender, grind the ginger, garlic, red chillies, and fennel seeds into a coarse paste.",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A bowl with coarsely ground chana dal, some whole pieces visible.",
+            "text": "Grind chana dal coarsely.",
+            "voice_over": "Step three: Grind the soaked chana dal into a coarse mixture, ensuring some pieces remain whole, then transfer to a bowl.",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A mixing bowl with chana dal mixture, chopped onions, coriander, and a sprinkle of salt, all being combined.",
+            "text": "Combine all ingredients.",
+            "voice_over": "Step four: Add chopped onions, rice flour, coriander, salt, and the spice paste. Mix thoroughly without adding water.",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Hands forming the mixture into small balls and gently flattening them into patties.",
+            "text": "Shape the vadas.",
+            "voice_over": "Step five: Shape the mixture into lemon-sized balls, gently flattening them to form thick patties.",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A kadai filled with hot oil ready for frying, and the patties arranged on a plate nearby.",
+            "text": "Heat oil for frying.",
+            "voice_over": "Step six: Heat oil in a kadai over medium heat. Ensure it\u2019s hot before frying.",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Patties being dropped into the oil, sizzling, with bubbles forming.",
+            "text": "Deep fry until golden brown.",
+            "voice_over": "Step seven: Carefully drop the patties into the hot oil in batches, frying until golden brown and crispy.",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Golden brown Masala Vada on a plate being drained on paper towels.",
+            "text": "Drain on paper towels.",
+            "voice_over": "Once fried, drain the vadas on paper towels to remove excess oil.",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 6,
+            "image_prompt": "A serving platter with freshly made Masala Vada, paired with coconut chutney and a cup of chai.",
+            "text": "Serve hot and enjoy!",
+            "voice_over": "Serve your Masala Vada hot with coconut chutney. Enjoy this delicious treat with your favorite beverage!",
+            "scene_image_filename": "recipe_fksd3522c0rq/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd3522c0rq-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 35,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Lentils",
+        "Spices",
+        "Vegetables"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Festive"
+      ],
+      "cooking_tips": [
+        "Ensure oil is hot enough before frying to achieve a crispy texture.",
+        "Adjust the number of red chillies to control the spice level."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fksd3522c0rq/fksd3522c0rq_main_image.jpg"
+    },
+    {
+      "id": "fks6ofdam0n4g2",
+      "name": "Vada Pav - Spicy Potatoes in a Bun",
+      "url": "https://www.thespruceeats.com/vada-pav-potato-buns-1958051",
+      "ingredients": [
+        "10 medium potatoes, boiled, peeled, and mashed",
+        "2 teaspoons garlic paste",
+        "1 teaspoon ginger paste",
+        "3 green chiles, chopped",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon black mustard seeds",
+        "6 to 7 curry leaves",
+        "1/4 teaspoon salt, or to taste",
+        "2 cups besan flour (bengal gram flour)",
+        "1/3 cup vegetable oil or canola oil, for frying",
+        "6 pav buns or burger buns",
+        "1 cup tamarind chutney",
+        "1 cup green chutney (mint-coriander chutney)",
+        "1/2 cup shengdaana lehsun chutney (peanut garlic chutney)"
+      ],
+      "directions": [
+        "Step 1: Gather all the ingredients.",
+        "Step 2: In a large mixing bowl, combine besan flour with enough water and salt to create a thick, smooth batter. Add water gradually until the consistency resembles thick soup.",
+        "Step 3: In a food processor, blend the ginger and garlic pastes along with the chopped green chiles to form a smooth mixture.",
+        "Step 4: Incorporate the green chili paste into the mashed potatoes and season with salt.",
+        "Step 5: Heat 2 tablespoons of oil in a pan over medium heat, then add black mustard seeds, curry leaves, and turmeric powder. Fry until the mustard seeds stop spluttering.",
+        "Step 6: Transfer the spice mixture to the mashed potato mixture and combine thoroughly.",
+        "Step 7: Divide the potato mixture into portions slightly smaller than a tennis ball, shaping them into smooth balls by rolling between greased palms.",
+        "Step 8: Heat oil in a deep frying pan over medium heat for frying.",
+        "Step 9: Once the oil is hot, dip each potato ball into the besan batter, coating it evenly, then fry until golden brown. Drain them on paper towels.",
+        "Step 10: Take a pav bun, slit it open, and spread a spoonful of tamarind chutney, green chutney, and shengdaana lehsun chutney on each half.",
+        "Step 11: Place a hot potato ball inside the bun, gently pressing it down, and serve immediately."
+      ],
+      "duration": "1 hr",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-m.webp",
+      "nutrition": {
+        "calories": "706",
+        "protein": "19 grams",
+        "carbs": "117 grams",
+        "fat": "20 grams",
+        "fiber": "0 grams",
+        "sugar": "0 grams",
+        "sodium": "234 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Vada Pav against a rustic wooden table backdrop, emphasizing the golden-brown, crispy potato fritter nestled within a soft, slightly toasted bun. Use natural light to accentuate the textures of the spicy filling and the contrasting colors of fresh green chiles and curry leaves as garnishes. Style with a small bowl of tangy chutney on the side and a few scattered mustard seeds. Shoot from a low angle to create depth, focusing on the fritter, with a shallow depth of field to blur the background slightly, evoking a warm, inviting mood.",
+      "image_filepath": "recipe_fks6ofdam0n4g2/main_image",
+      "video_script": {
+        "title": "How to Make Vada Pav - Spicy Potatoes in a Bun",
+        "description": "Learn to make Vada Pav, a popular Indian street food filled with spicy mashed potatoes, served in a soft bun with delicious chutneys.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Vada Pav with vibrant colors, showcasing the spicy potato filling, chutneys, and fresh garnish.",
+            "text": "Welcome to our Vada Pav tutorial!",
+            "voice_over": "In this video, we will make Vada Pav, a delicious spicy potato sandwich that's a staple of Indian street food. Let's get started!",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "A neatly arranged table with all the ingredients displayed, including potatoes, chutneys, and spices.",
+            "text": "Gather all your ingredients.",
+            "voice_over": "First, gather all the ingredients you will need for this recipe, including boiled potatoes, spices, and chutneys.",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A mixing bowl with besan flour, water, and salt being combined to create a batter.",
+            "text": "Mix besan flour with water and salt.",
+            "voice_over": "In a large mixing bowl, combine besan flour with enough water and salt to create a thick, smooth batter. Add water gradually until the consistency resembles thick soup.",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A food processor with ginger, garlic, and green chiles being blended into a smooth paste.",
+            "text": "Blend garlic, ginger, and green chiles.",
+            "voice_over": "Next, blend ginger and garlic pastes along with the chopped green chiles in a food processor until you have a smooth mixture.",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A bowl of mashed potatoes being mixed with the green chili paste and salt.",
+            "text": "Combine green chili paste into mashed potatoes.",
+            "voice_over": "Incorporate the green chili paste into the boiled and mashed potatoes, seasoning with salt to taste.",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A pan with oil heating and mustard seeds, curry leaves, and turmeric being added.",
+            "text": "Heat the spices in oil.",
+            "voice_over": "Heat 2 tablespoons of oil in a pan over medium heat, then add the black mustard seeds, curry leaves, and turmeric powder. Fry until the mustard seeds stop spluttering.",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Shaped potato balls being formed by hands, with a background of the mixing bowl.",
+            "text": "Shape the potato mixture into balls.",
+            "voice_over": "Transfer the spice mixture to the mashed potato mixture and combine thoroughly. Divide the mixture into portions and shape them into smooth balls.",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A deep frying pan with hot oil, showing potato balls being fried to a golden brown.",
+            "text": "Fry the potato balls until golden.",
+            "voice_over": "Heat oil in a deep frying pan over medium heat. Once hot, dip each potato ball in the besan batter and fry until golden brown, around 5-6 minutes.",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Pav buns being sliced open and spread with chutneys on both halves.",
+            "text": "Prepare the pav buns with chutneys.",
+            "voice_over": "Take a pav bun, slit it open, and spread tamarind chutney, green chutney, and shengdaana lehsun chutney on each half.",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "A hot, crispy vada being placed inside the chutney-covered pav bun.",
+            "text": "Assemble your Vada Pav.",
+            "voice_over": "Place a hot potato ball inside the bun, gently pressing it down. Your Vada Pav is almost ready to serve.",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "The final Vada Pav served on a plate with extra chutneys and garnishes.",
+            "text": "Enjoy your delicious Vada Pav!",
+            "voice_over": "Serve your Vada Pav immediately with extra chutneys on the side. Enjoy this delightful street food at home!",
+            "scene_image_filename": "recipe_fks6ofdam0n4g2/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks6ofdam0n4g2-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack",
+        "Street Food"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Potatoes",
+        "Chilies",
+        "Flour"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Festival"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is hot enough before frying to achieve a crispy texture.",
+        "Adjust the spice level by using more or fewer green chiles based on your preference."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fks6ofdam0n4g2/fks6ofdam0n4g2_main_image.jpg"
+    },
+    {
+      "id": "fks21r311m0gge",
+      "name": "Vada Fritters",
+      "url": "https://www.thespruceeats.com/mangodi-moong-daal-fritters-1958026",
+      "ingredients": [
+        "1 1/2 cups split, skin-on moong daal, soaked overnight and drained",
+        "8 to 10 cloves garlic, peeled",
+        "1 (3-inch) piece ginger, peeled and chopped",
+        "1 green chile pepper, chopped (adjust according to heat preference)",
+        "1 pinch asafetida",
+        "Salt, to taste",
+        "1/2 to 1 teaspoon red chili powder, optional",
+        "1 teaspoon ground coriander",
+        "3 tablespoons Bengal gram flour (besan), plus more if needed",
+        "Vegetable or canola oil, for frying",
+        "1 teaspoon fennel seeds",
+        "1/2 cup finely chopped fresh coriander leaves",
+        "1 tablespoon chaat masala, for garnish"
+      ],
+      "directions": [
+        "Step 1: Rinse the split moong daal under running water until the water runs clear.",
+        "Step 2: Place the washed moong daal in a large bowl and cover it with warm water. Allow the daal to soak overnight.",
+        "Step 3: The following morning, drain the excess water from the soaked daal.",
+        "Step 4: In a food processor, combine the soaked moong daal, garlic, ginger, green chile, asafetida, and salt. Blend without adding water until a thick batter forms. If needed, add water gradually and blend until a medium-fine coarse batter is achieved.",
+        "Step 5: If the batter is too runny, mix in additional Bengal gram flour to thicken it.",
+        "Step 6: Heat vegetable or canola oil in a wok or deep pan over medium heat for frying.",
+        "Step 7: To check the oil's readiness, drop a small amount of batter into the hot oil. If it rises to the surface slowly and does not burn, the oil is ready.",
+        "Step 8: Once the oil is ready, use a teaspoon to scoop small balls of batter and carefully drop them into the hot oil, avoiding overcrowding the pan.",
+        "Step 9: Use a slotted spoon to gently turn the fritters occasionally for even browning. Fry until they turn deep golden brown.",
+        "Step 10: Remove the fritters from the oil using a slotted spoon and drain them on a kitchen towel to remove excess oil. Sprinkle lightly with chaat masala.",
+        "Step 11: Serve the vada fritters with mint-coriander chutney and tamarind chutney alongside a cup of steaming adrak ki chai."
+      ],
+      "duration": "12 hr 30 m",
+      "serves": "6",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks21r311m0gge-m.webp",
+      "nutrition": {
+        "calories": "171",
+        "protein": "6",
+        "carbs": "17",
+        "fat": "4",
+        "fiber": "0",
+        "sugar": "0",
+        "sodium": "0"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant overhead shot of Vada Fritters arranged artfully on a rustic wooden board, surrounded by fresh green herbs and sliced red onions for color contrast. Utilize soft, natural light to enhance the golden-brown texture of the fritters, while casting gentle shadows. Incorporate a small bowl of tangy chutney as a prop, and sprinkle a touch of red chili powder on the plate for added visual interest. Use a shallow depth of field to softly blur the background, drawing focus to the fritters and creating an inviting, warm mood.",
+      "image_filepath": "recipe_fks21r311m0gge/main_image",
+      "video_script": {
+        "title": "Delicious Vada Fritters Recipe",
+        "description": "Learn how to make crispy and flavorful Vada Fritters with this step-by-step tutorial.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 6,
+            "image_prompt": "A beautifully plated dish of golden-brown vada fritters garnished with fresh coriander and served with mint-coriander and tamarind chutneys alongside a cup of steaming adrak ki chai.",
+            "text": "Welcome to our Vada Fritters tutorial!",
+            "voice_over": "Today, we will make delicious Vada Fritters, perfect for any snack time!",
+            "scene_image_filename": "recipe_fks21r311m0gge/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21r311m0gge-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "An overhead shot of all the ingredients needed for the recipe, beautifully arranged on a kitchen counter.",
+            "text": "Let's gather our ingredients.",
+            "voice_over": "You will need split moong daal, garlic, ginger, green chile, and spices amongst others to make these fritters.",
+            "scene_image_filename": "recipe_fks21r311m0gge/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21r311m0gge-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 4,
+            "image_prompt": "Close-up of rinsing split moong daal under running water in a colander, with water flowing clear.",
+            "text": "Rinse the moong daal.",
+            "voice_over": "Start by rinsing 1 and a half cups of split moong daal under running water until the water runs clear.",
+            "scene_image_filename": "recipe_fks21r311m0gge/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21r311m0gge-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Split moong daal soaking in a large bowl of warm water, with a towel draped nearby.",
+            "text": "Soak overnight.",
+            "voice_over": "Place the rinsed daal in a bowl, cover with warm water, and let it soak overnight.",
+            "scene_image_filename": "recipe_fks21r311m0gge/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21r311m0gge-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Show drained soaked moong daal ready for blending, with a food processor in the background.",
+            "text": "Drain and blend.",
+            "voice_over": "The next day, drain excess water and blend the soaked moong daal with garlic, ginger, green chile, asafetida, and salt until you achieve a thick batter.",
+            "scene_image_filename": "recipe_fks21r311m0gge/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21r311m0gge-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A large frying pan with bubbling oil and small balls of golden batter frying inside.",
+            "text": "Heat oil for frying.",
+            "voice_over": "Heat vegetable or canola oil in a deep pan over medium heat. Check if it\u2019s ready by dropping a small amount of batter\u2014if it rises slowly, you\u2019re good to go!",
+            "scene_image_filename": "recipe_fks21r311m0gge/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21r311m0gge-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A chef carefully dropping small batter balls into hot oil using a teaspoon.",
+            "text": "Fry the fritters.",
+            "voice_over": "Using a teaspoon, drop small balls of batter into the oil, making sure not to overcrowd the pan. Fry until they are deep golden brown!",
+            "scene_image_filename": "recipe_fks21r311m0gge/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21r311m0gge-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A close-up of a slotted spoon removing golden vada fritters from hot oil to a plate lined with a kitchen towel.",
+            "text": "Drain and serve.",
+            "voice_over": "Remove the fritters from the oil, drain them on a kitchen towel to absorb excess oil, and sprinkle lightly with chaat masala.",
+            "scene_image_filename": "recipe_fks21r311m0gge/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21r311m0gge-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A final presentation of vada fritters on a table with chutneys and a cup of chai, all presented attractively.",
+            "text": "Enjoy your Vada Fritters!",
+            "voice_over": "Serve your crispy Vada Fritters with mint-coriander chutney, tamarind chutney, and a side of steaming adrak ki chai.",
+            "scene_image_filename": "recipe_fks21r311m0gge/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks21r311m0gge-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Moong Dal",
+        "Chili",
+        "Garlic",
+        "Ginger",
+        "Herbs"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is adequately heated to avoid soggy fritters.",
+        "Molding the batter with hands helps incorporate air for a fluffier texture.",
+        "Adjust the chili and spices to suit your taste preference."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fks21r311m0gge/fks21r311m0gge_main_image.jpg"
+    },
+    {
+      "id": "fksd7qtuds6i",
+      "name": "Parippu Vada - Spicy Lentil Fritters",
+      "url": "http://www.indugetscooking.com/parippu-vada-lentil-fritters-recipe-dish",
+      "ingredients": [
+        "1/2 cup yellow lentils (thuvara parippu/toor dal), soaked for 3 hours and drained",
+        "1 small red onion, finely chopped",
+        "3 green chilies, finely chopped",
+        "1-inch piece of ginger, finely chopped",
+        "1 pinch of asafoetida",
+        "1 sprig of curry leaves, finely chopped",
+        "Salt, to taste",
+        "Coconut oil, for frying"
+      ],
+      "directions": [
+        "Step 1: Soak the yellow lentils in water for three hours, then drain thoroughly.",
+        "Step 2: Grind the soaked lentils coarsely to maintain texture, ensuring not to make a smooth paste.",
+        "Step 3: In a mixing bowl, add the ground lentils, chopped red onion, green chilies, ginger, asafoetida, curry leaves, and salt. Mix all ingredients well.",
+        "Step 4: Shape the mixture into small discs, ensuring they are no thicker than 1 cm at the center.",
+        "Step 5: Heat coconut oil in a frying pan over medium heat. Once hot, carefully add the lentil discs, ensuring not to overcrowd the pan.",
+        "Step 6: Fry the vadas on one side until they are golden brown, then flip them over to cook the other side until brown and crispy.",
+        "Step 7: Remove the fritters from the pan and drain excess oil on a paper towel before serving."
+      ],
+      "duration": "30 minutes ",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-m.webp",
+      "nutrition": {
+        "calories": "150 per serving",
+        "protein": "5 grams per serving",
+        "carbs": "18 grams per serving",
+        "fat": "7 grams per serving",
+        "fiber": "3 grams per serving",
+        "sugar": "1 gram per serving",
+        "sodium": "220 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up shot of golden-brown Parippu Vada arranged artfully on a rustic wooden platter, surrounded by fresh curry leaves and a small bowl of tangy coconut chutney. Use natural light to enhance the fritters\u2019 crispy texture and vibrant colors, casting soft shadows for depth. Employ a shallow depth of field to keep the focus on the fritters while softly blurring the background. Style with a textured linen napkin and scattered red chili flakes for an authentic touch, evoking a warm, inviting mood.",
+      "image_filepath": "recipe_fksd7qtuds6i/main_image",
+      "video_script": {
+        "title": "Parippu Vada - Spicy Lentil Fritters Recipe",
+        "description": "Learn how to make crispy and spicy Parippu Vada, a delicious South Indian snack made from lentils.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of Parippu Vada with a vibrant green chutney and colorful garnishes, showcasing the crispy texture and golden brown color of the fritters.",
+            "text": "Welcome to our kitchen! Today, we're making Parippu Vada.",
+            "voice_over": "Welcome to our kitchen! Today we\u2019re making Parippu Vada, delightful spicy lentil fritters that are crispy and packed with flavor.",
+            "scene_image_filename": "recipe_fksd7qtuds6i/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "All the ingredients laid out on a wooden countertop: yellow lentils, red onion, green chilies, ginger, asafoetida, curry leaves, salt, and coconut oil.",
+            "text": "Let's check the ingredients we need.",
+            "voice_over": "For this recipe, you will need yellow lentils, red onion, green chilies, ginger, asafoetida, curry leaves, salt, and coconut oil for frying.",
+            "scene_image_filename": "recipe_fksd7qtuds6i/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A bowl of soaked yellow lentils being drained in a colander.",
+            "text": "Step 1: Soak and drain lentils.",
+            "voice_over": "First, soak half a cup of yellow lentils in water for three hours, then drain them thoroughly to remove excess water.",
+            "scene_image_filename": "recipe_fksd7qtuds6i/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A food processor with soaked lentils being ground coarsely, showing a rough texture.",
+            "text": "Step 2: Grind lentils coarsely.",
+            "voice_over": "Next, grind the soaked lentils coarsely. You want a texture, not a smooth paste, to ensure the fritters hold together.",
+            "scene_image_filename": "recipe_fksd7qtuds6i/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A mixing bowl filled with the ground lentils and chopped ingredients: onions, chilies, ginger, curry leaves, and asafoetida, with a pinch of salt.",
+            "text": "Step 3: Mix all the ingredients well.",
+            "voice_over": "In a mixing bowl, add the coarsely ground lentils, chopped red onion, green chilies, ginger, a pinch of asafoetida, chopped curry leaves, and salt. Mix everything well until combined.",
+            "scene_image_filename": "recipe_fksd7qtuds6i/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Hands shaping a small disc from the lentil mixture, showing the size and thickness needed.",
+            "text": "Step 4: Shape into discs.",
+            "voice_over": "Now, shape the mixture into small discs, about 1 cm thick at the center. This ensures they cook evenly.",
+            "scene_image_filename": "recipe_fksd7qtuds6i/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A frying pan with hot coconut oil, several lentil discs being carefully placed in the oil.",
+            "text": "Step 5: Heat oil and fry.",
+            "voice_over": "Heat coconut oil in a frying pan over medium heat. Once hot, carefully add the lentil discs, making sure not to overcrowd the pan.",
+            "scene_image_filename": "recipe_fksd7qtuds6i/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 7,
+            "image_prompt": "Golden brown fritters frying in oil, one being flipped over, showing the crispiness.",
+            "text": "Step 6: Fry until golden brown.",
+            "voice_over": "Fry the vadas on one side until they are golden brown, then flip them over and cook the other side until crispy and brown, about 3-4 minutes per side.",
+            "scene_image_filename": "recipe_fksd7qtuds6i/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A plate of freshly fried Parippu Vada on paper towels absorbing excess oil.",
+            "text": "Step 7: Drain and serve.",
+            "voice_over": "Once fried, remove the fritters from the pan and drain the excess oil on paper towels before serving.",
+            "scene_image_filename": "recipe_fksd7qtuds6i/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Final presentation of the Parippu Vada served with a side of green chutney and garnished with fresh herbs.",
+            "text": "Enjoy your delicious Parippu Vada!",
+            "voice_over": "Enjoy your crispy and spicy Parippu Vada with a refreshing side of chutney. Perfect as a snack or an appetizer!",
+            "scene_image_filename": "recipe_fksd7qtuds6i/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qtuds6i-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 30,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Lentils",
+        "Vegetables",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is hot enough before adding the fritters to achieve a crunchy texture.",
+        "Adjust the number of green chilies based on your spice preference."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fksd7qtuds6i/fksd7qtuds6i_main_image.jpg"
+    },
+    {
+      "id": "fks29hod21qpvea",
+      "name": "Moong Dal Vada",
+      "url": "http://www.jopreetskitchen.com/2016/06/moong-dal-vada-recipe.html",
+      "ingredients": [
+        "\u00bd cup whole moong dal (payatham paruppu, whole green gram), soaked overnight",
+        "\u00bc cup chana dal (kadalai paruppu, split Bengal gram), soaked overnight",
+        "1 medium onion, finely chopped",
+        "2 green chilies, finely chopped",
+        "\u00bd teaspoon ginger-garlic paste",
+        "Salt, to taste",
+        "A pinch of asafoetida",
+        "Oil, for deep frying"
+      ],
+      "directions": [
+        "Step 1: Combine the soaked moong dal and chana dal in a bowl. Fill with enough water and soak overnight. The next day, drain the water completely.",
+        "Step 2: Grind the soaked dals in a mixer to a coarse paste without adding water.",
+        "Step 3: Transfer the coarse paste to a mixing bowl. Add the chopped onions, green chilies, ginger-garlic paste, asafoetida, and salt. Mix everything well and let it rest for 10 minutes.",
+        "Step 4: Heat oil in a heavy-bottomed kadai for deep frying. Once the oil is hot, make small balls from the vada batter and carefully drop them into the hot oil.",
+        "Step 5: Fry the vadas until they turn golden brown and crispy, about 4-5 minutes.",
+        "Step 6: Remove the vadas carefully from the oil and drain any excess oil using absorbent tissue paper.",
+        "Step 7: Serve the hot vadas with coconut chutney."
+      ],
+      "duration": "15 minutes ",
+      "serves": "3",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks29hod21qpvea-m.webp",
+      "nutrition": {
+        "calories": "120",
+        "protein": "6",
+        "carbs": "15",
+        "fat": "5",
+        "fiber": "4",
+        "sugar": "1",
+        "sodium": "200"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up of golden-brown Moong Dal Vada arranged artfully on a rustic wooden platter, garnished with fresh coriander and a side of green chutney. Use soft, diffused natural light to enhance the vibrant colors and crispy texture. Incorporate a textured linen napkin and a small bowl of sliced red onions for contrast. Focus on a shallow depth of field to blur the background, drawing attention to the vada's intricate details and creating a warm, inviting mood.",
+      "image_filepath": "recipe_fks29hod21qpvea/main_image",
+      "video_script": {
+        "title": "Delicious Moong Dal Vada Recipe",
+        "description": "Learn how to make crispy and flavorful Moong Dal Vada with this easy step-by-step tutorial!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully arranged plate of golden brown Moong Dal Vada served with coconut chutney and garnished with fresh coriander.",
+            "text": "Crispy Moong Dal Vada",
+            "voice_over": "Welcome to our cooking tutorial! Today we're making crispy and delicious Moong Dal Vada.",
+            "scene_image_filename": "recipe_fks29hod21qpvea/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks29hod21qpvea-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "An overhead view of all the ingredients neatly displayed on a wooden kitchen countertop including moong dal, chana dal, onions, green chilies, and spices.",
+            "text": "Ingredients for Moong Dal Vada",
+            "voice_over": "For this recipe, you'll need whole moong dal, chana dal, onions, green chilies, ginger-garlic paste, salt, and asafoetida.",
+            "scene_image_filename": "recipe_fks29hod21qpvea/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks29hod21qpvea-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A bowl of soaked moong dal and chana dal being mixed with water, emphasizing the soaking process.",
+            "text": "Soak the dals overnight",
+            "voice_over": "Step 1: Combine the soaked moong dal and chana dal in a bowl and soak overnight. Drain completely in the morning.",
+            "scene_image_filename": "recipe_fks29hod21qpvea/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks29hod21qpvea-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A blender grinding the soaked dals into a coarse paste with close-up of textured consistency.",
+            "text": "Grind to a coarse paste",
+            "voice_over": "Step 2: Grind the soaked dals in a mixer to a coarse paste without adding any water.",
+            "scene_image_filename": "recipe_fks29hod21qpvea/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks29hod21qpvea-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A mixing bowl with the coarse dal paste being added to chopped onions, green chilies, and spices, all coming together.",
+            "text": "Mix ingredients well",
+            "voice_over": "Step 3: Transfer the paste to a bowl, add onions, green chilies, ginger-garlic paste, asafoetida, and salt. Mix well and let it rest for 10 minutes.",
+            "scene_image_filename": "recipe_fks29hod21qpvea/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks29hod21qpvea-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "A pot filled with oil on a stovetop with bubbling oil, ready for frying.",
+            "text": "Heat oil for frying",
+            "voice_over": "Step 4: Heat oil in a heavy-bottomed kadai for deep frying until hot, around 350 degrees Fahrenheit.",
+            "scene_image_filename": "recipe_fks29hod21qpvea/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks29hod21qpvea-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Small balls of the vada batter being carefully dropped into the hot oil, creating bubbles.",
+            "text": "Fry the vadas",
+            "voice_over": "Step 5: Make small balls from the batter and carefully drop them into the hot oil. Fry until golden brown and crispy, about 4-5 minutes.",
+            "scene_image_filename": "recipe_fks29hod21qpvea/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks29hod21qpvea-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Fried vadas being lifted out of the oil using a slotted spoon and placed onto absorbent tissue paper.",
+            "text": "Drain excess oil",
+            "voice_over": "Step 6: Remove the vadas carefully and drain the excess oil on absorbent tissue paper.",
+            "scene_image_filename": "recipe_fks29hod21qpvea/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks29hod21qpvea-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A serving of Moong Dal Vada on a plate alongside coconut chutney with a garnish of coriander.",
+            "text": "Serve and enjoy!",
+            "voice_over": "Step 7: Serve hot vadas with coconut chutney. Enjoy this crispy snack!",
+            "scene_image_filename": "recipe_fks29hod21qpvea/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks29hod21qpvea-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 35,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Dal",
+        "Legumes",
+        "Onions",
+        "Chilies",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Festive"
+      ],
+      "cooking_tips": [
+        "Make sure the dal is soaked overnight for optimal texture.",
+        "Do not add water while grinding to achieve the right consistency.",
+        "Ensure the oil is hot enough for frying to avoid soggy vadas."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fks29hod21qpvea/fks29hod21qpvea_main_image.jpg"
+    },
+    {
+      "id": "fksg0071trfptb",
+      "name": "Crispy Baked Potato Vadas",
+      "url": "http://holycowvegan.net/2015/08/crispy-baked-potato-vadas-theyre-fat-free.html",
+      "ingredients": [
+        "4 medium russet potatoes, boiled, peeled, and mashed with a fork",
+        "20 curry leaves, minced",
+        "1 serrano or jalapeno pepper, minced",
+        "2 teaspoons ginger-garlic paste",
+        "1/4 teaspoon turmeric powder (optional)",
+        "3 tablespoons rice flour",
+        "3 tablespoons chickpea flour (besan)",
+        "Salt to taste"
+      ],
+      "directions": [
+        "Step 1: In a large mixing bowl, combine all the ingredients and mix well until the mixture can hold together when shaped into balls.",
+        "Step 2: Using your fingers, shape the mixture into 1.5-inch patties (approximately 2 cm wide) ensuring they are neither too thick nor too thin.",
+        "Step 3: Prepare a baking sheet by lining it with parchment paper and preheat the oven to 450\u00b0F (232\u00b0C).",
+        "Step 4: Lightly spray the parchment paper with oil and arrange the patties on the sheet, ensuring they are spaced at least 1 inch apart. Spray the tops of the patties with additional oil.",
+        "Step 5: Place the baking sheet in the preheated oven and bake the patties for 20 minutes.",
+        "Step 6: After 20 minutes, carefully flip the vadas over and continue baking for another 20 minutes or until they are golden brown and crispy.",
+        "Step 7: Remove the vadas from the oven and serve them hot with your favorite chutney."
+      ],
+      "duration": "55 minutes ",
+      "serves": "18",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksg0071trfptb-m.webp",
+      "nutrition": {
+        "calories": "200",
+        "protein": "4 grams",
+        "carbs": "39 grams",
+        "fat": "4 grams",
+        "fiber": "5 grams",
+        "sugar": "2 grams",
+        "sodium": "350 mg"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, high-angle shot of crispy baked potato vadas arranged artfully on a rustic wooden board. Highlight the golden-brown texture with soft, diffused natural light to enhance the dish's colors. Use a blurred green herb garnish, like cilantro or mint, in the foreground for depth, while a few scattered curry leaves and whole spices add interest in the background. A simple, neutral linen napkin complements the scene, creating a warm, inviting mood. Focus on the vadas' crisp exterior while keeping the background softly out of focus to draw attention to the dish.",
+      "image_filepath": "recipe_fksg0071trfptb/main_image",
+      "video_script": {
+        "title": "Crispy Baked Potato Vadas Recipe Tutorial",
+        "description": "Learn how to make deliciously crispy baked potato vadas that are perfect for snacking!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of crispy baked potato vadas garnished with fresh herbs and served with vibrant chutneys.",
+            "text": "Crispy Baked Potato Vadas",
+            "voice_over": "Welcome to our kitchen! Today, we'll be making these irresistible crispy baked potato vadas, perfect as a snack or appetizer!",
+            "scene_image_filename": "recipe_fksg0071trfptb/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksg0071trfptb-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "An attractive overhead shot of all the ingredients laid out on a countertop, including potatoes, spices, and flour.",
+            "text": "Ingredients Needed",
+            "voice_over": "For this recipe, you'll need four medium russet potatoes, minced curry leaves, a serrano pepper, ginger-garlic paste, turmeric powder, rice flour, chickpea flour, and salt.",
+            "scene_image_filename": "recipe_fksg0071trfptb/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksg0071trfptb-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A mixing bowl filled with mashed potatoes and other ingredients being combined by hands.",
+            "text": "Combine Ingredients",
+            "voice_over": "Step one: In a large mixing bowl, combine all the ingredients and mix well until they can hold together when shaped into balls.",
+            "scene_image_filename": "recipe_fksg0071trfptb/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksg0071trfptb-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A hand shaping the potato mixture into small patties on a countertop.",
+            "text": "Shape Into Patties",
+            "voice_over": "Step two: Shape the mixture into 1.5-inch patties, ensuring they are the right thickness for crispiness.",
+            "scene_image_filename": "recipe_fksg0071trfptb/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksg0071trfptb-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "A lined baking sheet ready for the patties, with an oven preheating in the background.",
+            "text": "Prepare For Baking",
+            "voice_over": "Step three: Line a baking sheet with parchment paper, then preheat your oven to 450\u00b0F or 232\u00b0C.",
+            "scene_image_filename": "recipe_fksg0071trfptb/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksg0071trfptb-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Patties arranged on the parchment-lined baking sheet, lightly oiled and ready for the oven.",
+            "text": "Arrange and Oil",
+            "voice_over": "Step four: Lightly spray oil on the parchment and arrange the patties, leaving an inch of space. Spray the tops with oil too.",
+            "scene_image_filename": "recipe_fksg0071trfptb/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksg0071trfptb-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "A timer counting down in the kitchen while the patties are in the oven.",
+            "text": "Bake the Vadas",
+            "voice_over": "Step five: Bake for 20 minutes, then carefully flip the vadas and bake for another 20 minutes until golden brown and crispy.",
+            "scene_image_filename": "recipe_fksg0071trfptb/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksg0071trfptb-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "An oven mitt lifting the baking sheet out of the oven, revealing golden brown crispy vadas.",
+            "text": "Serve Hot",
+            "voice_over": "Step seven: Once done, remove the vadas from the oven and serve hot with your favorite chutney.",
+            "scene_image_filename": "recipe_fksg0071trfptb/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksg0071trfptb-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A final dish presentation of crispy baked potato vadas served with a variety of colorful chutneys in small bowls.",
+            "text": "Enjoy Your Vadas!",
+            "voice_over": "Enjoy your homemade crispy baked potato vadas! They're perfect for sharing or a tasty snack all on your own!",
+            "scene_image_filename": "recipe_fksg0071trfptb/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksg0071trfptb-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 40,
+      "total_time_minutes": 55,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Potatoes",
+        "Chickpea Flour",
+        "Curry Leaves",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Casual Gatherings"
+      ],
+      "cooking_tips": [
+        "For extra crunch, allow the vadas to cool slightly before serving.",
+        "Feel free to customize the spice level by adjusting the amount of pepper used."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fksg0071trfptb/fksg0071trfptb_main_image.jpg"
+    },
+    {
+      "id": "fks232859v9ddcu",
+      "name": "Fat-Free Tapioca Pearl Fritters (Sabudana Vada)",
+      "url": "http://holycowvegan.net/2015/12/sabudana-vada-tapioca-pearl-fritters.html",
+      "ingredients": [
+        "1 cup tapioca pearls, soaked in water for 4 hours, then drained",
+        "1 large russet potato, boiled, peeled, and mashed",
+        "\u00bc cup rice flour",
+        "2 green chilies, finely minced (seeds removed for less heat)",
+        "\u00bc cup fresh coriander leaves, chopped",
+        "\u00bd-inch knob of ginger, grated",
+        "2 cloves of garlic, minced",
+        "1 small red onion, minced",
+        "10-12 curry leaves (optional), chopped",
+        "Salt to taste"
+      ],
+      "directions": [
+        "Step 1: In a large mixing bowl, combine all ingredients and knead by hand until a cohesive dough forms.",
+        "Step 2: If using a food processor, add all ingredients to the bowl and pulse briefly\u2014two to three times for no more than five seconds each\u2014until the dough comes together. If the mixture is too dry, add a teaspoon of water at a time until it holds together.",
+        "Step 3: Spray an ebelskiver pan or a griddle with fat-free cooking spray, or brush lightly with oil.",
+        "Step 4: For the ebelskiver pan, shape the mixture into rounded fritters and press them into the pan cavities. For a griddle, dampen your palms with water and shape the fritters into flat discs to ensure even contact with the cooking surface.",
+        "Step 5: Cook the fritters for about 2-3 minutes until the bottom is golden brown, then flip them carefully.",
+        "Step 6: Cook the other side until it is also golden brown, pressing down slightly with a spoon if using the ebelskiver pan to ensure proper contact with the surface.",
+        "Step 7: Serve the fritters hot with your choice of chutney."
+      ],
+      "duration": "40 minutes ",
+      "serves": "25",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks232859v9ddcu-m.webp",
+      "nutrition": {
+        "calories": "120 per serving",
+        "protein": "2 grams per serving",
+        "carbs": "28 grams per serving",
+        "fat": "0.5 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "1 gram per serving",
+        "sodium": "100 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant overhead shot of Fat-Free Tapioca Pearl Fritters arranged artistically on a rustic wooden board. Use natural light to enhance the golden-brown crispiness and vibrant green of the coriander. Surround the fritters with scattered curry leaves and a small bowl of tangy chutney for contrast. Incorporate a linen napkin in a soft pastel color beneath the dish. Use a shallow depth of field to keep the fritters in sharp focus while softly blurring the background, evoking a warm, inviting mood.",
+      "image_filepath": "recipe_fks232859v9ddcu/main_image",
+      "video_script": {
+        "title": "Fat-Free Tapioca Pearl Fritters (Sabudana Vada) Recipe",
+        "description": "Learn how to make delicious and healthy Fat-Free Tapioca Pearl Fritters, ideal for snacking or as a side dish. Perfectly crispy and packed with flavor!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of golden-brown Fat-Free Tapioca Pearl Fritters garnished with fresh coriander and served with a side of tangy chutney.",
+            "text": "Fat-Free Tapioca Pearl Fritters!",
+            "voice_over": "Welcome! Today, we're making delicious Fat-Free Tapioca Pearl Fritters, a flavorful and healthy snack.",
+            "scene_image_filename": "recipe_fks232859v9ddcu/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks232859v9ddcu-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "An organized layout of all ingredients on a kitchen counter including tapioca pearls, boiled potatoes, and fresh herbs.",
+            "text": "Here are our ingredients.",
+            "voice_over": "You'll need one cup of tapioca pearls, one large boiled potato, rice flour, green chilies, coriander, ginger, garlic, onion, curry leaves, and salt.",
+            "scene_image_filename": "recipe_fks232859v9ddcu/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks232859v9ddcu-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A large mixing bowl filled with all the ingredients being combined by hands, showcasing the mixing process.",
+            "text": "Combine all the ingredients.",
+            "voice_over": "In a large mixing bowl, combine all the ingredients and knead by hand until you form a cohesive dough.",
+            "scene_image_filename": "recipe_fks232859v9ddcu/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks232859v9ddcu-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A food processor with the same ingredients inside, demonstrating the blending process with a pulse setting.",
+            "text": "Use a food processor if desired.",
+            "voice_over": "You can also use a food processor. Pulse briefly until the mixture comes together. Add water if needed.",
+            "scene_image_filename": "recipe_fks232859v9ddcu/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks232859v9ddcu-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "An ebelskiver pan being sprayed with fat-free cooking spray, showcasing the preparation step for cooking.",
+            "text": "Prepare your cooking surface.",
+            "voice_over": "Spray an ebelskiver pan or a griddle with fat-free cooking spray to prepare for cooking.",
+            "scene_image_filename": "recipe_fks232859v9ddcu/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks232859v9ddcu-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "The hands shaping and pressing the fritter mixture into rounded shapes in the ebelskiver pan.",
+            "text": "Shape fritters for cooking.",
+            "voice_over": "Shape the mixture into rounded fritters and press into the pan or shape flat discs for the griddle.",
+            "scene_image_filename": "recipe_fks232859v9ddcu/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks232859v9ddcu-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The fritters cooking in the ebelskiver pan, turning golden brown, with steam rising as they cook.",
+            "text": "Cook until golden brown.",
+            "voice_over": "Cook the fritters for about 2-3 minutes until the bottoms are golden brown, then carefully flip them.",
+            "scene_image_filename": "recipe_fks232859v9ddcu/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks232859v9ddcu-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "The other side of the fritters browning nicely in the pan, being pressed slightly with a spoon.",
+            "text": "Finish cooking the second side.",
+            "voice_over": "Cook the other side until golden brown, pressing down slightly to ensure even cooking.",
+            "scene_image_filename": "recipe_fks232859v9ddcu/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks232859v9ddcu-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "A delicious serving of the finished tapioca fritters placed on a plate, alongside colorful chutneys.",
+            "text": "Serve hot with chutney.",
+            "voice_over": "Serve these hot fritters alongside your favorite chutney for a perfect snack.",
+            "scene_image_filename": "recipe_fks232859v9ddcu/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks232859v9ddcu-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 10,
+      "total_time_minutes": 25,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Appetizer"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "ingredient_tags": [
+        "Tapioca",
+        "Potato",
+        "Chilies",
+        "Coriander",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Snack Time"
+      ],
+      "cooking_tips": [
+        "Ensure that the tapioca pearls are well-soaked and drained properly to achieve the right texture.",
+        "Adjust the quantity of green chilies based on your spice preference."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fks232859v9ddcu/fks232859v9ddcu_main_image.jpg"
+    },
+    {
+      "id": "fks5n7ehb7pes",
+      "name": "Bajri Methi Dhebra",
+      "url": "http://foodviva.com/gujarati-recipes/bajri-methi-dhebra/",
+      "ingredients": [
+        "1.5 cups millet flour (bajri flour), sifted",
+        "1 cup fresh fenugreek leaves (methi), chopped",
+        "2-3 green chilies, finely chopped (optional)",
+        "1 teaspoon coriander powder",
+        "1 teaspoon red chili powder",
+        "0.75 teaspoon turmeric powder",
+        "0.25 cup curd (yogurt), whisked",
+        "0.5 tablespoon sesame seeds (optional)",
+        "Salt to taste",
+        "Oil, for deep frying"
+      ],
+      "directions": [
+        "1. In a large mixing bowl, combine millet flour, chopped fenugreek leaves, coriander powder, red chili powder, turmeric powder, curd, sesame seeds, and salt.",
+        "2. Gradually add water and knead the mixture into a slightly stiff and smooth dough, similar to paratha dough.",
+        "3. Grease your palms with oil and pinch a lemon-sized portion from the dough, rolling it into a ball shape. Repeat with the remaining dough to make approximately 15 balls.",
+        "4. Flatten each ball into a circle with a diameter of 3 inches, approximately 2/3 cm thick, either by pressing between your palms or rolling it out on a plastic sheet.",
+        "5. Heat oil in a frying pan over medium flame. Once the oil is medium hot, slide 3-4 flattened circles into it.",
+        "6. Fry the circles until they turn light golden brown on both sides, then transfer them to a plate lined with oil-absorbent paper to soak up excess oil.",
+        "7. Repeat the frying process with the remaining dhebra.",
+        "8. Bajri na dhebra is ready to serve hot with curd and pickle, making it a perfect accompaniment for dinner or a healthy evening snack.",
+        "9. For a variation, add an extra 0.5 cup of wheat flour to the initial ingredients. Divide the dough into 10 equal portions, shaping them into rounds.",
+        "10. Roll out each dough portion into a circle 6-7 inches in diameter, sprinkling some dry flour to prevent sticking.",
+        "11. Heat a non-stick tava (griddle) over medium flame. Cook the rolled circle, flipping it occasionally and applying 0.5 teaspoon of oil on each side until light brown spots appear.",
+        "12. Serve bajri na dhebra hot with tea."
+      ],
+      "duration": "15 minutes ",
+      "serves": "315",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-m.webp",
+      "nutrition": {
+        "calories": "150",
+        "protein": "4",
+        "carbs": "20",
+        "fat": "7",
+        "fiber": "3",
+        "sugar": "1",
+        "sodium": "200"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture Bajri Methi Dhebra arranged on a rustic wooden board, garnished with fresh fenugreek leaves and a sprinkle of sesame seeds. Use warm, natural lighting to accentuate the golden-brown crust and vibrant green hues. Position a small bowl of yogurt with a drizzle of olive oil beside the dish. Opt for a slight overhead angle to highlight the dish's texture while keeping the foreground in sharp focus and the background softly blurred, creating an inviting, homely mood.",
+      "image_filepath": "recipe_fks5n7ehb7pes/main_image",
+      "video_script": {
+        "title": "Delicious Bajri Methi Dhebra Recipe",
+        "description": "Learn how to make Bajri Methi Dhebra, a traditional Indian snack made with millet flour and fresh fenugreek leaves, perfect for any meal or as a healthy snack.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated dish of Bajri Methi Dhebra garnished with fresh fenugreek leaves and served with curd and pickle, vibrant colors highlighting the dish.",
+            "text": "Welcome to our cooking tutorial!",
+            "voice_over": "Today, we'll be making a delightful snack - Bajri Methi Dhebra, rich in flavor and nutrition.",
+            "scene_image_filename": "recipe_fks5n7ehb7pes/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "An overhead shot of all the ingredients neatly arranged on a wooden kitchen counter.",
+            "text": "Here are the ingredients you'll need.",
+            "voice_over": "For this recipe, you'll need millet flour, fresh fenugreek leaves, spices, curd, and oil for frying.",
+            "scene_image_filename": "recipe_fks5n7ehb7pes/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 7,
+            "image_prompt": "A large mixing bowl filled with millet flour and fenugreek leaves, ready for mixing.",
+            "text": "Mix the dry ingredients.",
+            "voice_over": "In a large bowl, combine 1.5 cups of millet flour, 1 cup of chopped methi leaves, and your spices.",
+            "scene_image_filename": "recipe_fks5n7ehb7pes/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A hand kneading dough on a kitchen surface, showing the texture and consistency.",
+            "text": "Knead into smooth dough.",
+            "voice_over": "Gradually add water and knead into a stiff dough, similar to paratha consistency.",
+            "scene_image_filename": "recipe_fks5n7ehb7pes/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Greased palms rolling dough into small balls, showing the technique.",
+            "text": "Shape the dough into balls.",
+            "voice_over": "Grease your hands and form lemon-sized balls from the dough.",
+            "scene_image_filename": "recipe_fks5n7ehb7pes/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A hand flattening a dough ball into a circular shape, showcasing the desired thickness.",
+            "text": "Flatten into circles.",
+            "voice_over": "Flatten each ball into a circle about 3 inches wide and 2/3 cm thick.",
+            "scene_image_filename": "recipe_fks5n7ehb7pes/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "A frying pan with golden-brown Dhebra frying in oil, with bubbles indicating cooking.",
+            "text": "Fry until golden brown.",
+            "voice_over": "Heat oil over medium flame and fry the Dhebra until light golden brown on both sides.",
+            "scene_image_filename": "recipe_fks5n7ehb7pes/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Plates of fried Dhebra being placed on oil-absorbent paper to drain excess oil.",
+            "text": "Drain excess oil.",
+            "voice_over": "Transfer to a plate lined with paper towels to soak up excess oil.",
+            "scene_image_filename": "recipe_fks5n7ehb7pes/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A chef serving hot Dhebra with a side of curd and pickle, emphasizing the serving suggestion.",
+            "text": "Serve hot and enjoy!",
+            "voice_over": "Serve the hot Bajri Methi Dhebra with curd and your favorite pickle for a tasty meal.",
+            "scene_image_filename": "recipe_fks5n7ehb7pes/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A close-up of the final dish of Bajri Methi Dhebra, highlighting its texture and color.",
+            "text": "Enjoy your delicious Dhebra!",
+            "voice_over": "Enjoy this nutritious snack, perfect for any time of the day!",
+            "scene_image_filename": "recipe_fks5n7ehb7pes/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks5n7ehb7pes-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 35,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Fenugreek",
+        "Millet",
+        "Spices",
+        "Dairy"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Tea-Time",
+        "Family Gathering"
+      ],
+      "cooking_tips": [
+        "Make sure the oil is hot enough before frying to ensure crispiness.",
+        "You can adjust the spice level by varying the amount of green chilies.",
+        "Serve with a side of yogurt for added flavor and creaminess."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fks5n7ehb7pes/fks5n7ehb7pes_main_image.jpg"
+    },
+    {
+      "id": "fksd351tkb4q",
+      "name": "Coconut Milk Paniyaram",
+      "url": "http://www.sharmispassions.com/2013/10/chettinad-paal-paniyaram-diwali-sweets-recipes.html",
+      "ingredients": [
+        "1/2 cup raw rice, soaked for 2-3 hours",
+        "1/2 cup whole urad dal, soaked for 2-3 hours",
+        "1 cup coconut milk, fresh or canned",
+        "1/3 cup boiled and cooled milk",
+        "1/4 teaspoon cardamom powder",
+        "a tiny pinch of salt",
+        "1/8 cup sugar",
+        "Oil, for deep frying"
+      ],
+      "directions": [
+        "Step 1: Soak the raw rice and urad dal together for 2-3 hours in enough water.",
+        "Step 2: Drain the soaked mixture and grind it to a fine batter in a grinder, adding water sparingly to achieve a thick consistency.",
+        "Step 3: Add a tiny pinch of salt to the batter, mix well, and set aside.",
+        "Step 4: Heat oil in a kadai or deep frying pan over medium heat.",
+        "Step 5: Once the oil is hot, take small portions of the batter and gently drop them into the oil.",
+        "Step 6: Fry the paniyarams until they puff up and turn light golden on both sides, then remove and drain on tissue paper.",
+        "Step 7: In a mixing bowl, combine coconut milk, boiled and cooled milk, cardamom powder, and sugar. Mix well.",
+        "Step 8: Gently drop the fried paniyarams into the prepared milk mixture and let them soak for 5-10 minutes before serving."
+      ],
+      "duration": "25 minutes ",
+      "serves": "3",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-m.webp",
+      "nutrition": {
+        "calories": "150 per serving",
+        "protein": "4 grams per serving",
+        "carbs": "30 grams per serving",
+        "fat": "3 grams per serving",
+        "fiber": "1 gram per serving",
+        "sugar": "8 grams per serving",
+        "sodium": "5 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a top-down view of golden-brown Coconut Milk Paniyaram arranged artfully on a rustic wooden board. Use vibrant, tropical-themed props like fresh coconut halves and banana leaves to enhance the dish's exotic appeal. Employ soft, diffused natural light to emphasize the glossy texture of the paniyaram and the creamy coconut milk. Include a shallow depth of field to blur the background slightly, drawing focus to the paniyaram, while a sprig of mint adds a fresh pop of color for garnish.",
+      "image_filepath": "recipe_fksd351tkb4q/main_image",
+      "video_script": {
+        "title": "Delicious Coconut Milk Paniyaram Recipe",
+        "description": "Learn how to make this delightful and fluffy Coconut Milk Paniyaram, perfect for a snack or dessert! Join us for step-by-step cooking instructions.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated Coconut Milk Paniyaram garnished with fresh coconut and a side of coconut milk dip, showcasing its golden color and inviting texture.",
+            "text": "Welcome to our Coconut Milk Paniyaram tutorial!",
+            "voice_over": "Today, we'll make the delightful Coconut Milk Paniyaram, a flavorful treat perfect for any occasion.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "A clean countertop displaying grouped ingredients: soaked raw rice, urad dal, coconut milk, boiled milk, cardamom powder, salt, and sugar in bowls.",
+            "text": "Gather your ingredients.",
+            "voice_over": "To begin, make sure you have 1/2 cup of soaked raw rice, 1/2 cup of soaked urad dal, and 1 cup of coconut milk, along with a few other essentials.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "A close-up shot of raw rice and urad dal being rinsed in water, highlighting the soaking process.",
+            "text": "Soak raw rice and urad dal.",
+            "voice_over": "Start by soaking the raw rice and urad dal together for 2-3 hours in enough water.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "An electric grinder with soaked rice and urad dal being added to it, ready for grinding.",
+            "text": "Grind to a thick batter.",
+            "voice_over": "Next, drain the soaked mixture and grind it to a fine batter, adding water sparingly to achieve a thick consistency.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A bowl with the freshly ground batter being seasoned with a tiny pinch of salt.",
+            "text": "Season the batter.",
+            "voice_over": "Add a tiny pinch of salt to the batter and mix well before setting it aside.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "A kadai with hot oil bubbling, ready for frying the paniyarams.",
+            "text": "Heat oil for frying.",
+            "voice_over": "Heat oil in a kadai or deep frying pan over medium heat until it is hot and ready.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Small portions of the batter being carefully dropped into the hot oil, causing gentle bubbles.",
+            "text": "Fry the paniyarams.",
+            "voice_over": "Once the oil is hot, take small portions of the batter and gently drop them into the oil. Fry until they puff up and turn light golden on both sides.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Golden fried paniyarams being lifted from the oil and placed on tissue paper to drain.",
+            "text": "Drain on tissue paper.",
+            "voice_over": "Remove the fried paniyarams and drain them on tissue paper to absorb excess oil.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "A mixing bowl with coconut milk, boiled milk, cardamom powder, and sugar being combined.",
+            "text": "Prepare the milk mixture.",
+            "voice_over": "In a mixing bowl, combine 1 cup of coconut milk, 1/3 cup of boiled and cooled milk, 1/4 teaspoon of cardamom powder, and 1/8 cup of sugar. Mix well.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 6,
+            "image_prompt": "Fried paniyarams being gently placed in the milk mixture, soaking up the flavors.",
+            "text": "Soak the paniyarams.",
+            "voice_over": "Gently drop the fried paniyarams into the prepared milk mixture and let them soak for 5-10 minutes.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "A beautifully garnished plate of soaked Coconut Milk Paniyaram with a sprig of mint and a side of coconut milk dip for serving.",
+            "text": "Serve and enjoy!",
+            "voice_over": "Your Coconut Milk Paniyaram is ready to serve! Enjoy this delicious treat at room temperature or chilled.",
+            "scene_image_filename": "recipe_fksd351tkb4q/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd351tkb4q-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Breakfast",
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Rice",
+        "Urad Dal",
+        "Coconut",
+        "Dairy"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Festival",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Make sure the oil is hot enough before adding the batter, to ensure they puff up properly.",
+        "Soak the batter until it's fluffy for the best texture."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fksd351tkb4q/fksd351tkb4q_main_image.jpg"
+    },
+    {
+      "id": "fks22pp4njkoqb3",
+      "name": "Sambhar: Indian Spiced Lentil Vegetable Stew",
+      "url": "https://www.thespruceeats.com/sambar-indian-vegetable-stew-1957984",
+      "ingredients": [
+        "2 cups split yellow pigeon peas, rinsed",
+        "4 tablespoons sambar masala powder",
+        "1 tablespoon tamarind pulp, soaked in hot water",
+        "1/4 teaspoon salt, or to taste",
+        "1 cup potatoes, cut into 1-inch cubes",
+        "1 cup eggplant, cut into 2-inch cubes",
+        "10 pearl onions, cored",
+        "10 to 12 small okra, trimmed",
+        "10 to 12 drumsticks (3 inches long), optional",
+        "1/2 cup pumpkin, cubed",
+        "3 tablespoons ghee (clarified butter)",
+        "8 to 10 fresh curry leaves",
+        "3 dry red chile peppers",
+        "1 teaspoon mustard seeds",
+        "1/4 cup fresh coriander leaves, chopped, for garnish"
+      ],
+      "directions": [
+        "Step 1: In a large pot, boil the rinsed pigeon peas and sambar masala with enough water until soft, achieving a thick soup consistency.",
+        "Step 2: Soak the tamarind pulp in a small bowl of hot water for 10 minutes. Squeeze it to extract all the juice.",
+        "Step 3: Add the tamarind juice to the cooked lentils and mix well. Adjust salt to taste.",
+        "Step 4: Add the potato cubes to the lentils and simmer until they are half cooked.",
+        "Step 5: Incorporate the remaining vegetables and optional drumsticks, cooking until all are tender.",
+        "Step 6: In a small pan, heat the ghee and add the curry leaves, dry red chilies, and mustard seeds. Fry until the mustard seeds start to splutter, then pour this tempering into the lentil mixture.",
+        "Step 7: Stir well and garnish with chopped coriander leaves. Serve hot with idlis, vadas, or plain boiled rice."
+      ],
+      "duration": "45 m",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-m.webp",
+      "nutrition": {
+        "calories": "460",
+        "protein": "19 grams",
+        "carbs": "81 grams",
+        "fat": "12 grams",
+        "fiber": "none",
+        "sugar": "none",
+        "sodium": "assume varies based on added salt"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant bowl of sambhar, showcasing the rich, golden lentil stew brimming with colorful vegetables like deep purple eggplant, bright orange pumpkin, and fresh green okra. Use soft, diffused natural light to enhance the textures of the ingredients, casting gentle shadows. Style the dish with a sprinkle of fresh cilantro on top and serve it in an earthy, rustic bowl, placed on a weathered wooden table. Shoot from a 45-degree angle to highlight the depth while maintaining a shallow depth of field to softly blur the background, evoking a warm, inviting mood.",
+      "image_filepath": "recipe_fks22pp4njkoqb3/main_image",
+      "video_script": {
+        "title": "Sambhar: Indian Spiced Lentil Vegetable Stew",
+        "description": "Learn how to make authentic Sambhar, a flavorful Indian stew made with lentils and a variety of vegetables!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A beautifully plated bowl of steaming Sambhar topped with fresh coriander leaves, served with idlis and vadas on the side.",
+            "text": "Welcome to Sambhar, the spicy lentil stew!",
+            "voice_over": "Today, we will be making a delicious Sambhar, packed with flavors and vegetables.",
+            "scene_image_filename": "recipe_fks22pp4njkoqb3/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 6,
+            "image_prompt": "A clear counter showing grouped ingredients: split yellow pigeon peas, sambar masala, tamarind, potatoes, eggplant, pearl onions, okra, drumsticks, pumpkin, ghee, curry leaves, dry chilies, mustard seeds, and fresh coriander.",
+            "text": "Here are the ingredients you'll need.",
+            "voice_over": "For this recipe, we'll use split yellow pigeon peas, sambar masala, tamarind pulp, and a variety of vegetables including potatoes, eggplant, and okra.",
+            "scene_image_filename": "recipe_fks22pp4njkoqb3/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 6,
+            "image_prompt": "A large pot boiling on a stove with yellow pigeon peas and spices visible, steam rising.",
+            "text": "Step 1: Boil the pigeon peas.",
+            "voice_over": "In a large pot, boil 2 cups of rinsed pigeon peas with 4 tablespoons of sambar masala and enough water until soft, reaching a thick soup consistency.",
+            "scene_image_filename": "recipe_fks22pp4njkoqb3/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up of tamarind pulp soaking in a small bowl of hot water, with hands squeezing it to extract juice.",
+            "text": "Step 2: Prepare tamarind juice.",
+            "voice_over": "Soak 1 tablespoon of tamarind pulp in hot water for 10 minutes. Squeeze it out to extract all the juice.",
+            "scene_image_filename": "recipe_fks22pp4njkoqb3/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "A mixing bowl with cooked lentils and tamarind juice being mixed in, with seasoning sprinkled on top.",
+            "text": "Step 3: Add tamarind juice.",
+            "voice_over": "Mix the tamarind juice into the cooked lentils and adjust salt to taste.",
+            "scene_image_filename": "recipe_fks22pp4njkoqb3/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Cut potatoes being added to the pot of lentils, with steam rising and veggies around the pot.",
+            "text": "Step 4: Add potatoes.",
+            "voice_over": "Add 1 cup of potato cubes to the lentils and simmer until they are half cooked, about 5-7 minutes.",
+            "scene_image_filename": "recipe_fks22pp4njkoqb3/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Various chopped vegetables being added to the pot, colorful and vibrant.",
+            "text": "Step 5: Add remaining vegetables.",
+            "voice_over": "Add eggplant, pearl onions, okra, and optional drumsticks, and cook until all the vegetables are tender.",
+            "scene_image_filename": "recipe_fks22pp4njkoqb3/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "A small pan with ghee heating up, surrounded by mustard seeds, curry leaves, and red chilies.",
+            "text": "Step 6: Prepare tempering.",
+            "voice_over": "In a separate pan, heat 3 tablespoons of ghee, add curry leaves, dry red chilies, and mustard seeds. Fry until the mustard seeds splutter.",
+            "scene_image_filename": "recipe_fks22pp4njkoqb3/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Pouring the tempering into the pot of lentils, mixing it in beautifully with colorful veggies.",
+            "text": "Step 7: Combine everything.",
+            "voice_over": "Pour the tempering into the lentil mixture, stir well, and garnish with chopped coriander leaves.",
+            "scene_image_filename": "recipe_fks22pp4njkoqb3/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Final serving of Sambhar in a vibrant bowl, with idlis and vadas on the side, garnished with coriander.",
+            "text": "Serve hot and enjoy!",
+            "voice_over": "Serve the hot Sambhar with idlis, vadas, or plain boiled rice for a complete meal!",
+            "scene_image_filename": "recipe_fks22pp4njkoqb3/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks22pp4njkoqb3-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 40,
+      "total_time_minutes": 55,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Lentils",
+        "Vegetables",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Holiday"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, cook the lentils in vegetable broth instead of water.",
+        "Adjust the level of sambar masala to your taste for spiciness."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/vada/recipe_fks22pp4njkoqb3/fks22pp4njkoqb3_main_image.jpg"
+    }
+  ]
+}
