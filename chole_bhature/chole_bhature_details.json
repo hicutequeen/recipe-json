@@ -1,0 +1,2817 @@
+{
+  "recipes": [
+    {
+      "id": "4er0nheiocuk8",
+      "name": "Delicious Chickpea Curry (Chole)",
+      "url": "http://low-cholesterol.food.com/recipe/i-cant-wait-for-chole-25632",
+      "ingredients": [
+        "2 medium onions, chopped",
+        "1 tablespoon grated fresh ginger",
+        "2 cloves garlic, minced",
+        "1 1/2 teaspoons cumin seeds",
+        "1 bay leaf",
+        "1/2 inch cinnamon stick",
+        "2 medium tomatoes, chopped",
+        "1 teaspoon ground coriander",
+        "1/2 teaspoon ground turmeric",
+        "1 teaspoon salt",
+        "1/4-1/2 teaspoon cayenne pepper",
+        "2 (15 ounce) cans garbanzo beans (chickpeas), rinsed and drained",
+        "1/2-1 teaspoon garam masala",
+        "1 tablespoon fresh lemon juice",
+        "Fresh cilantro, chopped (for garnish)"
+      ],
+      "directions": [
+        "Step 1: Heat the cumin seeds, bay leaf, and cinnamon stick in a large saucepan over medium heat. Swirl the pan frequently to prevent burning and toast the spices until fragrant (about 1-2 minutes).",
+        "Step 2: Add the minced garlic and grated ginger to the saucepan and cook until fragrant (about 30 seconds).",
+        "Step 3: Add the chopped onions and saut\u00e9, stirring frequently, until translucent. Add a few drops of water as needed to prevent sticking.",
+        "Step 4: Add the chopped tomatoes, ground coriander, ground turmeric, salt, and cayenne pepper to the saucepan. Stir well to combine.",
+        "Step 5: Bring the mixture to a boil, then reduce heat to low, cover, and simmer for 10-15 minutes, or until the flavors have melded.",
+        "Step 6: Stir in the garam masala and lemon juice just before serving.",
+        "Step 7: Garnish with fresh chopped cilantro and serve hot with rice, naan, roti, or pita bread."
+      ],
+      "duration": "35 mins",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/4er0nheiocuk8-m.webp",
+      "nutrition": {
+        "calories": "350 per serving",
+        "protein": "15 grams per serving",
+        "carbs": "60 grams per serving",
+        "fat": "10 grams per serving",
+        "fiber": "12 grams per serving",
+        "sugar": "8 grams per serving",
+        "sodium": "700 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a richly colored chickpea curry (chole) in a shallow, rustic bowl against a dark, textured background.  Use soft, directional lighting to highlight the texture of the chickpeas and the vibrant spices.  Garnish with fresh cilantro sprigs and a wedge of lime.  A shallow depth of field should focus sharply on the chickpeas in the foreground, blurring the background slightly.  Compose the shot from a slightly overhead angle to showcase the curry\u2019s inviting texture and create a warm, inviting mood.  Incorporate a piece of naan bread partially in the frame for added visual interest.",
+      "image_filepath": "recipe_4er0nheiocuk8/main_image",
+      "video_script": {
+        "title": "Delicious Chickpea Curry (Chole)",
+        "description": "Learn how to make this flavorful and hearty chickpea curry recipe. Perfect for a weeknight meal or a weekend feast!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished bowl of chickpea curry, garnished with fresh cilantro, served with naan bread. Steam gently rising from the curry.",
+            "text": "Delicious Chickpea Curry",
+            "voice_over": "Welcome! Today, we're making a delicious and easy chickpea curry, also known as chole. This recipe is packed with flavor and perfect for any occasion.",
+            "scene_image_filename": "recipe_4er0nheiocuk8/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4er0nheiocuk8-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a wooden table: onions, ginger, garlic, cumin seeds, bay leaf, cinnamon stick, tomatoes, coriander, turmeric, salt, cayenne pepper, canned chickpeas, garam masala, lemon, and cilantro.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: onions, ginger, garlic, cumin seeds, bay leaf, cinnamon stick, tomatoes, ground coriander, turmeric, salt, cayenne pepper, canned chickpeas, garam masala, lemon juice, and fresh cilantro for garnish.",
+            "scene_image_filename": "recipe_4er0nheiocuk8/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4er0nheiocuk8-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of a pan with cumin seeds, bay leaf, and cinnamon stick being toasted over medium heat.",
+            "text": "Toasting Spices",
+            "voice_over": "First, toast cumin seeds, a bay leaf, and a cinnamon stick in a pan over medium heat for about 1-2 minutes until fragrant. Swirl frequently to prevent burning.",
+            "scene_image_filename": "recipe_4er0nheiocuk8/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4er0nheiocuk8-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the pan with ginger and garlic being added to the toasted spices.",
+            "text": "Flavor Base",
+            "voice_over": "Add minced garlic and grated ginger, and cook for about 30 seconds until fragrant.",
+            "scene_image_filename": "recipe_4er0nheiocuk8/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4er0nheiocuk8-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The pan with onions being saut\u00e9ed until translucent, with spices, garlic and ginger.",
+            "text": "Saut\u00e9ed Onions",
+            "voice_over": "Now, add chopped onions and saut\u00e9 until translucent, stirring frequently.  Add a few drops of water to prevent sticking if needed.",
+            "scene_image_filename": "recipe_4er0nheiocuk8/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4er0nheiocuk8-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Chopped tomatoes, ground coriander, ground turmeric, salt, and cayenne pepper being added to the pan with the onion mixture.",
+            "text": "Spice Blend",
+            "voice_over": "Add chopped tomatoes, ground coriander, turmeric, salt, and cayenne pepper.  Stir well to combine.",
+            "scene_image_filename": "recipe_4er0nheiocuk8/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4er0nheiocuk8-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "The chickpea curry simmering in the covered pot.",
+            "text": "Simmering",
+            "voice_over": "Bring the mixture to a boil, then reduce heat to low, cover, and simmer for 10-15 minutes, allowing the flavors to meld.",
+            "scene_image_filename": "recipe_4er0nheiocuk8/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4er0nheiocuk8-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Garam masala and lemon juice being stirred into the curry.",
+            "text": "Final Touches",
+            "voice_over": "Just before serving, stir in the garam masala and lemon juice. This adds a burst of fresh, aromatic flavor.",
+            "scene_image_filename": "recipe_4er0nheiocuk8/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4er0nheiocuk8-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the finished chickpea curry garnished with fresh cilantro, served in a bowl with rice and naan bread.",
+            "text": "Serve and Enjoy!",
+            "voice_over": "Garnish with fresh cilantro. Serve hot with rice, naan, roti, or pita bread. Enjoy your delicious homemade chickpea curry!",
+            "scene_image_filename": "recipe_4er0nheiocuk8/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/4er0nheiocuk8-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Vegan"
+      ],
+      "ingredient_tags": [
+        "Chickpeas",
+        "Onions",
+        "Tomatoes",
+        "Ginger",
+        "Garlic",
+        "Cumin",
+        "Coriander",
+        "Turmeric",
+        "Garam Masala"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight",
+        "Potluck"
+      ],
+      "cooking_tips": [
+        "Adjust the amount of cayenne pepper to your preferred level of spiciness.",
+        "For a richer flavor, use canned diced tomatoes instead of fresh.",
+        "Soaking dried chickpeas overnight and cooking them before adding them to the curry will enhance the flavor and texture."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_4er0nheiocuk8/4er0nheiocuk8_main_image.jpg"
+    },
+    {
+      "id": "6njhtprdcsvqb",
+      "name": "Chickpea Chole Chaat with Roti",
+      "url": "http://www.taste.com.au/recipes/26643/chole+chaat",
+      "ingredients": [
+        "1 large red onion, halved and thinly sliced",
+        "1-2 long fresh green chilies, finely chopped",
+        "2 teaspoons finely grated fresh ginger",
+        "1 teaspoon garam masala",
+        "1 teaspoon ground coriander",
+        "2 (420g) cans no-salt-added chickpeas, rinsed and drained",
+        "1 (400g) can chopped tomatoes",
+        "125ml (1/2 cup) water",
+        "1 bunch English spinach, trimmed and shredded",
+        "1 teaspoon white sugar",
+        "Olive oil spray",
+        "Fresh coriander sprigs, for garnish",
+        "4 roti breads, warmed",
+        "Salt and pepper, to taste"
+      ],
+      "directions": [
+        "Step 1: Heat a large saucepan over medium heat and spray with olive oil.",
+        "Step 2: Add the sliced red onion and saut\u00e9, stirring occasionally, for 5 minutes, or until softened.",
+        "Step 3: Add the chopped green chilies, grated ginger, garam masala, and ground coriander. Cook, stirring, for 1-2 minutes, or until fragrant.",
+        "Step 4: Add the rinsed and drained chickpeas to the saucepan and stir to coat in the spices.",
+        "Step 5: Stir in the chopped tomatoes and water until well combined.",
+        "Step 6: Bring the mixture to a simmer and cook, stirring occasionally, for 10 minutes, or until the sauce has thickened.",
+        "Step 7: Add the shredded spinach and sugar to the saucepan. Stir until the spinach has wilted and is well combined with the other ingredients.",
+        "Step 8: Season the chole chaat with salt and pepper to taste.",
+        "Step 9: Serve the chole chaat hot, topped with fresh coriander sprigs and accompanied by warm roti breads."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-m.webp",
+      "nutrition": {
+        "calories": "350 per serving",
+        "protein": "15 grams per serving",
+        "carbs": "60 grams per serving",
+        "fat": "8 grams per serving",
+        "fiber": "12 grams per serving",
+        "sugar": "10 grams per serving",
+        "sodium": "300mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, overhead shot of Chickpea Chole Chaat with torn roti, styled in a rustic, earthenware bowl.  Focus on the chickpeas, highlighting their texture against the bright red onion and green chilies. Use soft, natural light to emphasize the warm spices and vibrant green spinach. Incorporate a shallow depth of field, focusing on the center of the dish, allowing the roti edges to softly blur.  Garnish with a sprinkle of fresh coriander and a wedge of lime for a pop of color. Aim for a warm, inviting mood.",
+      "image_filepath": "recipe_6njhtprdcsvqb/main_image",
+      "video_script": {
+        "title": "Chickpea Chole Chaat with Roti",
+        "description": "A flavorful and healthy Indian street food recipe made with chickpeas, spices, and spinach, served with warm roti bread.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished Chickpea Chole Chaat dish served with warm roti bread. The chole is garnished with fresh coriander sprigs. The background is slightly blurred.",
+            "text": "Chickpea Chole Chaat",
+            "voice_over": "Welcome! Today we're making Chickpea Chole Chaat, a vibrant and satisfying Indian dish packed with flavor and nutrients. It's quick, easy, and perfect for a weeknight meal.",
+            "scene_image_filename": "recipe_6njhtprdcsvqb/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a wooden table. Group similar ingredients together, such as spices, vegetables, and canned goods.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: red onion, green chilies, ginger, garam masala, ground coriander, canned chickpeas, chopped tomatoes, water, spinach, sugar, olive oil, coriander sprigs, and roti breads. Remember to rinse and drain the chickpeas.",
+            "scene_image_filename": "recipe_6njhtprdcsvqb/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a pan with sliced red onions being saut\u00e9ed over medium heat. The onions are softening and becoming translucent.",
+            "text": "Saut\u00e9 Onion",
+            "voice_over": "Heat a large saucepan over medium heat and spray with olive oil. Add the sliced red onion and saut\u00e9 for about 5 minutes until softened.",
+            "scene_image_filename": "recipe_6njhtprdcsvqb/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up of the pan with onions, green chilies, ginger, garam masala, and ground coriander being cooked together. The spices are fragrant and well combined with the onions.",
+            "text": "Spice Infusion",
+            "voice_over": "Add the green chilies, ginger, garam masala, and ground coriander. Cook for 1-2 minutes until fragrant, stirring constantly to prevent burning.",
+            "scene_image_filename": "recipe_6njhtprdcsvqb/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Close-up of the pan with chickpeas being added to the spice mixture and stirred to coat.",
+            "text": "Add Chickpeas",
+            "voice_over": "Add the rinsed and drained chickpeas and stir well, ensuring they are coated in the flavorful spices.",
+            "scene_image_filename": "recipe_6njhtprdcsvqb/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up shot of the pan with tomatoes and water being added to the chickpea mixture and stirred until well combined.",
+            "text": "Tomato Base",
+            "voice_over": "Stir in the chopped tomatoes and water. Mix everything together and bring to a simmer.",
+            "scene_image_filename": "recipe_6njhtprdcsvqb/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "Shot of the saucepan simmering with the chole mixture. The sauce is thickening slightly.",
+            "text": "Simmer",
+            "voice_over": "Reduce the heat and let it simmer for 10 minutes, or until the sauce thickens. Stir occasionally.",
+            "scene_image_filename": "recipe_6njhtprdcsvqb/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Spinach being added to the simmering chole and stirred until wilted.",
+            "text": "Add Spinach",
+            "voice_over": "Add the shredded spinach and sugar, stirring until the spinach wilts and mixes well with the chole.",
+            "scene_image_filename": "recipe_6njhtprdcsvqb/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 4,
+            "image_prompt": "Close-up shot of the finished Chickpea Chole Chaat, garnished with fresh coriander sprigs, served alongside warm roti breads.",
+            "text": "Serve and Enjoy!",
+            "voice_over": "Season with salt and pepper to taste. Serve hot, garnished with fresh coriander and accompanied by warm roti. Enjoy your flavorful Chickpea Chole Chaat!",
+            "scene_image_filename": "recipe_6njhtprdcsvqb/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a person taking a bite of the Chickpea Chole Chaat with roti, showing its texture and deliciousness. The background displays a cozy dining setting.",
+            "text": "Nutritional Info",
+            "voice_over": "Each serving boasts approximately 350 calories, 15 grams of protein, 60 grams of carbs, and 8 grams of fat. A wholesome and delicious meal!",
+            "scene_image_filename": "recipe_6njhtprdcsvqb/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/6njhtprdcsvqb-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 20,
+      "total_time_minutes": 35,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Vegan adaptable"
+      ],
+      "ingredient_tags": [
+        "Chickpeas",
+        "Spinach",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Chili",
+        "Coriander",
+        "Roti"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Potluck",
+        "Casual Party"
+      ],
+      "cooking_tips": [
+        "For a spicier chole chaat, add more green chilies or a pinch of cayenne pepper.",
+        "If you don't have roti bread, you can serve the chole chaat with naan, pita bread, or rice.",
+        "Leftover chole chaat can be stored in the refrigerator for up to 3 days."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_6njhtprdcsvqb/6njhtprdcsvqb_main_image.jpg"
+    },
+    {
+      "id": "d36q60pep",
+      "name": "Chickpea Pulao",
+      "url": "http://www.easy-indian-cooking.com/recipe/chana-chickpeas-chole-pulao-biryani/",
+      "ingredients": [
+        "1 cup Basmati rice",
+        "1 cup Chickpeas (cooked)",
+        "2 medium Tomatoes, chopped",
+        "2 medium Onions, chopped",
+        "2 tablespoons Ginger-Garlic paste",
+        "1 Clove",
+        "1 Bay leaf",
+        "1/2 tablespoon Cumin seeds",
+        "1/2 tablespoon Turmeric powder",
+        "1/2 tablespoon Coriander powder",
+        "1/2 tablespoon Garam masala",
+        "1/2 tablespoon Chili powder",
+        "10 Curry leaves",
+        "1/4 cup Coriander leaves, chopped",
+        "Salt, to taste",
+        "1/2 tablespoon Mustard seeds",
+        "3 tablespoons Vegetable oil"
+      ],
+      "directions": [
+        "Step 1: Rice Preparation: Rinse and soak the Basmati rice in water for 10 minutes. Set aside.",
+        "Step 2: Tempering: Heat vegetable oil in a large pot or pan over medium heat. Add mustard seeds and let them splutter. Add curry leaves, cumin seeds, ginger-garlic paste, clove, and bay leaf. Saut\u00e9 for a minute until fragrant.",
+        "Step 3: Saut\u00e9ing Onions and Spices: Add chopped onions and fry until golden brown. Then, add turmeric powder, coriander powder, garam masala, chili powder, and salt. Saut\u00e9 for another minute until fragrant.",
+        "Step 4: Adding Rice: Add the soaked rice to the pot and mix well with the spices. Saut\u00e9 for 2-3 minutes, allowing the rice to absorb the flavors.",
+        "Step 5: Cooking Rice and Chickpeas: Transfer the rice mixture to a rice cooker. Add the cooked chickpeas and 2 cups of water. Cook according to the rice cooker instructions.",
+        "Step 6: Stovetop Method (Alternative): If using a regular pot, add the rice mixture, cooked chickpeas, and water. Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes, or until the rice is cooked through. Stir occasionally to prevent sticking.",
+        "Step 7: Garnishing: Once the rice is cooked, garnish with chopped coriander leaves and serve hot."
+      ],
+      "duration": "",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q60pep-m.webp",
+      "nutrition": {
+        "calories": "350 per serving",
+        "protein": "12 grams per serving",
+        "carbs": "60 grams per serving",
+        "fat": "10 grams per serving",
+        "fiber": "8 grams per serving",
+        "sugar": "2 grams per serving",
+        "sodium": "300 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a styled image of Chickpea Pulao, featuring fluffy basmati rice studded with golden chickpeas and vibrant tomatoes.  Employ a slightly overhead angle, showcasing the texture. Soft, diffused natural light should highlight the steam rising gently.  A shallow depth of field focuses on a spoonful mid-air, revealing individual grains and chickpeas.  Incorporate rustic wooden elements and a linen napkin. Garnish with fresh cilantro sprigs and a sprinkle of cumin seeds.  Aim for a warm, inviting mood and rich color saturation.",
+      "image_filepath": "recipe_d36q60pep/main_image",
+      "video_script": {
+        "title": "Chickpea Pulao: A Flavorful and Healthy One-Pot Meal",
+        "description": "Learn how to make delicious Chickpea Pulao, a fragrant rice dish with protein-packed chickpeas. This easy one-pot recipe is perfect for a weeknight dinner.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a steaming plate of Chickpea Pulao, garnished with fresh coriander leaves. The rice should look fluffy and separate, with the chickpeas evenly distributed. The background should be slightly blurred to emphasize the dish.",
+            "text": "Chickpea Pulao",
+            "voice_over": "Welcome! Today, we're making Chickpea Pulao, a hearty and flavorful one-pot meal. It's easy to make and packed with nutrients.",
+            "scene_image_filename": "recipe_d36q60pep/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q60pep-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a wooden table. Group ingredients visually: rice, chickpeas, spices, aromatics, and vegetables.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: Basmati rice, cooked chickpeas, onions, tomatoes, ginger-garlic paste, and a blend of aromatic spices like cumin, turmeric, coriander, garam masala, and chili powder.  We'll also use curry leaves, clove, bay leaf, mustard seeds, oil, and fresh coriander for garnish.",
+            "scene_image_filename": "recipe_d36q60pep/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q60pep-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of hands rinsing basmati rice in a fine-mesh sieve under running water.",
+            "text": "Rinse & Soak Rice",
+            "voice_over": "First, rinse the Basmati rice under cold water until the water runs clear. Then, soak it in fresh water for 10 minutes. This helps the rice cook evenly and become fluffy.",
+            "scene_image_filename": "recipe_d36q60pep/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q60pep-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 6,
+            "image_prompt": "A pot on a stove with hot oil and mustard seeds popping. Curry leaves, cumin seeds, clove and bayleaf are sizzling in the oil.",
+            "text": "Tempering",
+            "voice_over": "Heat oil in a pot. Add mustard seeds and let them splutter.  Add curry leaves, cumin seeds, clove, and bay leaf. Saut\u00e9 for about a minute until fragrant.",
+            "scene_image_filename": "recipe_d36q60pep/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q60pep-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "The pot with onions being sauteed until golden brown, followed by the addition and mixing of spices.",
+            "text": "Saut\u00e9 and Spice",
+            "voice_over": "Add chopped onions and fry until golden brown. Then, add the ginger-garlic paste and saut\u00e9 for another minute.  Now, add turmeric powder, coriander powder, garam masala, chili powder, and salt.  Saut\u00e9 for a minute until the spices are fragrant.",
+            "scene_image_filename": "recipe_d36q60pep/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q60pep-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Soaked rice being added to the pot and mixed with the spices.",
+            "text": "Add Rice",
+            "voice_over": "Add the soaked and drained rice to the pot. Mix well, ensuring every grain is coated with the spices. Saut\u00e9 for 2-3 minutes.",
+            "scene_image_filename": "recipe_d36q60pep/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q60pep-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Rice and chickpeas being added to a rice cooker with water or the stovetop pot method if the user doesn't have a rice cooker",
+            "text": "Cook Rice",
+            "voice_over": "Transfer the rice mixture to a rice cooker. Add the cooked chickpeas and two cups of water. Cook according to your rice cooker's instructions. If using a stovetop, simmer covered for 15-20 minutes, or until the rice is cooked through, stirring occasionally.",
+            "scene_image_filename": "recipe_d36q60pep/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q60pep-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a hand garnishing the finished Chickpea Pulao with chopped coriander leaves.",
+            "text": "Garnish",
+            "voice_over": "Once cooked, fluff the rice with a fork. Garnish with fresh coriander leaves.",
+            "scene_image_filename": "recipe_d36q60pep/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q60pep-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "The finished Chickpea Pulao served on a plate with a side of raita or salad.  Focus on the vibrant colors and textures.  Steam should be gently rising from the dish.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Your delicious Chickpea Pulao is ready!  Serve it hot with raita or a side salad. Enjoy!  This dish provides approximately 350 calories, 12 grams of protein, 60 grams of carbs, and 10 grams of fat per serving.",
+            "scene_image_filename": "recipe_d36q60pep/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q60pep-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Vegan"
+      ],
+      "ingredient_tags": [
+        "Rice",
+        "Chickpeas",
+        "Tomatoes",
+        "Onions",
+        "Ginger",
+        "Garlic",
+        "Cumin",
+        "Turmeric",
+        "Coriander",
+        "Garam Masala",
+        "Chili",
+        "Curry Leaves"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Potluck",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, you can add 1/4 cup of chopped mint leaves along with the coriander leaves for garnishing.",
+        "Adjust the amount of chili powder according to your spice preference."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_d36q60pep/d36q60pep_main_image.jpg"
+    },
+    {
+      "id": "d36q5f32t",
+      "name": "Chana Masala (Chickpea Curry)",
+      "url": "http://www.easy-indian-cooking.com/recipe/chana-chole-masala-chickpeas-curry/",
+      "ingredients": [
+        "200 grams dried chickpeas, soaked overnight",
+        "2 medium onions, finely chopped",
+        "2 medium tomatoes, finely chopped",
+        "5 tablespoons tomato puree",
+        "1/2 teaspoon black cumin seeds",
+        "1/2 teaspoon cumin seeds",
+        "1/4 teaspoon mustard seeds",
+        "1/4 teaspoon ajwain seeds",
+        "1 teaspoon coriander powder",
+        "2 tablespoons ginger-garlic paste",
+        "1 tablespoon tamarind paste",
+        "1 teaspoon chili powder",
+        "1 teaspoon garam masala",
+        "1/4 teaspoon turmeric powder",
+        "1 bay leaf",
+        "Salt to taste",
+        "6-8 curry leaves",
+        "Fresh coriander leaves, for garnish",
+        "2 tablespoons vegetable oil"
+      ],
+      "directions": [
+        "Step 1: Drain the soaked chickpeas and set aside.",
+        "Step 2: Heat the oil in a large pot or Dutch oven over medium heat. Add the mustard seeds and let them splutter. Add the black cumin seeds, cumin seeds, ajwain seeds, curry leaves, and bay leaf. Saut\u00e9 for a minute until fragrant.",
+        "Step 3: Add the chopped onions and saut\u00e9 until golden brown, about 5-7 minutes.",
+        "Step 4: Add the ginger-garlic paste and saut\u00e9 for another minute until fragrant.",
+        "Step 5: Add the chopped tomatoes and tomato puree. Cook until the tomatoes soften and the mixture starts to thicken, about 5-7 minutes. ",
+        "Step 6: Add the turmeric powder, coriander powder, and chili powder. Mix well and cook for 1-2 minutes until fragrant.",
+        "Step 7: Add the cooked chickpeas to the pot and stir well to combine. Add about 1 cup of water, or enough to cover the chickpeas. Bring to a simmer, then cover and cook for 20-25 minutes, or until the chickpeas are tender.",
+        "Step 8: In a small bowl, whisk together the tamarind paste with 1/4 cup of warm water. Add the tamarind mixture to the chickpea curry.  Simmer for another 5-7 minutes, or until the sauce has thickened to your desired consistency.",
+        "Step 9: Remove from heat and stir in the garam masala. Garnish with fresh coriander leaves."
+      ],
+      "duration": "",
+      "serves": "3",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d36q5f32t-m.webp",
+      "nutrition": {
+        "calories": "300 per serving",
+        "protein": "15 grams per serving",
+        "carbs": "45 grams per serving",
+        "fat": "10 grams per serving",
+        "fiber": "12 grams per serving",
+        "sugar": "5 grams per serving",
+        "sodium": "200 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of Chana Masala in a rustic, earthenware bowl.  Use warm, directional lighting to highlight the texture of the chickpeas and the richness of the sauce.  A shallow depth of field should focus sharply on the chickpeas in the foreground, blurring the garnished cilantro and a wedge of naan bread in the background.  Employ a dark, moody background to make the vibrant colors of the dish pop.  Include scattered spices around the bowl for added visual interest.",
+      "image_filepath": "recipe_d36q5f32t/main_image",
+      "video_script": {
+        "title": "Chana Masala (Chickpea Curry)",
+        "description": "A delicious and easy-to-follow recipe for authentic Chana Masala.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished bowl of Chana Masala, garnished with fresh coriander leaves. Steam gently rises from the curry. The background is slightly blurred, emphasizing the rich color and texture of the dish.",
+            "text": "Chana Masala",
+            "voice_over": "Welcome! Today, we're making Chana Masala, a flavorful and hearty chickpea curry. It's packed with aromatic spices and perfect for a comforting meal.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a wooden table. Dried chickpeas, chopped onions, tomatoes, spices, ginger-garlic paste, tamarind paste, herbs and oil are clearly visible.",
+            "text": "Ingredients",
+            "voice_over": "Here are the ingredients you will need for our chana masala. 200g dried chickpeas, soaked overnight and drained. Then our aromatics:  two medium onions, two tomatoes, ginger-garlic paste, along with spices: cumin, black cumin, mustard, ajwain seeds, coriander powder, turmeric powder, chili powder, garam masala, and bay leaf, fresh curry leaves and coriander for garnish. And for that tang: tamarind paste. Finally, two tablespoons of vegetable oil and salt to taste.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of oil heating up in a pot, followed by mustard seeds spluttering as they are added. The other spices, curry leaves, and bay leaf are then added to the hot oil.",
+            "text": "Spice Infusion",
+            "voice_over": "Heat two tablespoons of oil in a pot over medium heat. Add mustard seeds and let them splutter. Then, add black cumin, cumin, ajwain seeds, curry leaves and bay leaf. Saut\u00e9 for about a minute until fragrant.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Chopped onions being added to the pot and saut\u00e9ed until golden brown. The spices are visible in the background.",
+            "text": "Saut\u00e9 Onions",
+            "voice_over": "Add the chopped onions and saut\u00e9 for 5-7 minutes until golden brown.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Ginger-garlic paste being added to the pot and saut\u00e9ed with the onions and spices.",
+            "text": "Ginger-Garlic Magic",
+            "voice_over": "Now, add the ginger-garlic paste and saut\u00e9 for another minute until fragrant.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Chopped tomatoes and tomato puree being added to the pot and cooked until softened.",
+            "text": "Tomato Base",
+            "voice_over": "Add chopped tomatoes and tomato puree. Cook for 5-7 minutes, until they soften and the mixture thickens slightly.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Dry spices being added to the pot and mixed with the tomato-onion mixture.",
+            "text": "Spice Blend",
+            "voice_over": "Add turmeric powder, coriander powder, and chili powder. Mix well and cook for 1-2 minutes until fragrant.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 7,
+            "image_prompt": "Cooked chickpeas being added to the pot and mixed with the spices and tomato mixture. Water is added to cover the chickpeas.",
+            "text": "Chickpea Time",
+            "voice_over": "Add the drained chickpeas and stir well. Add enough water to cover the chickpeas, about one cup. Bring to a simmer, cover, and cook for 20-25 minutes until tender.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Tamarind paste whisked with warm water, then added to the pot and simmered.",
+            "text": "Tangy Tamarind",
+            "voice_over": "Whisk tamarind paste with 1/4 cup of warm water. Add this to the curry and simmer for another 5-7 minutes, letting the sauce thicken.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "The finished Chana Masala is garnished with fresh coriander leaves. The dish is steaming hot and ready to serve.",
+            "text": "Final Touch",
+            "voice_over": "Remove from heat and stir in the garam masala. Garnish with fresh coriander leaves.",
+            "scene_image_filename": "recipe_d36q5f32t/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "A bowl of Chana Masala served with rice or naan bread, garnished with fresh coriander. Other serving suggestions, such as roti or a side salad are also shown.",
+            "text": "Serving",
+            "voice_over": "Serve your delicious Chana Masala hot with rice, naan, roti, or a side salad. Enjoy!",
+            "scene_image_filename": "recipe_d36q5f32t/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d36q5f32t-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 30,
+      "cooking_time_minutes": 45,
+      "total_time_minutes": 75,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Chickpeas",
+        "Onions",
+        "Tomatoes",
+        "Ginger",
+        "Garlic",
+        "Cumin",
+        "Coriander",
+        "Turmeric",
+        "Tamarind"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Potluck"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, you can add a pinch of asafoetida (hing) along with the other spices.",
+        "If the curry becomes too thick, add a little more water to adjust the consistency.",
+        "Serve hot with rice, roti, naan, or bhatura."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_d36q5f32t/d36q5f32t_main_image.jpg"
+    },
+    {
+      "id": "5gf1kc1ot4pc4",
+      "name": "Classic Chickpea Curry (Chole)",
+      "url": "http://www.food.com/recipe/garbanzo-beans-chole-91128",
+      "ingredients": [
+        "1 (16 ounce) can garbanzo beans, drained and rinsed",
+        "1 tablespoon ghee or vegetable oil",
+        "1 medium onion, roughly diced",
+        "1 teaspoon grated fresh ginger",
+        "1 teaspoon minced garlic",
+        "1/2 cup diced tomatoes",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground turmeric",
+        "1 teaspoon ground coriander",
+        "1 teaspoon chili powder",
+        "1 teaspoon garam masala",
+        "Fresh coriander leaves, for garnish",
+        "Lemon slices, for garnish",
+        "Salt, to taste"
+      ],
+      "directions": [
+        "Step 1: Heat the ghee or oil in a large pot or Dutch oven over medium heat.",
+        "Step 2: Add the diced onions and saut\u00e9 for about 5 minutes, until softened.",
+        "Step 3: Add the grated ginger and minced garlic and cook for another minute until fragrant.",
+        "Step 4: Stir in the diced tomatoes, ground cumin, ground coriander, ground turmeric, chili powder, and salt. Cook for 5-7 minutes, until the tomatoes break down and form a sauce.",
+        "Step 5: Add the drained and rinsed garbanzo beans and stir to combine.",
+        "Step 6: Bring the mixture to a simmer, then reduce heat and cover. Let it simmer for 10-15 minutes, or until the flavors have melded.",
+        "Step 7: Stir in the garam masala and simmer for another minute.",
+        "Step 8: Remove from heat and garnish with fresh coriander leaves and lemon slices. Serve hot with rice or naan."
+      ],
+      "duration": "25 mins",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-m.webp",
+      "nutrition": {
+        "calories": "300 per serving",
+        "protein": "15 grams per serving",
+        "carbs": "45 grams per serving",
+        "fat": "10 grams per serving",
+        "fiber": "12 grams per serving",
+        "sugar": "5 grams per serving",
+        "sodium": "300 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a richly colored chickpea curry (chole) in a shallow, rustic bowl against a dark, textured background.  Use soft, directional light from the side to highlight the texture of the chickpeas and the vibrant spices.  Garnish with a sprinkle of fresh cilantro and a wedge of lime.  Focus on the chickpeas in the foreground with a shallow depth of field, blurring the background slightly for a warm, inviting mood. The camera angle should be slightly overhead, showcasing the bowl's contents and the texture of the curry.  Include a rustic wooden spoon resting beside the bowl.",
+      "image_filepath": "recipe_5gf1kc1ot4pc4/main_image",
+      "video_script": {
+        "title": "Classic Chickpea Curry (Chole)",
+        "description": "Learn how to make delicious and authentic Chickpea Curry (Chole) with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished bowl of chickpea curry, garnished with fresh coriander and lemon slices. Steam gently rises from the curry.  Focus on the vibrant colors and textures of the dish.",
+            "text": "Classic Chickpea Curry (Chole)",
+            "voice_over": "Welcome! Today, we're making a flavorful and aromatic Classic Chickpea Curry, also known as Chole. This dish is hearty, packed with plant-based protein, and perfect with rice or naan.",
+            "scene_image_filename": "recipe_5gf1kc1ot4pc4/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a wooden table: can of chickpeas, onion, ginger, garlic, tomatoes, spices (cumin, coriander, turmeric, chili powder, garam masala), coriander leaves, lemon, ghee/oil, and salt.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: canned chickpeas, onion, ginger, garlic, diced tomatoes, and our essential spices - cumin, coriander, turmeric, chili powder, garam masala, and salt.  For garnish, fresh coriander and lemon slices. And finally, some ghee or vegetable oil.",
+            "scene_image_filename": "recipe_5gf1kc1ot4pc4/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Ghee or oil heating in a pot on a stovetop over medium heat.",
+            "text": "Saut\u00e9 Onions",
+            "voice_over": "Heat one tablespoon of ghee or oil in a large pot over medium heat.",
+            "scene_image_filename": "recipe_5gf1kc1ot4pc4/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Onions being saut\u00e9ed in the pot, becoming translucent.",
+            "text": "Add Onions",
+            "voice_over": "Add the diced onions and saut\u00e9 for about 5 minutes until softened and translucent.",
+            "scene_image_filename": "recipe_5gf1kc1ot4pc4/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Ginger and garlic being added to the pot with the onions.",
+            "text": "Ginger & Garlic",
+            "voice_over": "Add the grated ginger and minced garlic and cook for another minute until fragrant.",
+            "scene_image_filename": "recipe_5gf1kc1ot4pc4/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 6,
+            "image_prompt": "Spices and tomatoes being added to the pot, stirring constantly.",
+            "text": "Spice Blend",
+            "voice_over": "Now, add the diced tomatoes, cumin, coriander, turmeric, chili powder, and salt. Cook for 5-7 minutes, allowing the tomatoes to break down and form a rich sauce.",
+            "scene_image_filename": "recipe_5gf1kc1ot4pc4/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Chickpeas being added to the spice mixture in the pot.",
+            "text": "Add Chickpeas",
+            "voice_over": "Add the drained and rinsed chickpeas to the pot and stir well to coat them in the flavorful sauce.",
+            "scene_image_filename": "recipe_5gf1kc1ot4pc4/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "The chickpea curry simmering in the pot, covered with a lid.",
+            "text": "Simmer",
+            "voice_over": "Bring the mixture to a simmer, then reduce the heat to low, cover, and let it simmer for 10-15 minutes for the flavors to meld beautifully.",
+            "scene_image_filename": "recipe_5gf1kc1ot4pc4/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 4,
+            "image_prompt": "Garam masala being stirred into the chickpea curry.",
+            "text": "Garam Masala",
+            "voice_over": "Stir in the garam masala and simmer for another minute to enhance the aroma.",
+            "scene_image_filename": "recipe_5gf1kc1ot4pc4/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Finished chickpea curry served in a bowl with rice and naan, garnished with coriander and lemon. Close-up shot.",
+            "text": "Serve & Enjoy",
+            "voice_over": "Remove from heat and garnish with fresh coriander leaves and lemon slices. Serve hot with rice or naan. Enjoy your homemade Classic Chickpea Curry!",
+            "scene_image_filename": "recipe_5gf1kc1ot4pc4/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/5gf1kc1ot4pc4-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 40,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Garbanzo Beans",
+        "Onions",
+        "Ginger",
+        "Garlic",
+        "Tomatoes",
+        "Cumin",
+        "Turmeric",
+        "Coriander",
+        "Chili Powder",
+        "Garam Masala"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Potluck",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, you can use butter instead of ghee or oil.",
+        "Adjust the amount of chili powder to control the spiciness level.",
+        "If you want a thicker sauce, you can mash some of the garbanzo beans before adding them to the pot.",
+        "Serve with rice, naan, or roti."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_5gf1kc1ot4pc4/5gf1kc1ot4pc4_main_image.jpg"
+    },
+    {
+      "id": "fksm9rve29b3rn",
+      "name": "Chole (Chickpea Curry)",
+      "url": "https://www.thespruceeats.com/chole-chickpea-curry-1957946",
+      "ingredients": [
+        "2 large Onions, thinly sliced",
+        "2 large Tomatoes, chopped",
+        "1 tablespoon Ginger paste",
+        "2 tablespoons Garlic paste",
+        "2 tablespoons Vegetable oil",
+        "2 Bay leaves",
+        "5-6 Cloves",
+        "3-4 Green cardamom pods",
+        "5-6 Black peppercorns",
+        "1 teaspoon Cumin powder",
+        "2 teaspoons Coriander powder",
+        "1/2 teaspoon Red chili powder",
+        "1/4 teaspoon Ground turmeric",
+        "2 teaspoons Garam masala",
+        "2 (15.5 ounce) cans Chickpeas, drained and rinsed",
+        "Salt, to taste",
+        "1 1/2 cups Water",
+        "1-inch piece Ginger, julienned",
+        "2 tablespoons Cilantro, finely chopped"
+      ],
+      "directions": [
+        "Step 1: In a food processor, combine 2 of the sliced onions, the chopped tomatoes, ginger paste, and garlic paste. Process until a smooth paste forms.",
+        "Step 2: Heat the vegetable oil in a deep, thick-bottomed pan over medium heat.",
+        "Step 3: Add the bay leaves, cloves, cardamom pods, and peppercorns. Saut\u00e9 until fragrant and slightly darkened.",
+        "Step 4: Add the remaining sliced onion to the pan and cook until light golden brown.",
+        "Step 5: Add the onion-tomato paste to the pan and cook until the oil begins to separate from the paste.",
+        "Step 6: Add the cumin powder, coriander powder, red chili powder, turmeric, and garam masala. Cook, stirring frequently, for 5 minutes.",
+        "Step 7: Add the drained and rinsed chickpeas to the pan. Stir well to combine.",
+        "Step 8: Add salt to taste and 1 1/2 cups of water. Bring to a simmer, then cover and cook for 10 minutes.",
+        "Step 9: Partially mash some of the chickpeas using a flat spoon or potato masher. Stir well.",
+        "Step 10: Garnish with julienned ginger and chopped cilantro.  A squeeze of lemon and finely chopped onion can also be added for extra flavor."
+      ],
+      "duration": "1 hr 5 m",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-m.webp",
+      "nutrition": {
+        "calories": "490 per serving",
+        "protein": "19 grams per serving",
+        "carbs": "68 grams per serving",
+        "fat": "18 grams per serving",
+        "fiber": "12 grams per serving",
+        "sugar": "10 grams per serving",
+        "sodium": "700 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a bowl of Chole, the chickpea curry, in warm, inviting light. Focus on the rich texture of the chickpeas and the vibrant color of the sauce, enhanced by a sprinkle of fresh coriander.  Use a rustic, textured background and complementary props like naan bread or a copper serving spoon.  Employ a shallow depth of field, focusing on the chickpeas in the foreground, with the background softly blurred. Compose the shot from a slightly overhead angle to showcase the enticing texture and steam. The overall mood should be comforting and appetizing.",
+      "image_filepath": "recipe_fksm9rve29b3rn/main_image",
+      "video_script": {
+        "title": "Flavorful Chole (Chickpea Curry)",
+        "description": "Learn how to make delicious and authentic Chole (Chickpea Curry) with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished bowl of Chole, garnished with ginger and cilantro. Steam gently rises from the curry. A side of naan bread and a wedge of lemon are included.",
+            "text": "Flavorful Chole (Chickpea Curry)",
+            "voice_over": "Welcome! Today, we're making Chole, a rich and flavorful chickpea curry. It's hearty, delicious, and perfect with rice or naan.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Grouped ingredients: Two cans of chickpeas, two onions, two tomatoes, ginger, garlic, cilantro.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: Canned chickpeas, onions, tomatoes, ginger, garlic, and cilantro. We'll also use some common spices.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Spices arranged on a dark surface: bay leaves, cloves, cardamom pods, peppercorns, cumin powder, coriander powder, chili powder, turmeric, garam masala.",
+            "text": "Spice Blend",
+            "voice_over": "For our spice blend, we have bay leaves, cloves, cardamom, peppercorns, cumin powder, coriander powder, red chili powder, turmeric, and garam masala.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Onions and tomatoes being pureed in a food processor.",
+            "text": "Onion-Tomato Paste",
+            "voice_over": "First, combine two sliced onions, two chopped tomatoes, ginger paste, and garlic paste in a food processor and blend until smooth.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Spices being sauteed in oil in a pan. Include bay leaves, cloves, cardamom pods, and peppercorns.",
+            "text": "Saut\u00e9 Spices",
+            "voice_over": "Heat vegetable oil in a pan. Add the bay leaves, cloves, cardamom, and peppercorns. Saut\u00e9 for about a minute until fragrant.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Sliced onions being added to pan and then cooked.",
+            "text": "Saut\u00e9 Onions",
+            "voice_over": "Add the remaining sliced onion and cook until golden brown, about 5-7 minutes.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 7,
+            "image_prompt": "Onion-tomato paste being added to the pan with spices and onions.",
+            "text": "Simmer the Paste",
+            "voice_over": "Add the onion-tomato paste to the pan. Cook until the oil starts to separate, about 8-10 minutes, stirring occasionally.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Dry spices being added to the pan, and stirred into the paste.",
+            "text": "Spice Magic",
+            "voice_over": "Now, add the cumin, coriander, chili powder, turmeric, and garam masala. Cook for 5 minutes, stirring frequently.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Chickpeas being added to the pan and stirred in.",
+            "text": "Add Chickpeas",
+            "voice_over": "Add the drained and rinsed chickpeas. Mix well.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Chole simmering in the pan with water and spices.",
+            "text": "Simmer and Mash",
+            "voice_over": "Add salt and water. Bring to a simmer, cover, and cook for 10 minutes. Mash some chickpeas for a thicker consistency.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "A close-up shot of Chole with text overlay: Calories: 490 | Protein: 19g | Carbs: 68g | Fat: 18g",
+            "text": "Nutrition Facts (per serving)",
+            "voice_over": "Nutritional values of Chole: each serving contains 490 Calories, 19 grams of Protein, 68 grams of Carbs, and 18 grams of Fat.",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          },
+          {
+            "scene_number": 12,
+            "duration": 5,
+            "image_prompt": "Finished Chole garnished with ginger and cilantro, served with naan bread and rice.",
+            "text": "Enjoy!",
+            "voice_over": "Garnish with ginger and cilantro. Serve hot with naan or rice. Enjoy your homemade Chole!",
+            "scene_image_filename": "recipe_fksm9rve29b3rn/scene_12_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksm9rve29b3rn-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "ingredient_tags": [
+        "Chickpeas",
+        "Onions",
+        "Tomatoes",
+        "Ginger",
+        "Garlic",
+        "Garam Masala"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Potluck",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Adjust the amount of chili powder to control the spice level.",
+        "For a smoother gravy, blend the onion-tomato paste before adding it to the pan.",
+        "Soaking dried chickpeas overnight can reduce cooking time, but canned chickpeas are convenient."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_fksm9rve29b3rn/fksm9rve29b3rn_main_image.jpg"
+    },
+    {
+      "id": "fks2fg777ucp0ok",
+      "name": "Indian Chickpea and Potato Patties (Chole Aloo Tikki)",
+      "url": "https://www.allrecipes.com/recipe/262717/indian-chole-aloo-tikki/",
+      "ingredients": [
+        "2 large potatoes",
+        "Salt and freshly ground black pepper to taste",
+        "3 1/2 tablespoons vegetable oil, divided",
+        "1 tablespoon cornstarch",
+        "1 teaspoon ground ginger",
+        "1 teaspoon ground cumin",
+        "1 teaspoon cayenne pepper",
+        "1 tablespoon chopped fresh cilantro",
+        "1/2 teaspoon black peppercorns",
+        "2 whole cloves",
+        "2 small dried red chile peppers (optional)",
+        "1 teaspoon cumin seeds",
+        "2 bay leaves",
+        "1 medium onion, chopped",
+        "2 cloves garlic, grated",
+        "1 (1-inch) piece fresh ginger, grated",
+        "2 teaspoons curry powder",
+        "1 teaspoon ground turmeric",
+        "1 teaspoon tomato paste",
+        "1 teaspoon water",
+        "1 medium tomato, chopped",
+        "1 (15-ounce) can garbanzo beans, drained and rinsed",
+        "1 tablespoon fresh cilantro leaves"
+      ],
+      "directions": [
+        "Step 1: Boil the potatoes: Place potatoes into a large pot and cover with salted water. Bring to a boil, then reduce heat to medium-low and simmer until tender, about 20 minutes. Drain and peel.",
+        "Step 2: Prepare the potato mixture: Place cooked potatoes into a bowl and add cornstarch, ground ginger, ground cumin, cayenne pepper, chopped cilantro, salt, and pepper. Mash together with a fork.",
+        "Step 3: Shape the patties: Lightly oil your hands with vegetable oil. Divide the potato mixture into 4 equal portions. Pat each portion into a patty about 1/3-inch thick.",
+        "Step 4: Fry the patties: Heat 1 tablespoon vegetable oil in a skillet over medium heat. Fry potato patties until golden brown, about 3 minutes on each side. Remove from heat and keep warm.",
+        "Step 5: Grind spices: Grind peppercorns and cloves using a mortar and pestle.",
+        "Step 6: Saut\u00e9 aromatics: Heat the remaining 2 tablespoons vegetable oil in a skillet over medium-high heat. Add dried red chile peppers (if using), cumin seeds, and bay leaves. Cook until fragrant, about 30 seconds. Add chopped onion, grated ginger, and grated garlic. Cook and stir until onion is golden, about 5 minutes. Add the ground peppercorn-clove mixture, curry powder, and turmeric. Cook for 1 minute more.",
+        "Step 7: Prepare the chickpea sauce: In a small bowl, mix tomato paste with water. Stir the diluted tomato paste and chopped tomato into the skillet. Cook over medium heat until the tomato has softened, about 5 minutes.",
+        "Step 8: Simmer the sauce: Stir in the drained and rinsed chickpeas. Simmer over low heat for 10 minutes, allowing the flavors to meld.",
+        "Step 9: Serve: Spoon the chickpea sauce over the potato patties and garnish with fresh cilantro leaves."
+      ],
+      "duration": "1 h 10 m",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-m.webp",
+      "nutrition": {
+        "calories": "314 per serving",
+        "protein": "7 grams per serving",
+        "carbs": "44 grams per serving",
+        "fat": "14 grams per serving",
+        "fiber": null,
+        "sugar": null,
+        "sodium": null
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture crispy golden-brown Chole Aloo Tikki against a dark, rustic backdrop. Style them on a textured plate with a dollop of vibrant green chutney and a sprinkle of fresh cilantro. Use a shallow depth of field, focusing on the front patty's texture, allowing the background elements to softly blur. Employ warm, directional lighting to highlight the patties' crisp edges and the chutney's glistening surface, creating a comforting, inviting mood. A slightly overhead, angled shot should showcase the patties' thickness and texture.",
+      "image_filepath": "recipe_fks2fg777ucp0ok/main_image",
+      "video_script": {
+        "title": "Indian Chickpea and Potato Patties (Chole Aloo Tikki)",
+        "description": "A delicious and flavorful vegetarian recipe featuring crispy potato patties topped with a spicy chickpea sauce.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of golden-brown potato patties topped with a vibrant chickpea sauce, garnished with fresh cilantro. The patties look crispy, and the sauce looks rich and flavorful.",
+            "text": "Chole Aloo Tikki",
+            "voice_over": "Welcome! Today, we're making Chole Aloo Tikki, a flavorful Indian dish of crispy potato patties and a spicy chickpea sauce. It's easy to make and packed with flavor.",
+            "scene_image_filename": "recipe_fks2fg777ucp0ok/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a table. Potatoes, chickpeas, spices, herbs, onion, garlic, ginger, and tomato are clearly visible.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: potatoes, chickpeas, onions, garlic, ginger, tomatoes, spices like cumin, coriander, turmeric, and cayenne, and some fresh cilantro.",
+            "scene_image_filename": "recipe_fks2fg777ucp0ok/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of hands boiling potatoes in a pot of water. Steam rising from the pot.",
+            "text": "Boil Potatoes",
+            "voice_over": "Start by boiling the potatoes until tender, about 20 minutes.  Make sure they are fork-tender.",
+            "scene_image_filename": "recipe_fks2fg777ucp0ok/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "A bowl with mashed potatoes mixed with spices and herbs. A fork is visible in the bowl.",
+            "text": "Mash & Mix",
+            "voice_over": "Drain and peel the potatoes. Mash them and mix in cornstarch, ginger, cumin, cayenne pepper, cilantro, salt, and pepper.",
+            "scene_image_filename": "recipe_fks2fg777ucp0ok/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Hands shaping the potato mixture into patties.",
+            "text": "Shape Patties",
+            "voice_over": "Divide the potato mixture into four portions and shape them into patties about 1/3-inch thick.",
+            "scene_image_filename": "recipe_fks2fg777ucp0ok/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Potato patties frying in a skillet until golden brown.",
+            "text": "Fry Patties",
+            "voice_over": "Fry the patties in vegetable oil for about 3 minutes per side, until golden brown and crispy.",
+            "scene_image_filename": "recipe_fks2fg777ucp0ok/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Spices being ground in a mortar and pestle.",
+            "text": "Grind Spices",
+            "voice_over": "Grind peppercorns and cloves using a mortar and pestle.",
+            "scene_image_filename": "recipe_fks2fg777ucp0ok/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 6,
+            "image_prompt": "Chopped onion, ginger, garlic, and ground spices saut\u00e9ing in a skillet.",
+            "text": "Saut\u00e9 Aromatics",
+            "voice_over": "Saut\u00e9 onions, ginger, garlic, and the ground spices in oil until fragrant.  Then, add cumin seeds, bay leaves, and dried red chilies if you're using them.",
+            "scene_image_filename": "recipe_fks2fg777ucp0ok/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 6,
+            "image_prompt": "Chickpea sauce simmering in a skillet with chopped tomatoes and spices.",
+            "text": "Simmer Sauce",
+            "voice_over": "Add tomato paste diluted with water, chopped tomatoes, and chickpeas to the skillet.  Simmer for about 10 minutes to allow the flavors to meld.",
+            "scene_image_filename": "recipe_fks2fg777ucp0ok/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Close-up shot of finished dish. Potato patties are topped with chickpea sauce and garnished with fresh cilantro. A serving suggestion is shown with a side of rice or naan.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Spoon the chickpea sauce over the potato patties and garnish with fresh cilantro. Serve hot with rice or naan. Enjoy your delicious Chole Aloo Tikki!",
+            "scene_image_filename": "recipe_fks2fg777ucp0ok/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2fg777ucp0ok-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 25,
+      "cooking_time_minutes": 35,
+      "total_time_minutes": 60,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Potatoes",
+        "Chickpeas",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Cilantro",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For crispier patties, you can shallow fry them in more oil.",
+        "Adjust the amount of cayenne pepper to control the spiciness level.",
+        "If you don't have a mortar and pestle, you can use a spice grinder to grind the peppercorns and cloves."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_fks2fg777ucp0ok/fks2fg777ucp0ok_main_image.jpg"
+    },
+    {
+      "id": "d367nt56b",
+      "name": "Indian Paneer and Chickpea Masala (Pindi Chole)",
+      "url": "http://chefdehome.com/Recipes/330/indian-paneer-pindi-chana-chole-masala",
+      "ingredients": [
+        "2 cups dried chickpeas (soaked overnight)",
+        "2 tablespoons tamarind paste",
+        "1 black tea bag (or 1 teaspoon loose black tea)",
+        "1/4 pound paneer, cubed (or firm tofu, cubed)",
+        "3 tablespoons olive oil",
+        "1/2 tablespoon ground cumin",
+        "1/2 teaspoon garam masala",
+        "1 tablespoon ground coriander",
+        "1 tablespoon ginger-garlic paste (or 1/2-inch ginger and 3 cloves garlic, finely chopped)",
+        "1/2 teaspoon red pepper flakes",
+        "4 tablespoons chopped fresh cilantro",
+        "1/2 serrano pepper, thinly sliced (or other small hot pepper)",
+        "1/2 teaspoon chaat masala (optional)",
+        "Salt and black pepper to taste"
+      ],
+      "directions": [
+        "Step 1: Boil or pressure cook the soaked chickpeas with 4 cups of water until tender (easily mashed). Drain, reserving the cooking liquid. Puree 1/2 cup cooked chickpeas with 2 tablespoons of the cooking liquid until coarsely ground. Add more liquid if needed.",
+        "Step 2: Heat the olive oil in a pan over medium heat. Add the ginger-garlic paste (or ginger and garlic), sliced serrano pepper, and 1 tablespoon of cilantro. Saut\u00e9 for 2-3 minutes until fragrant.",
+        "Step 3: Add the whole chickpeas, chickpea paste, red pepper flakes, cumin, coriander, chaat masala (if using), garam masala, 1/4 teaspoon salt, and 1/4 teaspoon black pepper to the pan. Stir to coat and cook for 2 minutes.",
+        "Step 4: Add the tamarind paste, tea (liquid from steeped tea bag), and 1/2 cup of reserved chickpea cooking liquid to the pan. Mix well, bring to a boil, then reduce heat and simmer for 7-10 minutes, or until the gravy thickens to your liking.",
+        "Step 5: Add the paneer (or tofu) cubes to the pan and gently mix with the chickpeas. Cook for 1 minute more. Remove from heat, cover, and serve hot."
+      ],
+      "duration": "35 minutes ",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/d367nt56b-m.webp",
+      "nutrition": {
+        "calories": "400 per serving",
+        "protein": "20 grams per serving",
+        "carbs": "50 grams per serving",
+        "fat": "15 grams per serving",
+        "fiber": "15 grams per serving",
+        "sugar": "5 grams per serving",
+        "sodium": "500 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a richly colored, rustic-styled image of Pindi Chole, featuring tender paneer cubes nestled amongst spiced chickpeas.  Employ a slightly overhead, angled shot with shallow depth of field, focusing sharply on a paneer cube near the foreground.  Utilize warm, natural light to highlight the dish's textures. Incorporate dark, textured background elements like slate or wood, and garnish with a sprinkle of fresh coriander and a wedge of lime.  Evoke a mood of warmth and comfort.",
+      "image_filepath": "recipe_d367nt56b/main_image",
+      "video_script": {
+        "title": "Indian Paneer and Chickpea Masala (Pindi Chole)",
+        "description": "Learn how to make delicious and authentic Pindi Chole with this easy-to-follow recipe!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished Pindi Chole dish, garnished with fresh cilantro and a slice of serrano pepper. Steam gently rises from the dish, highlighting the vibrant colors and textures.",
+            "text": "Pindi Chole: Flavorful & Easy",
+            "voice_over": "Welcome! Today, we're making Pindi Chole, a flavorful and satisfying Indian chickpea and paneer dish. It's packed with aromatic spices and a tangy gravy.",
+            "scene_image_filename": "recipe_d367nt56b/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367nt56b-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Grouped ingredients: Dried chickpeas next to a bowl of soaked chickpeas, tamarind paste, and a black tea bag.",
+            "text": "Ingredients: Chickpeas & Flavor Base",
+            "voice_over": "You'll need dried chickpeas, tamarind paste, and black tea for that signature rich flavor and color.",
+            "scene_image_filename": "recipe_d367nt56b/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367nt56b-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Grouped ingredients: Cubed paneer, olive oil, cumin, garam masala, coriander, ginger-garlic paste, red pepper flakes.",
+            "text": "Ingredients: Spices & Paneer",
+            "voice_over": "Paneer adds a creamy touch. We'll use warming spices like cumin, coriander, and garam masala.  Don't forget the ginger-garlic paste and red pepper flakes for a touch of heat.",
+            "scene_image_filename": "recipe_d367nt56b/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367nt56b-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Chickpeas boiling in a pot on a stovetop.",
+            "text": "Step 1: Cook Chickpeas",
+            "voice_over": "Start by boiling the soaked chickpeas until tender. This might take about an hour on the stovetop or less in a pressure cooker. Reserve the cooking liquid.",
+            "scene_image_filename": "recipe_d367nt56b/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367nt56b-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Saut\u00e9ing ginger-garlic paste, serrano pepper, and cilantro in olive oil in a pan over medium heat.",
+            "text": "Step 2: Saut\u00e9 Aromatics",
+            "voice_over": "Heat olive oil in a pan, add ginger-garlic paste, serrano pepper, and some cilantro. Saut\u00e9 for 2-3 minutes until fragrant.",
+            "scene_image_filename": "recipe_d367nt56b/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367nt56b-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Adding spices, chickpeas and chickpea paste to the pan and stirring.",
+            "text": "Step 3: Spice Magic",
+            "voice_over": "Now, add the chickpeas, along with the spice blend including cumin, coriander, and garam masala.  Don't forget a touch of red pepper flakes for a bit of heat.",
+            "scene_image_filename": "recipe_d367nt56b/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367nt56b-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Adding tamarind paste, tea, and chickpea liquid to the pan and mixing.",
+            "text": "Step 4: Building the Gravy",
+            "voice_over": "Tamarind paste, black tea, and the chickpea liquid form the flavorful gravy. Simmer for 7-10 minutes, allowing it to thicken.",
+            "scene_image_filename": "recipe_d367nt56b/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367nt56b-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Adding paneer cubes to the pan and gently mixing with the chickpeas.",
+            "text": "Step 5: Paneer Time!",
+            "voice_over": "Gently add the paneer cubes.  Cook for just another minute, being careful not to break them.",
+            "scene_image_filename": "recipe_d367nt56b/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367nt56b-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a bowl of finished Pindi Chole garnished with cilantro and serrano pepper, served with roti or naan.",
+            "text": "Enjoy!",
+            "voice_over": "Serve your Pindi Chole hot, garnished with fresh cilantro. It's delicious with roti, naan, or rice. Enjoy!",
+            "scene_image_filename": "recipe_d367nt56b/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/d367nt56b-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 45,
+      "total_time_minutes": 65,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Chickpeas",
+        "Paneer",
+        "Tofu",
+        "Tamarind",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a quicker version, use canned chickpeas and vegetable broth.",
+        "Adjust the amount of serrano pepper to control the spice level.",
+        "Chaat masala adds a tangy and savory flavor, but it's optional."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_d367nt56b/d367nt56b_main_image.jpg"
+    },
+    {
+      "id": "663f6e8vj8qn1",
+      "name": "Just Right Spinach & Chickpea Curry (Chole Palak)",
+      "url": "http://www.food.com/recipe/just-right-spinach-chickpea-curry-vegan-chole-palak-397640",
+      "ingredients": [
+        "2 medium tomatoes, quartered",
+        "1/2-inch piece fresh ginger, peeled and halved",
+        "1 fresh green chile (optional)",
+        "3 tablespoons grapeseed oil (or canola oil)",
+        "1/4 teaspoon asafetida powder (optional)",
+        "1 teaspoon cumin seeds",
+        "3 cups fresh spinach, chopped",
+        "1 (14-ounce) can chickpeas, drained and rinsed",
+        "1/4-1/2 cup water",
+        "1 tablespoon ground coriander",
+        "1/2 teaspoon ground chili powder",
+        "1/2 teaspoon ground turmeric",
+        "1 teaspoon sea salt (or to taste)",
+        "1/2 teaspoon garam masala",
+        "Fresh cilantro, chopped (optional)"
+      ],
+      "directions": [
+        "Step 1: In a blender, combine the quartered tomatoes, ginger, and green chile (if using). Blend until smooth. Set aside.",
+        "Step 2: Heat the grapeseed oil in a medium saut\u00e9 pan over medium heat.",
+        "Step 3: Add the asafetida powder (if using) and cumin seeds to the hot oil. Stir until the spices sizzle.",
+        "Step 4: Carefully pour the blended tomato mixture into the pan. Stir to combine.",
+        "Step 5: Saut\u00e9 for a few minutes, then add the ground coriander, chili powder, turmeric, and salt. Stir well.",
+        "Step 6: Reduce the heat to medium-low and simmer for 10 minutes, allowing the mixture to reduce and darken slightly.",
+        "Step 7: Add the chopped spinach and 1/4 to 1/2 cup of water. Cook for a few minutes until the spinach wilts.",
+        "Step 8: Add the chickpeas. Mash some of them with the back of a spoon for a thicker gravy (optional).",
+        "Step 9: Stir in the garam masala and simmer for a few more minutes.",
+        "Step 10: Garnish with fresh cilantro (optional) and serve."
+      ],
+      "duration": "40 mins",
+      "serves": "3",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-m.webp",
+      "nutrition": {
+        "calories": "300 per serving",
+        "protein": "12 grams per serving",
+        "carbs": "45 grams per serving",
+        "fat": "10 grams per serving",
+        "fiber": "10 grams per serving",
+        "sugar": "8 grams per serving",
+        "sodium": "600 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant Chole Palak (Spinach & Chickpea Curry) in a shallow, rustic bowl, garnished with a swirl of cream and a sprinkle of fresh coriander.  Use warm, directional lighting to highlight the texture of the spinach and chickpeas. Shoot from a slightly overhead angle with a shallow depth of field, focusing on the center of the dish. The background should be a dark, textured surface with minimal props, creating a moody and appetizing atmosphere.  Incorporate a linen napkin casually draped nearby for added visual interest.",
+      "image_filepath": "recipe_663f6e8vj8qn1/main_image",
+      "video_script": {
+        "title": "Just Right Spinach & Chickpea Curry (Chole Palak)",
+        "description": "A quick and easy recipe for a flavorful and healthy spinach and chickpea curry.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished bowl of Chole Palak, garnished with fresh cilantro, steam rising. The background should be slightly blurred, highlighting the vibrant green of the curry and the texture of the chickpeas.",
+            "text": "Just Right Spinach & Chickpea Curry",
+            "voice_over": "Craving a healthy and delicious curry?  This Chole Palak is packed with flavor and comes together quickly!",
+            "scene_image_filename": "recipe_663f6e8vj8qn1/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a wooden cutting board. Tomatoes, ginger, green chili, spinach, chickpeas (canned), spices, and oil are clearly visible.",
+            "text": "Ingredients",
+            "voice_over": "Let's gather our ingredients. We'll need fresh spinach, canned chickpeas, tomatoes, ginger, green chili (optional), along with some common Indian spices.",
+            "scene_image_filename": "recipe_663f6e8vj8qn1/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Tomatoes, ginger, and green chili in a blender, about to be blended.",
+            "text": "Tomato Mixture",
+            "voice_over": "First, blend the tomatoes, ginger, and green chili (if using) until smooth.  This forms the base of our curry.",
+            "scene_image_filename": "recipe_663f6e8vj8qn1/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Saut\u00e9 pan with oil, cumin seeds, and asafetida powder sizzling. Focus on the spices and the oil.",
+            "text": "Spice Infusion",
+            "voice_over": "Heat grapeseed oil in a pan. Add cumin seeds and asafetida powder (if using). Saut\u00e9 until fragrant, about 30 seconds.",
+            "scene_image_filename": "recipe_663f6e8vj8qn1/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "The blended tomato mixture being poured into the saut\u00e9 pan with the spices. Steam should be visible.",
+            "text": "Tomato Base",
+            "voice_over": "Carefully pour the blended tomato mixture into the pan. Be careful of splattering.",
+            "scene_image_filename": "recipe_663f6e8vj8qn1/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "The curry simmering in the pan, with ground spices added, spices should be visible and mixed in. The mixture should be darkening slightly.",
+            "text": "Spice Blend",
+            "voice_over": "Add ground coriander, chili powder, turmeric, and salt.  Saut\u00e9 for a few minutes then simmer on medium-low for 10 minutes, allowing the mixture to reduce and the flavors to deepen.",
+            "scene_image_filename": "recipe_663f6e8vj8qn1/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Fresh spinach being added to the simmering tomato and spice mixture in the pan.",
+            "text": "Add Spinach",
+            "voice_over": "Now, add the chopped spinach and about 1/4 to 1/2 cup of water.  Cook until the spinach wilts, about 3-5 minutes.",
+            "scene_image_filename": "recipe_663f6e8vj8qn1/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Chickpeas being added to the pan with the spinach and tomato mixture.",
+            "text": "Chickpea Time!",
+            "voice_over": "Add the drained and rinsed chickpeas.  You can mash some of them for a thicker gravy if you like.",
+            "scene_image_filename": "recipe_663f6e8vj8qn1/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 4,
+            "image_prompt": "Garam masala being sprinkled into the curry.",
+            "text": "Final Touch",
+            "voice_over": "Stir in the garam masala, the final touch of spice, and simmer for a few more minutes to let the flavors meld.",
+            "scene_image_filename": "recipe_663f6e8vj8qn1/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A finished bowl of Chole Palak garnished with fresh cilantro, served with rice or naan. Close-up shot with a shallow depth of field, showcasing the vibrant green color and textures.",
+            "text": "Ready to Serve!",
+            "voice_over": "Your delicious Chole Palak is ready! Garnish with fresh cilantro and serve hot with rice or naan. Enjoy!",
+            "scene_image_filename": "recipe_663f6e8vj8qn1/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/663f6e8vj8qn1-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 40,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegan",
+        "Vegetarian",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "ingredient_tags": [
+        "Spinach",
+        "Chickpeas",
+        "Tomatoes",
+        "Ginger",
+        "Cumin",
+        "Coriander",
+        "Turmeric"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, roast the tomatoes before blending.",
+        "Adjust the amount of chili powder to control the spice level.",
+        "Serve with rice or naan bread."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_663f6e8vj8qn1/663f6e8vj8qn1_main_image.jpg"
+    },
+    {
+      "id": "fks2okuvv4nbi79",
+      "name": "Authentic Chana Masala (Chickpea Curry)",
+      "url": "https://www.vegrecipesofindia.com/punjabi-chole-chickpeas-in-a-spicy-gravy/",
+      "ingredients": [
+        "1 cup dried chickpeas (200g)",
+        "3 cups water (for soaking)",
+        "2.5-3 cups water (for cooking)",
+        "2-3 dried amla OR 1 black tea bag (optional, for color)",
+        "\u00bd teaspoon salt (or to taste)",
+        "\u00bd cup finely chopped onion (1 medium)",
+        "\u00bd cup finely chopped tomatoes (1 medium)",
+        "\u00bd teaspoon ginger-garlic paste OR 2-3 cloves garlic + \u00bd inch ginger, crushed",
+        "\u00bd teaspoon turmeric powder",
+        "\u00bd teaspoon red chili powder (or cayenne pepper)",
+        "\u00bd teaspoon garam masala (optional)",
+        "\u00be-1 teaspoon amchur powder (optional, if no pomegranate seeds)",
+        "2-3 green chilies, slit",
+        "1-1\u00bc cups water (or chickpea stock)",
+        "1.5-2 tablespoons oil",
+        "Salt to taste",
+        "2 black cardamom pods",
+        "1-inch cinnamon stick",
+        "3-4 black peppercorns",
+        "2 cloves",
+        "1 tej patta (Indian bay leaf)",
+        "\u00bd teaspoon carom seeds (ajwain)",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon coriander seeds",
+        "1 teaspoon fennel seeds",
+        "\u00bd teaspoon dry pomegranate seeds",
+        "1-2 dried Kashmiri red chilies",
+        "2-3 tablespoons chopped coriander leaves (cilantro)",
+        "\u00bd-1 inch ginger, julienned",
+        "1 medium onion, sliced or chopped (for serving)",
+        "1 medium tomato, sliced or chopped (for serving)",
+        "1 lemon or lime, sliced or quartered (for serving)"
+      ],
+      "directions": [
+        "Step 1: Rinse chickpeas and soak in 3 cups water for 8-9 hours or overnight. Drain and rinse again.",
+        "Step 2: In a pressure cooker, combine soaked chickpeas, amla/tea bag (if using), 2.5-3 cups water, and \u00bd teaspoon salt. Pressure cook for 12-15 whistles on medium heat until soft.",
+        "Step 3: Dry roast cardamom pods, cinnamon, peppercorns, cloves, bay leaf, carom seeds, cumin seeds, coriander seeds, fennel seeds, pomegranate seeds, and dried red chilies in a pan over low heat until browned. Let cool and grind to a fine powder.",
+        "Step 4: Heat oil in a pan. Saut\u00e9 ginger-garlic paste until fragrant. Add chopped onions and saut\u00e9 until translucent or light brown. Add chopped tomatoes and saut\u00e9 until softened and oil separates.",
+        "Step 5: Reduce heat and add the ground spice blend, red chili powder, turmeric powder, and garam masala (if using). Stir well. Add slit green chilies.",
+        "Step 6: Add cooked chickpeas and salt to taste. Add 1-1\u00bc cups chickpea stock or water. Mix well and simmer, covered, on low-medium heat until the gravy thickens. Mash a few chickpeas to further thicken the gravy.",
+        "Step 7: If not using pomegranate seeds in the spice blend, add amchur powder now. Stir well.",
+        "Step 8: Garnish with coriander leaves and julienned ginger. Serve hot with rice, naan, roti, kulcha, bhatura, or poori. Accompany with sliced onions, tomatoes, and lemon/lime wedges."
+      ],
+      "duration": "9 hr 45 m ",
+      "serves": "5",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-m.webp",
+      "nutrition": {
+        "calories": "240 per serving",
+        "protein": "10g per serving",
+        "carbs": "37g per serving",
+        "fat": "7g per serving",
+        "fiber": "12g per serving",
+        "sugar": "6g per serving",
+        "sodium": "300mg per serving (estimate)"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of Chana Masala in a rustic, earthenware bowl, garnished with fresh cilantro sprigs.  Employ a shallow depth of field, focusing sharply on the chickpeas, with a softly blurred background of warm, textured fabric.  Use natural, directional light to highlight the rich, ochre hue of the curry and the plumpness of the chickpeas.  Compose the shot from a slightly overhead angle, showcasing the texture and steam gently rising from the dish.  The overall mood should be warm, inviting, and appetizing.",
+      "image_filepath": "recipe_fks2okuvv4nbi79/main_image",
+      "video_script": {
+        "title": "Authentic Chana Masala Recipe",
+        "description": "Learn how to make delicious and authentic Chana Masala (Chickpea Curry) at home with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "A close-up shot of a bowl of finished Chana Masala, garnished with coriander leaves and ginger. Steam rises from the bowl. Naan bread and a side of sliced onions, tomatoes, and lime wedges are arranged next to it.",
+            "text": "Authentic Chana Masala",
+            "voice_over": "Hello, and welcome! Today, we're making authentic Chana Masala, a flavorful and hearty chickpea curry. It's rich, aromatic, and incredibly satisfying.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Dried chickpeas, water in a bowl for soaking, and optional amla or black tea bag.",
+            "text": "Ingredients: Chickpeas",
+            "voice_over": "You'll need one cup of dried chickpeas. Soak them in three cups of water for at least eight hours, or preferably overnight. This helps them cook evenly and achieve a creamy texture. Optionally, soak a few pieces of dried amla or a black tea bag with the chickpeas for a deeper color.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Onions, tomatoes, ginger, garlic, green chilies, oil, and spices (turmeric powder, red chili powder, garam masala, amchur powder) arranged on a surface.",
+            "text": "Ingredients: Aromatics & Spices",
+            "voice_over": "For our aromatics, we have onions, tomatoes, ginger-garlic paste, and green chilies. The spices we'll use are turmeric powder, red chili powder, garam masala, and amchur powder, which gives a tangy kick.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Whole spices (cardamom pods, cinnamon stick, black peppercorns, cloves, bay leaf, carom seeds, cumin seeds, coriander seeds, fennel seeds, pomegranate seeds, dried red chilies) arranged on a wooden surface.",
+            "text": "Ingredients: Whole Spices",
+            "voice_over": "The heart of our Chana Masala lies in these whole spices: black cardamom, cinnamon, black peppercorns, cloves, bay leaf, carom seeds, cumin seeds, coriander seeds, fennel seeds, dry pomegranate seeds, and dried Kashmiri red chilies.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Chickpeas in a pressure cooker with water and salt, and on the stove with steam coming out.",
+            "text": "Cooking the Chickpeas",
+            "voice_over": "Drain and rinse the soaked chickpeas. Pressure cook them with about three cups of water and half a teaspoon of salt for 12-15 whistles, or until they are soft and mushy.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Dry roasting whole spices in a pan on the stove.",
+            "text": "Roasting & Grinding Spices",
+            "voice_over": "Dry roast all our whole spices in a pan over low heat until fragrant and slightly browned. Let them cool, and then grind into a fine powder.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Saut\u00e9ing onions, tomatoes, and spices in a pan.",
+            "text": "Saut\u00e9ing Aromatics",
+            "voice_over": "Heat oil in a pan, add ginger-garlic paste and saut\u00e9 until fragrant. Add chopped onions and saut\u00e9 until translucent, then add chopped tomatoes and cook until softened.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Adding ground spices to the pan and stirring.",
+            "text": "Adding Spices",
+            "voice_over": "Reduce the heat and add the ground spice blend, red chili powder, turmeric powder, and garam masala if using. Stir well and add slit green chilies.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Chickpeas and water being added to the spice mixture in the pan.",
+            "text": "Simmering the Curry",
+            "voice_over": "Add the cooked chickpeas and salt to taste, along with chickpea stock or water. Cover and simmer on low-medium heat for about 15-20 minutes until the gravy thickens slightly. Mash a few chickpeas for a creamier consistency.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Garnished Chana Masala in a bowl with naan bread, sliced onions, tomatoes, and lime wedges.",
+            "text": "Serving",
+            "voice_over": "Garnish with coriander leaves and julienned ginger. Serve hot with rice, naan, roti, or any Indian bread of your choice. Accompany with sliced onions, tomatoes, and lemon wedges for a refreshing touch.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "Close up shot of the finished Chana Masala ready to be served.",
+            "text": "Enjoy your Authentic Chana Masala!",
+            "voice_over": "Enjoy your homemade, authentic Chana Masala! Don't forget to like and subscribe for more delicious recipes.",
+            "scene_image_filename": "recipe_fks2okuvv4nbi79/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2okuvv4nbi79-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 90,
+      "cooking_time_minutes": 45,
+      "total_time_minutes": 135,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free (if served with appropriate bread)"
+      ],
+      "ingredient_tags": [
+        "Chickpeas",
+        "Onions",
+        "Tomatoes",
+        "Ginger",
+        "Garlic",
+        "Spices"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party",
+        "Potluck"
+      ],
+      "cooking_tips": [
+        "For a richer flavor, use chickpea stock instead of water for the gravy.",
+        "Adjust the amount of chili powder to control the spiciness.",
+        "Soaking the chickpeas overnight reduces cooking time and improves texture.",
+        "Mashing a few chickpeas helps thicken the gravy naturally."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_fks2okuvv4nbi79/fks2okuvv4nbi79_main_image.jpg"
+    },
+    {
+      "id": "fksd7qqpibm2",
+      "name": "Mango Lassi (Aam Ki Lassi)",
+      "url": "http://www.flavorsofmumbai.com/mango-lassi-recipe/",
+      "ingredients": [
+        "2 ripe Alphonso mangoes (or other sweet variety), peeled and cubed",
+        "1 1/2 cups hung yogurt (Greek yogurt can be substituted)",
+        "1/2 teaspoon cardamom powder",
+        "Pinch of saffron strands (optional), infused in 2 tablespoons warm milk",
+        "1 teaspoon rose water (optional)",
+        "3 tablespoons sugar (adjust to taste and mango sweetness)",
+        "Ice cubes (optional)"
+      ],
+      "directions": [
+        "Step 1: Peel and cube the mangoes.",
+        "Step 2: In a blender, combine the cubed mangoes and sugar.",
+        "Step 3: Blend until smooth.",
+        "Step 4: Add the hung yogurt, cardamom powder, saffron-infused milk (if using), and rose water (if using) to the blender.",
+        "Step 5: Blend again until well combined. Do not over-blend.",
+        "Step 6: If using, add ice cubes and blend briefly to chill.",
+        "Step 7: Pour into tall glasses and serve immediately. Garnish with a pinch of saffron strands, if desired."
+      ],
+      "duration": "13 minutes ",
+      "serves": "2",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-m.webp",
+      "nutrition": {
+        "calories": "250-300 per serving",
+        "protein": "8-10 grams per serving",
+        "carbs": "50-60 grams per serving",
+        "fat": "5-7 grams per serving",
+        "fiber": "2-3 grams per serving",
+        "sugar": "40-50 grams per serving",
+        "sodium": "5-10 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a vibrant, close-up shot of Mango Lassi in a chilled glass, garnished with a few saffron strands and a small wedge of mango. Use a shallow depth of field, focusing on the creamy texture of the lassi. Backdrop of textured linen in a soft, complementary color. Soft, diffused natural light from the side highlighting the golden hues and the condensation on the glass. Incorporate a few slices of fresh mango and a sprinkle of cardamom nearby. Aim for a refreshing and inviting mood, perfect for a summer magazine spread.",
+      "image_filepath": "recipe_fksd7qqpibm2/main_image",
+      "video_script": {
+        "title": "Mango Lassi (Aam Ki Lassi) - Refreshing Summer Delight",
+        "description": "Learn to make a creamy and delicious Mango Lassi, a popular Indian yogurt drink, in minutes with this easy recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a tall glass of vibrant yellow mango lassi garnished with saffron strands. Focus on the creamy texture and condensation on the glass.",
+            "text": "Mango Lassi",
+            "voice_over": "Beat the heat with this refreshing Mango Lassi! It's a creamy, flavorful, and incredibly easy-to-make Indian yogurt drink. Perfect for a hot summer day.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients arranged neatly on a marble countertop. Ingredients include ripe mangoes, hung yogurt, cardamom powder, saffron strands in a small bowl, rose water, sugar, and ice cubes.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: two ripe Alphonso mangoes or any other sweet variety, hung yogurt, cardamom powder, a pinch of saffron strands, rose water, sugar, and some ice cubes.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up shot of hands peeling and cubing the ripe mangoes.",
+            "text": "Prepare Mangoes",
+            "voice_over": "First, peel and cube your ripe mangoes. The riper the mangoes, the sweeter and more flavorful your lassi will be.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Close-up of a blender with mango cubes and sugar.",
+            "text": "Blend Mango & Sugar",
+            "voice_over": "Add the cubed mangoes and sugar to a blender.  We'll start by blending these together until smooth.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "The blender running with yogurt, cardamom powder, saffron milk and rosewater being added.",
+            "text": "Blend with Yogurt and Spices",
+            "voice_over": "Now, add the hung yogurt. Greek yogurt can be substituted if needed. Then, toss in the cardamom powder. For an extra touch of flavor and color, add a pinch of saffron strands infused in warm milk and a teaspoon of rose water. If you don't have these on hand, that's okay too!",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up of the blender running to show the lassi mixture blending until smooth.",
+            "text": "Blend Until Smooth",
+            "voice_over": "Blend again until everything is well combined, but be careful not to over-blend.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 4,
+            "image_prompt": "Ice being added to the blender with the lassi",
+            "text": "Chill (Optional)",
+            "voice_over": "For a chilled lassi, add some ice cubes and pulse briefly until they are crushed and incorporated.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Pouring mango lassi into two tall glasses, garnished with saffron strands.",
+            "text": "Serve and Enjoy",
+            "voice_over": "Pour the lassi into tall glasses and serve immediately. Garnish with a pinch of saffron strands for an elegant touch, if desired.",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Two tall glasses of mango lassi on a table setting with fresh mangoes and mint sprigs around.",
+            "text": "Tips and Serving",
+            "voice_over": "For a thicker lassi, use less milk or more yogurt.  Adjust the sugar according to the sweetness of your mangoes. Enjoy your refreshing and delicious mango lassi!",
+            "scene_image_filename": "recipe_fksd7qqpibm2/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fksd7qqpibm2-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 0,
+      "total_time_minutes": 10,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Beverage",
+        "Snack",
+        "Dessert"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Mango",
+        "Yogurt",
+        "Cardamom",
+        "Saffron"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a thicker lassi, use more hung yogurt or freeze the mango chunks for 30 minutes before blending.",
+        "Adjust the amount of sugar according to the sweetness of the mangoes.",
+        "If saffron is unavailable, a pinch of turmeric can be added for color and a slightly earthy flavor."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_fksd7qqpibm2/fksd7qqpibm2_main_image.jpg"
+    },
+    {
+      "id": "fks24cugl678a5n",
+      "name": "Channa Sundal (Chickpea Stir-Fry)",
+      "url": "https://www.vegrecipesofindia.com/chana-sundal/",
+      "ingredients": [
+        "1 cup dried white chickpeas (chole or safed chana)",
+        "3-4 cups water, for pressure cooking",
+        "2 tablespoons oil",
+        "1 teaspoon black mustard seeds",
+        "1 teaspoon urad dal (split skinned black gram)",
+        "1 pinch asafoetida (hing)",
+        "2 dry red chilies, broken and deseeded (or 1-2 green chilies, chopped)",
+        "10-12 curry leaves",
+        "2-3 tablespoons freshly grated coconut",
+        "Salt, to taste"
+      ],
+      "directions": [
+        "Step 1: Rinse and soak the chickpeas overnight in enough water.",
+        "Step 2: Drain the soaked chickpeas and rinse a few times. Pressure cook with 1 teaspoon of salt and 3-4 cups of water until tender. This takes about 12-15 minutes in a stovetop pressure cooker, or adjust accordingly for an Instant Pot.",
+        "Step 3: Drain the cooked chickpeas and set aside.",
+        "Step 4: Heat oil in a pan. Add mustard seeds and urad dal. Cook over low heat, stirring often, until the mustard seeds crackle and the urad dal browns.",
+        "Step 5: Immediately add curry leaves, red chilies (or green chilies), and asafoetida. Fry for 10-15 seconds, or until the curry leaves are crisp and the chilies change color.",
+        "Step 6: Add the cooked chickpeas and salt. Saut\u00e9 for 3-4 minutes over medium heat.",
+        "Step 7: Turn off the heat and stir in the coconut.",
+        "Step 8: Serve Channa Sundal warm."
+      ],
+      "duration": "35 m",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks24cugl678a5n-m.webp",
+      "nutrition": {
+        "calories": "263 per serving",
+        "protein": "10 grams per serving",
+        "carbs": "32 grams per serving",
+        "fat": "11 grams per serving",
+        "fiber": "null",
+        "sugar": "null",
+        "sodium": "null"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of Channa Sundal in a rustic terracotta bowl, nestled among fresh curry leaves and grated coconut on a dark, textured background.  Use soft, diffused natural light to highlight the glistening chickpeas and vibrant green herbs.  A shallow depth of field should focus sharply on the chickpeas in the foreground, with the background gently blurred.  The mood should be warm, inviting, and slightly rustic, evoking the flavors of South India.",
+      "image_filepath": "recipe_fks24cugl678a5n/main_image",
+      "video_script": {
+        "title": "Channa Sundal (Chickpea Stir-Fry) Recipe",
+        "description": "Learn how to make delicious and healthy Channa Sundal, a South Indian chickpea stir-fry, with this easy-to-follow video tutorial.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a finished plate of Channa Sundal, garnished with fresh coconut and curry leaves. The chickpeas should look golden brown and slightly crispy.",
+            "text": "Channa Sundal",
+            "voice_over": "Welcome! Today, we're making Channa Sundal, a flavorful and protein-packed South Indian chickpea stir-fry. It's easy to make and perfect as a snack or light meal.",
+            "scene_image_filename": "recipe_fks24cugl678a5n/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks24cugl678a5n-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Show all ingredients neatly arranged: dried chickpeas, water, oil, mustard seeds, urad dal, asafoetida, red chilies, curry leaves, grated coconut, and salt.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: dried chickpeas, water for soaking and cooking, oil, mustard seeds, urad dal, asafoetida, dry red chilies, curry leaves, fresh coconut, and salt.",
+            "scene_image_filename": "recipe_fks24cugl678a5n/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks24cugl678a5n-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show chickpeas soaking in a bowl of water. Overlay text: 'Soak overnight'.",
+            "text": "Soak Chickpeas",
+            "voice_over": "First, rinse and soak the chickpeas overnight in plenty of water. This will help them cook evenly and reduce cooking time.",
+            "scene_image_filename": "recipe_fks24cugl678a5n/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks24cugl678a5n-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Show the pressure cooker with chickpeas and water inside. Display text: 'Pressure Cook for 12-15 mins'.",
+            "text": "Pressure Cook",
+            "voice_over": "Drain the soaked chickpeas and pressure cook them with salt and water for about 12-15 minutes until tender. Adjust cooking time depending on your pressure cooker.",
+            "scene_image_filename": "recipe_fks24cugl678a5n/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks24cugl678a5n-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Pan on the stove with heated oil, mustard seeds, and urad dal popping.",
+            "text": "Temper Spices",
+            "voice_over": "Heat oil in a pan. Add mustard seeds and urad dal. Cook over low heat until the mustard seeds pop and the dal turns golden brown.",
+            "scene_image_filename": "recipe_fks24cugl678a5n/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks24cugl678a5n-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Close-up of adding curry leaves, chilies, and asafoetida to the pan. Display text: 'Fry for 10-15 secs'.",
+            "text": "Aromatic Spices",
+            "voice_over": "Add curry leaves, red chilies, and asafoetida. Fry for about 10-15 seconds until fragrant.",
+            "scene_image_filename": "recipe_fks24cugl678a5n/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks24cugl678a5n-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show adding cooked chickpeas to the pan and stirring them together with the spices.",
+            "text": "Saut\u00e9 Chickpeas",
+            "voice_over": "Now add the cooked chickpeas and salt. Saut\u00e9 for 3-4 minutes over medium heat, allowing the flavors to blend.",
+            "scene_image_filename": "recipe_fks24cugl678a5n/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks24cugl678a5n-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Show stirring in the freshly grated coconut. Emphasize the fresh coconut.",
+            "text": "Add Coconut",
+            "voice_over": "Turn off the heat and stir in the fresh coconut. This adds a wonderful aroma and texture.",
+            "scene_image_filename": "recipe_fks24cugl678a5n/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks24cugl678a5n-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Show a bowl of finished Channa Sundal garnished with fresh coriander, served alongside a cup of tea or coffee.",
+            "text": "Enjoy!",
+            "voice_over": "Your delicious Channa Sundal is ready! Serve it warm as a snack or light meal. It pairs well with tea or coffee. Enjoy!",
+            "scene_image_filename": "recipe_fks24cugl678a5n/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks24cugl678a5n-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 15,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Snack",
+        "Side Dish"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegan",
+        "Gluten-Free",
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Chickpeas",
+        "Coconut",
+        "Mustard Seeds",
+        "Curry Leaves"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Potluck",
+        "Festival"
+      ],
+      "cooking_tips": [
+        "For a spicier sundal, add more chilies or a pinch of cayenne pepper.",
+        "Adjust the amount of coconut according to your preference.",
+        "Serve with rice or roti for a complete meal."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_fks24cugl678a5n/fks24cugl678a5n_main_image.jpg"
+    },
+    {
+      "id": "fks1ndve2f7ibs4",
+      "name": "Paneer Stuffed Kulcha",
+      "url": "https://www.vegrecipesofindia.com/paneer-kulcha-recipe/",
+      "ingredients": [
+        "120 grams whole wheat flour",
+        "125 grams all purpose flour",
+        "\u00bd teaspoon baking soda",
+        "2 tablespoons curd (yogurt)",
+        "1 tablespoon oil or ghee",
+        "1 teaspoon sugar",
+        "1 teaspoon salt",
+        "\u2153 to \u00be cup water",
+        "200 grams paneer (cottage cheese), crumbled or grated",
+        "3 tablespoons chopped coriander leaves",
+        "1-2 green chilies, finely chopped",
+        "\u00bd teaspoon red chili powder",
+        "\u00bd teaspoon garam masala powder",
+        "\u00bd teaspoon ajwain (carom seeds) or cumin seeds",
+        "\u00bd teaspoon dry mango powder (amchur powder)",
+        "Salt, to taste",
+        "Oil or ghee, as needed for roasting",
+        "Butter, as needed",
+        "Sesame seeds, as needed (optional)"
+      ],
+      "directions": [
+        "Step 1: In a mixing bowl, combine the whole wheat flour, all-purpose flour, baking soda, curd, oil (or ghee), sugar, and salt.",
+        "Step 2: Gradually add \u00bc cup of water and mix with a spoon or your hands. Continue adding water in small increments, kneading until a smooth and soft dough forms. The amount of water needed may vary depending on the flour quality.",
+        "Step 3: Cover the dough and let it rest for 2 hours to allow it to rise.",
+        "Step 4: While the dough rests, prepare the paneer filling. Crumble or grate the paneer.",
+        "Step 5: In a separate bowl, combine the crumbled paneer, chopped coriander leaves, chopped green chilies, red chili powder, garam masala powder, ajwain (or cumin seeds), dry mango powder, and salt.",
+        "Step 6: Mix the filling ingredients thoroughly and adjust seasonings as needed. Cover and set aside.",
+        "Step 7: After 2 hours, lightly knead the dough again.",
+        "Step 8: Divide the dough into medium-sized balls. Optionally, cover and let rest for 15-20 minutes.",
+        "Step 9: Dust a dough ball with whole wheat flour and roll it into a 5-6 inch diameter circle.",
+        "Step 10: Place 2-3 tablespoons of the paneer filling in the center of the rolled dough, leaving a 1-1.5 inch border.",
+        "Step 11: Bring the edges of the dough together to enclose the filling, pinching and sealing at the center.",
+        "Step 12: Optionally, sprinkle sesame seeds over the top and lightly press them into the dough.",
+        "Step 13: Dust with flour and gently roll the stuffed kulcha into a larger disc, about 6-7 inches in diameter.",
+        "Step 14: Heat a tava or griddle over medium heat. Gently place the kulcha on the hot surface.",
+        "Step 15: Cook for a few minutes until partly cooked, then flip.",
+        "Step 16: Spread ghee or oil on the cooked side and flip again.",
+        "Step 17: Repeat the flipping and oiling process, pressing the edges with a spatula to ensure even cooking.",
+        "Step 18: Once cooked through, remove from the tava and place in a roti basket. Spread butter on top.",
+        "Step 19: Repeat steps 9-18 to make all the kulchas.",
+        "Step 20: Wipe the tava clean with a kitchen towel between each kulcha to prevent burning.",
+        "Step 21: Serve the paneer kulchas hot or warm with butter, curd, mango pickle, or your favorite curry."
+      ],
+      "duration": "1 hr 10 m",
+      "serves": "12",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1ndve2f7ibs4-m.webp",
+      "nutrition": {
+        "calories": "398 per serving",
+        "protein": "29 grams per serving",
+        "carbs": "23 grams per serving",
+        "fat": "14 grams per serving",
+        "fiber": "Not Available",
+        "sugar": "Not Available",
+        "sodium": "Not Available"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a hero shot of a freshly baked paneer stuffed kulcha, torn open to reveal the flavorful filling. Use a dark, rustic background with a wooden surface. Soft, diffused natural light from the side should highlight the golden-brown crust and the creamy paneer.  Garnish with fresh coriander sprigs. Shallow depth of field, focusing on the exposed filling.  The mood should be warm, inviting, and appetizing, emphasizing the kulcha's texture and aroma.  Include a textured linen napkin casually draped nearby.",
+      "image_filepath": "recipe_fks1ndve2f7ibs4/main_image",
+      "video_script": {
+        "title": "Paneer Stuffed Kulcha: A Delicious Indian Flatbread",
+        "description": "Learn how to make delicious and flavorful Paneer Stuffed Kulcha at home with this easy-to-follow recipe tutorial. Perfect for any occasion!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a golden-brown, perfectly cooked paneer stuffed kulcha, garnished with melted butter and fresh coriander. Steam gently rising from the kulcha. In the background, other kulchas are stacked on a plate next to a bowl of curd and a jar of mango pickle.",
+            "text": "Paneer Stuffed Kulcha",
+            "voice_over": "Welcome to our kitchen! Today, we're making a popular North Indian flatbread \u2013 Paneer Stuffed Kulcha. It's soft, fluffy, and bursting with a delicious spiced paneer filling.",
+            "scene_image_filename": "recipe_fks1ndve2f7ibs4/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ndve2f7ibs4-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all the ingredients neatly arranged on a wooden surface. Group related ingredients together - flours with leavening agents, yogurt, and oil; paneer, chopped cilantro, and chilies; spices in small bowls.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: whole wheat flour, all-purpose flour, baking soda, yogurt, oil, sugar, salt, paneer, coriander leaves, green chilies, red chili powder, garam masala, ajwain or cumin seeds, dry mango powder, and extra oil/butter for cooking.",
+            "scene_image_filename": "recipe_fks1ndve2f7ibs4/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ndve2f7ibs4-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Close-up of hands kneading the dough in a mixing bowl. The dough should be smooth and elastic.",
+            "text": "Making the Dough",
+            "voice_over": "In a bowl, combine both flours, baking soda, yogurt, oil, sugar, and salt. Gradually add water and knead for 5-7 minutes until you get a soft dough. Cover and let it rest for 2 hours.",
+            "scene_image_filename": "recipe_fks1ndve2f7ibs4/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ndve2f7ibs4-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 4,
+            "image_prompt": "Close-up shot of the paneer filling being mixed in a bowl. Show the crumbled paneer, chopped coriander, green chilies, and spices being combined.",
+            "text": "Preparing the Filling",
+            "voice_over": "While the dough rests, prepare the filling. Mix crumbled paneer with chopped coriander, green chilies, spices, and salt. Adjust seasonings to your liking.",
+            "scene_image_filename": "recipe_fks1ndve2f7ibs4/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ndve2f7ibs4-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 6,
+            "image_prompt": "Show a rolled-out dough circle with the paneer filling being placed in the center.",
+            "text": "Assembling the Kulcha",
+            "voice_over": "Divide the rested dough into balls. Roll each ball into a circle. Place a generous spoonful of paneer filling in the center. Bring the edges together and seal tightly.",
+            "scene_image_filename": "recipe_fks1ndve2f7ibs4/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ndve2f7ibs4-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Show the stuffed kulcha being rolled gently with a rolling pin.",
+            "text": "Rolling and Shaping",
+            "voice_over": "Sprinkle sesame seeds (optional) and gently roll the stuffed kulcha into a larger disc. Be careful not to let the filling come out.",
+            "scene_image_filename": "recipe_fks1ndve2f7ibs4/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ndve2f7ibs4-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 6,
+            "image_prompt": "Show the kulcha being cooked on a hot tava or griddle. Flip it over and brush with oil or ghee. Focus on even cooking.",
+            "text": "Cooking the Kulcha",
+            "voice_over": "Heat a tava or griddle. Cook the kulcha for 2-3 minutes on each side, flipping and brushing with oil/ghee until golden brown and cooked through.",
+            "scene_image_filename": "recipe_fks1ndve2f7ibs4/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ndve2f7ibs4-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Close-up shot of cooked kulcha being brushed with melted butter. Steam should be visible, showcasing the freshness.",
+            "text": "Buttering and Serving",
+            "voice_over": "Remove the kulcha from the tava and brush with melted butter. Serve hot with curd, pickle, or your favorite curry.",
+            "scene_image_filename": "recipe_fks1ndve2f7ibs4/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ndve2f7ibs4-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Shot of the finished paneer kulchas stacked on a serving plate, garnished with coriander and served with a bowl of curd and mango pickle. A side of curry can also be included.",
+            "text": "Enjoy!",
+            "voice_over": "Your delicious Paneer Stuffed Kulchas are ready! Enjoy them fresh and hot. Don't forget to like and subscribe for more easy recipes.",
+            "scene_image_filename": "recipe_fks1ndve2f7ibs4/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ndve2f7ibs4-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 150,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 180,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Lunch",
+        "Dinner",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Paneer",
+        "Flour",
+        "Yogurt",
+        "Coriander",
+        "Green Chilies"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "For a softer kulcha, use a combination of whole wheat and all-purpose flour.",
+        "Adjust the amount of spices in the filling to your preference.",
+        "Ensure the tava is hot enough before placing the kulcha to prevent sticking.",
+        "Applying ghee or oil while cooking helps create a crispy crust.",
+        "Serve immediately for the best taste and texture."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_fks1ndve2f7ibs4/fks1ndve2f7ibs4_main_image.jpg"
+    },
+    {
+      "id": "nnk8qs7rjqhm",
+      "name": "Quick Italian Lentil and Tomato Soup",
+      "url": "http://www.food.com/recipe/quick-lentil-italian-tomato-soup-334339",
+      "ingredients": [
+        "1 medium onion, chopped",
+        "1 clove garlic, minced",
+        "1 tablespoon olive oil",
+        "1 cup cooked red lentils",
+        "2 cups chicken broth (or vegetable broth for vegetarian option)",
+        "1 (19 ounce) can Italian-style stewed tomatoes, undrained and chopped"
+      ],
+      "directions": [
+        "Step 1: Heat the olive oil in a large pot over medium heat.",
+        "Step 2: Add the chopped onion and minced garlic to the pot and saut\u00e9 until softened, about 5 minutes.",
+        "Step 3: Stir in the cooked red lentils, chicken (or vegetable) broth, and undrained, chopped stewed tomatoes.",
+        "Step 4: Bring the mixture to a boil, then reduce heat to low, cover, and simmer for 10 minutes, stirring occasionally.",
+        "Step 5: Serve hot with a dollop of plain yogurt or sour cream and warm whole wheat pitas (optional)."
+      ],
+      "duration": "20 mins",
+      "serves": 1,
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/nnk8qs7rjqhm-m.webp",
+      "nutrition": {
+        "calories": "250 per serving",
+        "protein": "15 grams per serving",
+        "carbs": "35 grams per serving",
+        "fat": "7 grams per serving",
+        "fiber": "12 grams per serving",
+        "sugar": "10 grams per serving",
+        "sodium": "500 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture a close-up, slightly overhead shot of a steaming bowl of Quick Italian Lentil and Tomato Soup. Use soft, natural light to highlight the rich orange-red hue and the texture of the lentils.  A shallow depth of field focuses on the center of the bowl, with a swirl of olive oil and a scattering of fresh basil leaves as garnish. Rustic wooden background and a linen napkin add warmth. Style with a crusty piece of Italian bread partially in frame, blurred in the background. Convey a cozy and inviting mood.",
+      "image_filepath": "recipe_nnk8qs7rjqhm/main_image",
+      "video_script": {
+        "title": "Quick Italian Lentil and Tomato Soup",
+        "description": "A warm and satisfying lentil soup with Italian flavors, ready in minutes!",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a steaming bowl of Italian lentil and tomato soup, garnished with a dollop of plain yogurt and warm whole wheat pita bread on the side. The background should be slightly blurred, emphasizing the vibrant colors of the soup.",
+            "text": "Quick Italian Lentil and Tomato Soup",
+            "voice_over": "Craving a hearty and flavorful soup that's ready in a flash? Look no further! Today, we're making Quick Italian Lentil and Tomato Soup.",
+            "scene_image_filename": "recipe_nnk8qs7rjqhm/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/nnk8qs7rjqhm-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Overhead shot of all ingredients neatly arranged on a wooden cutting board or countertop.  Include one medium chopped onion, one minced garlic clove, a bottle of olive oil, a bowl of cooked red lentils, a carton/can of chicken broth, and a can of Italian-style stewed tomatoes.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: one chopped onion, a clove of minced garlic, olive oil, cooked red lentils, chicken or vegetable broth, and a can of Italian-style stewed tomatoes.",
+            "scene_image_filename": "recipe_nnk8qs7rjqhm/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/nnk8qs7rjqhm-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Olive oil heating in a large pot on a stovetop over medium heat.",
+            "text": "Saut\u00e9 Aromatics",
+            "voice_over": "Heat a tablespoon of olive oil in a large pot over medium heat.",
+            "scene_image_filename": "recipe_nnk8qs7rjqhm/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/nnk8qs7rjqhm-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Chopped onions and minced garlic being saut\u00e9ed in the pot with olive oil.",
+            "text": "Add Onion & Garlic",
+            "voice_over": "Add the chopped onion and minced garlic to the pot. Saut\u00e9 for about 5 minutes, until softened and fragrant.",
+            "scene_image_filename": "recipe_nnk8qs7rjqhm/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/nnk8qs7rjqhm-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Cooked lentils, broth, and canned tomatoes being added to the pot with the saut\u00e9ed onions and garlic.",
+            "text": "Combine Ingredients",
+            "voice_over": "Now, stir in the cooked red lentils, chicken or vegetable broth, and the undrained, chopped stewed tomatoes.  Give everything a good mix.",
+            "scene_image_filename": "recipe_nnk8qs7rjqhm/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/nnk8qs7rjqhm-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 7,
+            "image_prompt": "The soup simmering in the pot, partially covered with a lid, over low heat.",
+            "text": "Simmer and Serve",
+            "voice_over": "Bring the mixture to a boil, then reduce the heat to low. Cover and simmer for 10 minutes, stirring occasionally. This allows the flavors to meld beautifully.",
+            "scene_image_filename": "recipe_nnk8qs7rjqhm/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/nnk8qs7rjqhm-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "A bowl of the finished Italian lentil and tomato soup, garnished with a dollop of plain yogurt, a spoon placed to the side, and warm whole wheat pita bread on a plate next to the bowl.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Ladle the soup into bowls and serve hot. For an extra touch of creamy goodness, add a dollop of plain yogurt or sour cream. Warm whole wheat pitas are a perfect accompaniment. Enjoy!",
+            "scene_image_filename": "recipe_nnk8qs7rjqhm/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/nnk8qs7rjqhm-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 4,
+            "image_prompt": "Text-based graphic displaying nutritional information: Calories: 250, Protein: 15g, Carbs: 35g, Fat: 7g, per serving",
+            "text": "Nutrition Facts (per serving)",
+            "voice_over": "Each serving of this delicious soup packs about 250 calories, 15 grams of protein, 35 grams of carbs, and 7 grams of fat.",
+            "scene_image_filename": "recipe_nnk8qs7rjqhm/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/nnk8qs7rjqhm-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 10,
+      "cooking_time_minutes": 15,
+      "total_time_minutes": 25,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Italian",
+      "dietary_tags": [
+        "Vegetarian option"
+      ],
+      "ingredient_tags": [
+        "Lentils",
+        "Tomatoes",
+        "Onion",
+        "Garlic"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Weeknight"
+      ],
+      "cooking_tips": [
+        "For a smoother soup, blend a portion of the soup with an immersion blender before serving.",
+        "Add a pinch of red pepper flakes for a touch of heat.",
+        "Garnish with fresh basil or parsley before serving."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_nnk8qs7rjqhm/nnk8qs7rjqhm_main_image.jpg"
+    },
+    {
+      "id": "fks1ac5rledsbh3",
+      "name": "Easy No-Yeast Naan",
+      "url": "https://www.vegrecipesofindia.com/naan-recipe-without-yeast/",
+      "ingredients": [
+        "\u00bd cup plain yogurt (dairy or non-dairy)",
+        "1 teaspoon sugar (or unrefined cane sugar)",
+        "1 teaspoon baking powder",
+        "\u215b teaspoon baking soda",
+        "2 cups all-purpose flour (maida)",
+        "1 teaspoon salt (or to taste)",
+        "2 tablespoons oil (or butter)",
+        "\u00bd to \u2154 cup water (or as needed)",
+        "1 tablespoon onion seeds (kalonji), melon seeds, or sesame seeds",
+        "Butter, ghee, or oil (for spreading, optional)"
+      ],
+      "directions": [
+        "1. In a mixing bowl, combine the yogurt and sugar.",
+        "2. Add the baking powder and baking soda. Mix well until the sugar dissolves.",
+        "3. Add the flour and salt. Mix with a spoon to distribute the salt evenly.",
+        "4. Make a well in the center of the flour mixture and add the oil (or butter).",
+        "5. Gradually add \u00bd to \u2154 cup of water, mixing and kneading until a smooth and soft dough forms. Add more water if needed, or flour if the dough is too sticky.",
+        "6. Flatten the dough, spread a little oil over it, and place it back in the bowl. Cover the bowl with a damp kitchen towel and a lid. Let the dough rest for 2 hours.",
+        "7. Divide the dough into medium-sized balls.",
+        "8. Lightly flatten each ball and dust with flour. Sprinkle with onion, sesame, or melon seeds.",
+        "9. Roll each ball into a 6- to 7-inch teardrop shape. You can gently pull the dough to create a pointed end.",
+        "10. Heat a skillet, tawa, or griddle over medium-high to high heat.",
+        "11. Place a naan on the hot surface and cook until air pockets appear.",
+        "12. Flip and cook the other side until air pockets appear and the naan is cooked through.",
+        "13. For a charred effect, place the naan directly on the stovetop flame for a few seconds per side, until charred spots appear.",
+        "14. Brush with melted butter, ghee, or oil, if desired. Serve hot."
+      ],
+      "duration": "30 m",
+      "serves": "9",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-m.webp",
+      "nutrition": {
+        "calories": "135 per serving",
+        "protein": "3 grams per serving",
+        "carbs": "22 grams per serving",
+        "fat": "4 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "2 grams per serving",
+        "sodium": "200 mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture several freshly baked Easy No-Yeast Naan breads on a dark, rustic wooden surface.  Use soft, directional natural light to highlight their puffed texture and golden-brown color.  Focus on the foreground naan, with a shallow depth of field blurring the background stack and a scattering of onion seeds.  Incorporate a small bowl of yogurt and a brush for a touch of authenticity.  Style the naan with a slight tear revealing the soft, airy interior and a gentle brush of melted ghee for a warm, inviting mood.  Shoot from a slightly overhead angle to showcase the layered effect.",
+      "image_filepath": "recipe_fks1ac5rledsbh3/main_image",
+      "video_script": {
+        "title": "Easy No-Yeast Naan",
+        "description": "Learn how to make delicious, fluffy naan bread at home without yeast! This simple recipe is perfect for beginners and requires just a few pantry staples.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of several freshly cooked no-yeast naan breads, some stacked, some laid out individually. They should look soft, fluffy, and slightly charred. A small dish of melted butter or ghee should be visible in the background.",
+            "text": "Easy No-Yeast Naan",
+            "voice_over": "Welcome! Today, we're making incredibly soft and flavorful naan bread, without any yeast!  Perfect with any curry or dip.",
+            "scene_image_filename": "recipe_fks1ac5rledsbh3/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Show grouped ingredients: plain yogurt, sugar, baking powder, baking soda. Overlay text labels for each ingredient.",
+            "text": "Ingredients",
+            "voice_over": "Let's gather our ingredients. We'll start with plain yogurt, some sugar, baking powder, and baking soda for the leavening.",
+            "scene_image_filename": "recipe_fks1ac5rledsbh3/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Group remaining ingredients: all-purpose flour, salt, oil, water, and either onion, melon, or sesame seeds. Overlay text labels.",
+            "text": "Ingredients (cont.)",
+            "voice_over": "Next, we'll need all-purpose flour, salt, oil for moisture, water to bind the dough, and your choice of seeds \u2013 onion, melon, or sesame.",
+            "scene_image_filename": "recipe_fks1ac5rledsbh3/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "image_prompt": "Show mixing yogurt and sugar in a bowl. ",
+            "text": "Combine Yogurt & Sugar",
+            "voice_over": "In a mixing bowl, combine the yogurt and sugar. Mix well until the sugar dissolves.",
+            "scene_image_filename": "recipe_fks1ac5rledsbh3/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Show dry ingredients being mixed in to wet, slowly forming dough.",
+            "text": "Mix & Knead",
+            "voice_over": "Add the baking powder and baking soda. Mix well. Now, add the flour and salt. Gradually incorporate the oil and water, kneading to form a smooth and soft dough.",
+            "scene_image_filename": "recipe_fks1ac5rledsbh3/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Show the dough covered with damp kitchen towel and lid.",
+            "text": "Rest Dough",
+            "voice_over": "Lightly oil the dough, cover the bowl with a damp cloth and lid. Let it rest for 2 hours to allow the gluten to relax.",
+            "scene_image_filename": "recipe_fks1ac5rledsbh3/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Show dividing the dough into balls and rolling with a rolling pin with seeds sprinkled on top.",
+            "text": "Shape & Roll",
+            "voice_over": "Divide the dough into medium balls. Roll each ball into a teardrop shape, about 6-7 inches long. Sprinkle with your chosen seeds.",
+            "scene_image_filename": "recipe_fks1ac5rledsbh3/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "Show naan cooking on hot skillet or tawa, with air pockets forming.",
+            "text": "Cook the Naan",
+            "voice_over": "Heat a skillet over medium-high heat. Cook each naan for about 2-3 minutes per side, until air pockets appear and the naan is cooked through.",
+            "scene_image_filename": "recipe_fks1ac5rledsbh3/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 5,
+            "image_prompt": "Show naan being charred on open flame, close up to flame.",
+            "text": "Char (Optional)",
+            "voice_over": "For a traditional charred flavor, briefly place the naan directly on the stovetop flame.",
+            "scene_image_filename": "recipe_fks1ac5rledsbh3/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "Final shot of several cooked naan, brushed with butter, alongside a bowl of curry.  Garnish with fresh herbs.",
+            "text": "Serve & Enjoy!",
+            "voice_over": "Brush with melted butter, ghee, or oil, and serve hot with your favorite curry! Enjoy!",
+            "scene_image_filename": "recipe_fks1ac5rledsbh3/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks1ac5rledsbh3-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 25,
+      "total_time_minutes": 145,
+      "difficulty_level": "Easy",
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Flour",
+        "Yogurt",
+        "Onion Seeds"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "If using active dry yeast, add it with the sugar and a tablespoon of warm water to the yogurt in step 1. Let it activate for about 10 minutes before proceeding.",
+        "Use a cast iron skillet or tawa for best results."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_fks1ac5rledsbh3/fks1ac5rledsbh3_main_image.jpg"
+    },
+    {
+      "id": "fks2ajspvrboamd",
+      "name": "Fluffy Bhatura Bread",
+      "url": "https://www.thespruceeats.com/bhatura-bhaturey-leavened-fried-indian-bread-1957337",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "3/4 teaspoon salt",
+        "1 cup plain yogurt",
+        "Oil, for deep frying"
+      ],
+      "directions": [
+        "Step 1: In a large mixing bowl, combine the all-purpose flour, baking powder, and salt.",
+        "Step 2: Add the yogurt to the dry ingredients.",
+        "Step 3: Using clean hands, knead the mixture until a smooth dough forms. This may take several minutes.",
+        "Step 4: Cover the bowl with cling film and let the dough rise in a warm, dark place for 5-6 hours, or until doubled in size.",
+        "Step 5: Once risen, punch down the dough to release the air. Knead again briefly until smooth and elastic.",
+        "Step 6: Divide the dough into equal-sized balls (approximately 2-3 inches in diameter).",
+        "Step 7: Heat oil in a large, deep pan over medium heat. The oil is ready when a small piece of dough dropped in rises quickly to the surface and sizzles.",
+        "Step 8: On a lightly floured surface, roll out each dough ball into a 6-inch circle or oval.",
+        "Step 9: Carefully slide a rolled-out bhatura into the hot oil. After 5-7 seconds, gently flip it over using a slotted spoon.",
+        "Step 10: After another 5-7 seconds, gently press the center of the bhatura with the slotted spoon to encourage puffing.",
+        "Step 11: Continue frying, turning occasionally, until both sides are golden brown and the bhatura is cooked through.",
+        "Step 12: Remove the bhatura from the oil and place it on a plate lined with paper towels to drain excess oil. Serve hot with chole."
+      ],
+      "duration": "7 hr 20 m",
+      "serves": "4",
+      "calorie": null,
+      "img": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-m.webp",
+      "nutrition": {
+        "calories": "397 per serving",
+        "protein": "6 grams per serving",
+        "carbs": "35 grams per serving",
+        "fat": "26 grams per serving",
+        "fiber": "2 grams per serving",
+        "sugar": "2 grams per serving",
+        "sodium": "700mg per serving"
+      },
+      "ai_enhanced": true,
+      "image_prompt": "Capture several fluffy bhaturas, golden-brown and puffed, against a dark, rustic wooden background. Use a slightly low angle, focusing on the airy texture and steam gently rising. Incorporate a small bowl of raita garnished with coriander leaves as a prop. Employ soft, diffused lighting to highlight the bhatura's crispness and subtle sheen.  Shallow depth of field with the closest bhatura in sharp focus, creating a warm, inviting mood. Consider capturing a bite taken out of one, revealing the soft, pillowy interior.",
+      "image_filepath": "recipe_fks2ajspvrboamd/main_image",
+      "video_script": {
+        "title": "Fluffy Bhatura Bread - The Ultimate Guide",
+        "description": "Learn how to make perfectly puffed and golden bhaturas with this easy-to-follow recipe.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 5,
+            "image_prompt": "Close-up shot of a few golden-brown, puffed bhaturas, served with a bowl of chole and some chutney. Steam gently rising from the bhaturas. Focus on the airy texture and the appetizing golden color.",
+            "text": "Fluffy Bhatura Bread",
+            "voice_over": "Welcome! Today, we'll be making delicious, fluffy bhatura bread. Get ready for a taste sensation!",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_1_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          },
+          {
+            "scene_number": 2,
+            "duration": 5,
+            "image_prompt": "Display all ingredients neatly arranged: all-purpose flour, baking powder, salt, plain yogurt, and a bowl of oil. Emphasize the simplicity of the ingredients.",
+            "text": "Ingredients",
+            "voice_over": "Here's what you'll need: 2 cups all-purpose flour, 1 teaspoon baking powder, 3/4 teaspoon salt, 1 cup plain yogurt, and oil for frying.",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_2_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "image_prompt": "Show a large mixing bowl with flour, baking powder, and salt being whisked together. A hand is adding the plain yogurt into the bowl.",
+            "text": "Mixing Dry & Wet",
+            "voice_over": "Combine the dry ingredients - flour, baking powder, and salt. Then, add the yogurt.",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_3_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          },
+          {
+            "scene_number": 4,
+            "duration": 7,
+            "image_prompt": "Show hands kneading dough in a bowl until it becomes smooth and elastic. Focus on the texture of the dough.",
+            "text": "Kneading the Dough",
+            "voice_over": "Knead the mixture for about 5-7 minutes until a smooth dough forms. This is key for that soft texture.",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_4_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          },
+          {
+            "scene_number": 5,
+            "duration": 5,
+            "image_prompt": "Dough covered in cling film, placed in a warm, slightly dark location.",
+            "text": "Rest & Rise",
+            "voice_over": "Cover and let the dough rise in a warm place for 5-6 hours, or until doubled.",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_5_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          },
+          {
+            "scene_number": 6,
+            "duration": 5,
+            "image_prompt": "Hand punching down risen dough, then kneading briefly.",
+            "text": "Punch & Knead",
+            "voice_over": "Once risen, punch it down and knead briefly.",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_6_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          },
+          {
+            "scene_number": 7,
+            "duration": 5,
+            "image_prompt": "Dough divided into equal-sized balls on a lightly floured surface.",
+            "text": "Divide & Shape",
+            "voice_over": "Divide the dough into equal balls.",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_7_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          },
+          {
+            "scene_number": 8,
+            "duration": 5,
+            "image_prompt": "A large pan with hot oil. A small piece of dough is dropped in and sizzles, rising to the surface.",
+            "text": "Hot Oil Test",
+            "voice_over": "Heat oil over medium heat. Test the temperature - a small piece of dough should sizzle and float immediately.",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_8_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          },
+          {
+            "scene_number": 9,
+            "duration": 7,
+            "image_prompt": "Rolling out a dough ball into a thin circle on a lightly floured surface.",
+            "text": "Roll & Fry",
+            "voice_over": "Roll each ball into a 6-inch circle.",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_9_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          },
+          {
+            "scene_number": 10,
+            "duration": 5,
+            "image_prompt": "A rolled-out bhatura being gently slid into the hot oil, puffing up.",
+            "text": "Frying Bhatura",
+            "voice_over": "Gently slide the rolled-out bhatura into the hot oil. Fry for 5-7 seconds per side, pressing the center to help it puff.",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_10_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          },
+          {
+            "scene_number": 11,
+            "duration": 5,
+            "image_prompt": "Golden-brown bhaturas on a plate lined with paper towels, next to a bowl of chole and chutney.",
+            "text": "Serve & Enjoy",
+            "voice_over": "Drain on paper towels. Serve hot with chole and your favorite chutney. Enjoy!",
+            "scene_image_filename": "recipe_fks2ajspvrboamd/scene_11_placeholder",
+            "original_image_url": "http://recipecdn.cookbookrecipes.in/fks2ajspvrboamd-s.webp"
+          }
+        ]
+      },
+      "preparation_time_minutes": 20,
+      "cooking_time_minutes": 30,
+      "total_time_minutes": 370,
+      "difficulty_level": "Medium",
+      "meal_type": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack"
+      ],
+      "cuisine_type": "Indian",
+      "dietary_tags": [
+        "Vegetarian"
+      ],
+      "ingredient_tags": [
+        "Flour",
+        "Yogurt"
+      ],
+      "occasion_tags": [
+        "Everyday",
+        "Party"
+      ],
+      "cooking_tips": [
+        "Ensure the oil is hot enough before frying to prevent oily bhaturas.",
+        "Do not overcrowd the pan while frying.",
+        "Pressing the center of the bhatura with a slotted spoon helps it puff up."
+      ],
+      "image_url": "https://raw.githubusercontent.com/hicutequeen/recipe-images/main/images/chole_bhature/recipe_fks2ajspvrboamd/fks2ajspvrboamd_main_image.jpg"
+    }
+  ]
+}
